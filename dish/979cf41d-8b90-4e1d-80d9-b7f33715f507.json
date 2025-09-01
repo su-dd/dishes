@@ -1,0 +1,274 @@
+{
+  "id": "979cf41d-8b90-4e1d-80d9-b7f33715f507",
+  "category": "汤类",
+  "name": "腊八粥",
+  "description": "",
+  "source_path": "dishes/soup/腊八粥.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1Mt411H7by/?spm_id_from=333.1391.0.0&vd_source=2a1baf3b15cd0eb7f9396b4ad2708e44"
+  ],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "粥锅",
+    "高压锅",
+    "中号玻璃碗",
+    "小碗"
+  ],
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "amount": 1,
+      "unit": "升",
+      "remake": ""
+    },
+    {
+      "name": "大米",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "糯米",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "薏米",
+      "amount": 50,
+      "unit": "克",
+      "remake": "可选，可根据口味偏好调整"
+    },
+    {
+      "name": "黑米",
+      "amount": 50,
+      "unit": "克",
+      "remake": "可选，可根据口味偏好调整"
+    },
+    {
+      "name": "小米",
+      "amount": 50,
+      "unit": "克",
+      "remake": "可选，可根据口味偏好调整"
+    },
+    {
+      "name": "莲子",
+      "amount": 25,
+      "unit": "克",
+      "remake": "可选，可根据口味偏好调整"
+    },
+    {
+      "name": "绿豆",
+      "amount": 25,
+      "unit": "克",
+      "remake": "可选，可根据口味偏好调整"
+    },
+    {
+      "name": "红豆",
+      "amount": 25,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "花生",
+      "amount": 25,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "黄豆",
+      "amount": 25,
+      "unit": "克",
+      "remake": "可选，可根据口味偏好调整"
+    },
+    {
+      "name": "豌豆",
+      "amount": 25,
+      "unit": "克",
+      "remake": "可选，可根据口味偏好调整"
+    },
+    {
+      "name": "红枣",
+      "amount": 25,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "桂圆",
+      "amount": 25,
+      "unit": "克",
+      "remake": "去种龙眼干，可选，可根据口味偏好调整"
+    },
+    {
+      "name": "栗子",
+      "amount": 25,
+      "unit": "克",
+      "remake": "可选，可根据口味偏好调整"
+    },
+    {
+      "name": "去壳核桃",
+      "amount": 25,
+      "unit": "克",
+      "remake": "可选，可根据口味偏好调整"
+    },
+    {
+      "name": "葡萄干",
+      "amount": 25,
+      "unit": "克",
+      "remake": "可选，可根据口味偏好调整"
+    },
+    {
+      "name": "红腰豆",
+      "amount": 25,
+      "unit": "克",
+      "remake": "可选，可根据口味偏好调整"
+    },
+    {
+      "name": "冰糖",
+      "amount": 10,
+      "unit": "克",
+      "remake": "或白糖，调味用，10~25克可根据口味调整"
+    }
+  ],
+  "steps": [
+    {
+      "description": "洗净绿豆、红豆、花生、黄豆、豌豆、红腰豆，用玻璃碗盛放，注入饮用水浸泡",
+      "time_unit": "小时",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "洗净大米、糯米、薏米、黑米、小米、莲子，用玻璃碗盛放，注入饮用水浸泡",
+      "time_unit": "小时",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将步骤1中的豆类水分倒出，原料倒入粥锅，加入1升饮用水，大火煮沸",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煮沸后合盖小火煮豆类",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将步骤2中的米类水分倒出，原料倒入粥锅",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "合盖小火煮米类",
+      "time_unit": "分钟",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "处理红枣切片，准备桂圆、栗子、核桃、葡萄干、冰糖",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将配料倒入锅中，合盖小火煮",
+      "time_unit": "分钟",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "确认粥粘稠后关火",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "食用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    12,
+    19
+  ],
+  "wait_time": [
+    810,
+    1050
+  ],
+  "total_time": [
+    822,
+    1069
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "往粥锅加入食材时，应当进行搅拌，使食材原料均匀分布在各处，并注意观察水位线，如发现水位线低于米线及食材应立即补水。"
+    },
+    {
+      "type": "list_item",
+      "content": "注意控制火候，不要过大，定时搅拌。如果使用普通锅，建议烧开水后再下原料，搅拌到再次烧开改小火，避免锅底烧糊。如果有条件，建议改用高压锅或粥锅。"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：全网最正宗腊八粥做法，香甜软糯一次成功！_哔哩哔哩_bilibili 、 腊八粥（在腊八节用多种食材熬制的粥）_百度百科"
+    }
+  ]
+}

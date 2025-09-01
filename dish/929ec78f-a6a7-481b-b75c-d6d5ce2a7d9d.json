@@ -1,0 +1,227 @@
+{
+  "id": "929ec78f-a6a7-481b-b75c-d6d5ce2a7d9d",
+  "category": "蔬菜",
+  "name": "包菜炒鸡蛋粉丝",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
+  "image_id": "d6feddc8-57bb-41ce-862e-3834fd2d09e5",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/d6feddc8-57bb-41ce-862e-3834fd2d09e5.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "铲",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "包菜",
+      "amount": 0.5,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "粉丝",
+      "amount": 1,
+      "unit": "把",
+      "remake": ""
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "菜籽油",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "蒜瓣",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "干辣椒",
+      "amount": 5,
+      "unit": "根",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "胡萝卜、包菜切丝备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "粉丝先用冷水浸泡1小时",
+      "time_unit": "分钟",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将粉丝放入锅中，加入开水烧至粉丝烫软捞出备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "鸡蛋打入碗中，加入盐后搅拌15秒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱、蒜、辣椒切成小粒备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧油，倒入鸡蛋，打散炒熟盛出",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "再倒入油，放入葱、蒜、干辣椒翻炒8秒",
+      "time_unit": "秒",
+      "time": [
+        8,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下胡萝卜、包菜丝儿翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入粉丝",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放调料，生抽15ml，老抽10ml，蚝油10ml，盐2克",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入之前炒好的鸡蛋，翻炒约15秒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅摆盘",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    15
+  ],
+  "wait_time": [
+    60,
+    60
+  ],
+  "total_time": [
+    70,
+    75
+  ],
+  "additional_notes": []
+}

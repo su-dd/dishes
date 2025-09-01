@@ -1,0 +1,75 @@
+{
+  "id": "33f80e4f-54f7-4054-bdc5-a2ca39947f0e",
+  "category": "主食",
+  "name": "鲣鱼海苔玉米饭",
+  "description": "",
+  "source_path": "dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md",
+  "image_id": "8b4e0837-f15b-477a-834e-e3091ba08a32",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/8b4e0837-f15b-477a-834e-e3091ba08a32.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "米家IH电饭煲"
+  ],
+  "ingredients": [
+    {
+      "name": "东北米",
+      "amount": 1,
+      "unit": "份",
+      "remake": "金龙鱼30元5kg的就行"
+    },
+    {
+      "name": "鲣鱼海苔碎",
+      "amount": 20,
+      "unit": "克",
+      "remake": "日式拌饭料"
+    },
+    {
+      "name": "玉米粒",
+      "amount": 80,
+      "unit": "克",
+      "remake": "即食玉米粒"
+    }
+  ],
+  "steps": [
+    {
+      "description": "盛好米饭，放入玉米粒拌好",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入鲣鱼海苔碎",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    }
+  ],
+  "take_time": [
+    0,
+    1
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    0,
+    1
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "使用米家小饭煲煮东北米的话，水没过米 3 毫米就行，太多水煮出来不是一粒一粒的饭"
+    }
+  ]
+}

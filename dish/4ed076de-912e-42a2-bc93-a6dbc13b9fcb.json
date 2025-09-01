@@ -1,0 +1,181 @@
+{
+  "id": "4ed076de-912e-42a2-bc93-a6dbc13b9fcb",
+  "category": "早餐",
+  "name": "手抓饼",
+  "description": "",
+  "source_path": "dishes/breakfast/手抓饼.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "面粉",
+      "amount": 200,
+      "unit": "克",
+      "remake": "普通面粉"
+    },
+    {
+      "name": "开水",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "冷水",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "生菜",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "火腿",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "芝士片",
+      "amount": 1,
+      "unit": "片",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "面粉放入碗中，加入开水搅拌成絮状，再加入冷水揉成光滑面团",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "覆盖湿布静置",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "面团分成每份约100克，搓圆，擀成薄片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "表面均匀涂抹食用油，撒上盐，卷成蜗牛状",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "松弛",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "面团再次擀成薄饼，厚度均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅中倒入油，小火煎至两面金黄起泡",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煎好的饼依次铺入煎蛋、生菜、火腿、芝士片等配料，卷起",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    18
+  ],
+  "wait_time": [
+    30,
+    30
+  ],
+  "total_time": [
+    40,
+    48
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "使用开水与冷水混合和面，有助于提升饼皮柔韧度。"
+    },
+    {
+      "type": "list_item",
+      "content": "面团醒发时间不宜少于 20 分钟，否则不易擀薄。"
+    },
+    {
+      "type": "list_item",
+      "content": "可根据个人口味增减配料，建议配料总重控制在 100 克以内。"
+    },
+    {
+      "type": "list_item",
+      "content": "剩余生饼皮可冷藏保存 24 小时，使用时回温擀平即可。"
+    }
+  ]
+}

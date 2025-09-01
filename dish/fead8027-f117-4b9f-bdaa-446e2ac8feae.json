@@ -1,0 +1,209 @@
+{
+  "id": "fead8027-f117-4b9f-bdaa-446e2ac8feae",
+  "category": "肉食",
+  "name": "萝卜炖羊排",
+  "description": "",
+  "source_path": "dishes/meat_dish/萝卜炖羊排.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "羊排",
+      "amount": 400,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白萝卜",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "大葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "花椒",
+      "amount": 10,
+      "unit": "粒",
+      "remake": ""
+    },
+    {
+      "name": "白芷",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选"
+    },
+    {
+      "name": "姜",
+      "amount": 10,
+      "unit": "克",
+      "remake": "一般买一头姜，从中切大约4片即可"
+    },
+    {
+      "name": "料酒",
+      "amount": 35,
+      "unit": "毫升",
+      "remake": "或者黄酒"
+    },
+    {
+      "name": "食用盐",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "冰糖",
+      "amount": 3,
+      "unit": "粒",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 1000,
+      "unit": "毫升",
+      "remake": "没过食材的量"
+    }
+  ],
+  "steps": [
+    {
+      "description": "萝卜去皮、滚刀切成3-5cm的大块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "羊排在购买时让卖家切好，备用",
+      "time_unit": "分钟",
+      "time": [
+        0,
+        0
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "羊肉冷水下锅，加入一半料酒和葱姜，煮10分钟去掉血腥，可选撇去血沫",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "另起锅冷水放入白萝卜和一半冰糖，水开后煮5分钟去辣味",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛出焯好的羊排放入高压锅，加水没过食材并额外加300ml水",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入剩余葱姜料酒、花椒、冰糖、白芷（可选）、盐，盖锅等待上汽",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "高压锅中火炖15分钟（普通锅炖40-60分钟）",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火等待高压锅放气完毕",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开盖加入焯好的萝卜，调味加3-10g食盐或水，品尝咸淡",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中火高压锅上汽再炖10分钟（普通锅盖盖炖20分钟）",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    21,
+    27
+  ],
+  "wait_time": [
+    35,
+    98
+  ],
+  "total_time": [
+    56,
+    125
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材。"
+    }
+  ]
+}

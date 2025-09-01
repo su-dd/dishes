@@ -1,0 +1,42 @@
+[
+  {
+    "label": "aquatic",
+    "list": []
+  },
+  {
+    "label": "breakfast",
+    "list": []
+  },
+  {
+    "label": "condiment",
+    "list": []
+  },
+  {
+    "label": "dessert",
+    "list": []
+  },
+  {
+    "label": "drink",
+    "list": []
+  },
+  {
+    "label": "meat_dish",
+    "list": []
+  },
+  {
+    "label": "semi-finished",
+    "list": []
+  },
+  {
+    "label": "soup",
+    "list": []
+  },
+  {
+    "label": "staple",
+    "list": []
+  },
+  {
+    "label": "vegetable_dish",
+    "list": []
+  }
+]
