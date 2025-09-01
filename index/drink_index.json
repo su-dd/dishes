@@ -1,5 +1,74 @@
 [
   {
+    "id": "bb0e8f9a-9452-4984-a514-fa0283e10777",
+    "category": "饮品",
+    "name": "Mojito莫吉托",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "压汁器",
+      "海波杯",
+      "研杵"
+    ],
+    "ingredients": [
+      {
+        "name": "青柠",
+        "amount": 1,
+        "unit": "块",
+        "remake": "切成两个半块"
+      },
+      {
+        "name": "薄荷叶",
+        "amount": 5,
+        "unit": "珠",
+        "remake": null
+      },
+      {
+        "name": "糖浆",
+        "amount": 20,
+        "unit": "毫升",
+        "remake": null
+      },
+      {
+        "name": "金色朗姆酒",
+        "amount": 45,
+        "unit": "毫升",
+        "remake": null
+      },
+      {
+        "name": "伏特加",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": "原味"
+      },
+      {
+        "name": "冰块",
+        "amount": null,
+        "unit": null,
+        "remake": "打碎的"
+      },
+      {
+        "name": "苏打水",
+        "amount": null,
+        "unit": null,
+        "remake": "冰镇"
+      }
+    ],
+    "take_time": [
+      2,
+      5
+    ],
+    "wait_time": [
+      0,
+      0
+    ],
+    "total_time": [
+      2,
+      5
+    ]
+  },
+  {
     "id": "7cfb7b49-64d6-4168-8bad-49fb15308f93",
     "category": "饮品",
     "name": "菠萝咖啡特调",

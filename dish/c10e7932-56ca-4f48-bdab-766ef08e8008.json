@@ -1,0 +1,239 @@
+{
+  "id": "c10e7932-56ca-4f48-bdab-766ef08e8008",
+  "category": "主食",
+  "name": "炒年糕",
+  "description": "",
+  "source_path": "dishes/staple/炒年糕.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "炒锅",
+    "锅铲"
+  ],
+  "ingredients": [
+    {
+      "name": "年糕",
+      "amount": 250,
+      "unit": "克",
+      "remake": "形状不限"
+    },
+    {
+      "name": "小葱",
+      "amount": 2,
+      "unit": "根"
+    },
+    {
+      "name": "食用油",
+      "amount": 50,
+      "unit": "毫升"
+    },
+    {
+      "name": "酱油",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "盐",
+      "amount": 1.5,
+      "unit": "克",
+      "remake": "按口味喜好，1-2g范围"
+    }
+  ],
+  "steps": [
+    {
+      "description": "锅中加水烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煮熟年糕",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "碗中加水确保年糕不会粘连，捞起年糕备用",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小葱切葱花（将葱白和葱叶分开）",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "青菜切小段备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入食用油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将葱白倒入锅中，直至大部分葱白变成焦黄色且发出香味",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒出葱油备用",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "重新热锅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入食用油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入所有辅料（鸡蛋，青菜等），翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将年糕的水倒掉，向锅中加入年糕",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入酱油和盐，翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入葱油，翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "乘盘",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    9,
+    15
+  ],
+  "wait_time": [
+    10,
+    17
+  ],
+  "total_time": [
+    19,
+    32
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "辅料的选择可以根据个人选择酌情添加，如加入瘦肉等"
+    },
+    {
+      "type": "list_item",
+      "content": "在煮年糕的时候注意搅拌，以免粘锅"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "9db79980-17d0-4105-8560-450d0fcf2505",
+  "category": "蔬菜",
+  "name": "菠菜炒鸡蛋",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
+  "image_id": "033b70aa-88ff-48c8-a2bc-04ebbe5da9df",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/033b70aa-88ff-48c8-a2bc-04ebbe5da9df.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "炒锅",
+    "锅铲",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "菠菜",
+      "amount": 350,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "菠菜去根，洗净，放在篮子里",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "菠菜焯水",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将鸡蛋打入碗中，搅匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入油，等待油热",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入鸡蛋液，中火翻炒15秒，煎成蛋饼并切成小块",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，将鸡蛋块盛到盘子中",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "重新开火，倒入油，等待油热",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入菠菜，大火翻炒15秒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入鸡蛋块，翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入盐、饮用水，大火翻炒10秒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，盛盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    4,
+    6
+  ],
+  "wait_time": [
+    1,
+    2
+  ],
+  "total_time": [
+    5,
+    9
+  ],
+  "additional_notes": []
+}

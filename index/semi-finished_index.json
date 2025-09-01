@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "id": "13a9f1e1-4768-4404-960d-d3e13b2bdfdd",
+    "category": "半成品",
+    "name": "速冻水饺",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "锅"
+    ],
+    "ingredients": [
+      {
+        "name": "速冻水饺",
+        "amount": 7,
+        "unit": "个",
+        "remake": "未过期的一袋速冻水饺"
+      }
+    ],
+    "take_time": [
+      1,
+      2
+    ],
+    "wait_time": [
+      7,
+      12
+    ],
+    "total_time": [
+      8,
+      14
+    ]
+  }
+]

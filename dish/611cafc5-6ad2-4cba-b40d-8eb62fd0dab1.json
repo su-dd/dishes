@@ -1,0 +1,221 @@
+{
+  "id": "611cafc5-6ad2-4cba-b40d-8eb62fd0dab1",
+  "category": "水产",
+  "name": "芥末黄油罗氏虾",
+  "description": "",
+  "source_path": "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
+  "image_id": "bc0410f2-a07a-4d31-b228-806d10c240ad",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/bc0410f2-a07a-4d31-b228-806d10c240ad.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "罗氏虾",
+      "amount": 1,
+      "unit": "斤",
+      "remake": "多"
+    },
+    {
+      "name": "黄油",
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "芥末",
+      "amount": 15,
+      "unit": "克"
+    },
+    {
+      "name": "白糖",
+      "amount": 3,
+      "unit": "克"
+    },
+    {
+      "name": "生抽",
+      "amount": 30,
+      "unit": "克"
+    },
+    {
+      "name": "蚝油",
+      "amount": 30,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "amount": 15,
+      "unit": "克",
+      "remake": "或朗姆酒或啤酒"
+    },
+    {
+      "name": "香菜",
+      "amount": 5,
+      "unit": "条",
+      "remake": "切段"
+    },
+    {
+      "name": "蒜",
+      "amount": 5,
+      "unit": "颗",
+      "remake": "剁成蒜蓉"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将罗氏虾剪掉头尾尖刺、触须和脚，剪刀把虾身开背，去除虾线",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "提前搅拌好芥末酱汁：酱油、蚝油、芥末、盐、糖，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "洗好香菜，切段备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "罗氏虾沥掉水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "锅中加入油，直接放入罗氏虾，中火，外表煎至金黄，捞出",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入蒜蓉，大火，利用煎虾剩下的油继续煎炒蒜蓉，等到锅中白雾冒出，蒜蓉已经煎出香味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下虾和黄油，让虾充分吸收黄油香味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入调好的酱汁，继续大火煮沸，翻炒虾，至酱汁收汁",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入酒（料酒、啤酒可以放30g，朗姆酒味道浓郁放15g即可）",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在等酱汁稍微收汁",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入香菜翻炒两下",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    12,
+    22
+  ],
+  "wait_time": [
+    2,
+    5
+  ],
+  "total_time": [
+    14,
+    27
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "酱汁提前调配好，黄油提前备好，防止中间备料耗时。"
+    },
+    {
+      "type": "list_item",
+      "content": "蒜蓉切记要等虾煎好后捞出再下，防止煎炒过久变黑，发苦。"
+    },
+    {
+      "type": "list_item",
+      "content": "如果不太能接受芥末就放少点，能接受就放多点，如果放多了，煮久一会儿，芥末味也会散去。"
+    }
+  ]
+}

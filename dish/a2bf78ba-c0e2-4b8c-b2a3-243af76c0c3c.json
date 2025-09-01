@@ -1,0 +1,170 @@
+{
+  "id": "a2bf78ba-c0e2-4b8c-b2a3-243af76c0c3c",
+  "category": "蔬菜",
+  "name": "脆皮豆腐",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/脆皮豆腐.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "平底锅"
+  ],
+  "ingredients": [
+    {
+      "name": "老豆腐",
+      "amount": 1,
+      "unit": "块",
+      "remake": "市场买 1.25 格"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "只",
+      "remake": "每块老豆腐对应2只"
+    },
+    {
+      "name": "玉米淀粉",
+      "amount": 50,
+      "unit": "克",
+      "remake": "每块老豆腐对应50g"
+    },
+    {
+      "name": "生抽",
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "蚝油",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "老抽",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "白糖",
+      "amount": 10,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡蛋搅拌形成蛋液",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "配置酱料（生抽+蚝油+老抽+白糖+玉米淀粉+清水）",
+      "time_unit": "分",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "老豆腐切片",
+      "time_unit": "分",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "豆腐片粘上淀粉和蛋液",
+      "time_unit": "分",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅并放入食用油",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待油温升高",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "豆腐片放入锅中小火煎至金黄",
+      "time_unit": "分",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻面继续煎至金黄",
+      "time_unit": "分",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入酱料大火煮至酱汁浓稠",
+      "time_unit": "分",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    24
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    15,
+    24
+  ],
+  "additional_notes": []
+}

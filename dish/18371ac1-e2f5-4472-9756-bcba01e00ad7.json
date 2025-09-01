@@ -1,0 +1,284 @@
+{
+  "id": "18371ac1-e2f5-4472-9756-bcba01e00ad7",
+  "category": "肉食",
+  "name": "台式卤肉饭",
+  "description": "",
+  "source_path": "dishes/meat_dish/台式卤肉饭/台式卤肉饭.md",
+  "image_id": "1330e65e-aed5-48fd-b382-d021a4980700",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/1330e65e-aed5-48fd-b382-d021a4980700.webp",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 3,
+  "kitchen_ware": [
+    "锅",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "红葱头",
+      "amount": 25,
+      "unit": "克",
+      "remake": "火葱"
+    },
+    {
+      "name": "带皮五花肉",
+      "amount": 500,
+      "unit": "克",
+      "remake": "可用猪绞肉代替"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 4,
+      "unit": "个",
+      "remake": "可任意修改鸡蛋个数"
+    },
+    {
+      "name": "食用油",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "生抽酱油",
+      "amount": 75,
+      "unit": "毫升"
+    },
+    {
+      "name": "米酒",
+      "amount": 35,
+      "unit": "毫升",
+      "remake": "10+25ml,可用料酒代替"
+    },
+    {
+      "name": "大蒜",
+      "amount": 25,
+      "unit": "克"
+    },
+    {
+      "name": "香叶",
+      "amount": 2,
+      "unit": "片"
+    },
+    {
+      "name": "八角",
+      "amount": 1,
+      "unit": "颗"
+    },
+    {
+      "name": "冰糖",
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": 6,
+      "unit": "克"
+    },
+    {
+      "name": "五香粉",
+      "amount": 6,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "米饭",
+      "amount": 1,
+      "unit": "份",
+      "remake": "根据个人食量决定"
+    }
+  ],
+  "steps": [
+    {
+      "description": "带皮五花肉切成0.7cm×0.7cm×2.5cm的细长条",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "红葱头、大蒜切末备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸡蛋煮熟剥壳，并用刀划破蛋白（便于入味）",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火热锅，锅内放入15ml食用油，让油滑满锅底",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待5秒使油温稍微升高",
+      "time_unit": "秒",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入五花肉条，翻炒至肉色稍微变白",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沿锅边淋入米酒10ml，继续翻炒至五花肉不再出油",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将切好的红葱头加入锅中，翻炒1分钟爆出油葱香味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将切好的红葱头加入锅中，翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "把猪肉推到旁边，放入冰糖加热到融化冒泡变成焦糖",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "再把猪肉一起翻拌，让焦糖均匀附着",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入生抽炒出香气",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "呛入米酒25ml，水加到淹过猪肉，加入白胡椒粉、五香粉、八角、香叶、水煮蛋",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沸腾后转小火卤1小时",
+      "time_unit": "小时",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "小火炖煮过程中，每隔15分钟搅拌检查一次，防止粘锅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开大火收汁直到酱汁浓稠，呈现有光泽的琥珀色",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "乘一碗米饭，将软烂的卤肉浇在米饭上，并加上卤蛋",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    31,
+    48
+  ],
+  "wait_time": [
+    60,
+    60
+  ],
+  "total_time": [
+    91,
+    108
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "对于五花肉切条步骤，定义：五花肉带皮面向上摆在桌上，此时肉皮所在平面为长宽形成的平面，垂直此平面的为高。肉条最终效果是肥瘦相间的细长条。（注意：此处肉条一定要细，即长宽较小。细肉条更易于炖煮软糯）。"
+    },
+    {
+      "type": "list_item",
+      "content": "五花肉切条小技巧：若五花肉是未冷冻的，可以放入冰箱冷冻室 30 分钟 再取出切条。若是冷冻五花肉，可以在常温下放置 30 分钟 后再切条。切条时可以较小的力度将刀刃与肉快速摩擦，如此更易于切割并保护五花肉肥瘦相间的结构。"
+    }
+  ]
+}

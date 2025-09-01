@@ -75,5 +75,49 @@
       40,
       48
     ]
+  },
+  {
+    "id": "563b0892-efc4-4b84-acde-91bfd0514877",
+    "category": "早餐",
+    "name": "温泉蛋",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "厨房用温度计",
+      "杯子"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "昆布酱油",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "用于为温泉蛋调味"
+      },
+      {
+        "name": "香葱",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "用作点缀"
+      }
+    ],
+    "take_time": [
+      4,
+      7
+    ],
+    "wait_time": [
+      28,
+      28
+    ],
+    "total_time": [
+      32,
+      35
+    ]
   }
 ]

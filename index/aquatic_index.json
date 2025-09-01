@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "id": "611cafc5-6ad2-4cba-b40d-8eb62fd0dab1",
+    "category": "水产",
+    "name": "芥末黄油罗氏虾",
+    "image_id": "bc0410f2-a07a-4d31-b228-806d10c240ad",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/bc0410f2-a07a-4d31-b228-806d10c240ad.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "锅",
+      "刀",
+      "砧板"
+    ],
+    "ingredients": [
+      {
+        "name": "罗氏虾",
+        "amount": 1,
+        "unit": "斤",
+        "remake": "多"
+      },
+      {
+        "name": "黄油",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "芥末",
+        "amount": 15,
+        "unit": "克"
+      },
+      {
+        "name": "白糖",
+        "amount": 3,
+        "unit": "克"
+      },
+      {
+        "name": "生抽",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "蚝油",
+        "amount": 30,
+        "unit": "克"
+      },
+      {
+        "name": "盐",
+        "amount": 3,
+        "unit": "克"
+      },
+      {
+        "name": "料酒",
+        "amount": 15,
+        "unit": "克",
+        "remake": "或朗姆酒或啤酒"
+      },
+      {
+        "name": "香菜",
+        "amount": 5,
+        "unit": "条",
+        "remake": "切段"
+      },
+      {
+        "name": "蒜",
+        "amount": 5,
+        "unit": "颗",
+        "remake": "剁成蒜蓉"
+      }
+    ],
+    "take_time": [
+      12,
+      22
+    ],
+    "wait_time": [
+      2,
+      5
+    ],
+    "total_time": [
+      14,
+      27
+    ]
+  }
+]

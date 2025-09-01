@@ -1,5 +1,68 @@
 [
   {
+    "id": "a2bf78ba-c0e2-4b8c-b2a3-243af76c0c3c",
+    "category": "蔬菜",
+    "name": "脆皮豆腐",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "平底锅"
+    ],
+    "ingredients": [
+      {
+        "name": "老豆腐",
+        "amount": 1,
+        "unit": "块",
+        "remake": "市场买 1.25 格"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "只",
+        "remake": "每块老豆腐对应2只"
+      },
+      {
+        "name": "玉米淀粉",
+        "amount": 50,
+        "unit": "克",
+        "remake": "每块老豆腐对应50g"
+      },
+      {
+        "name": "生抽",
+        "amount": 20,
+        "unit": "克"
+      },
+      {
+        "name": "蚝油",
+        "amount": 10,
+        "unit": "克"
+      },
+      {
+        "name": "老抽",
+        "amount": 5,
+        "unit": "克"
+      },
+      {
+        "name": "白糖",
+        "amount": 10,
+        "unit": "克"
+      }
+    ],
+    "take_time": [
+      15,
+      24
+    ],
+    "wait_time": [
+      0,
+      0
+    ],
+    "total_time": [
+      15,
+      24
+    ]
+  },
+  {
     "id": "929ec78f-a6a7-481b-b75c-d6d5ce2a7d9d",
     "category": "蔬菜",
     "name": "包菜炒鸡蛋粉丝",
@@ -97,6 +160,58 @@
     "total_time": [
       70,
       75
+    ]
+  },
+  {
+    "id": "9db79980-17d0-4105-8560-450d0fcf2505",
+    "category": "蔬菜",
+    "name": "菠菜炒鸡蛋",
+    "image_id": "033b70aa-88ff-48c8-a2bc-04ebbe5da9df",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/033b70aa-88ff-48c8-a2bc-04ebbe5da9df.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "炒锅",
+      "锅铲",
+      "刀具",
+      "砧板"
+    ],
+    "ingredients": [
+      {
+        "name": "菠菜",
+        "amount": 350,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "食用油",
+        "amount": 15,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "食用盐",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      4,
+      6
+    ],
+    "wait_time": [
+      1,
+      2
+    ],
+    "total_time": [
+      5,
+      9
     ]
   }
 ]

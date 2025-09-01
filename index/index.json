@@ -1,7 +1,89 @@
 [
   {
     "label": "aquatic",
-    "list": []
+    "list": [
+      {
+        "id": "611cafc5-6ad2-4cba-b40d-8eb62fd0dab1",
+        "category": "水产",
+        "name": "芥末黄油罗氏虾",
+        "image_id": "bc0410f2-a07a-4d31-b228-806d10c240ad",
+        "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/bc0410f2-a07a-4d31-b228-806d10c240ad.webp",
+        "servings": 1,
+        "kitchen_ware": [
+          "锅",
+          "刀",
+          "砧板"
+        ],
+        "ingredients": [
+          {
+            "name": "罗氏虾",
+            "amount": 1,
+            "unit": "斤",
+            "remake": "多"
+          },
+          {
+            "name": "黄油",
+            "amount": 20,
+            "unit": "克"
+          },
+          {
+            "name": "芥末",
+            "amount": 15,
+            "unit": "克"
+          },
+          {
+            "name": "白糖",
+            "amount": 3,
+            "unit": "克"
+          },
+          {
+            "name": "生抽",
+            "amount": 30,
+            "unit": "克"
+          },
+          {
+            "name": "蚝油",
+            "amount": 30,
+            "unit": "克"
+          },
+          {
+            "name": "盐",
+            "amount": 3,
+            "unit": "克"
+          },
+          {
+            "name": "料酒",
+            "amount": 15,
+            "unit": "克",
+            "remake": "或朗姆酒或啤酒"
+          },
+          {
+            "name": "香菜",
+            "amount": 5,
+            "unit": "条",
+            "remake": "切段"
+          },
+          {
+            "name": "蒜",
+            "amount": 5,
+            "unit": "颗",
+            "remake": "剁成蒜蓉"
+          }
+        ],
+        "take_time": [
+          12,
+          22
+        ],
+        "wait_time": [
+          2,
+          5
+        ],
+        "total_time": [
+          14,
+          27
+        ]
+      }
+    ]
   },
   {
     "label": "breakfast",
@@ -81,6 +163,50 @@
         "total_time": [
           40,
           48
+        ]
+      },
+      {
+        "id": "563b0892-efc4-4b84-acde-91bfd0514877",
+        "category": "早餐",
+        "name": "温泉蛋",
+        "image_id": null,
+        "image": "",
+        "servings": 1,
+        "kitchen_ware": [
+          "厨房用温度计",
+          "杯子"
+        ],
+        "ingredients": [
+          {
+            "name": "鸡蛋",
+            "amount": 1,
+            "unit": "个",
+            "remake": ""
+          },
+          {
+            "name": "昆布酱油",
+            "amount": 1,
+            "unit": "适量",
+            "remake": "用于为温泉蛋调味"
+          },
+          {
+            "name": "香葱",
+            "amount": 1,
+            "unit": "适量",
+            "remake": "用作点缀"
+          }
+        ],
+        "take_time": [
+          4,
+          7
+        ],
+        "wait_time": [
+          28,
+          28
+        ],
+        "total_time": [
+          32,
+          35
         ]
       }
     ]
@@ -166,6 +292,75 @@
     "label": "drink",
     "list": [
       {
+        "id": "bb0e8f9a-9452-4984-a514-fa0283e10777",
+        "category": "饮品",
+        "name": "Mojito莫吉托",
+        "image_id": null,
+        "image": "",
+        "servings": 1,
+        "kitchen_ware": [
+          "压汁器",
+          "海波杯",
+          "研杵"
+        ],
+        "ingredients": [
+          {
+            "name": "青柠",
+            "amount": 1,
+            "unit": "块",
+            "remake": "切成两个半块"
+          },
+          {
+            "name": "薄荷叶",
+            "amount": 5,
+            "unit": "珠",
+            "remake": null
+          },
+          {
+            "name": "糖浆",
+            "amount": 20,
+            "unit": "毫升",
+            "remake": null
+          },
+          {
+            "name": "金色朗姆酒",
+            "amount": 45,
+            "unit": "毫升",
+            "remake": null
+          },
+          {
+            "name": "伏特加",
+            "amount": 10,
+            "unit": "毫升",
+            "remake": "原味"
+          },
+          {
+            "name": "冰块",
+            "amount": null,
+            "unit": null,
+            "remake": "打碎的"
+          },
+          {
+            "name": "苏打水",
+            "amount": null,
+            "unit": null,
+            "remake": "冰镇"
+          }
+        ],
+        "take_time": [
+          2,
+          5
+        ],
+        "wait_time": [
+          0,
+          0
+        ],
+        "total_time": [
+          2,
+          5
+        ]
+      },
+      {
         "id": "7cfb7b49-64d6-4168-8bad-49fb15308f93",
         "category": "饮品",
         "name": "菠萝咖啡特调",
@@ -242,6 +437,95 @@
   {
     "label": "meat_dish",
     "list": [
+      {
+        "id": "a73062fc-da71-43fa-abe0-55e1c3f8c5eb",
+        "category": "肉食",
+        "name": "山西过油肉",
+        "image_id": null,
+        "image": "",
+        "servings": 1,
+        "kitchen_ware": [],
+        "ingredients": [
+          {
+            "name": "猪里脊",
+            "amount": 150,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "蒜苔",
+            "amount": 6,
+            "unit": "根",
+            "remake": ""
+          },
+          {
+            "name": "食用油",
+            "amount": 300,
+            "unit": "毫升",
+            "remake": ""
+          },
+          {
+            "name": "葱姜蒜",
+            "amount": 50,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "生抽",
+            "amount": 20,
+            "unit": "毫升",
+            "remake": ""
+          },
+          {
+            "name": "食盐",
+            "amount": 10,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "鸡蛋",
+            "amount": 1,
+            "unit": "个",
+            "remake": ""
+          },
+          {
+            "name": "淀粉",
+            "amount": 10,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "木耳",
+            "amount": 20,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "葱头",
+            "amount": 100,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "其他调料",
+            "amount": 20,
+            "unit": "克",
+            "remake": ""
+          }
+        ],
+        "take_time": [
+          15,
+          26
+        ],
+        "wait_time": [
+          135,
+          255
+        ],
+        "total_time": [
+          150,
+          281
+        ]
+      },
       {
         "id": "fead8027-f117-4b9f-bdaa-446e2ac8feae",
         "category": "肉食",
@@ -327,6 +611,104 @@
         "total_time": [
           56,
           125
+        ]
+      },
+      {
+        "id": "18371ac1-e2f5-4472-9756-bcba01e00ad7",
+        "category": "肉食",
+        "name": "台式卤肉饭",
+        "image_id": "1330e65e-aed5-48fd-b382-d021a4980700",
+        "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/1330e65e-aed5-48fd-b382-d021a4980700.webp",
+        "servings": 3,
+        "kitchen_ware": [
+          "锅",
+          "刀具",
+          "砧板"
+        ],
+        "ingredients": [
+          {
+            "name": "红葱头",
+            "amount": 25,
+            "unit": "克",
+            "remake": "火葱"
+          },
+          {
+            "name": "带皮五花肉",
+            "amount": 500,
+            "unit": "克",
+            "remake": "可用猪绞肉代替"
+          },
+          {
+            "name": "鸡蛋",
+            "amount": 4,
+            "unit": "个",
+            "remake": "可任意修改鸡蛋个数"
+          },
+          {
+            "name": "食用油",
+            "amount": 15,
+            "unit": "毫升"
+          },
+          {
+            "name": "生抽酱油",
+            "amount": 75,
+            "unit": "毫升"
+          },
+          {
+            "name": "米酒",
+            "amount": 35,
+            "unit": "毫升",
+            "remake": "10+25ml,可用料酒代替"
+          },
+          {
+            "name": "大蒜",
+            "amount": 25,
+            "unit": "克"
+          },
+          {
+            "name": "香叶",
+            "amount": 2,
+            "unit": "片"
+          },
+          {
+            "name": "八角",
+            "amount": 1,
+            "unit": "颗"
+          },
+          {
+            "name": "冰糖",
+            "amount": 20,
+            "unit": "克"
+          },
+          {
+            "name": "白胡椒粉",
+            "amount": 6,
+            "unit": "克"
+          },
+          {
+            "name": "五香粉",
+            "amount": 6,
+            "unit": "克",
+            "remake": "可选"
+          },
+          {
+            "name": "米饭",
+            "amount": 1,
+            "unit": "份",
+            "remake": "根据个人食量决定"
+          }
+        ],
+        "take_time": [
+          31,
+          48
+        ],
+        "wait_time": [
+          60,
+          60
+        ],
+        "total_time": [
+          91,
+          108
         ]
       },
       {
@@ -429,6 +811,112 @@
         ]
       },
       {
+        "id": "7bb17445-0766-4742-bf68-5c2ea4938f33",
+        "category": "肉食",
+        "name": "南派红烧肉",
+        "image_id": null,
+        "image": "",
+        "servings": 3,
+        "kitchen_ware": [
+          "砂锅",
+          "铝锅",
+          "高压锅",
+          "刀"
+        ],
+        "ingredients": [
+          {
+            "name": "猪五花肉",
+            "amount": 2,
+            "unit": "斤",
+            "remake": "约2斤"
+          },
+          {
+            "name": "油",
+            "amount": 125,
+            "unit": "毫升",
+            "remake": "100-150ml，色拉油、猪油、花生油都可以"
+          },
+          {
+            "name": "姜",
+            "amount": 6,
+            "unit": "片",
+            "remake": ""
+          },
+          {
+            "name": "冰糖",
+            "amount": 15,
+            "unit": "块",
+            "remake": "约15块"
+          },
+          {
+            "name": "白砂糖",
+            "amount": 30,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "老抽",
+            "amount": 15,
+            "unit": "毫升",
+            "remake": ""
+          },
+          {
+            "name": "料酒",
+            "amount": 20,
+            "unit": "毫升",
+            "remake": ""
+          },
+          {
+            "name": "凉水",
+            "amount": 0,
+            "unit": "适量",
+            "remake": "没过食材的量即可，看锅大小准备"
+          },
+          {
+            "name": "开水",
+            "amount": 0,
+            "unit": "适量",
+            "remake": "没过食材的量即可，看锅大小准备"
+          },
+          {
+            "name": "香叶",
+            "amount": 4,
+            "unit": "片",
+            "remake": ""
+          },
+          {
+            "name": "八角",
+            "amount": 3,
+            "unit": "个",
+            "remake": ""
+          },
+          {
+            "name": "盐",
+            "amount": 2.5,
+            "unit": "克",
+            "remake": "2-3g"
+          },
+          {
+            "name": "花椒",
+            "amount": 10,
+            "unit": "克",
+            "remake": ""
+          }
+        ],
+        "take_time": [
+          20,
+          38
+        ],
+        "wait_time": [
+          70,
+          85
+        ],
+        "total_time": [
+          90,
+          123
+        ]
+      },
+      {
         "id": "859f29ac-2066-4ed6-abfe-47654110f743",
         "category": "肉食",
         "name": "酱排骨",
@@ -521,7 +1009,39 @@
   },
   {
     "label": "semi-finished",
-    "list": []
+    "list": [
+      {
+        "id": "13a9f1e1-4768-4404-960d-d3e13b2bdfdd",
+        "category": "半成品",
+        "name": "速冻水饺",
+        "image_id": null,
+        "image": "",
+        "servings": 1,
+        "kitchen_ware": [
+          "锅"
+        ],
+        "ingredients": [
+          {
+            "name": "速冻水饺",
+            "amount": 7,
+            "unit": "个",
+            "remake": "未过期的一袋速冻水饺"
+          }
+        ],
+        "take_time": [
+          1,
+          2
+        ],
+        "wait_time": [
+          7,
+          12
+        ],
+        "total_time": [
+          8,
+          14
+        ]
+      }
+    ]
   },
   {
     "label": "soup",
@@ -674,6 +1194,59 @@
     "label": "staple",
     "list": [
       {
+        "id": "c10e7932-56ca-4f48-bdab-766ef08e8008",
+        "category": "主食",
+        "name": "炒年糕",
+        "image_id": null,
+        "image": "",
+        "servings": 1,
+        "kitchen_ware": [
+          "炒锅",
+          "锅铲"
+        ],
+        "ingredients": [
+          {
+            "name": "年糕",
+            "amount": 250,
+            "unit": "克",
+            "remake": "形状不限"
+          },
+          {
+            "name": "小葱",
+            "amount": 2,
+            "unit": "根"
+          },
+          {
+            "name": "食用油",
+            "amount": 50,
+            "unit": "毫升"
+          },
+          {
+            "name": "酱油",
+            "amount": 15,
+            "unit": "毫升"
+          },
+          {
+            "name": "盐",
+            "amount": 1.5,
+            "unit": "克",
+            "remake": "按口味喜好，1-2g范围"
+          }
+        ],
+        "take_time": [
+          9,
+          15
+        ],
+        "wait_time": [
+          10,
+          17
+        ],
+        "total_time": [
+          19,
+          32
+        ]
+      },
+      {
         "id": "e6c1a42f-a698-42fb-be7e-e1b7cb5dd7de",
         "category": "主食",
         "name": "醪糟小汤圆",
@@ -730,6 +1303,99 @@
         ]
       },
       {
+        "id": "420f0847-35f7-4234-a827-7386b7602d64",
+        "category": "主食",
+        "name": "炒凉粉",
+        "image_id": "28da81af-0a41-4f3a-a6ed-d5a8224eaea3",
+        "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/28da81af-0a41-4f3a-a6ed-d5a8224eaea3.webp",
+        "servings": 1,
+        "kitchen_ware": [
+          "炒锅",
+          "刀具",
+          "砧板"
+        ],
+        "ingredients": [
+          {
+            "name": "凉粉",
+            "amount": 500,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "玉米油",
+            "amount": 10,
+            "unit": "毫升",
+            "remake": ""
+          },
+          {
+            "name": "大蒜",
+            "amount": 10,
+            "unit": "克",
+            "remake": "蒜末"
+          },
+          {
+            "name": "香葱",
+            "amount": 15,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "豆瓣酱",
+            "amount": 15,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "生抽",
+            "amount": 20,
+            "unit": "毫升",
+            "remake": ""
+          },
+          {
+            "name": "老抽",
+            "amount": 10,
+            "unit": "毫升",
+            "remake": ""
+          },
+          {
+            "name": "食盐",
+            "amount": 5,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "十三香",
+            "amount": 5,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "中粗辣椒面",
+            "amount": 15,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "矿泉水",
+            "amount": 20,
+            "unit": "毫升",
+            "remake": ""
+          }
+        ],
+        "take_time": [
+          4,
+          8
+        ],
+        "wait_time": [
+          0,
+          1
+        ],
+        "total_time": [
+          4,
+          9
+        ]
+      },
+      {
         "id": "33f80e4f-54f7-4054-bdc5-a2ca39947f0e",
         "category": "主食",
         "name": "鲣鱼海苔玉米饭",
@@ -777,6 +1443,69 @@
   {
     "label": "vegetable_dish",
     "list": [
+      {
+        "id": "a2bf78ba-c0e2-4b8c-b2a3-243af76c0c3c",
+        "category": "蔬菜",
+        "name": "脆皮豆腐",
+        "image_id": null,
+        "image": "",
+        "servings": 1,
+        "kitchen_ware": [
+          "平底锅"
+        ],
+        "ingredients": [
+          {
+            "name": "老豆腐",
+            "amount": 1,
+            "unit": "块",
+            "remake": "市场买 1.25 格"
+          },
+          {
+            "name": "鸡蛋",
+            "amount": 2,
+            "unit": "只",
+            "remake": "每块老豆腐对应2只"
+          },
+          {
+            "name": "玉米淀粉",
+            "amount": 50,
+            "unit": "克",
+            "remake": "每块老豆腐对应50g"
+          },
+          {
+            "name": "生抽",
+            "amount": 20,
+            "unit": "克"
+          },
+          {
+            "name": "蚝油",
+            "amount": 10,
+            "unit": "克"
+          },
+          {
+            "name": "老抽",
+            "amount": 5,
+            "unit": "克"
+          },
+          {
+            "name": "白糖",
+            "amount": 10,
+            "unit": "克"
+          }
+        ],
+        "take_time": [
+          15,
+          24
+        ],
+        "wait_time": [
+          0,
+          0
+        ],
+        "total_time": [
+          15,
+          24
+        ]
+      },
       {
         "id": "929ec78f-a6a7-481b-b75c-d6d5ce2a7d9d",
         "category": "蔬菜",
@@ -875,6 +1604,58 @@
         "total_time": [
           70,
           75
+        ]
+      },
+      {
+        "id": "9db79980-17d0-4105-8560-450d0fcf2505",
+        "category": "蔬菜",
+        "name": "菠菜炒鸡蛋",
+        "image_id": "033b70aa-88ff-48c8-a2bc-04ebbe5da9df",
+        "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/033b70aa-88ff-48c8-a2bc-04ebbe5da9df.webp",
+        "servings": 1,
+        "kitchen_ware": [
+          "炒锅",
+          "锅铲",
+          "刀具",
+          "砧板"
+        ],
+        "ingredients": [
+          {
+            "name": "菠菜",
+            "amount": 350,
+            "unit": "克",
+            "remake": ""
+          },
+          {
+            "name": "鸡蛋",
+            "amount": 2,
+            "unit": "个",
+            "remake": ""
+          },
+          {
+            "name": "食用油",
+            "amount": 15,
+            "unit": "毫升",
+            "remake": ""
+          },
+          {
+            "name": "食用盐",
+            "amount": 5,
+            "unit": "克",
+            "remake": ""
+          }
+        ],
+        "take_time": [
+          4,
+          6
+        ],
+        "wait_time": [
+          1,
+          2
+        ],
+        "total_time": [
+          5,
+          9
         ]
       }
     ]

@@ -1,0 +1,134 @@
+{
+  "id": "563b0892-efc4-4b84-acde-91bfd0514877",
+  "category": "早餐",
+  "name": "温泉蛋",
+  "description": "",
+  "source_path": "dishes/breakfast/温泉蛋/温泉蛋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "厨房用温度计",
+    "杯子"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "昆布酱油",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "用于为温泉蛋调味"
+    },
+    {
+      "name": "香葱",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "用作点缀"
+    }
+  ],
+  "steps": [
+    {
+      "description": "在锅中盛装自来水，确保水面没过鸡蛋约3cm，水中插入温度计",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "开火或打开电磁炉，逐渐调整功率或火苗大小，使水温保持在70摄氏度",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将鸡蛋放入锅中，确保鸡蛋不堆叠且底部留有晃动空间",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "保持70摄氏度水温25分钟",
+      "time_unit": "分钟",
+      "time": [
+        25,
+        25
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "准备一杯冰水",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "捞出鸡蛋并立刻放入冰水中，等待3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将鸡蛋打入小碗完成制作",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    4,
+    7
+  ],
+  "wait_time": [
+    28,
+    28
+  ],
+  "total_time": [
+    32,
+    35
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "若使用机械式温度计（无需供电）则温度计探头需没入水中至少 6cm，若使用电子温度计则无特殊要求"
+    },
+    {
+      "type": "list_item",
+      "content": "锅可以采用稍厚的锅，方便控制温度"
+    },
+    {
+      "type": "list_item",
+      "content": "虽然 70 摄氏度 25 分钟已经完全可以杀死沙门氏菌，但还是要尽量少吃，或购买正规可生食鸡蛋制作"
+    }
+  ]
+}

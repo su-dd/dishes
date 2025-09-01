@@ -1,5 +1,58 @@
 [
   {
+    "id": "c10e7932-56ca-4f48-bdab-766ef08e8008",
+    "category": "主食",
+    "name": "炒年糕",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "炒锅",
+      "锅铲"
+    ],
+    "ingredients": [
+      {
+        "name": "年糕",
+        "amount": 250,
+        "unit": "克",
+        "remake": "形状不限"
+      },
+      {
+        "name": "小葱",
+        "amount": 2,
+        "unit": "根"
+      },
+      {
+        "name": "食用油",
+        "amount": 50,
+        "unit": "毫升"
+      },
+      {
+        "name": "酱油",
+        "amount": 15,
+        "unit": "毫升"
+      },
+      {
+        "name": "盐",
+        "amount": 1.5,
+        "unit": "克",
+        "remake": "按口味喜好，1-2g范围"
+      }
+    ],
+    "take_time": [
+      9,
+      15
+    ],
+    "wait_time": [
+      10,
+      17
+    ],
+    "total_time": [
+      19,
+      32
+    ]
+  },
+  {
     "id": "e6c1a42f-a698-42fb-be7e-e1b7cb5dd7de",
     "category": "主食",
     "name": "醪糟小汤圆",
@@ -53,6 +106,99 @@
     "total_time": [
       13,
       15
+    ]
+  },
+  {
+    "id": "420f0847-35f7-4234-a827-7386b7602d64",
+    "category": "主食",
+    "name": "炒凉粉",
+    "image_id": "28da81af-0a41-4f3a-a6ed-d5a8224eaea3",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/28da81af-0a41-4f3a-a6ed-d5a8224eaea3.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "炒锅",
+      "刀具",
+      "砧板"
+    ],
+    "ingredients": [
+      {
+        "name": "凉粉",
+        "amount": 500,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "玉米油",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "大蒜",
+        "amount": 10,
+        "unit": "克",
+        "remake": "蒜末"
+      },
+      {
+        "name": "香葱",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "生抽",
+        "amount": 20,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "老抽",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "食盐",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "十三香",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "中粗辣椒面",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "矿泉水",
+        "amount": 20,
+        "unit": "毫升",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      4,
+      8
+    ],
+    "wait_time": [
+      0,
+      1
+    ],
+    "total_time": [
+      4,
+      9
     ]
   },
   {

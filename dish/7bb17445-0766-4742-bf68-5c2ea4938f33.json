@@ -1,0 +1,243 @@
+{
+  "id": "7bb17445-0766-4742-bf68-5c2ea4938f33",
+  "category": "肉食",
+  "name": "南派红烧肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/红烧肉/南派红烧肉.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 3,
+  "kitchen_ware": [
+    "砂锅",
+    "铝锅",
+    "高压锅",
+    "刀"
+  ],
+  "ingredients": [
+    {
+      "name": "猪五花肉",
+      "amount": 2,
+      "unit": "斤",
+      "remake": "约2斤"
+    },
+    {
+      "name": "油",
+      "amount": 125,
+      "unit": "毫升",
+      "remake": "100-150ml，色拉油、猪油、花生油都可以"
+    },
+    {
+      "name": "姜",
+      "amount": 6,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "冰糖",
+      "amount": 15,
+      "unit": "块",
+      "remake": "约15块"
+    },
+    {
+      "name": "白砂糖",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "凉水",
+      "amount": 0,
+      "unit": "适量",
+      "remake": "没过食材的量即可，看锅大小准备"
+    },
+    {
+      "name": "开水",
+      "amount": 0,
+      "unit": "适量",
+      "remake": "没过食材的量即可，看锅大小准备"
+    },
+    {
+      "name": "香叶",
+      "amount": 4,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 3,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2.5,
+      "unit": "克",
+      "remake": "2-3g"
+    },
+    {
+      "name": "花椒",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "五花肉切大块，约4.5cm",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小葱白色部分切小段，中间切开",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "凉水锅中放入五花肉，加入料酒与葱姜，煮15分钟去血腥",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出五花肉洗干净",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "炒糖色",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将五花肉倒入锅中翻炒至出香味",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入开水没过肉，炖煮50-60分钟",
+      "time_unit": "分钟",
+      "time": [
+        50,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入10ml料酒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖上锅盖煮至沸腾",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "每隔25分钟打开盖子捞出表面浮油和沫",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "汤汁减至合适高度时转中火，捞出除肉和水以外的辅料",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "打开锅盖收汁至汤汁粘稠",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    20,
+    38
+  ],
+  "wait_time": [
+    70,
+    85
+  ],
+  "total_time": [
+    90,
+    123
+  ],
+  "additional_notes": []
+}
