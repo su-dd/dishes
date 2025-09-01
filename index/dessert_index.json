@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "id": "711c07d9-f4c5-4993-a063-d7c5ab03cf98",
+    "category": "甜品",
+    "name": "提拉米苏",
+    "image_id": "9452cab2-7bac-43c8-92aa-30b519b1d4c0",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/9452cab2-7bac-43c8-92aa-30b519b1d4c0.webp",
+    "servings": 4,
+    "kitchen_ware": [
+      "打蛋器",
+      "容器（如 玻璃杯）"
+    ],
+    "ingredients": [
+      {
+        "name": "马斯卡彭芝士",
+        "amount": 450,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "手指饼干",
+        "amount": 1,
+        "unit": "包",
+        "remake": ""
+      },
+      {
+        "name": "放凉浓缩咖啡",
+        "amount": 350,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "无菌鸡蛋",
+        "amount": 4,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "白砂糖",
+        "amount": 50,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "可可粉",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "朗姆酒",
+        "amount": 35,
+        "unit": "毫升",
+        "remake": "不喜欢酒的朋友可省略，可按照自己口味调节"
+      }
+    ],
+    "take_time": [
+      13,
+      22
+    ],
+    "wait_time": [
+      240,
+      240
+    ],
+    "total_time": [
+      253,
+      262
+    ]
+  }
+]

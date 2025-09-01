@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "id": "4ed076de-912e-42a2-bc93-a6dbc13b9fcb",
+    "category": "早餐",
+    "name": "手抓饼",
+    "image_id": null,
+    "image": "",
+    "servings": 2,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "面粉",
+        "amount": 200,
+        "unit": "克",
+        "remake": "普通面粉"
+      },
+      {
+        "name": "开水",
+        "amount": 100,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "冷水",
+        "amount": 50,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "食用油",
+        "amount": 15,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 3,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "生菜",
+        "amount": 30,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "火腿",
+        "amount": 30,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "芝士片",
+        "amount": 1,
+        "unit": "片",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      10,
+      18
+    ],
+    "wait_time": [
+      30,
+      30
+    ],
+    "total_time": [
+      40,
+      48
+    ]
+  }
+]

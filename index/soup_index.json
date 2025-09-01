@@ -1,1 +1,144 @@
-[]
+[
+  {
+    "id": "979cf41d-8b90-4e1d-80d9-b7f33715f507",
+    "category": "汤类",
+    "name": "腊八粥",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "粥锅",
+      "高压锅",
+      "中号玻璃碗",
+      "小碗"
+    ],
+    "ingredients": [
+      {
+        "name": "饮用水",
+        "amount": 1,
+        "unit": "升",
+        "remake": ""
+      },
+      {
+        "name": "大米",
+        "amount": 50,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "糯米",
+        "amount": 50,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "薏米",
+        "amount": 50,
+        "unit": "克",
+        "remake": "可选，可根据口味偏好调整"
+      },
+      {
+        "name": "黑米",
+        "amount": 50,
+        "unit": "克",
+        "remake": "可选，可根据口味偏好调整"
+      },
+      {
+        "name": "小米",
+        "amount": 50,
+        "unit": "克",
+        "remake": "可选，可根据口味偏好调整"
+      },
+      {
+        "name": "莲子",
+        "amount": 25,
+        "unit": "克",
+        "remake": "可选，可根据口味偏好调整"
+      },
+      {
+        "name": "绿豆",
+        "amount": 25,
+        "unit": "克",
+        "remake": "可选，可根据口味偏好调整"
+      },
+      {
+        "name": "红豆",
+        "amount": 25,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "花生",
+        "amount": 25,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "黄豆",
+        "amount": 25,
+        "unit": "克",
+        "remake": "可选，可根据口味偏好调整"
+      },
+      {
+        "name": "豌豆",
+        "amount": 25,
+        "unit": "克",
+        "remake": "可选，可根据口味偏好调整"
+      },
+      {
+        "name": "红枣",
+        "amount": 25,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "桂圆",
+        "amount": 25,
+        "unit": "克",
+        "remake": "去种龙眼干，可选，可根据口味偏好调整"
+      },
+      {
+        "name": "栗子",
+        "amount": 25,
+        "unit": "克",
+        "remake": "可选，可根据口味偏好调整"
+      },
+      {
+        "name": "去壳核桃",
+        "amount": 25,
+        "unit": "克",
+        "remake": "可选，可根据口味偏好调整"
+      },
+      {
+        "name": "葡萄干",
+        "amount": 25,
+        "unit": "克",
+        "remake": "可选，可根据口味偏好调整"
+      },
+      {
+        "name": "红腰豆",
+        "amount": 25,
+        "unit": "克",
+        "remake": "可选，可根据口味偏好调整"
+      },
+      {
+        "name": "冰糖",
+        "amount": 10,
+        "unit": "克",
+        "remake": "或白糖，调味用，10~25克可根据口味调整"
+      }
+    ],
+    "take_time": [
+      12,
+      19
+    ],
+    "wait_time": [
+      810,
+      1050
+    ],
+    "total_time": [
+      822,
+      1069
+    ]
+  }
+]

@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "7cfb7b49-64d6-4168-8bad-49fb15308f93",
+    "category": "饮品",
+    "name": "菠萝咖啡特调",
+    "image_id": "c62e9216-534c-44a2-b46c-4e6a120f055f",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/c62e9216-534c-44a2-b46c-4e6a120f055f.webp",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "咖啡液",
+        "amount": 30,
+        "unit": "毫升",
+        "remake": "推荐浓缩或者冷萃"
+      },
+      {
+        "name": "菠萝汁",
+        "amount": 60,
+        "unit": "毫升",
+        "remake": "鲜榨或者 nfc"
+      },
+      {
+        "name": "冰块",
+        "amount": 50,
+        "unit": "克"
+      },
+      {
+        "name": "苏打水",
+        "amount": 30,
+        "unit": "毫升"
+      },
+      {
+        "name": "奶油",
+        "amount": 30,
+        "unit": "毫升"
+      },
+      {
+        "name": "牛奶",
+        "amount": 10,
+        "unit": "毫升"
+      },
+      {
+        "name": "糖",
+        "amount": 8,
+        "unit": "克"
+      },
+      {
+        "name": "海盐",
+        "amount": 0.5,
+        "unit": "克",
+        "remake": "可选"
+      },
+      {
+        "name": "朗姆酒",
+        "amount": 5,
+        "unit": "毫升",
+        "remake": "可选"
+      }
+    ],
+    "take_time": [
+      3,
+      6
+    ],
+    "wait_time": [
+      0,
+      0
+    ],
+    "total_time": [
+      3,
+      6
+    ]
+  }
+]

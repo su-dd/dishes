@@ -1,1 +1,277 @@
-[]
+[
+  {
+    "id": "fead8027-f117-4b9f-bdaa-446e2ac8feae",
+    "category": "肉食",
+    "name": "萝卜炖羊排",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "锅",
+      "刀",
+      "砧板"
+    ],
+    "ingredients": [
+      {
+        "name": "羊排",
+        "amount": 400,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "白萝卜",
+        "amount": 1,
+        "unit": "根",
+        "remake": ""
+      },
+      {
+        "name": "大葱",
+        "amount": 1,
+        "unit": "根",
+        "remake": ""
+      },
+      {
+        "name": "花椒",
+        "amount": 10,
+        "unit": "粒",
+        "remake": ""
+      },
+      {
+        "name": "白芷",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "可选"
+      },
+      {
+        "name": "姜",
+        "amount": 10,
+        "unit": "克",
+        "remake": "一般买一头姜，从中切大约4片即可"
+      },
+      {
+        "name": "料酒",
+        "amount": 35,
+        "unit": "毫升",
+        "remake": "或者黄酒"
+      },
+      {
+        "name": "食用盐",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "冰糖",
+        "amount": 3,
+        "unit": "粒",
+        "remake": ""
+      },
+      {
+        "name": "水",
+        "amount": 1000,
+        "unit": "毫升",
+        "remake": "没过食材的量"
+      }
+    ],
+    "take_time": [
+      21,
+      27
+    ],
+    "wait_time": [
+      35,
+      98
+    ],
+    "total_time": [
+      56,
+      125
+    ]
+  },
+  {
+    "id": "2e5663be-fcc3-47aa-9f69-fad334f75082",
+    "category": "肉食",
+    "name": "徽派红烧肉",
+    "image_id": "bcd53e23-7cc1-41d9-9790-ec1e48e4a23e",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/bcd53e23-7cc1-41d9-9790-ec1e48e4a23e.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "炒锅",
+      "刀具",
+      "砧板"
+    ],
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": 300,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "白砂糖",
+        "amount": 100,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "食用油",
+        "amount": 200,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "生抽",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "蚝油",
+        "amount": 5,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "老抽",
+        "amount": 5,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "姜片",
+        "amount": 2,
+        "unit": "片",
+        "remake": ""
+      },
+      {
+        "name": "蒜头",
+        "amount": 3,
+        "unit": "颗",
+        "remake": ""
+      },
+      {
+        "name": "料酒",
+        "amount": 100,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "葱",
+        "amount": 1,
+        "unit": "根",
+        "remake": ""
+      },
+      {
+        "name": "五香粉",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      43,
+      48
+    ],
+    "wait_time": [
+      0,
+      0
+    ],
+    "total_time": [
+      43,
+      48
+    ]
+  },
+  {
+    "id": "859f29ac-2066-4ed6-abfe-47654110f743",
+    "category": "肉食",
+    "name": "酱排骨",
+    "image_id": "6fa4a4c4-d938-4f99-b1ca-1e556d9da2d8",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/6fa4a4c4-d938-4f99-b1ca-1e556d9da2d8.webp",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 300,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "五香粉",
+        "amount": 20,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "料酒",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "食用油",
+        "amount": 30,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "白砂糖",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "老抽",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "生抽",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "蚝油",
+        "amount": 5,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "小米椒",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "蒜",
+        "amount": 2,
+        "unit": "粒",
+        "remake": ""
+      },
+      {
+        "name": "姜",
+        "amount": 2,
+        "unit": "片",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      6,
+      9
+    ],
+    "wait_time": [
+      40,
+      40
+    ],
+    "total_time": [
+      46,
+      49
+    ]
+  }
+]
