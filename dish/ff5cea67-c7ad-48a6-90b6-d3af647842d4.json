@@ -1,11 +1,10 @@
 {
   "id": "ff5cea67-c7ad-48a6-90b6-d3af647842d4",
-  "category": "半成品",
+  "category": "速食",
   "name": "空气炸锅鸡翅中",
   "description": "",
   "source_path": "dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md",
   "image_id": "ea955dfc-a7b7-41e4-9b35-06a0f2ccfb0d",
-  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/ea955dfc-a7b7-41e4-9b35-06a0f2ccfb0d.webp",
   "video_link": [],
   "difficulty": 2,
   "servings": 2,

@@ -1,11 +1,10 @@
 {
   "id": "483fc3c5-0c33-47de-94b2-d7d9d453cc81",
-  "category": "半成品",
+  "category": "速食",
   "name": "速冻汤圆",
   "description": "",
   "source_path": "dishes/semi-finished/速冻汤圆/速冻汤圆.md",
   "image_id": "4ed6963d-0b5a-4071-8db8-4438aaf455ed",
-  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/4ed6963d-0b5a-4071-8db8-4438aaf455ed.webp",
   "video_link": [],
   "difficulty": 1,
   "servings": 1,

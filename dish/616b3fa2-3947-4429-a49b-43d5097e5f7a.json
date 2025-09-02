@@ -1,11 +1,10 @@
 {
   "id": "616b3fa2-3947-4429-a49b-43d5097e5f7a",
-  "category": "半成品",
+  "category": "速食",
   "name": "速冻馄饨",
   "description": "",
   "source_path": "dishes/semi-finished/速冻馄饨.md",
   "image_id": null,
-  "image": "",
   "video_link": [],
   "difficulty": 2,
   "servings": 1,

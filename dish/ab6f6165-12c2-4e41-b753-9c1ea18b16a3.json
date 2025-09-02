@@ -1,11 +1,10 @@
 {
   "id": "ab6f6165-12c2-4e41-b753-9c1ea18b16a3",
-  "category": "半成品",
+  "category": "速食",
   "name": "半成品意面",
   "description": "",
   "source_path": "dishes/semi-finished/半成品意面.md",
   "image_id": null,
-  "image": "",
   "video_link": [],
   "difficulty": 1,
   "servings": 2,

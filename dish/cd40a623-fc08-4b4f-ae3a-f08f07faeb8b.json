@@ -1,11 +1,10 @@
 {
   "id": "cd40a623-fc08-4b4f-ae3a-f08f07faeb8b",
-  "category": "半成品",
+  "category": "速食",
   "name": "空气炸锅羊排",
   "description": "",
   "source_path": "dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md",
   "image_id": "e2db45ad-45b8-4c6e-aaa0-9441b225e847",
-  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/e2db45ad-45b8-4c6e-aaa0-9441b225e847.webp",
   "video_link": [],
   "difficulty": 3,
   "servings": 3,

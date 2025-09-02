@@ -1,11 +1,10 @@
 {
   "id": "8369bbcb-78a5-49b8-9444-4c92239246d9",
-  "category": "半成品",
+  "category": "速食",
   "name": "懒人蛋挞",
   "description": "",
   "source_path": "dishes/semi-finished/懒人蛋挞/懒人蛋挞.md",
   "image_id": "488fc6d6-f8a0-4793-b535-0a4101366f49",
-  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/488fc6d6-f8a0-4793-b535-0a4101366f49.webp",
   "video_link": [],
   "difficulty": 3,
   "servings": 1,

@@ -1,11 +1,10 @@
 {
   "id": "2160c493-5fd5-4809-943c-db4b98d04e6e",
-  "category": "半成品",
+  "category": "速食",
   "name": "牛油火锅底料",
   "description": "",
   "source_path": "dishes/semi-finished/牛油火锅底料.md",
   "image_id": null,
-  "image": "",
   "video_link": [],
   "difficulty": 5,
   "servings": 15,

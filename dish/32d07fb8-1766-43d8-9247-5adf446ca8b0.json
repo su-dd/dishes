@@ -1,11 +1,10 @@
 {
   "id": "32d07fb8-1766-43d8-9247-5adf446ca8b0",
-  "category": "半成品",
+  "category": "速食",
   "name": "炸薯条",
   "description": "",
   "source_path": "dishes/semi-finished/炸薯条/炸薯条.md",
   "image_id": "5f60dec0-02ed-4b0d-ae9b-6d510aeb6767",
-  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/5f60dec0-02ed-4b0d-ae9b-6d510aeb6767.webp",
   "video_link": [],
   "difficulty": 2,
   "servings": 1,
