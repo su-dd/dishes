@@ -1,1 +1,1074 @@
-[]
+[
+  {
+    "id": "79558e13-f641-4d77-aefc-81bd0301e37e",
+    "category": "早餐",
+    "name": "吐司果酱",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "面包机"
+    ],
+    "ingredients": [
+      {
+        "name": "吐司",
+        "amount": 2,
+        "unit": "片",
+        "remake": ""
+      },
+      {
+        "name": "果酱",
+        "amount": 1,
+        "unit": "份",
+        "remake": "足够涂满一面吐司的量"
+      }
+    ],
+    "take_time": [
+      0,
+      1
+    ],
+    "wait_time": [
+      2,
+      2
+    ],
+    "total_time": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "c9c4cb14-c515-4de1-83fa-ae6d0a30166e",
+    "category": "早餐",
+    "name": "太阳蛋",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "微波炉",
+      "筷子",
+      "牙签"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "克",
+        "remake": "每个鸡蛋"
+      },
+      {
+        "name": "油",
+        "amount": 5,
+        "unit": "毫升",
+        "remake": "每个鸡蛋"
+      }
+    ],
+    "take_time": [
+      0,
+      1
+    ],
+    "wait_time": [
+      3,
+      3
+    ],
+    "total_time": [
+      4,
+      4
+    ]
+  },
+  {
+    "id": "1d152d49-162e-4950-a6b2-ed86ad8d682b",
+    "category": "早餐",
+    "name": "完美水煮蛋",
+    "image_id": "858e71a2-c831-4818-ae40-f9489f0bda2c",
+    "servings": 1,
+    "kitchen_ware": [
+      "沸水锅",
+      "温水锅",
+      "定时器",
+      "漏勺"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": "约 60g"
+      },
+      {
+        "name": "沸水",
+        "amount": 1500,
+        "unit": "毫升",
+        "remake": "100°C"
+      },
+      {
+        "name": "温水",
+        "amount": 1500,
+        "unit": "毫升",
+        "remake": "30°C"
+      }
+    ],
+    "take_time": [
+      38,
+      41
+    ],
+    "wait_time": [
+      1,
+      1
+    ],
+    "total_time": [
+      39,
+      42
+    ]
+  },
+  {
+    "id": "e95230b6-3e5a-4dbe-bc96-55e85a4c3348",
+    "category": "早餐",
+    "name": "微波炉荷包蛋",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "微波炉"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "饮用水",
+        "amount": 35,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "芝麻油",
+        "amount": 3,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 0.8,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      0,
+      0
+    ],
+    "wait_time": [
+      1,
+      1
+    ],
+    "total_time": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "641f0919-9df6-4941-baa6-61fc5ac7c93e",
+    "category": "早餐",
+    "name": "微波炉蛋糕",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "微波炉",
+      "能放进微波炉的容器"
+    ],
+    "ingredients": [
+      {
+        "name": "黄油",
+        "amount": 1,
+        "unit": "适量",
+        "remake": ""
+      },
+      {
+        "name": "面粉",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "泡打粉",
+        "amount": 2.5,
+        "unit": "克",
+        "remake": "不加吃着像饼"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "糖",
+        "amount": 10,
+        "unit": "克",
+        "remake": "白（红）糖"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      2,
+      5
+    ],
+    "wait_time": [
+      1,
+      1
+    ],
+    "total_time": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "4ed076de-912e-42a2-bc93-a6dbc13b9fcb",
+    "category": "早餐",
+    "name": "手抓饼",
+    "image_id": null,
+    "servings": 2,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "面粉",
+        "amount": 200,
+        "unit": "克",
+        "remake": "普通面粉"
+      },
+      {
+        "name": "开水",
+        "amount": 100,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "冷水",
+        "amount": 50,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "食用油",
+        "amount": 15,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 3,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "生菜",
+        "amount": 30,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "火腿",
+        "amount": 30,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "芝士片",
+        "amount": 1,
+        "unit": "片",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      10,
+      18
+    ],
+    "wait_time": [
+      30,
+      30
+    ],
+    "total_time": [
+      40,
+      48
+    ]
+  },
+  {
+    "id": "96adfb1e-9b3e-4ece-91c1-a8f68287e829",
+    "category": "早餐",
+    "name": "桂圆红枣粥",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "锅",
+      "量杯",
+      "秤"
+    ],
+    "ingredients": [
+      {
+        "name": "糯米",
+        "amount": 100,
+        "unit": "克",
+        "remake": "或大米"
+      },
+      {
+        "name": "红枣",
+        "amount": 15,
+        "unit": "颗"
+      },
+      {
+        "name": "桂圆",
+        "amount": 15,
+        "unit": "颗"
+      }
+    ],
+    "take_time": [
+      2,
+      3
+    ],
+    "wait_time": [
+      80,
+      80
+    ],
+    "total_time": [
+      82,
+      83
+    ]
+  },
+  {
+    "id": "327e2fb1-7c6a-4901-ab75-eb0dd7fba25c",
+    "category": "早餐",
+    "name": "水煮玉米",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "锅"
+    ],
+    "ingredients": [
+      {
+        "name": "新鲜玉米",
+        "amount": 1,
+        "unit": "个",
+        "remake": "带皮"
+      },
+      {
+        "name": "水",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "淹过玉米约半节指头"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克",
+        "remake": "煮玉米时开始和淡盐水，2克盐加50ml水"
+      },
+      {
+        "name": "糖",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "根据口味选择加或者不加（可选）"
+      }
+    ],
+    "take_time": [
+      1,
+      2
+    ],
+    "wait_time": [
+      15,
+      20
+    ],
+    "total_time": [
+      16,
+      22
+    ]
+  },
+  {
+    "id": "35252d12-430e-4a54-9763-1a020e0983ae",
+    "category": "早餐",
+    "name": "溏心蛋",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "电锅",
+      "秒表"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "颗",
+        "remake": "或更多（只要您的电锅装得下，不管有几颗鸡蛋都可以）"
+      },
+      {
+        "name": "水",
+        "amount": 2,
+        "unit": "公分",
+        "remake": "淹过鸡蛋约 2 公分的冷水"
+      }
+    ],
+    "take_time": [
+      7,
+      11
+    ],
+    "wait_time": [
+      16,
+      16
+    ],
+    "total_time": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": "482456a7-1209-403a-b989-4ce54727c928",
+    "category": "早餐",
+    "name": "煎饺",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "锅"
+    ],
+    "ingredients": [
+      {
+        "name": "饺子",
+        "amount": 1,
+        "unit": "包",
+        "remake": "速冻水饺，根据个人食量选择，约10-15个"
+      }
+    ],
+    "take_time": [
+      1,
+      3
+    ],
+    "wait_time": [
+      8,
+      10
+    ],
+    "total_time": [
+      10,
+      14
+    ]
+  },
+  {
+    "id": "4c865eaa-dc27-4285-8412-ec193494bd3f",
+    "category": "早餐",
+    "name": "燕麦鸡蛋饼",
+    "image_id": null,
+    "servings": 2,
+    "kitchen_ware": [
+      "搅拌碗",
+      "搅拌工具",
+      "平底锅",
+      "铲子"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个",
+        "remake": "亦可选择两个蛋清，一个蛋黄"
+      },
+      {
+        "name": "燕麦",
+        "amount": 50,
+        "unit": "克",
+        "remake": "纯干燕麦片，大约等同一个鸡蛋的量"
+      },
+      {
+        "name": "牛奶",
+        "amount": 50,
+        "unit": "克",
+        "remake": "能够将燕麦搅拌粘稠即可"
+      },
+      {
+        "name": "蔬菜",
+        "amount": 50,
+        "unit": "克",
+        "remake": "可根据口味选择增加，如菠菜"
+      },
+      {
+        "name": "蔬菜碎叶",
+        "amount": 1,
+        "unit": "把",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      4,
+      9
+    ],
+    "wait_time": [
+      4,
+      5
+    ],
+    "total_time": [
+      8,
+      14
+    ]
+  },
+  {
+    "id": "2ab9486e-d409-4f19-87e3-839b5849ae1a",
+    "category": "早餐",
+    "name": "牛奶燕麦",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "牛奶",
+        "amount": 280,
+        "unit": "毫升",
+        "remake": "巴氏奶口感更好"
+      },
+      {
+        "name": "燕麦",
+        "amount": 40,
+        "unit": "克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个"
+      }
+    ],
+    "take_time": [
+      4,
+      8
+    ],
+    "wait_time": [
+      6,
+      6
+    ],
+    "total_time": [
+      10,
+      14
+    ]
+  },
+  {
+    "id": "86960ba5-187c-4974-8327-5e44a5a8d9bd",
+    "category": "早餐",
+    "name": "空气炸锅面包片",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "空气炸锅"
+    ],
+    "ingredients": [
+      {
+        "name": "面包片",
+        "amount": 2,
+        "unit": "片",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      0,
+      0
+    ],
+    "wait_time": [
+      5,
+      5
+    ],
+    "total_time": [
+      5,
+      5
+    ]
+  },
+  {
+    "id": "e4470a9f-e26e-4fb1-ac29-23678f619724",
+    "category": "早餐",
+    "name": "美式炒蛋",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "锅",
+      "搅拌工具"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 3,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "全脂牛奶",
+        "amount": 10,
+        "unit": "克",
+        "remake": "或奶油"
+      },
+      {
+        "name": "黄油",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      3,
+      6
+    ],
+    "wait_time": [
+      15,
+      15
+    ],
+    "total_time": [
+      18,
+      21
+    ]
+  },
+  {
+    "id": "5a09cc0c-3063-44ae-8bbb-d84fbbceee64",
+    "category": "早餐",
+    "name": "茶叶蛋",
+    "image_id": null,
+    "servings": 4,
+    "kitchen_ware": [
+      "锅",
+      "煮蛋器"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 8,
+        "unit": "个",
+        "remake": "约400g"
+      },
+      {
+        "name": "八角",
+        "amount": 2,
+        "unit": "颗",
+        "remake": "约4g"
+      },
+      {
+        "name": "香叶",
+        "amount": 2,
+        "unit": "片",
+        "remake": "约0.5-1g"
+      },
+      {
+        "name": "桂皮",
+        "amount": 1,
+        "unit": "小块",
+        "remake": "约3g"
+      },
+      {
+        "name": "茴香",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "冰糖",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "红茶",
+        "amount": 20,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "生抽",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "老抽",
+        "amount": 25,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "食盐",
+        "amount": 3,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      25,
+      29
+    ],
+    "wait_time": [
+      120,
+      240
+    ],
+    "total_time": [
+      145,
+      269
+    ]
+  },
+  {
+    "id": "09a1b829-9a75-4993-aac0-62071a51fc2d",
+    "category": "早餐",
+    "name": "蒸水蛋",
+    "image_id": null,
+    "servings": 2,
+    "kitchen_ware": [
+      "锡纸",
+      "保鲜膜"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个",
+        "remake": "新鲜鸡蛋"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "热水",
+        "amount": 260,
+        "unit": "毫升",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      2,
+      4
+    ],
+    "wait_time": [
+      7,
+      9
+    ],
+    "total_time": [
+      9,
+      13
+    ]
+  },
+  {
+    "id": "6226b99d-2be8-46cd-a59f-b6924ba3ea8c",
+    "category": "早餐",
+    "name": "蒸花卷",
+    "image_id": null,
+    "servings": 5,
+    "kitchen_ware": [
+      "圆碟子",
+      "蒸架"
+    ],
+    "ingredients": [
+      {
+        "name": "冷冻花卷",
+        "amount": 5,
+        "unit": "个",
+        "remake": "女生分量 3 个即可"
+      },
+      {
+        "name": "水",
+        "amount": 400,
+        "unit": "毫升"
+      }
+    ],
+    "take_time": [
+      0,
+      1
+    ],
+    "wait_time": [
+      18,
+      20
+    ],
+    "total_time": [
+      18,
+      21
+    ]
+  },
+  {
+    "id": "9a4c9e56-0529-41b4-aafa-305a113aee9c",
+    "category": "早餐",
+    "name": "蛋煎糍粑",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "平底锅",
+      "碗",
+      "筷子"
+    ],
+    "ingredients": [
+      {
+        "name": "糍粑",
+        "amount": 2,
+        "unit": "块",
+        "remake": ""
+      },
+      {
+        "name": "红糖",
+        "amount": 10,
+        "unit": "克",
+        "remake": "建议 8g - 15g 之间"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "食用油",
+        "amount": 12.5,
+        "unit": "毫升",
+        "remake": "10-15ml"
+      },
+      {
+        "name": "食用盐",
+        "amount": 2,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      10,
+      20
+    ],
+    "wait_time": [
+      0,
+      0
+    ],
+    "total_time": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "2663080b-f6ea-4fbb-b59a-62b4b90a6e5d",
+    "category": "早餐",
+    "name": "金枪鱼酱三明治",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "轻食机"
+    ],
+    "ingredients": [
+      {
+        "name": "水浸金枪鱼",
+        "amount": 65,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "方形吐司片",
+        "amount": 2,
+        "unit": "片",
+        "remake": ""
+      },
+      {
+        "name": "蛋黄酱",
+        "amount": 50,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "俄式酸黄瓜汁",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": "可根据个人口味调整"
+      }
+    ],
+    "take_time": [
+      2,
+      6
+    ],
+    "wait_time": [
+      3,
+      5
+    ],
+    "total_time": [
+      5,
+      11
+    ]
+  },
+  {
+    "id": "9d3c65e0-8d22-480a-8768-dc3b0d865e7a",
+    "category": "早餐",
+    "name": "鸡蛋三明治",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "锅",
+      "平底锅",
+      "刀",
+      "砧板",
+      "碗",
+      "勺子"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "吐司",
+        "amount": 2,
+        "unit": "片",
+        "remake": ""
+      },
+      {
+        "name": "培根",
+        "amount": 2,
+        "unit": "片",
+        "remake": ""
+      },
+      {
+        "name": "黄油",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "蛋黄酱",
+        "amount": 20,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 2,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      4,
+      7
+    ],
+    "wait_time": [
+      8,
+      10
+    ],
+    "total_time": [
+      12,
+      17
+    ]
+  },
+  {
+    "id": "563b0892-efc4-4b84-acde-91bfd0514877",
+    "category": "早餐",
+    "name": "温泉蛋",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "厨房用温度计",
+      "杯子"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "昆布酱油",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "用于为温泉蛋调味"
+      },
+      {
+        "name": "香葱",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "用作点缀"
+      }
+    ],
+    "take_time": [
+      4,
+      7
+    ],
+    "wait_time": [
+      28,
+      28
+    ],
+    "total_time": [
+      32,
+      35
+    ]
+  },
+  {
+    "id": "56e1355d-fc4c-4efa-895d-83efd9f67a41",
+    "category": "早餐",
+    "name": "苏格兰蛋",
+    "image_id": "e87c4df1-5051-49b9-afa4-812dea45f111",
+    "servings": 1,
+    "kitchen_ware": [
+      "空气炸锅",
+      "油锅"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "颗",
+        "remake": "约50g"
+      },
+      {
+        "name": "手抓饼皮",
+        "amount": 1,
+        "unit": "份",
+        "remake": "看鸡蛋大小，1-2份"
+      },
+      {
+        "name": "芝士",
+        "amount": 1,
+        "unit": "片",
+        "remake": "1-2片"
+      },
+      {
+        "name": "培根",
+        "amount": 1,
+        "unit": "片",
+        "remake": "1-2片"
+      }
+    ],
+    "take_time": [
+      5,
+      8
+    ],
+    "wait_time": [
+      20,
+      21
+    ],
+    "total_time": [
+      25,
+      29
+    ]
+  }
+]

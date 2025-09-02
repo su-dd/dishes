@@ -1,0 +1,276 @@
+{
+  "id": "2e22518e-a1fa-4dae-bc27-c99f8bd06441",
+  "category": "肉食",
+  "name": "血浆鸭",
+  "description": "血浆鸭(特辣)\n血浆鸭(微辣)\n血浆鸭是湖南武冈特色传统名菜，香、脆可口，由于醋血的作用，不仅鸭骨酥而脆，就是姜和辣椒也变得不辣而甜净。一般初学者只需要 2 小时就可以完成。\n预估烹饪难度：★★★★★\n",
+  "source_path": "dishes/meat_dish/血浆鸭/血浆鸭.md",
+  "image_id": "f35d4566-f3df-45c4-9a6b-23698583c847",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 4,
+  "kitchen_ware": [
+    "筷子",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "鲜仔鸭肉",
+      "amount": 2000,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鲜鸭血",
+      "amount": 250,
+      "unit": "毫升",
+      "remake": "宰杀鸭子时加醋接鸭血，用筷子顺时针搅拌防凝固"
+    },
+    {
+      "name": "姜",
+      "amount": 6,
+      "unit": "片",
+      "remake": "根据个人吃辣喜好程度可多放 1-3 片"
+    },
+    {
+      "name": "蒜仔",
+      "amount": 6,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "香葱",
+      "amount": 2,
+      "unit": "根",
+      "remake": "切好备用"
+    },
+    {
+      "name": "辣椒",
+      "amount": 1000,
+      "unit": "克",
+      "remake": "根据个人吃辣喜好程度可选青椒，线椒，美人椒等，喜欢吃辣可增加 5-8 个小米辣或朝天椒，切好备用"
+    },
+    {
+      "name": "高度白酒",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": "任选其一，需加水150ml"
+    },
+    {
+      "name": "水",
+      "amount": 150,
+      "unit": "毫升",
+      "remake": "配合高度白酒使用"
+    },
+    {
+      "name": "啤酒",
+      "amount": 200,
+      "unit": "毫升",
+      "remake": "任选其一"
+    },
+    {
+      "name": "米酒",
+      "amount": 200,
+      "unit": "毫升",
+      "remake": "任选其一"
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 8,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "鲜仔鸭肉切成约3cm小块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加料酒、姜片，去除血水",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "炒锅烧热",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入食用油，大火待油烧开",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入腌制好的鲜鸭肉，不断翻炒",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待鸭肉完全变色，放入酒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入开水，刚好淹没鸭肉，盖上锅盖中火煮15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "打开锅盖放入姜蒜，翻炒一遍",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖上锅盖持续加热10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "打开锅盖放入辣椒，不断翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待辣椒炒软，放入鲜鸭血，不断翻炒确保均匀浸润",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻炒至鸭血均为黑色，加入盐、鸡精、香葱等调料",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "再次翻炒一到二次",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "上桌食用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    16,
+    28
+  ],
+  "wait_time": [
+    31,
+    37
+  ],
+  "total_time": [
+    47,
+    65
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，需要注意观察水位线，调整炉火大小，以防水烧干粘锅。"
+    },
+    {
+      "type": "list_item",
+      "content": "放入鲜鸭血时，需要不断翻炒搅拌，防止鸭血抱团凝固成块。"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "c30b828f-6637-4d4c-ba29-fdfc62f6e2a0",
+  "category": "蔬菜",
+  "name": "榄菜肉末四季豆",
+  "description": "榄菜肉末四季豆成品\n预估烹饪难度：★★★\n",
+  "source_path": "dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
+  "image_id": "2b495a83-e690-488c-95bc-e26b71bac8f8",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [
+    "刀",
+    "砧板",
+    "炒锅",
+    "锅铲"
+  ],
+  "ingredients": [
+    {
+      "name": "四季豆",
+      "amount": 220.0,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "五花肉",
+      "amount": 100.0,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "橄榄菜",
+      "amount": 20.0,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 10.0,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "小米辣",
+      "amount": 10.0,
+      "unit": "克",
+      "remake": "不吃辣可以不放"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将四季豆洗净，并把筋撕干净，然后切成大小均匀的颗粒备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将大蒜拍碎剁成蒜末备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将小米辣切成大小均匀的颗粒备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将五花肉去皮，然后剁成肉末备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将锅烧热，然后加入20ml油滑锅，锅滑好之后将热油倒出，然后加入10ml冷油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入油之后，直接加入肉末开始煸炒，小火煸炒两分钟，炒出猪油",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "肉末炒香之后加入蒜末，橄榄菜和小米辣，炒出香味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入四季豆开中火煸炒，四季豆至少要炒5分钟，一定要保证四季豆熟透",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        7
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "四季豆炒熟后加入2ml酱油从锅边淋入，然后加入2g盐、1g鸡精、1g胡椒粉和0.5g糖",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将调料翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        0.5,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅，装盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    18,
+    30
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    18,
+    30
+  ],
+  "additional_notes": []
+}

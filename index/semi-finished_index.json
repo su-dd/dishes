@@ -1,1 +1,658 @@
-[]
+[
+  {
+    "id": "8ab6d0b5-e8df-41f0-9b3f-f86a6f2c6ed4",
+    "category": "速食",
+    "name": "凉皮",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "盆",
+      "碗",
+      "盘子",
+      "蒜臼"
+    ],
+    "ingredients": [
+      {
+        "name": "凉皮",
+        "amount": 300,
+        "unit": "克",
+        "remake": "用量为300g/人向下取整"
+      },
+      {
+        "name": "面筋",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "鸡精",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "蚝油",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "生抽",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "老抽",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "香油",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "香醋",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "芝麻酱",
+        "amount": 30,
+        "unit": "克",
+        "remake": "用量为30g/人向下取整，原味芝麻酱最佳"
+      },
+      {
+        "name": "黄瓜",
+        "amount": 100,
+        "unit": "克",
+        "remake": "100g/人"
+      },
+      {
+        "name": "大蒜",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "绿豆芽",
+        "amount": 50,
+        "unit": "克",
+        "remake": "50g/人"
+      }
+    ],
+    "take_time": [
+      17,
+      30
+    ],
+    "wait_time": [
+      6,
+      12
+    ],
+    "total_time": [
+      23,
+      42
+    ]
+  },
+  {
+    "id": "ab6f6165-12c2-4e41-b753-9c1ea18b16a3",
+    "category": "速食",
+    "name": "半成品意面",
+    "image_id": null,
+    "servings": 2,
+    "kitchen_ware": [
+      "平底锅",
+      "微波炉"
+    ],
+    "ingredients": [
+      {
+        "name": "半成品意大利面",
+        "amount": 1,
+        "unit": "袋",
+        "remake": "推荐品牌圃美多"
+      },
+      {
+        "name": "清水",
+        "amount": 50,
+        "unit": "毫升",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      3,
+      5
+    ],
+    "wait_time": [
+      2,
+      2
+    ],
+    "total_time": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "2160c493-5fd5-4809-943c-db4b98d04e6e",
+    "category": "速食",
+    "name": "牛油火锅底料",
+    "image_id": null,
+    "servings": 15,
+    "kitchen_ware": [
+      "粉碎机"
+    ],
+    "ingredients": [
+      {
+        "name": "牛油",
+        "amount": 4500,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "色拉油或菜籽油",
+        "amount": 1000,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "纯猪油",
+        "amount": 500,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "豆瓣",
+        "amount": 1000,
+        "unit": "克",
+        "remake": "郫县"
+      },
+      {
+        "name": "糍粑辣椒",
+        "amount": 3000,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "老姜",
+        "amount": 250,
+        "unit": "克",
+        "remake": "切片"
+      },
+      {
+        "name": "大葱",
+        "amount": 100,
+        "unit": "克",
+        "remake": "切段"
+      },
+      {
+        "name": "洋葱",
+        "amount": 100,
+        "unit": "克",
+        "remake": "切丝"
+      },
+      {
+        "name": "大蒜",
+        "amount": 200,
+        "unit": "克",
+        "remake": "切片"
+      },
+      {
+        "name": "豆鼓",
+        "amount": 10,
+        "unit": "克",
+        "remake": "剁碎，永川"
+      },
+      {
+        "name": "豆母子",
+        "amount": 140,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "红花椒",
+        "amount": 150,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "颗粒香料",
+        "amount": 100,
+        "unit": "克",
+        "remake": "老油用"
+      },
+      {
+        "name": "整形香料",
+        "amount": 150,
+        "unit": "克",
+        "remake": "老油用"
+      },
+      {
+        "name": "麦芽粉",
+        "amount": 12.5,
+        "unit": "克",
+        "remake": "肉香"
+      },
+      {
+        "name": "白酒",
+        "amount": 150,
+        "unit": "毫升",
+        "remake": "52%VOL"
+      },
+      {
+        "name": "干辣椒面",
+        "amount": 15,
+        "unit": "克",
+        "remake": "老油用"
+      },
+      {
+        "name": "山奈",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "八角",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "草果",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "肉桂",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "丁香",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "小茴香",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "白芷",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "荜拨",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "香草",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "香果",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "山楂",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "陈皮",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "香茅",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "砂仁",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "白蔻",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "香叶",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      66,
+      95
+    ],
+    "wait_time": [
+      1452,
+      1458
+    ],
+    "total_time": [
+      1518,
+      1553
+    ]
+  },
+  {
+    "id": "13a9f1e1-4768-4404-960d-d3e13b2bdfdd",
+    "category": "速食",
+    "name": "速冻水饺",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "锅"
+    ],
+    "ingredients": [
+      {
+        "name": "速冻水饺",
+        "amount": 7,
+        "unit": "个",
+        "remake": "未过期的一袋速冻水饺"
+      }
+    ],
+    "take_time": [
+      1,
+      2
+    ],
+    "wait_time": [
+      7,
+      12
+    ],
+    "total_time": [
+      8,
+      14
+    ]
+  },
+  {
+    "id": "616b3fa2-3947-4429-a49b-43d5097e5f7a",
+    "category": "速食",
+    "name": "速冻馄饨",
+    "image_id": null,
+    "servings": 1,
+    "kitchen_ware": [
+      "电饭煲"
+    ],
+    "ingredients": [
+      {
+        "name": "速冻馄饨",
+        "amount": 12,
+        "unit": "个",
+        "remake": "未过期的一袋速冻馄饨，自带调味料包更佳"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "速冻馄饨无调味料包时使用"
+      },
+      {
+        "name": "鸡精",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "速冻馄饨无调味料包时使用"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "速冻馄饨无调味料包时使用"
+      },
+      {
+        "name": "香油",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "速冻馄饨无调味料包时使用"
+      },
+      {
+        "name": "香菜",
+        "amount": 1,
+        "unit": "根",
+        "remake": "可选"
+      }
+    ],
+    "take_time": [
+      0,
+      1
+    ],
+    "wait_time": [
+      55,
+      55
+    ],
+    "total_time": [
+      55,
+      56
+    ]
+  },
+  {
+    "id": "8369bbcb-78a5-49b8-9444-4c92239246d9",
+    "category": "速食",
+    "name": "懒人蛋挞",
+    "image_id": "488fc6d6-f8a0-4793-b535-0a4101366f49",
+    "servings": 1,
+    "kitchen_ware": [
+      "烤箱",
+      "隔热手套"
+    ],
+    "ingredients": [
+      {
+        "name": "蛋挞液",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": "到达挞皮的4/5最佳"
+      },
+      {
+        "name": "蛋挞皮",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      3,
+      5
+    ],
+    "wait_time": [
+      18,
+      32
+    ],
+    "total_time": [
+      21,
+      37
+    ]
+  },
+  {
+    "id": "32d07fb8-1766-43d8-9247-5adf446ca8b0",
+    "category": "速食",
+    "name": "炸薯条",
+    "image_id": "5f60dec0-02ed-4b0d-ae9b-6d510aeb6767",
+    "servings": 1,
+    "kitchen_ware": [
+      "空气炸锅"
+    ],
+    "ingredients": [
+      {
+        "name": "半成品薯条",
+        "amount": 400,
+        "unit": "克",
+        "remake": "作为主食，1人1顿400g（以半成品为准）"
+      }
+    ],
+    "take_time": [
+      0,
+      1
+    ],
+    "wait_time": [
+      25,
+      25
+    ],
+    "total_time": [
+      25,
+      26
+    ]
+  },
+  {
+    "id": "cd40a623-fc08-4b4f-ae3a-f08f07faeb8b",
+    "category": "速食",
+    "name": "空气炸锅羊排",
+    "image_id": "e2db45ad-45b8-4c6e-aaa0-9441b225e847",
+    "servings": 3,
+    "kitchen_ware": [
+      "空气炸锅",
+      "空气炸锅烤架",
+      "厨房纸"
+    ],
+    "ingredients": [
+      {
+        "name": "羊排",
+        "amount": 3,
+        "unit": "片",
+        "remake": "推荐新西兰进口羔羊法式肩排"
+      },
+      {
+        "name": "黑椒混合牛排调味料",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "蒜蓉酱",
+        "amount": 20,
+        "unit": "克",
+        "remake": "推荐川娃子"
+      },
+      {
+        "name": "黄油",
+        "amount": 10,
+        "unit": "克",
+        "remake": "可选，小盒装"
+      },
+      {
+        "name": "烧烤料",
+        "amount": 20,
+        "unit": "克",
+        "remake": "可选"
+      },
+      {
+        "name": "罗勒碎",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "可选"
+      }
+    ],
+    "take_time": [
+      3,
+      5
+    ],
+    "wait_time": [
+      35,
+      35
+    ],
+    "total_time": [
+      38,
+      40
+    ]
+  },
+  {
+    "id": "ff5cea67-c7ad-48a6-90b6-d3af647842d4",
+    "category": "速食",
+    "name": "空气炸锅鸡翅中",
+    "image_id": "ea955dfc-a7b7-41e4-9b35-06a0f2ccfb0d",
+    "servings": 2,
+    "kitchen_ware": [
+      "空气炸锅"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡翅中",
+        "amount": 6,
+        "unit": "个",
+        "remake": "泰森奥尔良鸡翅中，其他品牌例如圣农嘟嘟翅可能会大一些，请自行根据食量斟酌"
+      },
+      {
+        "name": "罗勒碎",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "可选，撒上去纯粹为了好看"
+      },
+      {
+        "name": "云南单山蘸水",
+        "amount": 1,
+        "unit": "适量",
+        "remake": "可选，代替烧烤料"
+      }
+    ],
+    "take_time": [
+      0,
+      0
+    ],
+    "wait_time": [
+      37,
+      37
+    ],
+    "total_time": [
+      37,
+      37
+    ]
+  },
+  {
+    "id": "483fc3c5-0c33-47de-94b2-d7d9d453cc81",
+    "category": "速食",
+    "name": "速冻汤圆",
+    "image_id": "4ed6963d-0b5a-4071-8db8-4438aaf455ed",
+    "servings": 1,
+    "kitchen_ware": [
+      "微波炉",
+      "碗"
+    ],
+    "ingredients": [
+      {
+        "name": "速冻汤圆",
+        "amount": 11,
+        "unit": "个",
+        "remake": "数量取决于碗的大小。保证放入的汤圆最高不超过碗高度 - 5mm"
+      }
+    ],
+    "take_time": [
+      0,
+      1
+    ],
+    "wait_time": [
+      5,
+      5
+    ],
+    "total_time": [
+      5,
+      6
+    ]
+  }
+]
