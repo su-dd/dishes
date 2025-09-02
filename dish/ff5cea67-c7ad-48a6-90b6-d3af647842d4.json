@@ -2,7 +2,7 @@
   "id": "ff5cea67-c7ad-48a6-90b6-d3af647842d4",
   "category": "速食",
   "name": "空气炸锅鸡翅中",
-  "description": "",
+  "description": "鸡翅中鸡翅中\n空气炸锅做鸡翅中方便，这样自带油脂的食物味道很好，比 KFC 的好吃，吃完不用洗碗洗锅。\n烹饪时长：40 分钟（准备 3 分钟+解冻 20 分钟+下锅 17 分钟）\n实际操作时间：5 分钟\n预估烹饪难度：★★\n",
   "source_path": "dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md",
   "image_id": "ea955dfc-a7b7-41e4-9b35-06a0f2ccfb0d",
   "video_link": [],
@@ -90,5 +90,6 @@
       "type": "list_item",
       "content": "推荐购买温控比较好的空气炸锅，不然可能会糊"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "32ed3612-4157-4778-a758-e330e4a1b223",
   "category": "蔬菜",
   "name": "西葫芦炒鸡蛋",
-  "description": "",
+  "description": "西葫芦炒鸡蛋\n西葫芦炒鸡蛋是一道简单易做的家常菜。简单易购的食材，好吃又下饭。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
   "image_id": "2daee1ac-98b3-45c9-bd49-fd27d386a870",
   "video_link": [],
@@ -162,5 +162,6 @@
     16,
     25
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

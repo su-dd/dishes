@@ -2,7 +2,7 @@
   "id": "52201a4b-a96d-4475-a285-23bfe0507882",
   "category": "蔬菜",
   "name": "葱煎豆腐",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/葱煎豆腐.md",
   "image_id": null,
   "video_link": [],
@@ -157,5 +157,6 @@
     14,
     22
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

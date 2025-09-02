@@ -2,7 +2,7 @@
   "id": "3742f589-62c9-41f2-9c81-f7def14379de",
   "category": "主食",
   "name": "手工水饺",
-  "description": "",
+  "description": "饺子是一道非常好吃的主食之一。饱肚且易于根据自己口味进行调味，适合在 US 的同学吃不到水饺解馋。一般初学者需要 3 小时完成，难度较大\n预估烹饪难度：★★★★★\n",
   "source_path": "dishes/staple/手工水饺.md",
   "image_id": null,
   "video_link": [],
@@ -407,5 +407,6 @@
       "type": "list_item",
       "content": "考虑搭配黑醋时加入砸好的蒜泥，搅拌当蘸料。（口腔内会残留蒜味，若饭后需要与他人面对面谈话建议放弃或清洁口腔）"
     }
-  ]
+  ],
+  "links": []
 }

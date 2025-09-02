@@ -2,7 +2,7 @@
   "id": "c3bcb7fe-e167-49b1-b825-dea5e2ff45a7",
   "category": "肉食",
   "name": "可乐鸡翅",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/可乐鸡翅.md",
   "image_id": null,
   "video_link": [],
@@ -216,5 +216,6 @@
       "type": "list_item",
       "content": "本菜品偏甜。"
     }
-  ]
+  ],
+  "links": []
 }

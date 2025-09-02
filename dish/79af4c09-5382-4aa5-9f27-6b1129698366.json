@@ -2,7 +2,7 @@
   "id": "79af4c09-5382-4aa5-9f27-6b1129698366",
   "category": "肉食",
   "name": "茭白炒肉",
-  "description": "",
+  "description": "茭白味道鲜美，有一定营养价值\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/茭白炒肉/茭白炒肉.md",
   "image_id": "5cfe1724-bff6-4508-ab9e-9183f7ced181",
   "video_link": [],
@@ -158,5 +158,6 @@
       "type": "list_item",
       "content": "最后一个步骤，可以考虑加蚝油、生抽代替盐上色"
     }
-  ]
+  ],
+  "links": []
 }

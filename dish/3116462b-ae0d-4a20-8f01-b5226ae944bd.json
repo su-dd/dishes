@@ -2,7 +2,7 @@
   "id": "3116462b-ae0d-4a20-8f01-b5226ae944bd",
   "category": "肉食",
   "name": "醉排骨",
-  "description": "",
+  "description": "醉排骨是福建省福州市特色传统名菜\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/醉排骨/醉排骨.md",
   "image_id": "87b7ac09-700f-4321-a3f1-53ff3361a863",
   "video_link": [],
@@ -205,5 +205,6 @@
       "type": "list_item",
       "content": "本次制作过程中，由于疫情原因没有雨露，只能用老抽代替，所以排骨颜色偏黑，正常是金黄色"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "8fe21d09-c2c6-450c-bc0b-b4721c5c4340",
   "category": "水产",
   "name": "糖醋鲤鱼",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
   "image_id": "ac8ca3b7-ecf0-458a-b4c6-12b63d79ea63",
   "video_link": [],
@@ -317,5 +317,6 @@
     97,
     152
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

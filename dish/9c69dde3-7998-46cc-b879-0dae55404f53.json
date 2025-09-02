@@ -2,7 +2,7 @@
   "id": "9c69dde3-7998-46cc-b879-0dae55404f53",
   "category": "肉食",
   "name": "肉饼炖蛋",
-  "description": "",
+  "description": "肉饼炖蛋是一道传统的中国家常菜，也是一道非常受欢迎的下饭菜。初学者只需要 20 分钟即可完成。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/肉饼炖蛋.md",
   "image_id": null,
   "video_link": [],
@@ -109,5 +109,6 @@
       "type": "list_item",
       "content": "在取出肉饼炖蛋时，注意盘子很烫，请小心操作。"
     }
-  ]
+  ],
+  "links": []
 }

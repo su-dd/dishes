@@ -2,7 +2,7 @@
   "id": "b6d455b4-ae17-4501-bfaf-0ca3f79f931b",
   "category": "肉食",
   "name": "小炒黄牛肉",
-  "description": "",
+  "description": "小炒黄牛肉成品\n小炒黄牛肉是一道简单易做的湘菜。口味十分劲爆爽口。一般初学者只需要 1 小时即可完成\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
   "image_id": "5412d553-8101-488b-a87f-2a859acc58b8",
   "video_link": [],
@@ -202,5 +202,6 @@
       "type": "list_item",
       "content": "操作时，全程需要开大火"
     }
-  ]
+  ],
+  "links": []
 }

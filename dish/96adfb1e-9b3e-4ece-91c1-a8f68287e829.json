@@ -2,7 +2,7 @@
   "id": "96adfb1e-9b3e-4ece-91c1-a8f68287e829",
   "category": "早餐",
   "name": "桂圆红枣粥",
-  "description": "",
+  "description": "桂圆红枣粥，甜口。补血安神，健脑益智，补养心脾。制作时间需要 70 分钟。\n预估烹饪难度：★★\n",
   "source_path": "dishes/breakfast/桂圆红枣粥.md",
   "image_id": null,
   "video_link": [],
@@ -105,5 +105,6 @@
     82,
     83
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

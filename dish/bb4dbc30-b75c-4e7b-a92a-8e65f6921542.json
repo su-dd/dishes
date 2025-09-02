@@ -2,7 +2,7 @@
   "id": "bb4dbc30-b75c-4e7b-a92a-8e65f6921542",
   "category": "主食",
   "name": "电饭煲三文鱼炊饭",
-  "description": "",
+  "description": "电饭煲三文鱼炊饭示例菜成品\n预估烹饪难度：★★\n",
   "source_path": "dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md",
   "image_id": "ce95c39a-1410-4ba0-8a4a-9554717e22ff",
   "video_link": [],
@@ -111,5 +111,6 @@
     38,
     61
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "487b199f-9977-408f-9280-2101bdf0b217",
   "category": "肉食",
   "name": "红烧猪蹄",
-  "description": "",
+  "description": "红烧猪蹄\n红烧猪蹄营养丰富，味道香，汤汁浓郁、下饭强。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
   "image_id": "b3c5a476-0779-45e8-9297-10562387dce1",
   "video_link": [],
@@ -191,5 +191,6 @@
     46,
     54
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

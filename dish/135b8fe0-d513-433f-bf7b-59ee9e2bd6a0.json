@@ -2,7 +2,7 @@
   "id": "135b8fe0-d513-433f-bf7b-59ee9e2bd6a0",
   "category": "甜品",
   "name": "咖啡椰奶冻",
-  "description": "",
+  "description": "咖啡椰奶冻\n咖啡椰奶冻是一道简单易于制作的甜品 出品时间约 1 小时（不算冷藏）\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md",
   "image_id": "534122d0-f07e-4268-9783-ee459fe67de1",
   "video_link": [],
@@ -143,5 +143,6 @@
     185,
     190
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

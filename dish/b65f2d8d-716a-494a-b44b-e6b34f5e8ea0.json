@@ -2,7 +2,7 @@
   "id": "b65f2d8d-716a-494a-b44b-e6b34f5e8ea0",
   "category": "主食",
   "name": "炒河粉",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/staple/炒河粉.md",
   "image_id": null,
   "video_link": [],
@@ -318,5 +318,6 @@
     28,
     45
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "62315b9d-d944-4cc3-895a-d4320afcf4e8",
   "category": "饮品",
   "name": "百香果橙子特调",
-  "description": "",
+  "description": "茉莉绿茶版本\ntea\n苏打气泡水版本\ntea\n预估烹饪难度：★★★\n",
   "source_path": "dishes/drink/百香果橙子特调/百香果橙子特调.md",
   "image_id": "58659d30-3f2d-4828-af38-39aaab3c7b7b",
   "video_link": [],
@@ -255,5 +255,6 @@
     739,
     1473
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

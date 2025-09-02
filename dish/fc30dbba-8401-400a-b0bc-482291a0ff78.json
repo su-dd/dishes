@@ -2,7 +2,7 @@
   "id": "fc30dbba-8401-400a-b0bc-482291a0ff78",
   "category": "肉食",
   "name": "西红柿土豆炖牛肉",
-  "description": "",
+  "description": "效果图\n西红柿土豆炖牛肉（腩）的特点就是还挺好吃，牛肉是优质蛋白，换成牛腩更好吃。\n难度基本没有，90 岁老奶奶拄拐杖都能做。\n预计制作总时常 1～1.5h。炖的时间:做的时间≈3:1\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
   "image_id": "a03bfb70-c4df-4777-97d9-ae02feab05e1",
   "video_link": [],
@@ -352,5 +352,6 @@
       "type": "list_item",
       "content": "不要用鸡精味精，会抢夺牛肉的鲜味"
     }
-  ]
+  ],
+  "links": []
 }

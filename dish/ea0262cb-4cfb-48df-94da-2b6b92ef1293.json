@@ -2,7 +2,7 @@
   "id": "ea0262cb-4cfb-48df-94da-2b6b92ef1293",
   "category": "水产",
   "name": "烤鱼",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/aquatic/混合烤鱼/烤鱼.md",
   "image_id": "08069d42-4a06-47ce-88ab-5e9b0ab77b8c",
   "video_link": [],
@@ -325,6 +325,11 @@
     {
       "type": "list_item",
       "content": "技术总结：上述这道菜的食盐，胡椒粉，孜然粉，食用油，生抽，白糖等的使用量，根据个人口味和食材比例做决定，并不需要严格按照上述分量来做。"
+    },
+    {
+      "type": "list_item",
+      "content": "这道菜的食盐，胡椒粉，孜然粉，食用油，生抽，白糖等的使用量，根据个人口味和食材比例做决定，并不需要严格按照上述分量来做。"
     }
-  ]
+  ],
+  "links": []
 }

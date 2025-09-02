@@ -2,7 +2,7 @@
   "id": "eed2d26e-8960-4dc6-aa44-4b308abf291a",
   "category": "主食",
   "name": "炒意大利面",
-  "description": "",
+  "description": "意大利面\n这是一道软糯爽口的意大利面的做法，非常简单，用时大概 30 分钟。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/炒意大利面/炒意大利面.md",
   "image_id": "e6a88ddc-934d-4bcc-8334-8f8a3ee09e19",
   "video_link": [],
@@ -142,5 +142,6 @@
     20,
     28
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

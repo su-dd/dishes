@@ -2,7 +2,7 @@
   "id": "590cab78-b36c-4813-889f-4cb830ac00f3",
   "category": "甜品",
   "name": "烤蛋挞",
-  "description": "",
+  "description": "烤蛋挞\n烤蛋挞是一道简单易于制作的甜品 且半成品可置于冰箱冷冻长时间保存 随吃随取 出品时间约 1 小时\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/dessert/烤蛋挞/烤蛋挞.md",
   "image_id": "1f3f60e1-9697-4e23-a9d0-150c53244b8f",
   "video_link": [],
@@ -180,5 +180,6 @@
     763,
     1488
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

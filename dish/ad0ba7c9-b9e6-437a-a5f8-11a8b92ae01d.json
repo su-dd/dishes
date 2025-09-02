@@ -2,7 +2,7 @@
   "id": "ad0ba7c9-b9e6-437a-a5f8-11a8b92ae01d",
   "category": "蔬菜",
   "name": "拔丝土豆",
-  "description": "",
+  "description": "拔丝土豆是一道色香味俱全的特色名菜，属于鲁菜系\n预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
   "image_id": "bc64152e-3a52-456e-8434-c64f43bffbbb",
   "video_link": [],
@@ -145,5 +145,6 @@
       "type": "list_item",
       "content": "对于使用剩余的食用油，可以考虑重新收集到油壶。"
     }
-  ]
+  ],
+  "links": []
 }

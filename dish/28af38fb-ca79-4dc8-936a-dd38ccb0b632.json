@@ -2,7 +2,7 @@
   "id": "28af38fb-ca79-4dc8-936a-dd38ccb0b632",
   "category": "肉食",
   "name": "蒜苔炒肉末",
-  "description": "",
+  "description": "蒜苔炒肉末是一道简单易做的菜。这是一道北方家常菜，以做法简单、味道上乘的特点，在广大北方人民群众中备受喜爱。\n预估烹饪难度：★★\n",
   "source_path": "dishes/meat_dish/蒜苔炒肉末.md",
   "image_id": null,
   "video_link": [],
@@ -180,5 +180,6 @@
       "type": "list_item",
       "content": "选用五花肉薄片是因为切肉简单且不用腌制即可入味"
     }
-  ]
+  ],
+  "links": []
 }

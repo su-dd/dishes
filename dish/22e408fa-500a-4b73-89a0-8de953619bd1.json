@@ -2,7 +2,7 @@
   "id": "22e408fa-500a-4b73-89a0-8de953619bd1",
   "category": "肉食",
   "name": "尖叫牛蛙",
-  "description": "",
+  "description": "示例菜成品\n尖叫牛蛙是一道容易完成的菜。一般初学者只需要 1-2 小时即可完成。该菜品味道鲜美之外，还具有开胃功效，非常适宜食欲不佳的时候做，老少皆宜。（能吃辣最好）\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
   "image_id": "76801fcd-b770-46af-bb6a-4224c88bbdda",
   "video_link": [],
@@ -284,5 +284,6 @@
       "type": "list_item",
       "content": "生粉抓揉的时候要均匀覆盖蛙肉"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "fd81f02a-29ca-42c3-9ea5-2c3e105cdf02",
   "category": "水产",
   "name": "黄油煎虾",
-  "description": "",
+  "description": "示例菜成品\n黄油煎虾是一道制作相对简单、风味极佳的菜式，主要耗时在于处理活虾，总耗时在一个小时内，适合初学者进行烹饪。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/aquatic/黄油煎虾/黄油煎虾.md",
   "image_id": "d843bb56-a1b0-4836-b5a8-cde2c72a2c18",
   "video_link": [
@@ -142,5 +142,6 @@
       "type": "list_item",
       "content": "冯小厨的菜谱"
     }
-  ]
+  ],
+  "links": []
 }

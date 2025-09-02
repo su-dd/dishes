@@ -2,7 +2,7 @@
   "id": "ef7b36ee-ffdd-4b05-9e64-f64ab9947bc5",
   "category": "主食",
   "name": "酱拌荞麦面",
-  "description": "",
+  "description": "酱拌荞麦面营养健康、酸甜可口\n预估烹饪难度：★★\n",
   "source_path": "dishes/staple/酱拌荞麦面/酱拌荞麦面.md",
   "image_id": "3b806929-a981-4816-9485-2269277767d0",
   "video_link": [],
@@ -132,5 +132,6 @@
       "type": "list_item",
       "content": "荞麦面跟其他面条热量几乎一致，所以不适合作为减脂的主食"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "c56a1bfd-303a-47d0-9bb8-e26eab8c5db7",
   "category": "佐料",
   "name": "糖醋汁",
-  "description": "",
+  "description": "糖醋汁通常情况下由清水、白糖、白醋等制成，有些人喜欢放一些番茄酱来增添不一样的酸甜味或放一些淀粉来增加菜肴汤汁的粘性和浓度，糖醋汁可用于糖醋鱼、糖醋里脊、糖醋排骨等菜品的制作\n可依据糖醋汁配制的经典比例 1：2：3：4：5 来调制糖醋汁\n预估烹饪难度：★★\n",
   "source_path": "dishes/condiment/糖醋汁.md",
   "image_id": null,
   "video_link": [],
@@ -95,5 +95,6 @@
     8,
     18
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

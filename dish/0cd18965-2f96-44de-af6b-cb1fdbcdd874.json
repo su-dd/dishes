@@ -2,7 +2,7 @@
   "id": "0cd18965-2f96-44de-af6b-cb1fdbcdd874",
   "category": "主食",
   "name": "螺蛳粉",
-  "description": "",
+  "description": "正宗的螺蛳粉是不臭的！\n预估烹饪难度：★\n",
   "source_path": "dishes/staple/螺蛳粉.md",
   "image_id": null,
   "video_link": [],
@@ -134,5 +134,6 @@
       "type": "list_item",
       "content": "配料的选择请依照个人口味"
     }
-  ]
+  ],
+  "links": []
 }

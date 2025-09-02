@@ -2,7 +2,7 @@
   "id": "702c066d-d91e-48dd-9222-5c2f6a51c07f",
   "category": "肉食",
   "name": "小米辣炒肉",
-  "description": "",
+  "description": "⚠️注意：不建议清淡饮食的尝试。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/小米辣炒肉.md",
   "image_id": null,
   "video_link": [],
@@ -142,5 +142,6 @@
     10,
     15
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

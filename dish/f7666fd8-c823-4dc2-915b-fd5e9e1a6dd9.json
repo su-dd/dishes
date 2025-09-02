@@ -2,7 +2,7 @@
   "id": "f7666fd8-c823-4dc2-915b-fd5e9e1a6dd9",
   "category": "蔬菜",
   "name": "蚝油三鲜菇",
-  "description": "",
+  "description": "几分钟就能做出的蚝油蘑菇，滑嫩入味鲜美可口，别提多好吃了。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
   "image_id": "77e96b11-6287-444d-9cd1-367fe695696f",
   "video_link": [],
@@ -251,5 +251,6 @@
     21,
     32
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

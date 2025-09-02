@@ -2,7 +2,7 @@
   "id": "04c00ecf-9afa-44de-997d-8fa664b99b2e",
   "category": "蔬菜",
   "name": "西红柿炒鸡蛋",
-  "description": "",
+  "description": "西红柿炒蛋是中国家常几乎最常见的一道菜肴。它的原材料易于搜集，制作步骤也较为简单，所以非常适合新厨师上手，是很多人学习做菜时做的第一道菜。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/西红柿炒鸡蛋.md",
   "image_id": null,
   "video_link": [],
@@ -179,11 +179,20 @@
   "additional_notes": [
     {
       "type": "list_item",
-      "content": "快速做法：直接在有的锅中加入 ，与鸡蛋一起翻炒直至西红柿软烂继续 第 10 步"
+      "content": "快速做法：直接在有半熟鸡蛋的锅中加入 西红柿块，与鸡蛋一起翻炒直至西红柿软烂继续 第 10 步"
     },
     {
       "type": "list_item",
       "content": "加入盐 改为 “加入两滴生抽”"
+    },
+    {
+      "type": "list_item",
+      "content": "直接在有半熟鸡蛋的锅中加入 西红柿块，与鸡蛋一起翻炒直至西红柿软烂"
+    },
+    {
+      "type": "list_item",
+      "content": "继续 第 10 步"
     }
-  ]
+  ],
+  "links": []
 }

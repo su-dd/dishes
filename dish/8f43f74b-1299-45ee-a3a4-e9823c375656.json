@@ -2,7 +2,7 @@
   "id": "8f43f74b-1299-45ee-a3a4-e9823c375656",
   "category": "饮品",
   "name": "金汤力",
-  "description": "",
+  "description": "饮酒有害健康，未成年人禁止饮酒\n预估烹饪难度：★★\n",
   "source_path": "dishes/drink/金汤力/金汤力.md",
   "image_id": "73a181b4-ca6b-4e20-9b4f-f92891376f65",
   "video_link": [],
@@ -177,5 +177,6 @@
     1,
     2
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

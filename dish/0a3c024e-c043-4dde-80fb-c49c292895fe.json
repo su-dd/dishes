@@ -2,7 +2,7 @@
   "id": "0a3c024e-c043-4dde-80fb-c49c292895fe",
   "category": "蔬菜",
   "name": "红烧茄子",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/vegetable_dish/红烧茄子.md",
   "image_id": null,
   "video_link": [],
@@ -261,5 +261,6 @@
     32,
     53
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "2ab9486e-d409-4f19-87e3-839b5849ae1a",
   "category": "早餐",
   "name": "牛奶燕麦",
-  "description": "",
+  "description": "高蛋白，粗谷物纤维，饱腹感的懒人快速营养早餐，3 分钟 搞定\n预估烹饪难度：★\n",
   "source_path": "dishes/breakfast/牛奶燕麦.md",
   "image_id": null,
   "video_link": [],
@@ -164,5 +164,6 @@
       "type": "list_item",
       "content": "不建议使用玻璃杯进行烹饪，理由同上"
     }
-  ]
+  ],
+  "links": []
 }

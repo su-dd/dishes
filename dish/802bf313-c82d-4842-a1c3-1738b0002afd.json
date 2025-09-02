@@ -2,7 +2,7 @@
   "id": "802bf313-c82d-4842-a1c3-1738b0002afd",
   "category": "水产",
   "name": "小龙虾",
-  "description": "",
+  "description": "成品\n在家里做的小龙虾，肉质细嫩，鲜嫩多汁，干净卫生。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/aquatic/小龙虾/小龙虾.md",
   "image_id": "fbb7eddd-7662-4bb8-bf31-c0fa61fd006a",
   "video_link": [],
@@ -194,5 +194,6 @@
     22,
     36
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "bb74f361-ad77-478b-a0b6-d801d0bf7ef4",
   "category": "肉食",
   "name": "西红柿牛腩",
-  "description": "",
+  "description": "西红柿牛腩汤汁浓厚酸甜可口，牛肉软绵醇香，搭配米饭绝配。一般初学者需要 90 分钟完成。\n预估烹饪难度：★★★★★\n",
   "source_path": "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
   "image_id": null,
   "video_link": [],
@@ -276,5 +276,8 @@
       "type": "list_item",
       "content": "绝对不用番茄酱和少加佐料，尽可能还原食材的原味"
     }
+  ],
+  "links": [
+    "tips/learn/高压力锅.md"
   ]
 }

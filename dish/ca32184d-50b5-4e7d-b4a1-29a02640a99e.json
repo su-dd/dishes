@@ -2,7 +2,7 @@
   "id": "ca32184d-50b5-4e7d-b4a1-29a02640a99e",
   "category": "蔬菜",
   "name": "雷椒皮蛋",
-  "description": "",
+  "description": "雷椒皮蛋是一个非常简单的下饭凉菜，这道菜操作比较简单，且食材常见, 最终成品卖相不会很好看，但是是夏天下饭的神器之一\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/雷椒皮蛋.md",
   "image_id": null,
   "video_link": [],
@@ -207,5 +207,6 @@
     19,
     31
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

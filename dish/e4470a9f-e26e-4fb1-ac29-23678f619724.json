@@ -2,7 +2,7 @@
   "id": "e4470a9f-e26e-4fb1-ac29-23678f619724",
   "category": "早餐",
   "name": "美式炒蛋",
-  "description": "",
+  "description": "美式炒蛋具有松软鲜嫩的口感,与平时的炒蛋不同,美式炒蛋中加入了少量牛奶,使得蛋花更加的细密均匀,并且营养丰富~\n预估烹饪难度：★★\n",
   "source_path": "dishes/breakfast/美式炒蛋.md",
   "image_id": null,
   "video_link": [],
@@ -145,5 +145,6 @@
       "type": "list_item",
       "content": "考虑到很多人是一人食就炒一两个鸡蛋，口径比较小的锅或许更方便在锅中均匀搅拌。"
     }
-  ]
+  ],
+  "links": []
 }

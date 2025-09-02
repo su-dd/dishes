@@ -2,7 +2,7 @@
   "id": "faed00cd-67ab-4825-ae47-abae262877a9",
   "category": "主食",
   "name": "微波炉腊肠煲仔饭",
-  "description": "",
+  "description": "微波炉腊肠煲仔饭\n程序员以单身汉居多 🐶，做再多的菜也会有一个人吃不完的烦恼，因此一份简单的腊肠煲仔饭则刚刚好。\n使用微波炉烹制仅需 15 分钟 ，既营养又美味，这是一道简单且细腻的主食，给 TA 露上一手吧。\n预估烹饪难度：★★\n",
   "source_path": "dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
   "image_id": "5faca0b2-6921-4053-8701-a988e21dec15",
   "video_link": [],
@@ -237,5 +237,6 @@
     20,
     32
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

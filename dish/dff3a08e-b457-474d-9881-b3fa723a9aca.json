@@ -2,7 +2,7 @@
   "id": "dff3a08e-b457-474d-9881-b3fa723a9aca",
   "category": "主食",
   "name": "煮锅蒸米饭",
-  "description": "",
+  "description": "预估烹饪难度：★★\n",
   "source_path": "dishes/staple/米饭/煮锅蒸米饭.md",
   "image_id": "c847fd70-34cc-4f56-a5e7-79630b07a825",
   "video_link": [
@@ -122,5 +122,6 @@
     20,
     30
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

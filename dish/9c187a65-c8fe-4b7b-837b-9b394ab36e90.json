@@ -2,7 +2,7 @@
   "id": "9c187a65-c8fe-4b7b-837b-9b394ab36e90",
   "category": "蔬菜",
   "name": "红烧冬瓜",
-  "description": "",
+  "description": "红烧冬瓜是一道具有色泽红亮，香鲜味美、营养价值丰富的家常菜\n预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
   "image_id": "bf05cf94-46e7-4b5b-88a0-4838d594134c",
   "video_link": [],
@@ -175,5 +175,6 @@
     21,
     27
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

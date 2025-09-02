@@ -2,7 +2,7 @@
   "id": "4e52a4be-075f-4787-843f-b0dad36157f9",
   "category": "蔬菜",
   "name": "油醋爆蛋",
-  "description": "",
+  "description": "油醋爆蛋是十分简单但是色香味一绝的一道菜，属于湘菜。制作十分简单，大约十分钟左右。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/油醋爆蛋.md",
   "image_id": null,
   "video_link": [],
@@ -188,5 +188,6 @@
       "type": "list_item",
       "content": "亲测老恒和酿造香醋零添加口味最好，醋香是本菜灵魂所在。"
     }
-  ]
+  ],
+  "links": []
 }

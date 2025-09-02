@@ -2,7 +2,7 @@
   "id": "30c12c1e-0d8c-41d4-bc7e-f40a1e1d40ff",
   "category": "蔬菜",
   "name": "话梅煮毛豆",
-  "description": "",
+  "description": "酸甜可口、营养价值高的一种简易美食\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md",
   "image_id": "c094299b-0147-49b3-a52b-fc8a277cda87",
   "video_link": [],
@@ -76,5 +76,6 @@
     35,
     45
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

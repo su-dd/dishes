@@ -2,7 +2,7 @@
   "id": "98bd649f-bb49-4bb4-9c80-f52b6e7fe759",
   "category": "主食",
   "name": "炒方便面",
-  "description": "",
+  "description": "这是在探究了传统煮方便面的改良方向之后，进行的一次最成功的尝试。它能够让方便面的美味程度提升很大程度，简单好做。开始炒吧！\n预估烹饪难度：★★\n",
   "source_path": "dishes/staple/炒方便面.md",
   "image_id": null,
   "video_link": [],
@@ -238,5 +238,6 @@
     11,
     17
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "641f0919-9df6-4941-baa6-61fc5ac7c93e",
   "category": "早餐",
   "name": "微波炉蛋糕",
-  "description": "",
+  "description": "微波炉\"叮\"蛋糕，大约需要 2 分钟 就能搞定！初学者所需时间预计延长至 20 分钟。\n预估烹饪难度：★\n",
   "source_path": "dishes/breakfast/微波炉蛋糕.md",
   "image_id": null,
   "video_link": [],
@@ -211,5 +211,6 @@
       "type": "list_item",
       "content": "食材不要超过容器的3/4!!"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "9db79980-17d0-4105-8560-450d0fcf2505",
   "category": "蔬菜",
   "name": "菠菜炒鸡蛋",
-  "description": "",
+  "description": "这道菜难度系数简单，营养丰富。\n示例菜成品\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
   "image_id": "033b70aa-88ff-48c8-a2bc-04ebbe5da9df",
   "video_link": [],
@@ -174,5 +174,6 @@
     5,
     9
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

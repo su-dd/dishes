@@ -2,7 +2,7 @@
   "id": "793bdb70-44aa-4895-b522-029eaedc24f2",
   "category": "蔬菜",
   "name": "地三鲜",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/地三鲜.md",
   "image_id": null,
   "video_link": [],
@@ -331,5 +331,6 @@
     12,
     17
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

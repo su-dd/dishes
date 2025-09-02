@@ -2,7 +2,7 @@
   "id": "c52ef747-924d-40b9-a62a-75b23189b381",
   "category": "蔬菜",
   "name": "凉拌油麦菜",
-  "description": "",
+  "description": "预估烹饪难度：★\n",
   "source_path": "dishes/vegetable_dish/凉拌油麦菜.md",
   "image_id": null,
   "video_link": [],
@@ -115,5 +115,6 @@
       "type": "list_item",
       "content": "芝麻酱一定要和油麦菜混合均匀才更好吃."
     }
-  ]
+  ],
+  "links": []
 }

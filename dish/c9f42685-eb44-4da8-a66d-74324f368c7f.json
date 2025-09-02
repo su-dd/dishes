@@ -2,7 +2,7 @@
   "id": "c9f42685-eb44-4da8-a66d-74324f368c7f",
   "category": "肉食",
   "name": "凉拌鸡丝",
-  "description": "",
+  "description": "凉拌鸡丝成品隔离期间的一道快手菜，少油低卡，制作简单，预计制作时间 30 分钟\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
   "image_id": "a29eb726-910c-4763-9b33-831eec309e64",
   "video_link": [],
@@ -211,5 +211,6 @@
       "type": "list_item",
       "content": "这道菜是隔离期间用现有材料做的，有条件可以加入香菜、小葱等进行调味，喜欢吃辣的可以加入辣椒油"
     }
-  ]
+  ],
+  "links": []
 }

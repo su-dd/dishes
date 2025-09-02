@@ -2,7 +2,7 @@
   "id": "af26e694-5c7e-4db3-81f7-062c72052d54",
   "category": "饮品",
   "name": "长岛冰茶",
-  "description": "",
+  "description": "饮酒有害健康，未成年人禁止饮酒\n预估烹饪难度：★★\n",
   "source_path": "dishes/drink/长岛冰茶.md",
   "image_id": null,
   "video_link": [],
@@ -157,5 +157,6 @@
     2,
     3
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

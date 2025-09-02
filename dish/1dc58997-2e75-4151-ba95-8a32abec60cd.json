@@ -2,7 +2,7 @@
   "id": "1dc58997-2e75-4151-ba95-8a32abec60cd",
   "category": "蔬菜",
   "name": "陕北熬豆角",
-  "description": "",
+  "description": "陕北熬豆角是一种对初学者极其友善的菜，因其制作方式使用熬的方式，食材可多可少，可有可无，几乎不存在失败的可能性。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/陕北熬豆角.md",
   "image_id": null,
   "video_link": [],
@@ -212,5 +212,6 @@
       "type": "list_item",
       "content": "加入西红柿后开始继续熬制后，需要偶尔翻搅防止糊底"
     }
-  ]
+  ],
+  "links": []
 }

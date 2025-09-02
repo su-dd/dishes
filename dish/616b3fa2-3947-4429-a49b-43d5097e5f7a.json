@@ -2,7 +2,7 @@
   "id": "616b3fa2-3947-4429-a49b-43d5097e5f7a",
   "category": "速食",
   "name": "速冻馄饨",
-  "description": "",
+  "description": "馄饨是一种起源于中国的一种民间传统面食，饺子由其分化而出，有皮薄馅嫩、汤清味鲜的特点。\n预估烹饪难度：★★\n",
   "source_path": "dishes/semi-finished/速冻馄饨.md",
   "image_id": null,
   "video_link": [],
@@ -148,5 +148,9 @@
       "type": "list_item",
       "content": "出锅后也可以加入水煮荷包蛋（太阳蛋）一起食用。"
     }
+  ],
+  "links": [
+    "dishes/semi-finished/速冻水饺.md",
+    "dishes/breakfast/太阳蛋.md"
   ]
 }

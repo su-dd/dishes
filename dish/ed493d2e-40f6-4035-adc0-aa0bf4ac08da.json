@@ -2,7 +2,7 @@
   "id": "ed493d2e-40f6-4035-adc0-aa0bf4ac08da",
   "category": "肉食",
   "name": "白菜猪肉炖粉条",
-  "description": "",
+  "description": "白菜猪肉炖粉条是一道简单易做的菜。这是一道传统的东北家常菜，以做法简单、味道上乘的特点，在广大东北人民群众中备受喜爱。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/白菜猪肉炖粉条.md",
   "image_id": null,
   "video_link": [],
@@ -206,5 +206,6 @@
       "type": "list_item",
       "content": "最后一步尝味，如果发现有味道淡、未熟，继续加盖煮一段时间"
     }
-  ]
+  ],
+  "links": []
 }

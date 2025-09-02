@@ -2,7 +2,7 @@
   "id": "4ec773b3-5232-418b-911e-dff2c678c95b",
   "category": "汤类",
   "name": "银耳莲子粥",
-  "description": "",
+  "description": "银耳莲子粥\n银耳莲子粥是一道营养非常丰富的粥。口味偏甜，具有养心安神的功效。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/soup/银耳莲子粥/银耳莲子粥.md",
   "image_id": "6c108a27-df52-47a3-b8d4-8d13326e06af",
   "video_link": [],
@@ -153,5 +153,6 @@
       "type": "list_item",
       "content": "当银耳呈现粘稠状态时，需要用勺子及时搅拌，防止银耳糊在锅底"
     }
-  ]
+  ],
+  "links": []
 }

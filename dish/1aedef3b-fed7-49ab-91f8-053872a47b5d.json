@@ -2,7 +2,7 @@
   "id": "1aedef3b-fed7-49ab-91f8-053872a47b5d",
   "category": "主食",
   "name": "炸酱面",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/炸酱面.md",
   "image_id": null,
   "video_link": [],
@@ -208,5 +208,6 @@
       "type": "list_item",
       "content": "甜咸口个人有爱好，两种酱的配比需要自己迭代优化。"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "44e97fcf-8837-4274-9ab4-de5c6c48036d",
   "category": "水产",
   "name": "红烧鱼头",
-  "description": "",
+  "description": "WARNING 如果没有使用过菜刀剁过肉类食物，那么并不推荐使用该菜单！！！\n在操作中，锋利的菜刀可能会划伤手指，请一定要小心。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/aquatic/红烧鱼头.md",
   "image_id": null,
   "video_link": [],
@@ -403,5 +403,8 @@
     114,
     204
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": [
+    "tips/learn/学习炒与煎.md"
+  ]
 }

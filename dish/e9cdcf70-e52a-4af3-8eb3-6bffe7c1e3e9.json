@@ -2,7 +2,7 @@
   "id": "e9cdcf70-e52a-4af3-8eb3-6bffe7c1e3e9",
   "category": "主食",
   "name": "汤面",
-  "description": "",
+  "description": "汤面是许多人喜爱的基础主食，根据个人喜好加入任何自己喜欢的食材，营养全面，固液兼具，材料易得，做法简单，有手就行。\n预估烹饪难度：★★\n",
   "source_path": "dishes/staple/汤面.md",
   "image_id": null,
   "video_link": [],
@@ -205,5 +205,6 @@
       "type": "list_item",
       "content": "如掌握不好加盐量，可采用少量多次添加的方法，以免过量"
     }
-  ]
+  ],
+  "links": []
 }

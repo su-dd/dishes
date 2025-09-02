@@ -2,7 +2,7 @@
   "id": "ddb0ec61-5ea1-4229-b488-3e12e3f6cb60",
   "category": "肉食",
   "name": "猪皮冻",
-  "description": "",
+  "description": "无骨鸡爪成品\n猪皮冻是一道简单易做的菜。北方人年夜饭餐桌上的“常青树”，晶莹剔透的外表，滑嫩 Q 弹的口感，是不折不扣的超级下酒菜。\n猪皮美容养颜，难度稍高，预计制作时长 24 小时。\n预估烹饪难度：★★★★★\n",
   "source_path": "dishes/meat_dish/猪皮冻/猪皮冻.md",
   "image_id": "b91b370d-103b-490b-9d88-ae38490ebc6c",
   "video_link": [
@@ -235,5 +235,6 @@
       "type": "list_item",
       "content": "参考资料：铭哥说美食"
     }
-  ]
+  ],
+  "links": []
 }

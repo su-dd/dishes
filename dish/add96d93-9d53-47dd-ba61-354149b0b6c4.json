@@ -2,7 +2,7 @@
   "id": "add96d93-9d53-47dd-ba61-354149b0b6c4",
   "category": "主食",
   "name": "凉粉",
-  "description": "",
+  "description": "liangfen\n伤心凉粉吃了不会让人伤心的哦！\n预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/凉粉/凉粉.md",
   "image_id": "89d2b1e7-e16d-4a37-b9bc-cb76f846c763",
   "video_link": [],
@@ -196,5 +196,6 @@
       "type": "list_item",
       "content": "参考: 制作凉粉的详细步骤"
     }
-  ]
+  ],
+  "links": []
 }

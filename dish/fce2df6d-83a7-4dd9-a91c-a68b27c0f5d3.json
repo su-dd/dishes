@@ -2,7 +2,7 @@
   "id": "fce2df6d-83a7-4dd9-a91c-a68b27c0f5d3",
   "category": "蔬菜",
   "name": "烤茄子",
-  "description": "",
+  "description": "非常简单方便，而且香极了\n预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/烤茄子/烤茄子.md",
   "image_id": "53fea007-7878-4121-ac95-1a19ed4e126e",
   "video_link": [],
@@ -182,5 +182,6 @@
     22,
     32
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "7bb17445-0766-4742-bf68-5c2ea4938f33",
   "category": "肉食",
   "name": "南派红烧肉",
-  "description": "",
+  "description": "这份红烧肉教程是一道新手不败的菜谱。配着米饭好吃的停不下来，香糯无敌棒色泽诱人肥而不腻\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/红烧肉/南派红烧肉.md",
   "image_id": null,
   "video_link": [],
@@ -238,5 +238,9 @@
     90,
     123
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": [
+    "dishes/condiment/简易版炒糖色.md",
+    "dishes/condiment/简易版炒糖色.md"
+  ]
 }

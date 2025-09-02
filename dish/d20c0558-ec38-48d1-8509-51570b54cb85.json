@@ -2,7 +2,7 @@
   "id": "d20c0558-ec38-48d1-8509-51570b54cb85",
   "category": "汤类",
   "name": "昂刺鱼豆腐汤",
-  "description": "",
+  "description": "昂刺鱼/沙光鱼 豆腐汤 刺少 肉嫩 营养丰盛、适合任何年龄的小伙伴\n预估烹饪难度：★★★\n",
   "source_path": "dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
   "image_id": "b855f188-f182-4768-92ef-1a72f6e6096a",
   "video_link": [],
@@ -177,5 +177,6 @@
     38,
     40
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

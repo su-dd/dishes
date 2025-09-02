@@ -2,7 +2,7 @@
   "id": "47917c20-2251-48a7-80fb-36455821d435",
   "category": "主食",
   "name": "扬州炒饭",
-  "description": "",
+  "description": "扬州炒饭是蛋炒饭的升级版，制作时间较长，但是制作步骤简单\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/staple/扬州炒饭/扬州炒饭.md",
   "image_id": "2c116d37-d6bc-44f7-9d8a-4ac2ad0b6b4c",
   "video_link": [],
@@ -279,5 +279,8 @@
       "type": "list_item",
       "content": "超市有青豆，胡萝卜，玉米粒的混合冷冻包装，可以使用这个省去切丁的烦恼，推荐 Pams Mixed Veges 很便宜，或者类似的都可以用（如下图）"
     }
+  ],
+  "links": [
+    "tips/learn/学习炒与煎.md"
   ]
 }

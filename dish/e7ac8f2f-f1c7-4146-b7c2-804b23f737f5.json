@@ -2,7 +2,7 @@
   "id": "e7ac8f2f-f1c7-4146-b7c2-804b23f737f5",
   "category": "肉食",
   "name": "香干芹菜炒肉",
-  "description": "",
+  "description": "香干芹菜炒肉\n香干芹菜炒肉是一道非常简单的家常菜小炒，据说多吃芹菜对于高血压有很好的缓解作用，加上香干和猪肉一起翻炒，还是很美味的。一般初学者只需要 30 分钟（含配菜时间）即可完成。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
   "image_id": "9d58940e-40ce-45ab-956d-50b4bd785458",
   "video_link": [],
@@ -248,5 +248,6 @@
       "type": "list_item",
       "content": "香干芹菜炒肉教程"
     }
-  ]
+  ],
+  "links": []
 }

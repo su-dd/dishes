@@ -2,7 +2,7 @@
   "id": "e45fa47a-9980-4f69-8d1e-91b0a03e9839",
   "category": "蔬菜",
   "name": "鸡蛋火腿炒黄瓜",
-  "description": "",
+  "description": "预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
   "image_id": null,
   "video_link": [],
@@ -162,5 +162,6 @@
       "type": "list_item",
       "content": "火腿是咸的，要在调味后才加入，这样不会让火腿也沾上盐"
     }
-  ]
+  ],
+  "links": []
 }

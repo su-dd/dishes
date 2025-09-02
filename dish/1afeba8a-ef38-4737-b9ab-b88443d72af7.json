@@ -2,7 +2,7 @@
   "id": "1afeba8a-ef38-4737-b9ab-b88443d72af7",
   "category": "蔬菜",
   "name": "椒盐玉米",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/椒盐玉米/椒盐玉米.md",
   "image_id": "0597c29b-409d-4e39-b7fa-8c09cb821c26",
   "video_link": [],
@@ -186,5 +186,6 @@
     23,
     26
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

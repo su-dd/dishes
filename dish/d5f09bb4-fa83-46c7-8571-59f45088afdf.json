@@ -2,7 +2,7 @@
   "id": "d5f09bb4-fa83-46c7-8571-59f45088afdf",
   "category": "肉食",
   "name": "老妈蹄花",
-  "description": "",
+  "description": "result 3\n红烧猪蹄营养丰富，口感细腻，软烂脱骨，配上酸辣汁简直太香！\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/老妈蹄花/老妈蹄花.md",
   "image_id": "c37cd386-2e2c-4296-aef3-ad5b8af76049",
   "video_link": [],
@@ -217,5 +217,6 @@
     659,
     785
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

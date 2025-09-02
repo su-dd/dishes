@@ -2,7 +2,7 @@
   "id": "83290aac-bf98-4e44-8b81-d05e262c75d3",
   "category": "主食",
   "name": "炒馍",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/炒馍.md",
   "image_id": null,
   "video_link": [],
@@ -190,5 +190,6 @@
       "type": "list_item",
       "content": "辅料也可根据个人口味方位蒜末，蒜苗等，可以单独爆香在混合"
     }
-  ]
+  ],
+  "links": []
 }

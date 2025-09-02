@@ -2,7 +2,7 @@
   "id": "830ce851-7d55-4e6c-9798-6aabc8177fed",
   "category": "肉食",
   "name": "香菇滑鸡",
-  "description": "",
+  "description": "香菇滑鸡\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
   "image_id": "d298668a-c845-4cd5-aaec-6d61bdfe58f5",
   "video_link": [],
@@ -221,6 +221,27 @@
     {
       "type": "list_item",
       "content": "鸡腿去骨操作较复杂，本人经验可供参考：鸡腿于案板摆正，骨头正对程序员，从头部划一刀至最底部，刀口要深，确保有碰到骨头用手扒拉肉到两边用刀尖隔开骨头上沾着的肉鸡腿翻面，刀紧贴骨头插入，挑断骨头与肉的连接点用刀尖切断最后的粘连即可"
+    },
+    {
+      "type": "list_item",
+      "content": "鸡腿于案板摆正，骨头正对程序员，从头部划一刀至最底部，刀口要深，确保有碰到骨头"
+    },
+    {
+      "type": "list_item",
+      "content": "用手扒拉肉到两边"
+    },
+    {
+      "type": "list_item",
+      "content": "用刀尖隔开骨头上沾着的肉"
+    },
+    {
+      "type": "list_item",
+      "content": "鸡腿翻面，刀紧贴骨头插入，挑断骨头与肉的连接点"
+    },
+    {
+      "type": "list_item",
+      "content": "用刀尖切断最后的粘连即可"
     }
-  ]
+  ],
+  "links": []
 }

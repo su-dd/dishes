@@ -2,7 +2,7 @@
   "id": "7be88082-d33d-43e4-8c6c-7b31640e55e0",
   "category": "肉食",
   "name": "香辣鸡爪煲",
-  "description": "",
+  "description": "香辣鸡爪煲\n香辣鸡爪煲口感 Q 弹，香辣浓郁，回味无穷。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
   "image_id": "b73158c2-e4c4-4e88-ae83-5af88f1a1adb",
   "video_link": [],
@@ -209,5 +209,6 @@
     45,
     55
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "4e355307-6b58-4bfb-afd5-5427556822aa",
   "category": "水产",
   "name": "鳊鱼炖豆腐",
-  "description": "",
+  "description": "鳊鱼炖豆腐\n预估烹饪难度：★★★\n",
   "source_path": "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
   "image_id": "1d557eca-89dd-49c1-8f9b-ff42a41b454c",
   "video_link": [],
@@ -258,5 +258,6 @@
       "type": "list_item",
       "content": "最后出锅时，加入一些切碎的大蒜，味道会更好"
     }
-  ]
+  ],
+  "links": []
 }

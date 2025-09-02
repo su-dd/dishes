@@ -2,7 +2,7 @@
   "id": "34b6f537-17a7-45ce-a7c2-e49f9bba20b7",
   "category": "蔬菜",
   "name": "凉拌莴笋",
-  "description": "",
+  "description": "凉拌莴笋，开胃小菜\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
   "image_id": "254296a4-5600-4afe-ab0c-54d6fbfe0538",
   "video_link": [],
@@ -214,5 +214,6 @@
       "type": "list_item",
       "content": "冰镇效果更加"
     }
-  ]
+  ],
+  "links": []
 }

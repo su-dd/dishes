@@ -2,7 +2,7 @@
   "id": "50c5d9c3-682b-4928-bffc-fce99c87aa6a",
   "category": "甜品",
   "name": "雪花酥",
-  "description": "",
+  "description": "雪花酥成品\n雪花酥是一个快捷简便的甜点，适合装盒送礼，制作耗时 30 分钟。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/dessert/雪花酥/雪花酥.md",
   "image_id": "1a9d837f-fb8e-4a8a-9ea9-0e2e67894167",
   "video_link": [],
@@ -170,5 +170,6 @@
       "type": "list_item",
       "content": "参考资料：【一口小锅 十分钟搞定的网红草莓“雪花酥”-哔哩哔哩】"
     }
-  ]
+  ],
+  "links": []
 }

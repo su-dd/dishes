@@ -2,7 +2,7 @@
   "id": "2073b047-057a-48a3-aea4-16199a373ea8",
   "category": "汤类",
   "name": "陈皮排骨汤",
-  "description": "",
+  "description": "新鲜的排骨除了拿来烧或者炖之外，还可以用来煲汤，搭配广东陈皮煲出来的汤非常养生，对脾胃、肺及咽喉都有一定的滋补功效，熬夜党必备。\n陈皮排骨汤\n预估烹饪难度：★★★\n",
   "source_path": "dishes/soup/陈皮排骨汤/陈皮排骨汤.md",
   "image_id": "974fefb3-392e-4cb2-a9dd-5d793ab43926",
   "video_link": [],
@@ -135,5 +135,6 @@
     99,
     105
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

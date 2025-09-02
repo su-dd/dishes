@@ -2,7 +2,7 @@
   "id": "04e6b0d4-0fc8-434a-b9e4-228b70f2e707",
   "category": "蔬菜",
   "name": "干锅花菜",
-  "description": "",
+  "description": "干锅花菜成品\n干锅花菜是湘菜常见的一道菜。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/干锅花菜/干锅花菜.md",
   "image_id": "02170264-8f15-4d35-a645-5ac4efd4c7e2",
   "video_link": [],
@@ -217,5 +217,6 @@
     36,
     44
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

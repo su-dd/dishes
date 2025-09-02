@@ -2,7 +2,7 @@
   "id": "327e2fb1-7c6a-4901-ab75-eb0dd7fba25c",
   "category": "早餐",
   "name": "水煮玉米",
-  "description": "",
+  "description": "大约 15 分钟可以完成制作。\n预估烹饪难度：★★\n",
   "source_path": "dishes/breakfast/水煮玉米.md",
   "image_id": null,
   "video_link": [],
@@ -101,5 +101,6 @@
     16,
     22
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "64609b3c-685b-41be-97ac-51fc65da675d",
   "category": "蔬菜",
   "name": "蚝油生菜",
-  "description": "",
+  "description": "预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/蚝油生菜.md",
   "image_id": null,
   "video_link": [],
@@ -160,5 +160,6 @@
     8,
     21
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "cf05c71a-b7dd-4ec0-9fa6-903cd9181a76",
   "category": "蔬菜",
   "name": "凉拌豆腐",
-  "description": "",
+  "description": "凉拌豆腐是一道清爽可口的家常凉菜。富含植物蛋白和钙质，低脂健康，非常适合夏季食用或作为日常佐餐。制作过程简单快捷，一般初学者只需要 10 分钟即可完成。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/凉拌豆腐.md",
   "image_id": null,
   "video_link": [],
@@ -221,5 +221,6 @@
       "type": "list_item",
       "content": "酱汁的比例可以根据个人口味进行调整。"
     }
-  ]
+  ],
+  "links": []
 }

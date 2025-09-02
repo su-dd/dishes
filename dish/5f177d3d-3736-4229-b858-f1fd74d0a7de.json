@@ -2,7 +2,7 @@
   "id": "5f177d3d-3736-4229-b858-f1fd74d0a7de",
   "category": "肉食",
   "name": "简易红烧肉",
-  "description": "",
+  "description": "这份红烧肉教程是一道新手不败的菜谱。配着米饭好吃的停不下来，香糯无敌棒色泽诱人肥而不腻。建议搭配米饭食用。\n红烧肉成品\n红烧肉成品\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/红烧肉/简易红烧肉.md",
   "image_id": "7b24ec65-5c8e-40d8-93c4-59bcb18b9837",
   "video_link": [],
@@ -299,5 +299,6 @@
     157,
     213
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

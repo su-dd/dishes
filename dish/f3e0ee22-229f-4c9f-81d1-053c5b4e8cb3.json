@@ -2,7 +2,7 @@
   "id": "f3e0ee22-229f-4c9f-81d1-053c5b4e8cb3",
   "category": "肉食",
   "name": "豆豉鲮鱼油麦菜",
-  "description": "",
+  "description": "豆豉鲮鱼油麦菜\n豆豉鲮鱼油麦菜是一到十分常见的菜，材料简单，操作方便，鲮鱼咸香，非常下饭。\n预估烹饪难度：★★\n",
   "source_path": "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
   "image_id": "8fae2c7f-fb0f-474a-baa4-beae6edefb00",
   "video_link": [],
@@ -178,6 +178,11 @@
     {
       "type": "list_item",
       "content": "注意事项：鲮鱼罐头本身带味道，加入生抽后够味，无需下盐"
+    },
+    {
+      "type": "list_item",
+      "content": "鲮鱼罐头本身带味道，加入生抽后够味，无需下盐"
     }
-  ]
+  ],
+  "links": []
 }

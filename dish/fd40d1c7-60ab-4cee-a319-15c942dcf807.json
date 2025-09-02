@@ -2,7 +2,7 @@
   "id": "fd40d1c7-60ab-4cee-a319-15c942dcf807",
   "category": "佐料",
   "name": "油酥",
-  "description": "",
+  "description": "油酥是由面粉与热油混合调制的，通常在烙饼时涂点油酥，可以使得饼子层层分明，外酥里软，口感更佳。\n预估烹饪难度：★★\n",
   "source_path": "dishes/condiment/油酥.md",
   "image_id": null,
   "video_link": [],
@@ -73,5 +73,6 @@
     0,
     1
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

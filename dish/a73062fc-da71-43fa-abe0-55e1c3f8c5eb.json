@@ -2,7 +2,7 @@
   "id": "a73062fc-da71-43fa-abe0-55e1c3f8c5eb",
   "category": "肉食",
   "name": "山西过油肉",
-  "description": "",
+  "description": "过油肉是山西传统名菜，有很多年历史，基本家家都会做。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/山西过油肉.md",
   "image_id": null,
   "video_link": [],
@@ -250,5 +250,6 @@
       "type": "list_item",
       "content": "起锅前也可以打个薄薄的水淀粉，口感更佳。"
     }
-  ]
+  ],
+  "links": []
 }

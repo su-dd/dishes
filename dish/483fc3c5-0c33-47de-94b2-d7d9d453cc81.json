@@ -2,7 +2,7 @@
   "id": "483fc3c5-0c33-47de-94b2-d7d9d453cc81",
   "category": "速食",
   "name": "速冻汤圆",
-  "description": "",
+  "description": "速冻汤圆\n速冻汤圆是一道简单易做的菜。一般初学者只需要 6 分钟即可完成。\n预估烹饪难度：★\n",
   "source_path": "dishes/semi-finished/速冻汤圆/速冻汤圆.md",
   "image_id": "4ed6963d-0b5a-4071-8db8-4438aaf455ed",
   "video_link": [],
@@ -93,5 +93,6 @@
       "type": "list_item",
       "content": "假如微波炉里碗太烫无法取出，可以用毛巾，或者某些微波炉可以连托盘一起取出。"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "60dd7fe0-f45f-4972-9d89-6c243e6d165a",
   "category": "蔬菜",
   "name": "西红柿豆腐汤羹",
-  "description": "",
+  "description": "西红柿豆腐汤羹是一道很清淡美味的汤羹\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
   "image_id": "814744a7-b4c1-42a1-af1e-022ed0ce6bff",
   "video_link": [],
@@ -135,5 +135,6 @@
     5,
     7
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

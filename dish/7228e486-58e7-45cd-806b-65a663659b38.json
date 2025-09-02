@@ -2,7 +2,7 @@
   "id": "7228e486-58e7-45cd-806b-65a663659b38",
   "category": "肉食",
   "name": "酱牛肉",
-  "description": "",
+  "description": "酱牛肉\n家常酱牛肉营养丰富，味道香，不论是当作主食还是佐餐都很棒。一般初学者只需要 10 小时即可完成。\n预估烹饪难度：★★★★★\n",
   "source_path": "dishes/meat_dish/酱牛肉/酱牛肉.md",
   "image_id": "9aee584d-b020-4463-bab3-1cf419d81e02",
   "video_link": [],
@@ -244,5 +244,6 @@
       "type": "list_item",
       "content": "下厨房app中的食谱"
     }
-  ]
+  ],
+  "links": []
 }

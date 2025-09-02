@@ -2,7 +2,7 @@
   "id": "58c7eb0a-4706-4eb5-95ce-851521c04da5",
   "category": "肉食",
   "name": "粉蒸肉",
-  "description": "",
+  "description": "粉蒸肉是一道经典的中式蒸菜，香味浓郁，口感软糯，营养丰富。适合家庭聚餐或节日宴客。此菜适合有一定烹饪经验的人士制作，预计从准备到完成约需 90 分钟。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/粉蒸肉.md",
   "image_id": null,
   "video_link": [],
@@ -235,5 +235,6 @@
       "type": "list_item",
       "content": "蒸制期间如水量低于锅底高度 1cm，应立即补充 500ml 热水（90°C 以上），以维持蒸汽充足"
     }
-  ]
+  ],
+  "links": []
 }

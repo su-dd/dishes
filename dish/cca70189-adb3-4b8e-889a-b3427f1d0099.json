@@ -2,7 +2,7 @@
   "id": "cca70189-adb3-4b8e-889a-b3427f1d0099",
   "category": "肉食",
   "name": "黄瓜炒肉",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/黄瓜炒肉.md",
   "image_id": null,
   "video_link": [],
@@ -187,5 +187,6 @@
     28,
     38
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

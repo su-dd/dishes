@@ -2,7 +2,7 @@
   "id": "3825d1f7-8e8b-4ab8-9fcd-1f634f1254c6",
   "category": "水产",
   "name": "水煮鱼",
-  "description": "",
+  "description": "水煮鱼是一道做法中等难度的硬菜。巴沙鱼富含优质蛋白且脂肪含量低，配合各种时令蔬菜十分营养健康。初学者一般需要 2 小时即可完成。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/aquatic/水煮鱼.md",
   "image_id": null,
   "video_link": [],
@@ -300,5 +300,10 @@
       "type": "list_item",
       "content": "How to Fillet a Fish 怎样给鱼剔骨"
     }
+  ],
+  "links": [
+    "tips/learn/学习腌.md",
+    "tips/learn/学习焯水.md",
+    "tips/learn/学习腌.md"
   ]
 }

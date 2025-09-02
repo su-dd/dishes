@@ -2,7 +2,7 @@
   "id": "69d3fb90-df57-485d-a951-42a7495b9990",
   "category": "肉食",
   "name": "贵州辣子鸡",
-  "description": "",
+  "description": "贵州辣子鸡\n贵州人对吃鸡的执恋\n过节日，吃鸡\n过生日，吃鸡\n生病，吃鸡\n有客人，吃鸡\n家人团聚，吃鸡\n不知道吃什么，那就吃鸡\n贵州辣子鸡多种配菜，香辣可口，香糯软烂\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
   "image_id": "2980ed1b-e9f3-4ad1-acc2-1c4b53a90dbb",
   "video_link": [],
@@ -242,5 +242,6 @@
       "type": "list_item",
       "content": "操作时，需要注意翻炒，因为糍粑辣椒会糊掉"
     }
-  ]
+  ],
+  "links": []
 }

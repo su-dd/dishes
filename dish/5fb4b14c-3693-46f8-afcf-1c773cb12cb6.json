@@ -2,7 +2,7 @@
   "id": "5fb4b14c-3693-46f8-afcf-1c773cb12cb6",
   "category": "主食",
   "name": "芝麻烧饼",
-  "description": "",
+  "description": "示例菜成品芝麻烧饼，外酥里软，简单易做。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/烧饼/芝麻烧饼.md",
   "image_id": "b7fb21be-6515-4ffb-9bd0-fbf5889e691d",
   "video_link": [],
@@ -197,5 +197,6 @@
       "type": "list_item",
       "content": "芝麻如果没有也可不用，一样好吃"
     }
-  ]
+  ],
+  "links": []
 }

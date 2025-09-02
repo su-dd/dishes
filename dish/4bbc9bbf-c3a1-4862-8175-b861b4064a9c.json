@@ -2,7 +2,7 @@
   "id": "4bbc9bbf-c3a1-4862-8175-b861b4064a9c",
   "category": "汤类",
   "name": "羊肉汤",
-  "description": "",
+  "description": "羊杂汤\n羊肉汤/羊肉汤简单易，有抵御寒冷、温润养胃、开胃健脾的功效，富含钙、铁、蛋白质等营养物质。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/soup/羊肉汤/羊肉汤.md",
   "image_id": "430faff1-5fcc-41c4-9dab-450ccee666e0",
   "video_link": [],
@@ -190,5 +190,6 @@
       "type": "list_item",
       "content": "加入开水时，注意要开大火，使油脂与汤汁更好的融合"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "cccc713f-813b-4376-b66a-148d3a2e5f4e",
   "category": "主食",
   "name": "蛋包饭",
-  "description": "",
+  "description": "蛋包饭是一道日式经典家常菜，由炒饭和嫩滑鸡蛋组成，口感丰富，色香味俱全。富含蛋白质、碳水和维生素，是非常适合早餐或正餐的选择。预估制作时间为 25 分钟。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/蛋包饭.md",
   "image_id": null,
   "video_link": [],
@@ -217,5 +217,6 @@
       "type": "list_item",
       "content": "如果不擅长包裹造型，也可以直接将炒饭铺盘后盖上蛋皮。"
     }
-  ]
+  ],
+  "links": []
 }

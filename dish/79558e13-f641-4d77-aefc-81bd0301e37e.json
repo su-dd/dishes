@@ -2,7 +2,7 @@
   "id": "79558e13-f641-4d77-aefc-81bd0301e37e",
   "category": "早餐",
   "name": "吐司果酱",
-  "description": "",
+  "description": "饱腹感的懒人快速营养早餐，2 分钟 搞定\n预估烹饪难度：★\n",
   "source_path": "dishes/breakfast/吐司果酱.md",
   "image_id": null,
   "video_link": [],
@@ -79,5 +79,6 @@
     2,
     3
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

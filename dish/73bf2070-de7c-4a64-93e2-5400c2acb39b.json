@@ -2,7 +2,7 @@
   "id": "73bf2070-de7c-4a64-93e2-5400c2acb39b",
   "category": "肉食",
   "name": "姜炒鸡",
-  "description": "",
+  "description": "姜炒鸡\n姜炒鸡是一道湖南口味菜，下饭五颗星，食材平平无奇又十分容易烹制，一学就会。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/姜炒鸡/姜炒鸡.md",
   "image_id": "dfd11e56-3b49-4e94-8985-059300280ce8",
   "video_link": [],
@@ -193,5 +193,6 @@
     39,
     42
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

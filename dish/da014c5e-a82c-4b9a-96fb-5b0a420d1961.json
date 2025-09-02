@@ -2,7 +2,7 @@
   "id": "da014c5e-a82c-4b9a-96fb-5b0a420d1961",
   "category": "甜品",
   "name": "龟苓膏",
-  "description": "",
+  "description": "龟苓膏成品\n预估烹饪难度：★★\n",
   "source_path": "dishes/dessert/龟苓膏/龟苓膏.md",
   "image_id": "94d5eb69-7046-439c-ad9e-fa319fef8a8d",
   "video_link": [],
@@ -130,5 +130,6 @@
       "type": "list_item",
       "content": "不同品牌龟苓膏粉浓度略有差异，建议参照包装说明调整配比。"
     }
-  ]
+  ],
+  "links": []
 }

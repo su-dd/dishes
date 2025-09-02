@@ -2,7 +2,7 @@
   "id": "9ff15566-d4b8-4bae-a103-a6b61bc8301d",
   "category": "汤类",
   "name": "番茄牛肉蛋花汤",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/soup/番茄牛肉蛋花汤.md",
   "image_id": null,
   "video_link": [],
@@ -212,5 +212,6 @@
       "type": "list_item",
       "content": "如果喜欢辣味，可以加入一定的辣椒或辣椒酱来调味"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "f3842d83-952a-4644-966b-86c2eb789354",
   "category": "水产",
   "name": "蒜蓉虾",
-  "description": "",
+  "description": "蒜蓉虾是广东省地方传统名菜，色香味俱全。\n预估烹饪难度：★★\n",
   "source_path": "dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
   "image_id": "630778f5-83d6-41cd-8da8-3d253c4c16fb",
   "video_link": [],
@@ -89,5 +89,6 @@
     4,
     5
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

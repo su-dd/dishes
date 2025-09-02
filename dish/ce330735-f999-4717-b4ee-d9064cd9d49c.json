@@ -2,7 +2,7 @@
   "id": "ce330735-f999-4717-b4ee-d9064cd9d49c",
   "category": "汤类",
   "name": "朱雀汤",
-  "description": "",
+  "description": "预估烹饪难度：★\n",
   "source_path": "dishes/soup/朱雀汤/朱雀汤.md",
   "image_id": "d9d71299-762d-45d3-a6cf-643e54c15c8c",
   "video_link": [],
@@ -112,5 +112,6 @@
       "type": "list_item",
       "content": "此汤乃去火神器！"
     }
-  ]
+  ],
+  "links": []
 }

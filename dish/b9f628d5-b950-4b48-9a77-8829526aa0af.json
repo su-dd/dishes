@@ -2,7 +2,7 @@
   "id": "b9f628d5-b950-4b48-9a77-8829526aa0af",
   "category": "肉食",
   "name": "糖醋里脊",
-  "description": "",
+  "description": "糖醋里脊是中国经典传统名菜之一，该菜品以猪里脊肉为主材，配以面粉、淀粉、醋等佐料，酸甜可口，让人食欲大开；该菜品在陕菜、豫菜、浙菜、鲁菜、川菜、淮扬菜、粤菜、闽菜里均有此菜。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/糖醋里脊.md",
   "image_id": null,
   "video_link": [],
@@ -224,5 +224,6 @@
       "type": "list_item",
       "content": "百度百科"
     }
-  ]
+  ],
+  "links": []
 }

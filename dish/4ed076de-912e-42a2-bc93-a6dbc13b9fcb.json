@@ -2,7 +2,7 @@
   "id": "4ed076de-912e-42a2-bc93-a6dbc13b9fcb",
   "category": "早餐",
   "name": "手抓饼",
-  "description": "",
+  "description": "预估烹饪难度：★★\n",
   "source_path": "dishes/breakfast/手抓饼.md",
   "image_id": null,
   "video_link": [],
@@ -176,5 +176,6 @@
       "type": "list_item",
       "content": "剩余生饼皮可冷藏保存 24 小时，使用时回温擀平即可。"
     }
-  ]
+  ],
+  "links": []
 }

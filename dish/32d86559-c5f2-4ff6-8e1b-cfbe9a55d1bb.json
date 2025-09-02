@@ -2,7 +2,7 @@
   "id": "32d86559-c5f2-4ff6-8e1b-cfbe9a55d1bb",
   "category": "蔬菜",
   "name": "水油焖蔬菜",
-  "description": "",
+  "description": "水油焖蔬菜中添加了油，这提升了口感，并且可提升脂溶性维生素的摄入。相比生吃蔬菜，好处更多。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/水油焖蔬菜.md",
   "image_id": null,
   "video_link": [],
@@ -132,5 +132,6 @@
       "type": "list_item",
       "content": "焖的时间不可过长"
     }
-  ]
+  ],
+  "links": []
 }

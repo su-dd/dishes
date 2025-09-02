@@ -2,7 +2,7 @@
   "id": "da700133-1873-45eb-a995-bcf7c9c4d024",
   "category": "肉食",
   "name": "带把肘子",
-  "description": "",
+  "description": "肘肉酥烂不腻，肘皮胶粘，香醇味美，辅佐以葱段，甜面酱，别有一番风味，因脚爪形似把柄，故得其名，是陕西省大荔县名菜。营养价值丰富，但制作难度较高。\n预估烹饪难度：★★★★★\n",
   "source_path": "dishes/meat_dish/带把肘子.md",
   "image_id": null,
   "video_link": [],
@@ -219,5 +219,6 @@
       "type": "list_item",
       "content": "蒸锅下半放水，上半放肘子，蒸时及时加水防止蒸干。"
     }
-  ]
+  ],
+  "links": []
 }

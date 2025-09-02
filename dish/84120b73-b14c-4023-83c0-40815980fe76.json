@@ -2,7 +2,7 @@
   "id": "84120b73-b14c-4023-83c0-40815980fe76",
   "category": "肉食",
   "name": "冷吃兔",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/冷吃兔.md",
   "image_id": null,
   "video_link": [],
@@ -292,5 +292,6 @@
     530,
     793
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

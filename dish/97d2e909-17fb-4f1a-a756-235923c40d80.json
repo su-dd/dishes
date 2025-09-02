@@ -2,7 +2,7 @@
   "id": "97d2e909-17fb-4f1a-a756-235923c40d80",
   "category": "蔬菜",
   "name": "凉拌黄瓜",
-  "description": "",
+  "description": "预估烹饪难度：★\n",
   "source_path": "dishes/vegetable_dish/凉拌黄瓜.md",
   "image_id": null,
   "video_link": [],
@@ -134,5 +134,6 @@
       "type": "list_item",
       "content": "推荐黄瓜去皮，口感更好"
     }
-  ]
+  ],
+  "links": []
 }

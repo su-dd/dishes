@@ -2,7 +2,7 @@
   "id": "86960ba5-187c-4974-8327-5e44a5a8d9bd",
   "category": "早餐",
   "name": "空气炸锅面包片",
-  "description": "",
+  "description": "健康饱肚子，适宜正在减脂期的程序员食用\n预估烹饪难度：★\n",
   "source_path": "dishes/breakfast/空气炸锅面包片.md",
   "image_id": null,
   "video_link": [],
@@ -94,5 +94,6 @@
       "type": "list_item",
       "content": "膳食纤维 6.0 克"
     }
-  ]
+  ],
+  "links": []
 }

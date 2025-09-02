@@ -2,7 +2,7 @@
   "id": "22ebab85-1d6d-404a-9228-3e68ef0fc9a9",
   "category": "饮品",
   "name": "杨枝甘露",
-  "description": "",
+  "description": "没用西谷米的原因是家里没有，但是有很多的奇亚籽就拿来代替。而且奇亚籽用泡不用煮，省了很多时间!\n预估烹饪难度：★★\n",
   "source_path": "dishes/drink/杨枝甘露.md",
   "image_id": null,
   "video_link": [],
@@ -118,5 +118,6 @@
     15,
     18
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

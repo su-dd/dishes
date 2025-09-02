@@ -2,7 +2,7 @@
   "id": "39b608cd-1942-47ce-ad9d-ad5d50bc189f",
   "category": "主食",
   "name": "河南蒸面条",
-  "description": "",
+  "description": "示例菜成品\n河南蒸面条是一道在河南坊间流行的小吃，也可以用家里的挂面制作。\n简单来讲，是先将挂面裹油放入蒸笼蒸熟，再加蔬菜配以调料炒，最后二次蒸制，以达到入味劲道的效果。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/staple/河南蒸面条/河南蒸面条.md",
   "image_id": "6ee9e600-98e6-48f2-a2cc-2beee0f9c597",
   "video_link": [],
@@ -317,5 +317,6 @@
       "type": "list_item",
       "content": "宽的、扁的 （口感比较软）"
     }
-  ]
+  ],
+  "links": []
 }

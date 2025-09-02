@@ -2,7 +2,7 @@
   "id": "c80ac070-bf6d-45e1-8266-f2a43f58e9d5",
   "category": "肉食",
   "name": "香煎五花肉",
-  "description": "",
+  "description": "香煎五花肉\n香煎五花肉一道简单易上手的菜。五花肉肥而不腻，生菜叶脆爽健康。稍微有下厨经验的人半小时便可制作完毕。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/香煎五花肉/香煎五花肉.md",
   "image_id": "c4833b52-a7b5-46e1-96cb-6b853f3de731",
   "video_link": [],
@@ -174,5 +174,6 @@
       "type": "list_item",
       "content": "操作时，小心被溅出的油烫到"
     }
-  ]
+  ],
+  "links": []
 }

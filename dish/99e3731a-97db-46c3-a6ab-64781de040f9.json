@@ -2,7 +2,7 @@
   "id": "99e3731a-97db-46c3-a6ab-64781de040f9",
   "category": "饮品",
   "name": "砂糖椰子冰沙",
-  "description": "",
+  "description": "alt text\n砂糖椰子冰沙是一种制作极其快速方便的饮料，若原料选择得当则口感丰富。然而制作时动静较大，适合白天在家制作以作为下午茶。\n预估烹饪难度：★\n",
   "source_path": "dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md",
   "image_id": "9d0e55ef-9260-495f-9f67-4241f13eba33",
   "video_link": [],
@@ -101,5 +101,6 @@
       "type": "list_item",
       "content": "在以上步骤中，瓶装椰汁可以提前冰冻，但是不宜超过 7 天，否则有变质风险。"
     }
-  ]
+  ],
+  "links": []
 }

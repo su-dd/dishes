@@ -2,7 +2,7 @@
   "id": "e46d3f23-56f7-4046-9257-595f404bbb9f",
   "category": "主食",
   "name": "老干妈拌面",
-  "description": "",
+  "description": "预估烹饪难度：★\n",
   "source_path": "dishes/staple/老干妈拌面.md",
   "image_id": null,
   "video_link": [],
@@ -133,5 +133,6 @@
     3,
     6
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

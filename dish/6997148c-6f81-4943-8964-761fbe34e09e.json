@@ -2,7 +2,7 @@
   "id": "6997148c-6f81-4943-8964-761fbe34e09e",
   "category": "主食",
   "name": "日式咖喱饭",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/staple/日式咖喱饭/日式咖喱饭.md",
   "image_id": "2c3dd5da-440d-4f2b-98ab-22c0b8eef11b",
   "video_link": [],
@@ -237,5 +237,9 @@
       "type": "list_item",
       "content": "世界美食教程的微博视频"
     }
+  ],
+  "links": [
+    "dishes/breakfast/太阳蛋.md",
+    "dishes/staple/米饭/电饭煲蒸米饭.md"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "2663080b-f6ea-4fbb-b59a-62b4b90a6e5d",
   "category": "早餐",
   "name": "金枪鱼酱三明治",
-  "description": "",
+  "description": "饱腹感很强的懒人早餐，营养很丰富，高蛋白，大概 5 分钟搞定。可以配着牛奶、咖啡等饮品一起吃。\n预估烹饪难度：★\n",
   "source_path": "dishes/breakfast/金枪鱼酱三明治.md",
   "image_id": null,
   "video_link": [],
@@ -114,5 +114,6 @@
       "type": "list_item",
       "content": "注意在按压操作之前不要将轻食机电源接通，以免引发安全问题"
     }
-  ]
+  ],
+  "links": []
 }

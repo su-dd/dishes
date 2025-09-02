@@ -2,7 +2,7 @@
   "id": "dbadba34-fad4-449e-aa8d-453eca03292d",
   "category": "水产",
   "name": "葱油桂鱼",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
   "image_id": null,
   "video_link": [],
@@ -273,5 +273,6 @@
     60,
     84
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

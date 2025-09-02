@@ -2,7 +2,7 @@
   "id": "6226b99d-2be8-46cd-a59f-b6924ba3ea8c",
   "category": "早餐",
   "name": "蒸花卷",
-  "description": "",
+  "description": "蒸花卷是一道简单易做的菜。能补充碳水化合物，膳食纤维。一般初学者只需要半小时即可完成。作为快手早餐，学会做之后，再也不会早上饿肚子了。\n预估烹饪难度：★★\n",
   "source_path": "dishes/breakfast/蒸花卷.md",
   "image_id": null,
   "video_link": [],
@@ -124,5 +124,6 @@
       "type": "list_item",
       "content": "操作时，需要注意观察锅里的水不能少于 50ml。"
     }
-  ]
+  ],
+  "links": []
 }

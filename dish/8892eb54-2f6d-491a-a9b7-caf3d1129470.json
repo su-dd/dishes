@@ -2,7 +2,7 @@
   "id": "8892eb54-2f6d-491a-a9b7-caf3d1129470",
   "category": "蔬菜",
   "name": "蒲烧茄子",
-  "description": "",
+  "description": "众所皆知，茄子🍆和土豆🥔是两种荤菜。这一道蒲烧茄子，从外观上之于鳗鱼正如土豆炖.*中的生姜之于土豆。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/蒲烧茄子.md",
   "image_id": null,
   "video_link": [],
@@ -167,5 +167,6 @@
       "type": "list_item",
       "content": "炒茄子（鱼香茄子、酱爆茄子）墙裂推荐浙茄，细长所以切成滚刀块刚刚好，皮很嫩不像这里需要去皮，茄子的味道适中。"
     }
-  ]
+  ],
+  "links": []
 }

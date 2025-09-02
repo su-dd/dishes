@@ -2,7 +2,7 @@
   "id": "a7cd85fb-fe15-4518-a86c-b9cf3c59fbc4",
   "category": "肉食",
   "name": "巴基斯坦牛肉咖喱",
-  "description": "",
+  "description": "巴基斯坦牛肉咖喱成品\nAchar gosht（巴基斯坦牛肉咖喱）是一道来自巴基斯坦的特色咖喱菜品。这道菜融合了咖喱的香浓和牛肉的软糯口感，风味独特，偏辣口。它富含优质蛋白质和多种维生素，营养价值丰富。制作过程需要 2.5 小时，步骤并不复杂，是一道适合在周末慢慢烹饪的美味佳肴。\n预估烹饪难度：★★★★★\n",
   "source_path": "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
   "image_id": "c6e9ecf7-b9a2-4511-98b9-08f9ce67d4e3",
   "video_link": [],
@@ -181,5 +181,6 @@
     135,
     208
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

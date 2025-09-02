@@ -2,7 +2,7 @@
   "id": "738903aa-33b2-49a6-8693-1ce7e3aad715",
   "category": "肉食",
   "name": "广式萝卜牛腩",
-  "description": "",
+  "description": "广式萝卜牛腩\n广式萝卜牛腩营养丰富，味道鲜美，汤汁浓郁、孩子食欲好了，成绩也好了。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
   "image_id": "eaf0480f-5574-4862-9519-a8901bb861b3",
   "video_link": [],
@@ -231,5 +231,6 @@
     166,
     181
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

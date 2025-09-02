@@ -2,7 +2,7 @@
   "id": "36fb3a0b-f26f-4038-b60d-b023b70f7c5f",
   "category": "甜品",
   "name": "酸奶意式奶冻",
-  "description": "",
+  "description": "示例菜成品\n意式奶冻非常适合作为餐后甜品，可以搭配果酱、水果和香草。成品增加了原味酸奶，不会过于甜腻。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md",
   "image_id": "57980801-7dbb-4ffc-9371-dfda0688ad5e",
   "video_link": [],
@@ -116,5 +116,6 @@
       "type": "list_item",
       "content": "传统版本的意式奶冻只用淡奶油，且糖量更大，比较甜腻。此版本做了改良，吃起来负担更小。"
     }
-  ]
+  ],
+  "links": []
 }

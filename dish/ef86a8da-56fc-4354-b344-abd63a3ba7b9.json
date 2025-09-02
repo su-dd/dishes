@@ -2,7 +2,7 @@
   "id": "ef86a8da-56fc-4354-b344-abd63a3ba7b9",
   "category": "汤类",
   "name": "勾芡香菇汤",
-  "description": "",
+  "description": "鲜香菇除了拿来和肉炒外，其实拿来做浓浓的勾芡汤也是非常可口的。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/soup/勾芡香菇汤/勾芡香菇汤.md",
   "image_id": "715b1e7e-9a91-4bb8-a4c5-9f3ff7727775",
   "video_link": [],
@@ -147,5 +147,6 @@
     21,
     25
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

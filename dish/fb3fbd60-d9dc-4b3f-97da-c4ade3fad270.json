@@ -2,7 +2,7 @@
   "id": "fb3fbd60-d9dc-4b3f-97da-c4ade3fad270",
   "category": "蔬菜",
   "name": "虎皮青椒",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
   "image_id": "b16254e6-ff04-443c-941e-aefbb6864e5a",
   "video_link": [],
@@ -180,5 +180,6 @@
     10,
     20
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

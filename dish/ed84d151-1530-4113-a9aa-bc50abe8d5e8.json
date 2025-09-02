@@ -2,7 +2,7 @@
   "id": "ed84d151-1530-4113-a9aa-bc50abe8d5e8",
   "category": "主食",
   "name": "意式肉酱面",
-  "description": "",
+  "description": "示例菜成品\n意式肉酱面是一道非常容易做的菜，做得熟练的话，可以在 15 分钟内完成，从此告别方便面\n预估烹饪难度：★\n",
   "source_path": "dishes/staple/意式肉酱面/意式肉酱面.md",
   "image_id": "1acedbc5-4dfe-4304-9690-137f6b36ed30",
   "video_link": [],
@@ -138,5 +138,6 @@
       "type": "list_item",
       "content": "意大利面酱并不是番茄酱，平常用的番茄酱准确是叫番茄沙司，而意大利面酱虽然和番茄沙司都是调味过的番茄酱，但加的调味料不同"
     }
-  ]
+  ],
+  "links": []
 }

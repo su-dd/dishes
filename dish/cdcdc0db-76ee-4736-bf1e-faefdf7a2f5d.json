@@ -2,7 +2,7 @@
   "id": "cdcdc0db-76ee-4736-bf1e-faefdf7a2f5d",
   "category": "汤类",
   "name": "生汆丸子汤",
-  "description": "",
+  "description": "生汆丸子汤，吃的就是一个鲜、嫩、弹。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/soup/生汆丸子汤.md",
   "image_id": null,
   "video_link": [
@@ -299,5 +299,6 @@
       "type": "list_item",
       "content": "辣椒油可以根据口味放"
     }
-  ]
+  ],
+  "links": []
 }

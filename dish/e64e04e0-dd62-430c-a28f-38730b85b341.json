@@ -2,7 +2,7 @@
   "id": "e64e04e0-dd62-430c-a28f-38730b85b341",
   "category": "佐料",
   "name": "炸串酱料",
-  "description": "",
+  "description": "炸串酱料，号称淋袜子都好吃，新手友好，预计用时 10 分钟。\n预估烹饪难度：★★\n",
   "source_path": "dishes/condiment/炸串酱料.md",
   "image_id": null,
   "video_link": [],
@@ -138,5 +138,6 @@
       "type": "list_item",
       "content": "原料可按比例缩减。"
     }
-  ]
+  ],
+  "links": []
 }

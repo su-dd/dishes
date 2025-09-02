@@ -2,7 +2,7 @@
   "id": "f6f523fc-96e9-4fd9-803b-d83e9438ad09",
   "category": "肉食",
   "name": "荔枝肉",
-  "description": "",
+  "description": "荔枝肉独具闽菜特点，味道酸甜可口。是福州地区比较常见的一道菜肴\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/荔枝肉/荔枝肉.md",
   "image_id": "0ecc1b21-f57d-4dce-a4fb-46c2e92e29e0",
   "video_link": [],
@@ -237,5 +237,6 @@
       "type": "list_item",
       "content": "可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉"
     }
-  ]
+  ],
+  "links": []
 }

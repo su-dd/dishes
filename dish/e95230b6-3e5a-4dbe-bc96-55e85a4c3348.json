@@ -2,7 +2,7 @@
   "id": "e95230b6-3e5a-4dbe-bc96-55e85a4c3348",
   "category": "早餐",
   "name": "微波炉荷包蛋",
-  "description": "",
+  "description": "微波炉荷包蛋是一道简单易做且富含蛋白质的菜。只需要微波炉 120 秒内就可以完成，适合通勤社畜早餐。\n预估烹饪难度：★\n",
   "source_path": "dishes/breakfast/微波炉荷包蛋.md",
   "image_id": null,
   "video_link": [],
@@ -116,5 +116,6 @@
       "type": "list_item",
       "content": "微波炉加热前，如果想进一步避免蛋黄和蛋白溅射，可以在碗上盖个盖子避免弄脏微波炉"
     }
-  ]
+  ],
+  "links": []
 }

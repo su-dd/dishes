@@ -2,7 +2,7 @@
   "id": "6c19d93b-507d-4d41-b5e0-47c442934dc1",
   "category": "汤类",
   "name": "金针菇汤",
-  "description": "",
+  "description": "预估烹饪难度：★★\n",
   "source_path": "dishes/soup/金针菇汤.md",
   "image_id": null,
   "video_link": [],
@@ -122,5 +122,6 @@
       "type": "list_item",
       "content": "出锅后可加入 3-4 滴香油（或者麻油）增香。"
     }
-  ]
+  ],
+  "links": []
 }

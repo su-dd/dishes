@@ -2,7 +2,7 @@
   "id": "26b32a50-a206-4150-8544-956ad79d5a5c",
   "category": "主食",
   "name": "韭菜盒子",
-  "description": "",
+  "description": "韭菜盒子是一道美味的传统小吃，外皮酥脆，内馅鲜香，富含维生素和蛋白质。制作简单，适合午餐，预计制作时长约 2.5 小时。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/韭菜盒子.md",
   "image_id": null,
   "video_link": [],
@@ -170,5 +170,6 @@
       "type": "list_item",
       "content": "注意煎制时火候，避免外焦内生。"
     }
-  ]
+  ],
+  "links": []
 }

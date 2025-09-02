@@ -2,7 +2,7 @@
   "id": "a86a00df-a54c-44a6-b4a1-84d742735ce4",
   "category": "肉食",
   "name": "枝竹羊腩煲",
-  "description": "",
+  "description": "枝竹羊腩煲是一份老少皆宜，适合冬季暖胃的美食。 此道菜肥而不腻，搭配米饭堪称一绝。一般初学者需 2 个半小时即可完成。\n预估烹饪难度：★★★★★\n",
   "source_path": "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
   "image_id": null,
   "video_link": [],
@@ -335,5 +335,6 @@
       "type": "list_item",
       "content": "参考资料：枝竹羊腩煲 Lamb Stew with Bean Curd Sheet [by 點Cook Guide]"
     }
-  ]
+  ],
+  "links": []
 }

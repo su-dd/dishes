@@ -2,7 +2,7 @@
   "id": "07f7a6dc-41f4-48a3-87d3-0959e6354568",
   "category": "肉食",
   "name": "猪肉烩酸菜",
-  "description": "",
+  "description": "猪肉烩酸菜是一道北方名菜，简单易做。富含蛋白质。一般初学者需要 3 小时完成。\n预估烹饪难度：★★★★★\n",
   "source_path": "dishes/meat_dish/猪肉烩酸菜.md",
   "image_id": null,
   "video_link": [],
@@ -228,5 +228,6 @@
       "type": "list_item",
       "content": "本菜品有酸菜的特殊风味"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "52d73e0f-f2c9-4eb7-81d3-99cbbf25ce43",
   "category": "肉食",
   "name": "奶酪培根通心粉",
-  "description": "",
+  "description": "烘烤成品非烘烤成品\n这是一道美味的奶酪培根通心粉(Mac and Cheese)，适合四人享用。它结合了浓郁的奶酪和香脆的培根，简单易做，是一道受欢迎的美式家常菜。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md",
   "image_id": "cdcd71e6-68c0-4895-96a3-2ad682d9bb99",
   "video_link": [],
@@ -228,5 +228,6 @@
     53,
     71
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

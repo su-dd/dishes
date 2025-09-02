@@ -2,7 +2,7 @@
   "id": "8b0ace41-36d9-43eb-aee9-66a4fb0f7161",
   "category": "汤类",
   "name": "排骨苦瓜汤",
-  "description": "",
+  "description": "排骨苦瓜汤是一道味道鲜美且容易烹饪的汤。不过汤的烹饪时间都较长，一般来说最好提前 4 个小时开始进行准备。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md",
   "image_id": null,
   "video_link": [],
@@ -147,5 +147,6 @@
       "type": "list_item",
       "content": "可以使用其他带有鲜味的食材代替虾皮，如瑶柱"
     }
-  ]
+  ],
+  "links": []
 }

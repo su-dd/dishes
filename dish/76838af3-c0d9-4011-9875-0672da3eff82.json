@@ -2,7 +2,7 @@
   "id": "76838af3-c0d9-4011-9875-0672da3eff82",
   "category": "水产",
   "name": "蛏抱蛋",
-  "description": "",
+  "description": "蛏抱蛋，是流行于福建省福州地区的传统家常菜\n预估烹饪难度：★★★\n",
   "source_path": "dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
   "image_id": "5c4cb88c-d774-49b6-a54a-1628ba9d76be",
   "video_link": [],
@@ -176,5 +176,6 @@
       "type": "list_item",
       "content": "可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉"
     }
-  ]
+  ],
+  "links": []
 }

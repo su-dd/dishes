@@ -2,7 +2,7 @@
   "id": "e6c1a42f-a698-42fb-be7e-e1b7cb5dd7de",
   "category": "主食",
   "name": "醪糟小汤圆",
-  "description": "",
+  "description": "预估烹饪难度：★★\n",
   "source_path": "dishes/staple/醪糟小汤圆.md",
   "image_id": null,
   "video_link": [],
@@ -121,5 +121,6 @@
       "type": "list_item",
       "content": "若喜欢软点的枸杞口感，可以将枸杞和小汤圆同时煮"
     }
-  ]
+  ],
+  "links": []
 }

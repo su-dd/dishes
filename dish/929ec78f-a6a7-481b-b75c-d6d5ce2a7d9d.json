@@ -2,7 +2,7 @@
   "id": "929ec78f-a6a7-481b-b75c-d6d5ce2a7d9d",
   "category": "蔬菜",
   "name": "包菜炒鸡蛋粉丝",
-  "description": "",
+  "description": "包菜炒鸡蛋粉丝，是中国的一道日常生活中所熟知的菜品\n预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
   "image_id": "d6feddc8-57bb-41ce-862e-3834fd2d09e5",
   "video_link": [],
@@ -222,5 +222,6 @@
     70,
     75
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "392bf15b-1ad2-4c6e-a2d2-eb5824c404ff",
   "category": "饮品",
   "name": "奇异果菠菜特调",
-  "description": "",
+  "description": "预估烹饪难度：★\n",
   "source_path": "dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md",
   "image_id": "26429ba5-cf15-48f9-8506-49a940e89456",
   "video_link": [],
@@ -150,5 +150,6 @@
       "type": "list_item",
       "content": "欢迎改进！"
     }
-  ]
+  ],
+  "links": []
 }

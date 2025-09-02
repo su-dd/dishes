@@ -2,7 +2,7 @@
   "id": "27026b20-f68c-4c43-a601-88b4d6b48329",
   "category": "蔬菜",
   "name": "炒青菜",
-  "description": "",
+  "description": "制作简单方便。预计 10 分钟即可完成。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/炒青菜.md",
   "image_id": null,
   "video_link": [],
@@ -127,5 +127,6 @@
     7,
     12
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

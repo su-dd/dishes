@@ -2,7 +2,7 @@
   "id": "8d568208-f425-4dbd-be69-29f664534d7e",
   "category": "佐料",
   "name": "简易版炒糖色",
-  "description": "",
+  "description": "这是简易的糖色的做法。对于更为进阶的技巧和糖色更为进阶的用法，请学习糖色的炒制。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/condiment/简易版炒糖色.md",
   "image_id": null,
   "video_link": [],
@@ -146,5 +146,8 @@
     4,
     9
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": [
+    "tips/advanced/糖色的炒制.md"
+  ]
 }

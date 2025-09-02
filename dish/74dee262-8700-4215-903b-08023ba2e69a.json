@@ -2,7 +2,7 @@
   "id": "74dee262-8700-4215-903b-08023ba2e69a",
   "category": "肉食",
   "name": "鱼香肉丝",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/鱼香肉丝.md",
   "image_id": null,
   "video_link": [],
@@ -271,5 +271,8 @@
     273,
     301
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": [
+    "tips/learn/学习焯水.md"
+  ]
 }

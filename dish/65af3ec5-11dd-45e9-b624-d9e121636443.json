@@ -2,7 +2,7 @@
   "id": "65af3ec5-11dd-45e9-b624-d9e121636443",
   "category": "主食",
   "name": "肉蛋盖饭",
-  "description": "",
+  "description": "肉蛋盖饭适合于单人简易晚餐，烹饪大约需要十五分钟。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/肉蛋盖饭.md",
   "image_id": null,
   "video_link": [],
@@ -176,5 +176,6 @@
       "type": "list_item",
       "content": "请务必保证做完饭后关掉燃气设备以免发生危险"
     }
-  ]
+  ],
+  "links": []
 }

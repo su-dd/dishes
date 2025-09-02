@@ -2,7 +2,7 @@
   "id": "b1758efe-5244-4960-a792-ef5bf62ebaaa",
   "category": "肉食",
   "name": "鱼香茄子",
-  "description": "",
+  "description": "yuxiangqiezi\n这个菜真的超级下饭，当个干饭王吧。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
   "image_id": "cc25abee-b7b5-483f-8eb2-d5f391802a57",
   "video_link": [],
@@ -234,5 +234,6 @@
       "type": "list_item",
       "content": "参考: 鱼香茄子详细步骤"
     }
-  ]
+  ],
+  "links": []
 }

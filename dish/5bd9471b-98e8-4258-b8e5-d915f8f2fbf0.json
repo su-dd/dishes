@@ -2,7 +2,7 @@
   "id": "5bd9471b-98e8-4258-b8e5-d915f8f2fbf0",
   "category": "肉食",
   "name": "尖椒炒牛肉",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/尖椒炒牛肉.md",
   "image_id": null,
   "video_link": [],
@@ -212,5 +212,6 @@
       "type": "list_item",
       "content": "腌制的时候姜片可用料酒代替，料酒的用量为 3 g/人"
     }
-  ]
+  ],
+  "links": []
 }

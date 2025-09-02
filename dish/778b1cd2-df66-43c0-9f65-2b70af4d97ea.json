@@ -2,7 +2,7 @@
   "id": "778b1cd2-df66-43c0-9f65-2b70af4d97ea",
   "category": "汤类",
   "name": "罗宋汤",
-  "description": "",
+  "description": "罗宋汤是一道源自俄罗斯甜菜汤的汤品，在传入上海后有了本土化的做法。其制作较为简单，初学者只需要 2-3 小时即可完成。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/soup/罗宋汤.md",
   "image_id": null,
   "video_link": [],
@@ -245,5 +245,6 @@
       "type": "list_item",
       "content": "除了胡萝卜、洋葱、欧芹、牛肉是必备食材外，其余可自由搭配"
     }
-  ]
+  ],
+  "links": []
 }

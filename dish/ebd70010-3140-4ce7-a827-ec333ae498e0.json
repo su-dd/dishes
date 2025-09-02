@@ -2,7 +2,7 @@
   "id": "ebd70010-3140-4ce7-a827-ec333ae498e0",
   "category": "主食",
   "name": "热干面",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/热干面.md",
   "image_id": null,
   "video_link": [],
@@ -185,5 +185,6 @@
       "type": "list_item",
       "content": "辣椒油看个人口味添加"
     }
-  ]
+  ],
+  "links": []
 }

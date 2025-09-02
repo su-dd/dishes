@@ -2,7 +2,7 @@
   "id": "08342ef0-2b01-4f9e-948b-bed740c3f3b9",
   "category": "水产",
   "name": "香煎翘嘴鱼",
-  "description": "",
+  "description": "香煎翘嘴鱼\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
   "image_id": "6f4daca9-487e-4469-bdc8-f1a4266b3c31",
   "video_link": [],
@@ -269,5 +269,6 @@
       "type": "list_item",
       "content": "注意火候的切换，豆瓣酱，白糖的调鲜效果，与陈醋的增香效果"
     }
-  ]
+  ],
+  "links": []
 }

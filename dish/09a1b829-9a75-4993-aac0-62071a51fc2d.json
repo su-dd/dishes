@@ -2,7 +2,7 @@
   "id": "09a1b829-9a75-4993-aac0-62071a51fc2d",
   "category": "早餐",
   "name": "蒸水蛋",
-  "description": "",
+  "description": "蒸水蛋（北方有些地区叫鸡蛋糕儿）都是饭店的好吃，如何自己做水滑嫩香的蒸水蛋，本教程包教包会！\n预估烹饪难度：★★\n",
   "source_path": "dishes/breakfast/蒸水蛋.md",
   "image_id": null,
   "video_link": [],
@@ -115,5 +115,6 @@
       "type": "list_item",
       "content": "也可加入蒸鱼豉油，葱花香油作为佐料。"
     }
-  ]
+  ],
+  "links": []
 }

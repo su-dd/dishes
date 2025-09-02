@@ -2,7 +2,7 @@
   "id": "711c07d9-f4c5-4993-a063-d7c5ab03cf98",
   "category": "甜品",
   "name": "提拉米苏",
-  "description": "",
+  "description": "自家提拉米苏成品\n提拉米苏，是意大利传统甜品。无需烤箱操作简便，烘焙新手也可以零失误获得一份美味的提拉米苏。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/dessert/提拉米苏/提拉米苏.md",
   "image_id": "9452cab2-7bac-43c8-92aa-30b519b1d4c0",
   "video_link": [],
@@ -185,5 +185,6 @@
       "type": "list_item",
       "content": "下厨房蛋白打发具体教程"
     }
-  ]
+  ],
+  "links": []
 }

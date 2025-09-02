@@ -2,7 +2,7 @@
   "id": "1a33d205-ed93-44c1-9cd7-9f6a90a014a0",
   "category": "蔬菜",
   "name": "芹菜拌茶树菇",
-  "description": "",
+  "description": "芹菜拌茶树菇成品闽星茶树菇\n芹菜拌茶树菇是一道简单易做的凉拌菜。富含多种人体所需的维生素和矿物质。一般初学者只需要 30 分钟即可完成。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
   "image_id": "d73017d6-401c-4486-8e4d-e0536ef106b7",
   "video_link": [],
@@ -193,5 +193,6 @@
       "type": "list_item",
       "content": "芹菜叶太老太硬的话可以不要"
     }
-  ]
+  ],
+  "links": []
 }

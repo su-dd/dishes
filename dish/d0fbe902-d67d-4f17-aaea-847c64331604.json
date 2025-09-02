@@ -2,7 +2,7 @@
   "id": "d0fbe902-d67d-4f17-aaea-847c64331604",
   "category": "主食",
   "name": "中式馅饼",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/staple/中式馅饼/中式馅饼.md",
   "image_id": null,
   "video_link": [],
@@ -316,5 +316,6 @@
       "type": "list_item",
       "content": "肉沫和胡萝卜末即馅料可以使用各类熟馅料替代。"
     }
-  ]
+  ],
+  "links": []
 }

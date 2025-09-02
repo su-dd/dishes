@@ -2,7 +2,7 @@
   "id": "5d32c7e7-4c71-4ca7-bfa9-19d8de234f0b",
   "category": "肉食",
   "name": "新疆大盘鸡",
-  "description": "",
+  "description": "大盘鸡\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
   "image_id": "790aa53a-6ce4-400f-ae44-6203e5607a46",
   "video_link": [],
@@ -263,5 +263,6 @@
     53,
     77
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

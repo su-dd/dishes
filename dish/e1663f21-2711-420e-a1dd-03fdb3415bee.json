@@ -2,7 +2,7 @@
   "id": "e1663f21-2711-420e-a1dd-03fdb3415bee",
   "category": "肉食",
   "name": "老式锅包肉",
-  "description": "",
+  "description": "锅包肉是东北名菜，创始于光绪年间哈尔滨道台府厨师郑兴文之手。老式锅包肉的酸味来源于白醋汁，口味酸甜酥脆。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/老式锅包肉/老式锅包肉.md",
   "image_id": null,
   "video_link": [
@@ -375,6 +375,27 @@
     {
       "type": "list_item",
       "content": "参考资料：老饭骨版本老东北美食版本"
+    },
+    {
+      "type": "list_item",
+      "content": "肉片厚度应为 8mm，过厚过薄都会影响口感。"
+    },
+    {
+      "type": "list_item",
+      "content": "炸制时控制油温，避免外壳过深或不酥脆。"
+    },
+    {
+      "type": "list_item",
+      "content": "熬糖醋汁时，注意熬至粘稠但不结块，避免变成糖浆。"
+    },
+    {
+      "type": "list_item",
+      "content": "老饭骨版本"
+    },
+    {
+      "type": "list_item",
+      "content": "老东北美食版本"
     }
-  ]
+  ],
+  "links": []
 }

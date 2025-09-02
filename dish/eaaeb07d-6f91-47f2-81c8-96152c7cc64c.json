@@ -2,7 +2,7 @@
   "id": "eaaeb07d-6f91-47f2-81c8-96152c7cc64c",
   "category": "肉食",
   "name": "麻婆豆腐",
-  "description": "",
+  "description": "成品\n这是参考麻婆豆腐创作的一道菜。富含有铁、钙、磷、镁等人体必需的多种微量元素，最重要的是非常下饭哦～\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
   "image_id": "476c82bd-ccee-47f3-9b68-ae7983e1d368",
   "video_link": [],
@@ -232,5 +232,6 @@
       "type": "list_item",
       "content": "期间一定要注意观察，防止糊锅"
     }
-  ]
+  ],
+  "links": []
 }

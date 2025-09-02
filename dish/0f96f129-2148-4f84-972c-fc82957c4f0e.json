@@ -2,7 +2,7 @@
   "id": "0f96f129-2148-4f84-972c-fc82957c4f0e",
   "category": "主食",
   "name": "老友猪肉粉",
-  "description": "",
+  "description": "示例菜成品\n预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/老友猪肉粉/老友猪肉粉.md",
   "image_id": "e0c5987a-1dcc-41e2-8060-1d0d7c8181f6",
   "video_link": [],
@@ -191,5 +191,6 @@
       "type": "list_item",
       "content": "记得米粉必须是泡过的才好吃,没有泡过的话是很难吃的！"
     }
-  ]
+  ],
+  "links": []
 }

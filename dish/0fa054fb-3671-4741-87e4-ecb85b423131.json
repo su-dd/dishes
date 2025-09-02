@@ -2,7 +2,7 @@
   "id": "0fa054fb-3671-4741-87e4-ecb85b423131",
   "category": "蔬菜",
   "name": "素炒豆角",
-  "description": "",
+  "description": "巨下饭的家常菜\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/素炒豆角.md",
   "image_id": null,
   "video_link": [],
@@ -208,5 +208,6 @@
       "type": "list_item",
       "content": "切豆角需要一定的刀工，不会的可以使用剪刀"
     }
-  ]
+  ],
+  "links": []
 }

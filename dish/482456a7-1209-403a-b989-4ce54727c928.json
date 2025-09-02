@@ -2,7 +2,7 @@
   "id": "482456a7-1209-403a-b989-4ce54727c928",
   "category": "早餐",
   "name": "煎饺",
-  "description": "",
+  "description": "预估烹饪难度：★★\n",
   "source_path": "dishes/breakfast/煎饺.md",
   "image_id": null,
   "video_link": [],
@@ -138,5 +138,6 @@
       "type": "list_item",
       "content": "操作时，需时刻观察锅内情况，切记不可分神玩手机。"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "f7162278-9b72-4150-93ad-d80c9d6de36f",
   "category": "主食",
   "name": "麻辣减脂荞麦面",
-  "description": "",
+  "description": "麻辣减脂荞麦面做法非常简单，不需要任何厨艺基础。一份 298 千卡，美味+便宜+减脂，只需要 20 分钟就可以完成。\n预估烹饪难度：★★\n",
   "source_path": "dishes/staple/麻辣减脂荞麦面.md",
   "image_id": null,
   "video_link": [],
@@ -161,5 +161,6 @@
       "type": "list_item",
       "content": "如果不能吃酸，可以不加醋"
     }
-  ]
+  ],
+  "links": []
 }

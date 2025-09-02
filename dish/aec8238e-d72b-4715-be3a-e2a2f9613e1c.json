@@ -2,7 +2,7 @@
   "id": "aec8238e-d72b-4715-be3a-e2a2f9613e1c",
   "category": "甜品",
   "name": "炸鲜奶",
-  "description": "",
+  "description": "炸鲜奶成品\n炸鲜奶是一种外脆里嫩的甜点，营养价值适中，制作难度中等，预计制作时长约为 20 分钟。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/dessert/炸鲜奶/炸鲜奶.md",
   "image_id": "f8de6cc4-2b87-4fda-8799-578ac1e8d26e",
   "video_link": [
@@ -203,5 +203,6 @@
       "type": "list_item",
       "content": "参考资料：王刚的教学视频"
     }
-  ]
+  ],
+  "links": []
 }

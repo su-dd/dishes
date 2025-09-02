@@ -2,7 +2,7 @@
   "id": "58e263fd-6277-4982-8a14-35d9e99b1758",
   "category": "汤类",
   "name": "西红柿鸡蛋汤",
-  "description": "",
+  "description": "预估烹饪难度：★★\n",
   "source_path": "dishes/soup/西红柿鸡蛋汤.md",
   "image_id": null,
   "video_link": [],
@@ -193,5 +193,6 @@
     10,
     19
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

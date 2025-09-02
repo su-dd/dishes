@@ -2,7 +2,7 @@
   "id": "9a9997f1-c16f-4fc0-a26b-5b25ebaf9f95",
   "category": "肉食",
   "name": "回锅肉",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/回锅肉/回锅肉.md",
   "image_id": "04b8106e-9387-4b93-83d2-5f39d133eccf",
   "video_link": [],
@@ -358,5 +358,6 @@
       "type": "list_item",
       "content": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
     }
-  ]
+  ],
+  "links": []
 }

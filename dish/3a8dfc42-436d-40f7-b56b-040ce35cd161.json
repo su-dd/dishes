@@ -2,7 +2,7 @@
   "id": "3a8dfc42-436d-40f7-b56b-040ce35cd161",
   "category": "肉食",
   "name": "湘祁米夫鸭",
-  "description": "",
+  "description": "湘祁米夫鸭\n湖南两祁地区特色菜品，逢年过节家家桌上有。鸭肉被米粉子包裹，入口咸香回味悠长可解乡愁。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
   "image_id": "1fca1571-1473-4dd5-83ba-f445f312169e",
   "video_link": [],
@@ -155,5 +155,6 @@
     35,
     49
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

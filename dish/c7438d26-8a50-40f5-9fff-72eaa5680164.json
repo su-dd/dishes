@@ -2,7 +2,7 @@
   "id": "c7438d26-8a50-40f5-9fff-72eaa5680164",
   "category": "佐料",
   "name": "蒜香酱油",
-  "description": "",
+  "description": "预估烹饪难度：★★\n",
   "source_path": "dishes/condiment/蒜香酱油.md",
   "image_id": null,
   "video_link": [],
@@ -121,5 +121,6 @@
     3,
     4
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

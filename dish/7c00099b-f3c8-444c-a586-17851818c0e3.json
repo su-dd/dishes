@@ -2,7 +2,7 @@
   "id": "7c00099b-f3c8-444c-a586-17851818c0e3",
   "category": "饮品",
   "name": "酸梅汤（半成品加工）",
-  "description": "",
+  "description": "预估烹饪难度：★\n",
   "source_path": "dishes/drink/酸梅汤（半成品加工）.md",
   "image_id": null,
   "video_link": [],
@@ -102,5 +102,6 @@
     2,
     3
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

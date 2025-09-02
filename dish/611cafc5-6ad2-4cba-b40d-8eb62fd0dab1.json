@@ -2,7 +2,7 @@
   "id": "611cafc5-6ad2-4cba-b40d-8eb62fd0dab1",
   "category": "水产",
   "name": "芥末黄油罗氏虾",
-  "description": "",
+  "description": "芥末黄油罗氏虾这是一道做法简单，味道美味，具有新意的海鲜菜。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
   "image_id": "bc0410f2-a07a-4d31-b228-806d10c240ad",
   "video_link": [],
@@ -216,5 +216,6 @@
       "type": "list_item",
       "content": "如果不太能接受芥末就放少点，能接受就放多点，如果放多了，煮久一会儿，芥末味也会散去。"
     }
-  ]
+  ],
+  "links": []
 }

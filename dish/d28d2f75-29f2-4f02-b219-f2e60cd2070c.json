@@ -2,7 +2,7 @@
   "id": "d28d2f75-29f2-4f02-b219-f2e60cd2070c",
   "category": "肉食",
   "name": "麻辣香锅",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/麻辣香锅.md",
   "image_id": null,
   "video_link": [],
@@ -190,5 +190,6 @@
       "type": "list_item",
       "content": "中火通常温度在 120 摄氏度，以电磁炉为例，输入功率大约 1.4 千瓦。"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "5bcfb418-e46d-4a55-8e9e-5ad3466e4b49",
   "category": "肉食",
   "name": "梅菜扣肉",
-  "description": "",
+  "description": "梅菜扣肉造型别致、大方得体，颜色酱红油亮，汤汁黏稠鲜美，扣肉肥而不腻，食之软烂醇香。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
   "image_id": "ebc52e62-87c0-4760-8ca0-b990224ed152",
   "video_link": [],
@@ -211,5 +211,6 @@
       "type": "list_item",
       "content": "炒干梅干菜的作用是为了后续吸油（盲猜）"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "fead8027-f117-4b9f-bdaa-446e2ac8feae",
   "category": "肉食",
   "name": "萝卜炖羊排",
-  "description": "",
+  "description": "萝卜炖羊排是一道常见家常菜，老少皆宜。一般初学者只需要最多 2 小时即可完成。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/萝卜炖羊排.md",
   "image_id": null,
   "video_link": [],
@@ -204,5 +204,6 @@
       "type": "list_item",
       "content": "操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材。"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "4c9bf64e-8b43-4c9d-89ed-65480de8f221",
   "category": "肉食",
   "name": "杀猪菜",
-  "description": "",
+  "description": "杀猪菜的做法 （荤菜）\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/杀猪菜.md",
   "image_id": null,
   "video_link": [],
@@ -243,5 +243,6 @@
     66,
     74
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

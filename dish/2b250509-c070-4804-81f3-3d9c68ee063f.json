@@ -2,7 +2,7 @@
   "id": "2b250509-c070-4804-81f3-3d9c68ee063f",
   "category": "肉食",
   "name": "意式烤鸡",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/意式烤鸡.md",
   "image_id": null,
   "video_link": [],
@@ -146,5 +146,6 @@
       "type": "list_item",
       "content": "鸡肉必须全熟才能吃，吃未全熟的鸡肉可能会导致食物中毒和感染细菌，如沙门氏菌和福氏杆菌等。"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "2e5663be-fcc3-47aa-9f69-fad334f75082",
   "category": "肉食",
   "name": "徽派红烧肉",
-  "description": "",
+  "description": "徽式红烧肉是一道由五花肉等食材制成的菜肴。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
   "image_id": "bcd53e23-7cc1-41d9-9790-ec1e48e4a23e",
   "video_link": [],
@@ -214,5 +214,6 @@
       "type": "list_item",
       "content": "制作过程，用部分五花肉做了水煮处理，跟未处理的一起做后续制作，发现未水煮的肉质更 Q 弹"
     }
-  ]
+  ],
+  "links": []
 }

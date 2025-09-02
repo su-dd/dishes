@@ -2,7 +2,7 @@
   "id": "fe59feb7-f8d8-470a-a7dc-64d57c859b10",
   "category": "汤类",
   "name": "紫菜蛋花汤",
-  "description": "",
+  "description": "预估烹饪难度：★★\n",
   "source_path": "dishes/soup/紫菜蛋花汤.md",
   "image_id": null,
   "video_link": [],
@@ -136,5 +136,6 @@
       "type": "list_item",
       "content": "如果喜欢浓稠口感，可加入 2g 淀粉."
     }
-  ]
+  ],
+  "links": []
 }

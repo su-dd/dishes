@@ -2,7 +2,7 @@
   "id": "ee2742a9-e441-4e76-bc92-93c9c8e8df12",
   "category": "主食",
   "name": "韩式拌饭",
-  "description": "",
+  "description": "韩式拌饭\n预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/韩式拌饭/韩式拌饭.md",
   "image_id": "8e03b44a-e258-47d7-b62f-efa1f10280c1",
   "video_link": [],
@@ -201,5 +201,9 @@
       "type": "list_item",
       "content": "如果对外观有一定要求 可以用砂锅代替普通碗"
     }
+  ],
+  "links": [
+    "dishes/breakfast/溏心蛋.md",
+    "dishes/staple/米饭/电饭煲蒸米饭.md"
   ]
 }

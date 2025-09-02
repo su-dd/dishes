@@ -2,7 +2,7 @@
   "id": "3f7e9690-9acf-4696-9160-6a2eb358cea1",
   "category": "肉食",
   "name": "羊排焖面",
-  "description": "",
+  "description": "羊排焖面羊排焖面是一道硬菜，适合聚会时候大展身手。缺点就是有点花时间，优点就是好吃，而且一道菜补齐人体所需的三大营养物质。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/羊排焖面/羊排焖面.md",
   "image_id": "da8974d5-d2f2-4c9e-b853-ee3bad03cc27",
   "video_link": [],
@@ -234,5 +234,6 @@
       "type": "list_item",
       "content": "放入锅中焖煮 4 分钟（一片一片操作）"
     }
-  ]
+  ],
+  "links": []
 }

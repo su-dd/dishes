@@ -2,7 +2,7 @@
   "id": "005aedc2-b3dc-4788-93b4-4bff6c6209d5",
   "category": "蔬菜",
   "name": "金针菇日本豆腐煲",
-  "description": "",
+  "description": "金针菇日本豆腐煲是一道容易上手的日常料理。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/金针菇日本豆腐煲.md",
   "image_id": null,
   "video_link": [],
@@ -152,5 +152,6 @@
       "type": "list_item",
       "content": "豆腐尽量不要翻炒，容易碎"
     }
-  ]
+  ],
+  "links": []
 }

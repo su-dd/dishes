@@ -2,7 +2,7 @@
   "id": "78d094e6-538d-49bd-b2d6-47ad7c6d5a42",
   "category": "汤类",
   "name": "奶油蘑菇汤",
-  "description": "",
+  "description": "预估烹饪难度：★\n",
   "source_path": "dishes/soup/奶油蘑菇汤.md",
   "image_id": null,
   "video_link": [],
@@ -229,5 +229,6 @@
       "type": "list_item",
       "content": "建议现做现吃，不建议冷藏或冷冻保存。"
     }
-  ]
+  ],
+  "links": []
 }

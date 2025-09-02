@@ -2,7 +2,7 @@
   "id": "d66e2c43-8826-4d4a-8785-518e6e1238e8",
   "category": "蔬菜",
   "name": "茄子炖土豆",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/茄子炖土豆.md",
   "image_id": null,
   "video_link": [],
@@ -184,5 +184,6 @@
     31,
     54
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

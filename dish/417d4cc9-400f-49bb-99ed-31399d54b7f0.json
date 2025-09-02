@@ -2,7 +2,7 @@
   "id": "417d4cc9-400f-49bb-99ed-31399d54b7f0",
   "category": "肉食",
   "name": "黔式腊肠娃娃菜",
-  "description": "",
+  "description": "黔式腊肠娃娃菜\n黔式腊肠娃娃菜不需要掌握火候，也无需调料，非常适合懒癌的菜。制作时间 15 分钟，口味近似于川菜、湘菜，却是西南菜系中鲜见的不辣菜式，咸鲜可口、南北皆宜。\n预估烹饪难度：★\n",
   "source_path": "dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md",
   "image_id": "63f0f377-e515-4dee-92b3-8be2c7b966f0",
   "video_link": [],
@@ -102,5 +102,6 @@
       "type": "list_item",
       "content": "如果没有刀具，娃娃菜和腊肠不切也可以"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "5a09cc0c-3063-44ae-8bbb-d84fbbceee64",
   "category": "早餐",
   "name": "茶叶蛋",
-  "description": "",
+  "description": "茶香浓郁，鲜香可口的高蛋白快速营养早餐，大约耗时 30 分钟。烹饪略微耗时，可以周末尝试，做一次大约够 2-3 个人吃。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/breakfast/茶叶蛋.md",
   "image_id": null,
   "video_link": [],
@@ -171,5 +171,6 @@
       "type": "list_item",
       "content": "八角，香叶，桂皮，茴香，冰糖，自己没有这么多食材可以买现成的卤料包"
     }
-  ]
+  ],
+  "links": []
 }

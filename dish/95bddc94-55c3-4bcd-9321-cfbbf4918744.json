@@ -2,7 +2,7 @@
   "id": "95bddc94-55c3-4bcd-9321-cfbbf4918744",
   "category": "佐料",
   "name": "葱油",
-  "description": "",
+  "description": "葱油是用热油萃取以葱为主的各类香辛料得到的产物，可以用来调制肉馅，做凉拌菜，在热炒菜中作为出锅明油使用。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/condiment/葱油.md",
   "image_id": null,
   "video_link": [],
@@ -160,5 +160,6 @@
       "type": "list_item",
       "content": "开洋可以极大提升葱油鲜香，并增加鲜甜风味"
     }
-  ]
+  ],
+  "links": []
 }

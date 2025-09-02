@@ -2,7 +2,7 @@
   "id": "d572b768-9f13-413b-a34d-acfa85eeba3e",
   "category": "蔬菜",
   "name": "白灼菜心",
-  "description": "",
+  "description": "白灼菜心\n没有拍照，上图是网图，不过做出来都差不多啦\n白灼菜心是经典粤菜，白灼是粤菜的一种烹饪技法，用煮沸的水或汤将生的食物烫熟，称为白灼。这种烹饪手法能保持原有的鲜味，粤菜常用此法烹制虾和蔬菜。\n总之吧，减肥或者是快速解决绿叶菜的绝佳方式。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
   "image_id": "99274c6c-bc0b-404c-b00e-b8169d6a2884",
   "video_link": [],
@@ -197,5 +197,6 @@
       "type": "list_item",
       "content": "锅内烧清水要加油和盐"
     }
-  ]
+  ],
+  "links": []
 }

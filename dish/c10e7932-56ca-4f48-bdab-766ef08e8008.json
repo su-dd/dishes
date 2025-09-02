@@ -2,7 +2,7 @@
   "id": "c10e7932-56ca-4f48-bdab-766ef08e8008",
   "category": "主食",
   "name": "炒年糕",
-  "description": "",
+  "description": "闽南风味的炒年糕是一道非常好吃的主食。它制作过程简单，原料获取方便，适合海外朋友满足口腹之欲。初学者需要 30 分钟完成，难度较小。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/炒年糕.md",
   "image_id": null,
   "video_link": [],
@@ -234,5 +234,8 @@
       "type": "list_item",
       "content": "在煮年糕的时候注意搅拌，以免粘锅"
     }
+  ],
+  "links": [
+    "dishes/staple/https:/github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/西红柿炒鸡蛋.md"
   ]
 }

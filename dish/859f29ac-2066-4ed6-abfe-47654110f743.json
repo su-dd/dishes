@@ -2,7 +2,7 @@
   "id": "859f29ac-2066-4ed6-abfe-47654110f743",
   "category": "肉食",
   "name": "酱排骨",
-  "description": "",
+  "description": "酱排骨其色泽酱红，肉质酥烂，骨香浓郁，汁浓味鲜，咸中带甜。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/酱排骨/酱排骨.md",
   "image_id": "6fa4a4c4-d938-4f99-b1ca-1e556d9da2d8",
   "video_link": [],
@@ -174,5 +174,6 @@
       "type": "list_item",
       "content": "煮排骨期间，可以顺道放入 2-3 个 鸡蛋一起煮，做成简易版卤蛋"
     }
-  ]
+  ],
+  "links": []
 }

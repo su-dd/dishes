@@ -2,7 +2,7 @@
   "id": "563b0892-efc4-4b84-acde-91bfd0514877",
   "category": "早餐",
   "name": "温泉蛋",
-  "description": "",
+  "description": "一种传统的日式小吃，可以用于各种佐餐，注意与溏心蛋区分，溏心蛋是蛋黄不熟蛋白熟了，温泉蛋是蛋白不熟蛋黄熟了\n预估烹饪难度：★★★\n",
   "source_path": "dishes/breakfast/温泉蛋/温泉蛋.md",
   "image_id": null,
   "video_link": [],
@@ -129,5 +129,6 @@
       "type": "list_item",
       "content": "虽然 70 摄氏度 25 分钟已经完全可以杀死沙门氏菌，但还是要尽量少吃，或购买正规可生食鸡蛋制作"
     }
-  ]
+  ],
+  "links": []
 }

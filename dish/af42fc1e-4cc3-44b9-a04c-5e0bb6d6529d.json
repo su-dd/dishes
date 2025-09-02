@@ -2,7 +2,7 @@
   "id": "af42fc1e-4cc3-44b9-a04c-5e0bb6d6529d",
   "category": "水产",
   "name": "蒜香黄油虾",
-  "description": "",
+  "description": "蒜香黄油虾是一道经典的西式海鲜料理，以鲜虾为主料，配以蒜末和黄油烹制而成。口感鲜嫩，蒜香浓郁。制作简单，适合家庭日常烹饪。\n蒜香黄油虾\n预估烹饪难度：★★\n",
   "source_path": "dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
   "image_id": "d87bc3ff-5f13-4ef3-b590-0dfbd2e12b35",
   "video_link": [],
@@ -159,5 +159,6 @@
       "type": "list_item",
       "content": "虾不宜过度烹饪，否则会变硬"
     }
-  ]
+  ],
+  "links": []
 }

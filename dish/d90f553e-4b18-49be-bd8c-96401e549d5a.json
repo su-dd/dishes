@@ -2,7 +2,7 @@
   "id": "d90f553e-4b18-49be-bd8c-96401e549d5a",
   "category": "蔬菜",
   "name": "莴笋叶煎饼",
-  "description": "",
+  "description": "莴笋叶煎饼营养、好吃\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
   "image_id": "d33cc95e-9f4d-4408-aaaa-0d90956e4acd",
   "video_link": [],
@@ -140,5 +140,6 @@
       "type": "list_item",
       "content": "莴笋叶直接焯水后凉拌有苦味，所以选择做成煎饼的配菜"
     }
-  ]
+  ],
+  "links": []
 }

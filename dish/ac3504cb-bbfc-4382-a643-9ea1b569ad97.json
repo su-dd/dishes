@@ -2,7 +2,7 @@
   "id": "ac3504cb-bbfc-4382-a643-9ea1b569ad97",
   "category": "主食",
   "name": "火腿饭团",
-  "description": "",
+  "description": "火腿饭团好吃！富含碳水和蛋白质还有维生素。有手就行的制作难度，预计制作时间 1 h 。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/staple/火腿饭团/火腿饭团.md",
   "image_id": "14eeb07c-405d-49ad-8d6e-67eb57838bdf",
   "video_link": [],
@@ -186,5 +186,6 @@
       "type": "list_item",
       "content": "参考资料：小红书 - 干饭选手又困了"
     }
-  ]
+  ],
+  "links": []
 }

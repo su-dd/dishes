@@ -2,7 +2,7 @@
   "id": "ca3fa3e9-44a6-4ace-8454-633d9383fb16",
   "category": "饮品",
   "name": "可乐桶",
-  "description": "",
+  "description": "饮酒有害健康，未成年人禁止饮酒\n预估烹饪难度：★★\n",
   "source_path": "dishes/drink/可乐桶.md",
   "image_id": null,
   "video_link": [],
@@ -151,5 +151,6 @@
     2,
     3
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

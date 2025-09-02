@@ -2,7 +2,7 @@
   "id": "b39b747b-d803-4dd8-a2fe-36dcd92b2d23",
   "category": "水产",
   "name": "清蒸生蚝",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/aquatic/清蒸生蚝.md",
   "image_id": null,
   "video_link": [],
@@ -133,5 +133,6 @@
     12,
     20
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

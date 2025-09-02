@@ -2,7 +2,7 @@
   "id": "a8b0bae0-6b8a-4873-a1e9-de59b8983fc5",
   "category": "肉食",
   "name": "宫保鸡丁",
-  "description": "",
+  "description": "老派川菜的简单做法分享\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
   "image_id": "fda7e00c-213b-41df-a930-2b92ecc15b42",
   "video_link": [],
@@ -351,5 +351,6 @@
     106,
     125
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

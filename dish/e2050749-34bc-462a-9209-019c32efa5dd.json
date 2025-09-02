@@ -2,7 +2,7 @@
   "id": "e2050749-34bc-462a-9209-019c32efa5dd",
   "category": "饮品",
   "name": "海边落日",
-  "description": "",
+  "description": "饮酒有害健康，未成年人禁止饮酒\n预估烹饪难度：★★★\n",
   "source_path": "dishes/drink/海边落日/海边落日.md",
   "image_id": "eeb8975f-4855-4278-9c57-9ce0331db59d",
   "video_link": [],
@@ -210,5 +210,6 @@
     1,
     3
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

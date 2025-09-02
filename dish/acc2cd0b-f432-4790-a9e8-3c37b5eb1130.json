@@ -2,7 +2,7 @@
   "id": "acc2cd0b-f432-4790-a9e8-3c37b5eb1130",
   "category": "饮品",
   "name": "金菲士",
-  "description": "",
+  "description": "饮酒有害健康，未成年人禁止饮酒\n预估烹饪难度：★★\n",
   "source_path": "dishes/drink/金菲士/金菲士.md",
   "image_id": "590d35ad-08eb-4179-92a1-4305519dbe93",
   "video_link": [],
@@ -204,5 +204,8 @@
     2,
     3
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": [
+    "dishes/condiment/蔗糖糖浆/蔗糖糖浆.md"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "24f78deb-a150-4c69-991a-e4b9d24d2c99",
   "category": "肉食",
   "name": "小炒鸡肝",
-  "description": "",
+  "description": "小炒鸡肝\n一道稍微麻烦的菜。\n适合喜欢吃肝的人，也可以用其他的动物的肝，但是鸡肝会更好吃。\n需要初学者具有一定的焯水技巧。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
   "image_id": "7602d0c8-1bf5-4f04-9889-da04d7c01e8e",
   "video_link": [],
@@ -289,5 +289,6 @@
       "type": "list_item",
       "content": "焯完水的鸡肝建议用凉水冲洗，更推荐冰水，可以让口感更好。"
     }
-  ]
+  ],
+  "links": []
 }

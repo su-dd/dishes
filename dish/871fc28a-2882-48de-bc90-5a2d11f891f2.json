@@ -2,7 +2,7 @@
   "id": "871fc28a-2882-48de-bc90-5a2d11f891f2",
   "category": "肉食",
   "name": "无骨鸡爪",
-  "description": "",
+  "description": "无骨鸡爪成品图片里的颜色比较浅，家里人爱吃酱油少的\n这是一道做法简单但消耗体力和耐力的无骨鸡爪，酸辣开胃，Q 弹爽口，第一次做的话总耗时 8 个小时 15 分钟。\n预估烹饪难度：★★★★★\n",
   "source_path": "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
   "image_id": "e593b5b5-b502-41c5-ae66-e01d7fc8b749",
   "video_link": [
@@ -316,5 +316,6 @@
       "type": "list_item",
       "content": "鸡爪去骨教程 ：bili_89324373958"
     }
-  ]
+  ],
+  "links": []
 }

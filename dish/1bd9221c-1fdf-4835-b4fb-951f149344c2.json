@@ -2,7 +2,7 @@
   "id": "1bd9221c-1fdf-4835-b4fb-951f149344c2",
   "category": "甜品",
   "name": "魔芋蛋糕",
-  "description": "",
+  "description": "魔芋蛋糕是一款低热量的甜点。蛋糕本身无麸质，并使用无热量的甜味剂代替白砂糖，非常适合减脂人群。加上烘烤时间，一般需要 0.5 小时即可完成。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/dessert/魔芋蛋糕/魔芋蛋糕.md",
   "image_id": null,
   "video_link": [],
@@ -252,5 +252,8 @@
       "type": "list_item",
       "content": "打发蛋白等部分大幅借鉴戚风蛋糕制作流程"
     }
+  ],
+  "links": [
+    "dishes/dessert/戚风蛋糕/戚风蛋糕.md"
   ]
 }

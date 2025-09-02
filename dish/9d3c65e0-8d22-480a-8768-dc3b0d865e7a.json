@@ -2,7 +2,7 @@
   "id": "9d3c65e0-8d22-480a-8768-dc3b0d865e7a",
   "category": "早餐",
   "name": "鸡蛋三明治",
-  "description": "",
+  "description": "10 分钟的简易鸡蛋三明治 🥪\n预估烹饪难度：★★\n",
   "source_path": "dishes/breakfast/鸡蛋三明治.md",
   "image_id": null,
   "video_link": [],
@@ -149,5 +149,6 @@
       "type": "list_item",
       "content": "也可加入芝士、酸黄瓜等食材"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "ee10b690-181b-4936-8773-231528284325",
   "category": "蔬菜",
   "name": "洋葱炒鸡蛋",
-  "description": "",
+  "description": "洋葱炒鸡蛋，是中国的一道日常生活中所熟知的菜品\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
   "image_id": "a0274bad-11da-4ad5-a534-5eee536597c3",
   "video_link": [],
@@ -138,5 +138,6 @@
     4,
     5
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

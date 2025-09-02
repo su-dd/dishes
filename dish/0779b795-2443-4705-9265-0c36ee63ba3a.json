@@ -2,7 +2,7 @@
   "id": "0779b795-2443-4705-9265-0c36ee63ba3a",
   "category": "蔬菜",
   "name": "炒茄子",
-  "description": "",
+  "description": "家常炒茄子，简单易学，原料不复杂，其中可选项有无皆可。（但是八角强烈推荐）\n预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/炒茄子.md",
   "image_id": null,
   "video_link": [],
@@ -218,5 +218,6 @@
       "type": "list_item",
       "content": "切忌！一定不可加水，会变成水煮茄子，口感差，所以油可多放，不可少放。"
     }
-  ]
+  ],
+  "links": []
 }

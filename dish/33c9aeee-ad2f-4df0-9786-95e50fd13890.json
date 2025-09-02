@@ -2,7 +2,7 @@
   "id": "33c9aeee-ad2f-4df0-9786-95e50fd13890",
   "category": "主食",
   "name": "煮泡面加蛋",
-  "description": "",
+  "description": "煮泡面加蛋是能满足于各种人群的生存基本需求的重要主食，其材料方便易得，做法简单易上手且制作周期极短。\n预估烹饪难度：★\n",
   "source_path": "dishes/staple/煮泡面加蛋.md",
   "image_id": null,
   "video_link": [],
@@ -128,5 +128,6 @@
       "type": "list_item",
       "content": "可根据个人需要加入佐料，和其他食材包括但不仅限于：火腿肠，生菜，小肉丝，辣条，鱼干，虾仁，鸡腿"
     }
-  ]
+  ],
+  "links": []
 }

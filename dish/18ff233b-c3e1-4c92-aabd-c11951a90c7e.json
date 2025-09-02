@@ -2,7 +2,7 @@
   "id": "18ff233b-c3e1-4c92-aabd-c11951a90c7e",
   "category": "水产",
   "name": "红烧鲤鱼",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/aquatic/红烧鲤鱼.md",
   "image_id": null,
   "video_link": [],
@@ -322,5 +322,6 @@
       "type": "list_item",
       "content": "鱼类本身脂肪含量少，所以香味欠缺，着重的是肉质的口感。所以一般做鱼类菜都建议用猪油，想要一锅奶白香醇的鱼汤。猪油是最好的选择~"
     }
-  ]
+  ],
+  "links": []
 }

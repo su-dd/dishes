@@ -2,7 +2,7 @@
   "id": "5642c2c1-6f76-46e9-a4fd-df10fcd80ece",
   "category": "蔬菜",
   "name": "小炒藕丁",
-  "description": "",
+  "description": "小炒藕丁成品\n小炒藕丁是一道简单易做的菜，莲藕营养丰富，非常适合素食。预计制作时长 20 分钟\n预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
   "image_id": "f4392e16-f678-487e-8721-621c9174e1c4",
   "video_link": [],
@@ -216,5 +216,6 @@
       "type": "list_item",
       "content": "请尽量不要使用铁器，会导致莲藕发黑"
     }
-  ]
+  ],
+  "links": []
 }

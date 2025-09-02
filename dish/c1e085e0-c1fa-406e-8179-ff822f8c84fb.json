@@ -2,7 +2,7 @@
   "id": "c1e085e0-c1fa-406e-8179-ff822f8c84fb",
   "category": "饮品",
   "name": "冬瓜茶",
-  "description": "",
+  "description": "冬瓜茶是一种清爽的传统饮料，一般初学者需要 4~5 小时完成。\n预估烹饪难度：★★\n",
   "source_path": "dishes/drink/冬瓜茶.md",
   "image_id": null,
   "video_link": [],
@@ -130,5 +130,6 @@
       "type": "list_item",
       "content": "保存方法：冷藏保存，建议 1 周内喝完。"
     }
-  ]
+  ],
+  "links": []
 }

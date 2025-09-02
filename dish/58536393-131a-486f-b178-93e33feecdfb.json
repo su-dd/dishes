@@ -2,7 +2,7 @@
   "id": "58536393-131a-486f-b178-93e33feecdfb",
   "category": "汤类",
   "name": "菌菇炖乳鸽",
-  "description": "",
+  "description": "菌菇炖乳鸽 汤鲜、肉嫩、营养丰富\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
   "image_id": "43685dd0-6315-4fc4-b7f5-862636fed721",
   "video_link": [],
@@ -124,5 +124,6 @@
     80,
     106
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

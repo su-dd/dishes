@@ -2,7 +2,7 @@
   "id": "a2d99c45-9699-4828-8a3d-c46577ccb750",
   "category": "肉食",
   "name": "冬瓜酿肉",
-  "description": "",
+  "description": "冬瓜酿肉成品\n荤素搭配，鲜嫩爽滑,做法简单。一般 30 分钟。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
   "image_id": "1a6f42a1-6d67-4e9e-a3fa-7759872a40d5",
   "video_link": [
@@ -223,5 +223,6 @@
       "type": "list_item",
       "content": "参考资料：b站视频"
     }
-  ]
+  ],
+  "links": []
 }

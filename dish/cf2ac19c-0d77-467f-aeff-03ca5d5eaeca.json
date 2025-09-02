@@ -2,7 +2,7 @@
   "id": "cf2ac19c-0d77-467f-aeff-03ca5d5eaeca",
   "category": "蔬菜",
   "name": "凉拌木耳",
-  "description": "",
+  "description": "凉拌木耳，由于发放物资中有很多干货，木耳是较为健康的食物。且凉拌木耳的烹饪方式也相对简单。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
   "image_id": "9a2056c7-ebe4-4b55-9ceb-5d3b918925aa",
   "video_link": [],
@@ -186,5 +186,6 @@
       "type": "list_item",
       "content": "等木耳冷却入味后口味更佳, 约 15 分钟。"
     }
-  ]
+  ],
+  "links": []
 }

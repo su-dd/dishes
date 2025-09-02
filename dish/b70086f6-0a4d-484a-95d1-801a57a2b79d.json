@@ -2,7 +2,7 @@
   "id": "b70086f6-0a4d-484a-95d1-801a57a2b79d",
   "category": "肉食",
   "name": "商芝肉",
-  "description": "",
+  "description": "此菜色泽红润，质地软嫩，肥而不腻，有浓郁的商芝香味，是陕西省商县特有的风味菜。因商芝属于陕西特产，此菜原料获取难度较大，不易制作。\n预估烹饪难度：★★★★★\n",
   "source_path": "dishes/meat_dish/商芝肉.md",
   "image_id": null,
   "video_link": [],
@@ -319,5 +319,6 @@
       "type": "list_item",
       "content": "商芝属于小地方不特别有名的特产，至少本人在其他地方没有见到过，在制作时可换成其他蕨类蔬菜。"
     }
-  ]
+  ],
+  "links": []
 }

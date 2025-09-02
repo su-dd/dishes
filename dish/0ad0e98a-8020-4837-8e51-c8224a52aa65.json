@@ -2,7 +2,7 @@
   "id": "0ad0e98a-8020-4837-8e51-c8224a52aa65",
   "category": "汤类",
   "name": "玉米排骨汤",
-  "description": "",
+  "description": "新鲜的排骨除了拿来烧或者炖之外，还可以用来煲汤，搭配玉米和胡萝卜煲出来的汤非常鲜美。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/soup/玉米排骨汤/玉米排骨汤.md",
   "image_id": "00c20826-e42a-40e4-ac64-7c2706299746",
   "video_link": [],
@@ -234,5 +234,6 @@
     85,
     99
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

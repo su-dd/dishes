@@ -2,7 +2,7 @@
   "id": "492e42cd-00ab-417e-b36d-52da0319def0",
   "category": "蔬菜",
   "name": "清炒花菜",
-  "description": "",
+  "description": "清炒花菜是一道常见的家常素菜。富含维生素 C 和膳食纤维，口感脆嫩。做法简单，是一道快速上手的炒菜。一般初学者只需要 15 分钟即可完成。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/清炒花菜.md",
   "image_id": null,
   "video_link": [],
@@ -176,5 +176,6 @@
       "type": "list_item",
       "content": "炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。"
     }
-  ]
+  ],
+  "links": []
 }

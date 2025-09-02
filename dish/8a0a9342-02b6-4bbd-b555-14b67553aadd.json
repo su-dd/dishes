@@ -2,7 +2,7 @@
   "id": "8a0a9342-02b6-4bbd-b555-14b67553aadd",
   "category": "肉食",
   "name": "土豆炖排骨",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
   "image_id": "453cfcad-8dc3-498a-957b-c131cca439be",
   "video_link": [],
@@ -213,5 +213,6 @@
     80,
     87
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

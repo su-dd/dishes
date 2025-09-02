@@ -2,7 +2,7 @@
   "id": "f440ebb6-caad-4fb2-b0fe-239fac629d17",
   "category": "肉食",
   "name": "黑椒牛柳",
-  "description": "",
+  "description": "黑椒牛柳成品\n黑椒牛柳是一道简单易做的菜。蔬菜与肉类均衡，富含蛋白质，口味适合大多数人。一般初学者只需要 1 小时以内即可完成。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
   "image_id": "875b3dc1-d937-4317-a8ef-c3a7456ebca0",
   "video_link": [],
@@ -163,5 +163,6 @@
     59,
     92
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

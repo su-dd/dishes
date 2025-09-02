@@ -2,7 +2,7 @@
   "id": "8cdd9ad8-dbe4-413d-8fce-5ce18f265c34",
   "category": "蔬菜",
   "name": "鸡蛋羹",
-  "description": "",
+  "description": "鸡蛋羹成品\n鸡蛋羹，又称水蒸蛋，不需要准备复杂的食材，是一道简单快捷易做的菜，当早餐或是正餐都可，制作时长约为 15 分钟。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
   "image_id": "437b6bea-a249-41f5-8930-ac5107f2f9f2",
   "video_link": [],
@@ -200,5 +200,6 @@
     24,
     28
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "47702fa4-f248-42a7-99b1-59f849a02366",
   "category": "蔬菜",
   "name": "酸辣土豆丝",
-  "description": "",
+  "description": "酸辣土豆丝是一道简单易做的菜。色泽光亮，酸辣可口。辅料辣椒富含维生素 C。该菜用料简单，好学易做\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/酸辣土豆丝.md",
   "image_id": null,
   "video_link": [],
@@ -194,5 +194,6 @@
       "type": "list_item",
       "content": "加入蒜末、盐后应尽快出锅，保留蒜香以及避免破坏口感。"
     }
-  ]
+  ],
+  "links": []
 }

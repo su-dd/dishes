@@ -2,7 +2,7 @@
   "id": "d20ebb13-c62d-4075-9cc0-b7004a9b36ae",
   "category": "蔬菜",
   "name": "松仁玉米",
-  "description": "",
+  "description": "松仁玉米是一道色香味俱全的家常菜，口感甜嫩清爽，松仁香脆，老少皆宜。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/松仁玉米.md",
   "image_id": null,
   "video_link": [],
@@ -191,5 +191,6 @@
       "type": "list_item",
       "content": "炒制时火候不宜过大，以防糊锅或松仁焦糊"
     }
-  ]
+  ],
+  "links": []
 }

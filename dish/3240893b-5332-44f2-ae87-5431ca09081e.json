@@ -2,7 +2,7 @@
   "id": "3240893b-5332-44f2-ae87-5431ca09081e",
   "category": "水产",
   "name": "红烧鱼",
-  "description": "",
+  "description": "WARNING 如果没有使用过菜刀剁过肉类食物，那么并不推荐使用该菜单！！！\n在操作中，锋利的菜刀可能会划伤手指，请一定要小心。\n此做法代表通用红烧鱼做法，材料分为必备和可添加~\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/aquatic/红烧鱼.md",
   "image_id": null,
   "video_link": [],
@@ -288,5 +288,6 @@
     21,
     34
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

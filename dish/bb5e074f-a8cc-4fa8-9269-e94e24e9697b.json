@@ -2,7 +2,7 @@
   "id": "bb5e074f-a8cc-4fa8-9269-e94e24e9697b",
   "category": "蔬菜",
   "name": "炒滑蛋",
-  "description": "",
+  "description": "炒滑蛋成品\n炒滑蛋是一道简单易做的菜。一般初学者只需要 5 分钟即可完成。\n预估烹饪难度：★\n",
   "source_path": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
   "image_id": "e6f4c87f-d8bf-49ec-a9df-5c97173ce600",
   "video_link": [],
@@ -154,5 +154,6 @@
       "type": "list_item",
       "content": "甜琛廚房"
     }
-  ]
+  ],
+  "links": []
 }

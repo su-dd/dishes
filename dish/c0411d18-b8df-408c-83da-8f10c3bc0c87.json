@@ -2,7 +2,7 @@
   "id": "c0411d18-b8df-408c-83da-8f10c3bc0c87",
   "category": "甜品",
   "name": "草莓冰淇淋",
-  "description": "",
+  "description": "草莓冰淇淋是简单但好吃的冰淇淋，可以做很多不同的口味。这次将用当季的新鲜草莓制作美味，不需要搅拌的草莓冰淇淋。\n预估烹饪难度：★★\n",
   "source_path": "dishes/dessert/草莓冰淇淋/草莓冰淇淋.md",
   "image_id": null,
   "video_link": [],
@@ -170,5 +170,6 @@
       "type": "list_item",
       "content": "制作过程中注意安全，避免割/烫到手。"
     }
-  ]
+  ],
+  "links": []
 }

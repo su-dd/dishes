@@ -2,7 +2,7 @@
   "id": "96ea487a-63ed-4283-8d52-4b8a3903324d",
   "category": "肉食",
   "name": "烤鸡翅",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/烤鸡翅.md",
   "image_id": null,
   "video_link": [],
@@ -136,5 +136,6 @@
       "type": "list_item",
       "content": "烤鸡翅时，建议将烤盘底部垫上一层锡纸，便于清洁烤盘"
     }
-  ]
+  ],
+  "links": []
 }

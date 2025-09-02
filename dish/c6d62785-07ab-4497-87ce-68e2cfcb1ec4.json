@@ -2,7 +2,7 @@
   "id": "c6d62785-07ab-4497-87ce-68e2cfcb1ec4",
   "category": "饮品",
   "name": "泰国手标红茶",
-  "description": "",
+  "description": "泰国手标红茶成品\n泰国手标红茶是泰国街头随处可见的奶茶，味道香纯，绵密。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/drink/泰国手标红茶/泰国手标红茶.md",
   "image_id": "b481ec72-b0aa-4e82-a2f5-3837511106b6",
   "video_link": [],
@@ -119,5 +119,6 @@
     247,
     732
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "64fc20fb-df40-4724-b5b1-9955ff5191f3",
   "category": "蔬菜",
   "name": "手撕包菜",
-  "description": "",
+  "description": "手撕包菜是一道色香味俱全的汉族名菜，属于湘菜系\n预估烹饪难度：★★★\n",
   "source_path": "dishes/vegetable_dish/手撕包菜/手撕包菜.md",
   "image_id": "3241b313-fbc2-43b4-9e31-06c07c01111a",
   "video_link": [],
@@ -190,5 +190,6 @@
       "type": "list_item",
       "content": "最后一个步骤中，翻炒时间根据实际情况和个人口感做灵活调整"
     }
-  ]
+  ],
+  "links": []
 }

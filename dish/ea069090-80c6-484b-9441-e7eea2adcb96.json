@@ -2,7 +2,7 @@
   "id": "ea069090-80c6-484b-9441-e7eea2adcb96",
   "category": "肉食",
   "name": "蚂蚁上树",
-  "description": "",
+  "description": "蚂蚁上树是一道经典的川菜，主要材料为粉丝和肉末。它咸香微辣、入味透彻，粉丝软滑爽口，肉末细嫩鲜香。全程只需 20 分钟，是非常适合家庭操作的一道菜。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/蚂蚁上树.md",
   "image_id": null,
   "video_link": [],
@@ -196,5 +196,6 @@
       "type": "list_item",
       "content": "可加入 0.5g 白胡椒粉调味，风味更佳"
     }
-  ]
+  ],
+  "links": []
 }

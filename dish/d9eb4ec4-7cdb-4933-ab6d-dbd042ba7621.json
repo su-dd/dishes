@@ -2,7 +2,7 @@
   "id": "d9eb4ec4-7cdb-4933-ab6d-dbd042ba7621",
   "category": "佐料",
   "name": "蔗糖糖浆",
-  "description": "",
+  "description": "将糖事先溶解好便于在配制饮料（特别是冷饮）时给饮料增甜\n预估烹饪难度：★\n",
   "source_path": "dishes/condiment/蔗糖糖浆/蔗糖糖浆.md",
   "image_id": "b980c84b-1421-4f08-b060-b21b2d3dada2",
   "video_link": [],
@@ -59,5 +59,6 @@
     121,
     243
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

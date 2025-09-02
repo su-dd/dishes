@@ -2,7 +2,7 @@
   "id": "08347056-e44f-454e-a8a6-f82729f7db18",
   "category": "甜品",
   "name": "奥利奥冰淇淋",
-  "description": "",
+  "description": "奥利奥冰淇淋是简单但好吃的冰淇淋，纯动物奶油不腻口，预计制作时长半小时（主要消耗在搅打奶油和去除奥利奥夹心上）。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md",
   "image_id": null,
   "video_link": [],
@@ -131,5 +131,6 @@
       "type": "list_item",
       "content": "参考资料：5分钟搞定【奥利奥麦旋风】太解馋叭！"
     }
-  ]
+  ],
+  "links": []
 }

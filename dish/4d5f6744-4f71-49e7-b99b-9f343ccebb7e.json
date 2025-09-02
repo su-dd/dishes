@@ -2,7 +2,7 @@
   "id": "4d5f6744-4f71-49e7-b99b-9f343ccebb7e",
   "category": "肉食",
   "name": "虎皮肘子",
-  "description": "",
+  "description": "虎皮肘子是一道传统名菜，以猪肘为主料，通过先烧再炸后炖三个步骤使肘子皮呈现出虎皮状。肘子皮软烂入味，肥而不腻，瘦肉松软可口。这道菜是逢年过节让老辈子闭嘴猛炫的不二之选，可谓是救命法宝。\n预估烹饪难度：★★★★★\n",
   "source_path": "dishes/meat_dish/虎皮肘子.md",
   "image_id": null,
   "video_link": [
@@ -347,5 +347,9 @@
       "type": "list_item",
       "content": "参考资料：Bilibili老饭骨的视频教程"
     }
+  ],
+  "links": [
+    "dishes/meat_dish/tips/advanced/油温判断技巧.md",
+    "tips/advanced/糖色的炒制.md"
   ]
 }

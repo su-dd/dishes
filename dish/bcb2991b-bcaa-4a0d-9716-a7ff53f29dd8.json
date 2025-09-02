@@ -2,7 +2,7 @@
   "id": "bcb2991b-bcaa-4a0d-9716-a7ff53f29dd8",
   "category": "佐料",
   "name": "草莓酱",
-  "description": "",
+  "description": "可以买那种一筐一筐卖的小草莓，主要是便宜。做成酱抹在面包上非常好吃。\n预估烹饪难度：★★\n",
   "source_path": "dishes/condiment/草莓酱/草莓酱.md",
   "image_id": "5d53c4c8-b04d-4dc2-b31a-c0e264a88f62",
   "video_link": [],
@@ -109,5 +109,6 @@
     86,
     105
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

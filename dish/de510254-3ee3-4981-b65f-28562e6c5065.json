@@ -2,7 +2,7 @@
   "id": "de510254-3ee3-4981-b65f-28562e6c5065",
   "category": "主食",
   "name": "日式肥牛丼饭",
-  "description": "",
+  "description": "预估烹饪难度：★★★★\n",
   "source_path": "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md",
   "image_id": "576974b8-e172-4c23-9f45-b7498fa832f3",
   "video_link": [
@@ -217,7 +217,7 @@
     },
     {
       "type": "list_item",
-      "content": "如果有条件，选择加入 15g"
+      "content": "如果有条件，选择加入 15g清酒"
     },
     {
       "type": "list_item",
@@ -227,5 +227,10 @@
       "type": "list_item",
       "content": "夏叔厨房 60秒搞定神仙配方，好吃又下饭的肥牛饭！"
     }
+  ],
+  "links": [
+    "dishes/breakfast/温泉蛋/温泉蛋.md",
+    "dishes/staple/米饭/电饭煲蒸米饭.md",
+    "dishes/staple/米饭/电饭煲蒸米饭.md"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "e980f69d-8565-4988-9d99-9845bbdea98b",
   "category": "主食",
   "name": "麻油拌面",
-  "description": "",
+  "description": "省吃俭用懒人的菜：麻油拌面：想必大家都会有节约开销的时刻吧，附上个人耐吃又省钱的食谱。不需要太多的步骤简单的煮，捞，吃。\n单身的朋友懒惰出门，又不想花钱，简简单单就一餐。\n非单身的朋友想存钱，让女友花钱，简简单单就一餐。\n预估烹饪难度：★\n",
   "source_path": "dishes/staple/麻油拌面.md",
   "image_id": null,
   "video_link": [],
@@ -132,5 +132,6 @@
     7,
     10
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

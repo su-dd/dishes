@@ -2,7 +2,7 @@
   "id": "958863d7-1a89-48aa-a723-3fa72b74ee48",
   "category": "饮品",
   "name": "奶茶",
-  "description": "",
+  "description": "奶茶是一种简单易做的饮料。一般初学者只需要 30 分钟即可完成。\n预估烹饪难度：★★\n",
   "source_path": "dishes/drink/奶茶.md",
   "image_id": null,
   "video_link": [],
@@ -97,5 +97,6 @@
       "type": "list_item",
       "content": "等待时间结束后可提起或搅动茶包以使冲泡更加均匀。"
     }
-  ]
+  ],
+  "links": []
 }

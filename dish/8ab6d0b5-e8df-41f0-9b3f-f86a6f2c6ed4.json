@@ -2,7 +2,7 @@
   "id": "8ab6d0b5-e8df-41f0-9b3f-f86a6f2c6ed4",
   "category": "速食",
   "name": "凉皮",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/semi-finished/凉皮.md",
   "image_id": null,
   "video_link": [],
@@ -288,5 +288,6 @@
     23,
     42
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

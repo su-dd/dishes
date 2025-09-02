@@ -2,7 +2,7 @@
   "id": "67507962-dd6e-4ee4-bc71-470a191768f0",
   "category": "主食",
   "name": "豆角焖面",
-  "description": "",
+  "description": "豆角焖面是一道懒人美食，操作简单，方便美味。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/豆角焖面/豆角焖面.md",
   "image_id": null,
   "video_link": [],
@@ -362,5 +362,6 @@
       "type": "list_item",
       "content": "大宽（就像吃麻辣烫的那个宽粉一样）"
     }
-  ]
+  ],
+  "links": []
 }

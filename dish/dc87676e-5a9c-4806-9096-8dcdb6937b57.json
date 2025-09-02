@@ -2,7 +2,7 @@
   "id": "dc87676e-5a9c-4806-9096-8dcdb6937b57",
   "category": "肉食",
   "name": "芥末罗氏虾",
-  "description": "",
+  "description": "芥末罗氏虾成品\n本菜品可替换成任意虾种类，包括但不限于基围虾、花虾、黑虎虾等。鲜香入味、芥末风味十足、吃完吮指，且操作十分简单。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
   "image_id": "f2493ffb-3667-4a98-bdce-e46931271d12",
   "video_link": [],
@@ -211,6 +211,11 @@
     {
       "type": "list_item",
       "content": "注意事项：黄油入锅后不宜炸制太久，融化翻拌均匀即可烹入碗汁"
+    },
+    {
+      "type": "list_item",
+      "content": "黄油入锅后不宜炸制太久，融化翻拌均匀即可烹入碗汁"
     }
-  ]
+  ],
+  "links": []
 }

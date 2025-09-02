@@ -2,7 +2,7 @@
   "id": "b11af689-ac15-4b25-86c0-6116a8ff8c78",
   "category": "甜品",
   "name": "英式司康",
-  "description": "",
+  "description": "示例菜成品\n英式司康是非常简单快手的下午茶甜品，可以搭配果酱、茶与咖啡。成品以蛋奶香气为主轴风味，糖量适中不会过于甜腻。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/dessert/英式司康/英式司康.md",
   "image_id": "76f494a7-568d-45f9-8762-61c44300099e",
   "video_link": [],
@@ -188,5 +188,6 @@
       "type": "list_item",
       "content": "最简单的分切方案是擀成圆形面皮，用刀切成 6 个扇形"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "cd40a623-fc08-4b4f-ae3a-f08f07faeb8b",
   "category": "速食",
   "name": "空气炸锅羊排",
-  "description": "",
+  "description": "示例菜成品\n空气炸锅羊排超级懒人版，味道尚可，主要看羊排的品质。\n烹饪总时长：40 分钟（准备 5 分钟+腌制 20 分钟+下锅 15 分钟）\n实际操作时间：10 分钟\n预估烹饪难度：★★★\n",
   "source_path": "dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md",
   "image_id": "e2db45ad-45b8-4c6e-aaa0-9441b225e847",
   "video_link": [],
@@ -140,5 +140,6 @@
       "type": "list_item",
       "content": "推荐购买温控比较好的空气炸锅，不然可能会糊"
     }
-  ]
+  ],
+  "links": []
 }

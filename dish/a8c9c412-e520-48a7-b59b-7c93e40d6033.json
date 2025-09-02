@@ -2,7 +2,7 @@
   "id": "a8c9c412-e520-48a7-b59b-7c93e40d6033",
   "category": "饮品",
   "name": "酸梅汤",
-  "description": "",
+  "description": "酸梅汤\n视频演示： 链接\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/drink/酸梅汤/酸梅汤.md",
   "image_id": "feeb86fa-a9c8-4969-bb22-8687c5044582",
   "video_link": [
@@ -215,5 +215,6 @@
     197,
     331
   ],
-  "additional_notes": []
+  "additional_notes": [],
+  "links": []
 }

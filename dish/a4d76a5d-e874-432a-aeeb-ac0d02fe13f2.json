@@ -2,7 +2,7 @@
   "id": "a4d76a5d-e874-432a-aeeb-ac0d02fe13f2",
   "category": "蔬菜",
   "name": "微波炉鸡蛋羹",
-  "description": "",
+  "description": "微波炉鸡蛋羹微波炉鸡蛋羹是一个简单易制作的菜。非常适合夜间突然饿了的时候充当夜宵，快捷简单。\n预估烹饪难度：★★\n",
   "source_path": "dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
   "image_id": "67a79750-e430-4aaf-a29f-b7e69b07c161",
   "video_link": [],
@@ -192,5 +192,6 @@
       "type": "list_item",
       "content": "鸡蛋和水不能超过碗容量的 2/3，否则可能发生溢出。"
     }
-  ]
+  ],
+  "links": []
 }

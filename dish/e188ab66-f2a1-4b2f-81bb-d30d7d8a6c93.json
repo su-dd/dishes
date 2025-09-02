@@ -2,7 +2,7 @@
   "id": "e188ab66-f2a1-4b2f-81bb-d30d7d8a6c93",
   "category": "肉食",
   "name": "小酥肉",
-  "description": "",
+  "description": "预估烹饪难度：★★★\n",
   "source_path": "dishes/meat_dish/小酥肉.md",
   "image_id": null,
   "video_link": [],
@@ -297,5 +297,6 @@
       "type": "list_item",
       "content": "如果肉太多吃不完，可以只炸一遍然后放冰箱。后面再吃的时候拿出来复炸，口感基本没影响。"
     }
-  ]
+  ],
+  "links": []
 }

@@ -2,7 +2,7 @@
   "id": "be89b839-5a16-46d4-ba83-52ec6fbc1981",
   "category": "主食",
   "name": "空气炸锅照烧鸡饭",
-  "description": "",
+  "description": "空气炸锅照烧鸡饭成品\n空气炸锅照烧鸡饭是一道简单易做的菜。是一道既便利又便宜的美食，而且在品尝美味的同时，新手也能完全掌握！\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md",
   "image_id": "35ec82f4-6bb7-4415-8af5-827834e5c142",
   "video_link": [],
@@ -122,5 +122,6 @@
       "type": "list_item",
       "content": "参考资料：库克美食教程"
     }
-  ]
+  ],
+  "links": []
 }

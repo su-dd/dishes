@@ -2,7 +2,7 @@
   "id": "420f0847-35f7-4234-a827-7386b7602d64",
   "category": "主食",
   "name": "炒凉粉",
-  "description": "",
+  "description": "炒凉粉成品\n炒凉粉是一道流行于山西、陕西地区的一道特色小吃，入口滑嫩，老少皆宜。\n预估烹饪难度：★★★\n",
   "source_path": "dishes/staple/炒凉粉/炒凉粉.md",
   "image_id": "28da81af-0a41-4f3a-a6ed-d5a8224eaea3",
   "video_link": [],
@@ -210,5 +210,6 @@
       "type": "list_item",
       "content": "选择凉粉时最好选用豌豆淀粉制作成的凉粉，条件不允许的话红薯淀粉或其他也可"
     }
-  ]
+  ],
+  "links": []
 }

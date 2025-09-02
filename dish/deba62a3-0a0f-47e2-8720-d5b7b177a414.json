@@ -2,7 +2,7 @@
   "id": "deba62a3-0a0f-47e2-8720-d5b7b177a414",
   "category": "肉食",
   "name": "柱候牛腩",
-  "description": "",
+  "description": "柱候牛腩成品柱候牛腩搭配米饭\n肉香味美，色泽诱人，滋补强壮，口感甚佳，令人垂涎的广式菜肴。有高压锅只需 1 个小时，否则需要炖煮 3 个小时。\n预估烹饪难度：★★★★\n",
   "source_path": "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
   "image_id": "32dfaf7c-393b-427e-9b56-f037d501b111",
   "video_link": [
@@ -404,5 +404,6 @@
       "type": "list_item",
       "content": "操作高压锅要注意安全哦！"
     }
-  ]
+  ],
+  "links": []
 }
