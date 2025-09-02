@@ -1,0 +1,78 @@
+{
+  "id": "fd40d1c7-60ab-4cee-a319-15c942dcf807",
+  "category": "佐料",
+  "name": "油酥",
+  "description": "",
+  "source_path": "dishes/condiment/油酥.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "面粉",
+      "amount": 7.69,
+      "unit": "克",
+      "remake": "要烙饼的张数 / 0.13g"
+    },
+    {
+      "name": "油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": "要烙饼的张数 * 10ml"
+    },
+    {
+      "name": "盐",
+      "amount": 0.5,
+      "unit": "克",
+      "remake": "要烙饼的张数 / 2g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "面粉盛小碗里，加入盐",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入200度的热油",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用筷子将其搅拌成无固状物体的糊状",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    }
+  ],
+  "take_time": [
+    0,
+    1
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    0,
+    1
+  ],
+  "additional_notes": []
+}

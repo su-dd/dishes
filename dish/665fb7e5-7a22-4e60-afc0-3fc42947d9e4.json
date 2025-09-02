@@ -1,0 +1,176 @@
+{
+  "id": "665fb7e5-7a22-4e60-afc0-3fc42947d9e4",
+  "category": "蔬菜",
+  "name": "蒸箱鸡蛋羹",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "蒸箱"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 6,
+      "unit": "毫升",
+      "remake": "可选调味"
+    }
+  ],
+  "steps": [
+    {
+      "description": "一个鸡蛋放入碗中打散",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "向碗中加入鸡蛋体积1.0-1.5倍60度纯净水，并且搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入食用盐1g",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入食用油5ml",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "过滤蛋液，去掉蛋液中的浮沫",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "确认蒸箱的水源已经补充至足够",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将已经完全搅拌均匀的鸡蛋液碗放入蒸箱",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "调节至100摄氏度蒸10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "打开蒸箱，缓慢开启避免蒸气烫伤",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "加入生抽调味",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "享用",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    1,
+    2
+  ],
+  "wait_time": [
+    10,
+    10
+  ],
+  "total_time": [
+    11,
+    12
+  ],
+  "additional_notes": []
+}

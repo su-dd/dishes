@@ -1,0 +1,213 @@
+{
+  "id": "0fa054fb-3671-4741-87e4-ecb85b423131",
+  "category": "蔬菜",
+  "name": "素炒豆角",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/素炒豆角.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "豆角",
+      "amount": 250,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "小米椒",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 3,
+      "unit": "圈",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 2,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 6,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "耗油",
+      "amount": 6,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 6,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "葱切花",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜切沫",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生抽、老抽、耗油、盐混合调料汁",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小米椒切圈",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "豆角去筋，45°斜切4-10cm小段",
+      "time_unit": "分",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧油，冒烟后放入葱、小米椒",
+      "time_unit": "分",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻炒至闻到香味",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入豆角翻炒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入料汁，开大火翻炒",
+      "time_unit": "分",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入150ml水",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转中小火，盖上锅盖焖制",
+      "time_unit": "分",
+      "time": [
+        8,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入蒜末",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    13
+  ],
+  "wait_time": [
+    8,
+    10
+  ],
+  "total_time": [
+    15,
+    23
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "切豆角需要一定的刀工，不会的可以使用剪刀"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ef7b36ee-ffdd-4b05-9e64-f64ab9947bc5",
+  "category": "主食",
+  "name": "酱拌荞麦面",
+  "description": "",
+  "source_path": "dishes/staple/酱拌荞麦面/酱拌荞麦面.md",
+  "image_id": "3b806929-a981-4816-9485-2269277767d0",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/3b806929-a981-4816-9485-2269277767d0.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "筷子",
+    "砧板",
+    "刀"
+  ],
+  "ingredients": [
+    {
+      "name": "荞麦面",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "黄瓜",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "红萝卜",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "老干妈",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "荞麦面下冷水煮熟",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出沥干备用",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "黄瓜、萝卜切成小条",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将荞麦面、黄瓜、萝卜放入盘子",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "放上老干妈",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "搅拌",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    2,
+    5
+  ],
+  "wait_time": [
+    8,
+    10
+  ],
+  "total_time": [
+    10,
+    15
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "荞麦面沥干后可以放冰箱冰镇后口感更佳"
+    },
+    {
+      "type": "list_item",
+      "content": "配料可以根据个人喜好选择其他，例如虾仁、肉沫等"
+    },
+    {
+      "type": "list_item",
+      "content": "酱料可以根据个人喜欢选择其他，例如花生酱、芝麻酱等"
+    },
+    {
+      "type": "list_item",
+      "content": "荞麦面跟其他面条热量几乎一致，所以不适合作为减脂的主食"
+    }
+  ]
+}

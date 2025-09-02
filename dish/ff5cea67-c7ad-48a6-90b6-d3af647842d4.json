@@ -1,0 +1,95 @@
+{
+  "id": "ff5cea67-c7ad-48a6-90b6-d3af647842d4",
+  "category": "半成品",
+  "name": "空气炸锅鸡翅中",
+  "description": "",
+  "source_path": "dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md",
+  "image_id": "ea955dfc-a7b7-41e4-9b35-06a0f2ccfb0d",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/ea955dfc-a7b7-41e4-9b35-06a0f2ccfb0d.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [
+    "空气炸锅"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡翅中",
+      "amount": 6,
+      "unit": "个",
+      "remake": "泰森奥尔良鸡翅中，其他品牌例如圣农嘟嘟翅可能会大一些，请自行根据食量斟酌"
+    },
+    {
+      "name": "罗勒碎",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选，撒上去纯粹为了好看"
+    },
+    {
+      "name": "云南单山蘸水",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选，代替烧烤料"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡翅从冰箱拿出来，鸡翼面朝下放入锡纸烤盘，撒上罗勒碎，盖上保鲜膜自然解冻",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "撒上罗勒碎，放入空气炸锅200°C烹饪",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻面，撒上罗勒碎",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入空气炸锅200°C继续烹饪",
+      "time_unit": "分钟",
+      "time": [
+        7,
+        7
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    0,
+    0
+  ],
+  "wait_time": [
+    37,
+    37
+  ],
+  "total_time": [
+    37,
+    37
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "推荐购买温控比较好的空气炸锅，不然可能会糊"
+    }
+  ]
+}

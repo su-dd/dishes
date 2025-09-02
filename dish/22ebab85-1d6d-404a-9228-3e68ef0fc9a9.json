@@ -1,0 +1,123 @@
+{
+  "id": "22ebab85-1d6d-404a-9228-3e68ef0fc9a9",
+  "category": "饮品",
+  "name": "杨枝甘露",
+  "description": "",
+  "source_path": "dishes/drink/杨枝甘露.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "杯子",
+    "水果刀",
+    "调理机",
+    "果汁机"
+  ],
+  "ingredients": [
+    {
+      "name": "奇亚籽",
+      "amount": 24,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "牛奶",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "冰块",
+      "amount": 2,
+      "unit": "小块",
+      "remake": ""
+    },
+    {
+      "name": "芒果",
+      "amount": 1,
+      "unit": "粒",
+      "remake": ""
+    },
+    {
+      "name": "葡萄柚",
+      "amount": 0.5,
+      "unit": "粒",
+      "remake": ""
+    },
+    {
+      "name": "椰奶",
+      "amount": 150,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "切丝芒果干",
+      "amount": 0,
+      "unit": "",
+      "remake": "可选"
+    },
+    {
+      "name": "切丝柳橙干",
+      "amount": 0,
+      "unit": "",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "奇亚籽泡牛奶",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "芒果、葡萄柚去皮切丁，放入杯中",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "芒果切小块放入调理机加冰块、椰奶打成泥",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "倒入杯中，放上点缀材料",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    5,
+    8
+  ],
+  "wait_time": [
+    10,
+    10
+  ],
+  "total_time": [
+    15,
+    18
+  ],
+  "additional_notes": []
+}

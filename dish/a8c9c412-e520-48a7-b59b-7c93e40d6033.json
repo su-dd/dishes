@@ -1,0 +1,220 @@
+{
+  "id": "a8c9c412-e520-48a7-b59b-7c93e40d6033",
+  "category": "饮品",
+  "name": "酸梅汤",
+  "description": "",
+  "source_path": "dishes/drink/酸梅汤/酸梅汤.md",
+  "image_id": "feeb86fa-a9c8-4969-bb22-8687c5044582",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/feeb86fa-a9c8-4969-bb22-8687c5044582.webp",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1164y1F7hv/"
+  ],
+  "difficulty": 4,
+  "servings": 4,
+  "kitchen_ware": [
+    "锅",
+    "量杯",
+    "秤"
+  ],
+  "ingredients": [
+    {
+      "name": "水",
+      "amount": 2000,
+      "unit": "毫升",
+      "remake": "两升水"
+    },
+    {
+      "name": "乌枣",
+      "amount": 25,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "乌梅",
+      "amount": 25,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "黄冰糖",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "山楂片",
+      "amount": 30,
+      "unit": "克",
+      "remake": "生"
+    },
+    {
+      "name": "甘草",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "陈皮",
+      "amount": 4,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "红豆蔻",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "干桂花",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "冲洗材料（干桂花和冰糖除外）",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "1.5升水常温浸泡两小时以上（干桂花和冰糖除外）",
+      "time_unit": "小时",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "开中大火煮沸",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖盖，转小火煮40分钟，为头煎",
+      "time_unit": "分钟",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将冰糖放入盆内，再将沥好用材的头汤趁热倒入，搅拌至冰糖融化",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "药材重新装回锅内再加600毫升的水",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "开大火煮沸",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖盖，转中火，再煮20分钟为二煎",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将二煎和冰糖水趁热混合为成品",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在成品60-70℃加入干桂花（不要超过80℃）",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加盖晾凉",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    },
+    {
+      "description": "放入冰箱冷藏3小时以上",
+      "time_unit": "小时",
+      "time": [
+        3,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    },
+    {
+      "description": "饮用时将干桂花沥出",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    17,
+    31
+  ],
+  "wait_time": [
+    180,
+    300
+  ],
+  "total_time": [
+    197,
+    331
+  ],
+  "additional_notes": []
+}

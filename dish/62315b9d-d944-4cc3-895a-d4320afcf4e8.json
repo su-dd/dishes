@@ -1,0 +1,260 @@
+{
+  "id": "62315b9d-d944-4cc3-895a-d4320afcf4e8",
+  "category": "饮品",
+  "name": "百香果橙子特调",
+  "description": "",
+  "source_path": "dishes/drink/百香果橙子特调/百香果橙子特调.md",
+  "image_id": "58659d30-3f2d-4828-af38-39aaab3c7b7b",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/58659d30-3f2d-4828-af38-39aaab3c7b7b.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "手动压汁器"
+  ],
+  "ingredients": [
+    {
+      "name": "百香果",
+      "amount": 3,
+      "unit": "个",
+      "remake": "腌制部分为两次分量"
+    },
+    {
+      "name": "橙子",
+      "amount": 1,
+      "unit": "个",
+      "remake": "约200克，拳头大小"
+    },
+    {
+      "name": "茉莉绿茶茶叶",
+      "amount": 3,
+      "unit": "克",
+      "remake": "3~6克范围"
+    },
+    {
+      "name": "白砂糖",
+      "amount": 30,
+      "unit": "克",
+      "remake": "腌制部分"
+    },
+    {
+      "name": "开水",
+      "amount": 150,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "冰块",
+      "amount": 160,
+      "unit": "克",
+      "remake": "160克以上"
+    },
+    {
+      "name": "蜂蜜",
+      "amount": 10,
+      "unit": "克",
+      "remake": "可选，如果没有可以用5克白砂糖代替"
+    },
+    {
+      "name": "薄荷叶",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选，装饰使用"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将三个百香果的果肉取出来（里面的汁也不能放过），置于容器中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "称量30克白砂糖放入",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "称量10克蜂蜜放入（如果没有可以用5克白砂糖代替）",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "容器保鲜膜封口，放入冰箱中进行12~24小时的腌制",
+      "time_unit": "小时",
+      "time": [
+        12,
+        24
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "称量3~6克茶叶置于容器，加入150毫升开水",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "泡6分钟",
+      "time_unit": "分钟",
+      "time": [
+        6,
+        6
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "往泡好的绿茶中放入90克冰块冷却，可搅拌加速冷却",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待冰块消失后，将茶叶过滤得到茉莉绿茶茶水约240毫升",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将橙子对半切（刀方向垂直于橙子的头尾连线），并从其中的一半中切取一片橙子备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "再次将橙子对半切，将得到的4角橙子用压汁器压出橙汁置于容器中备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "选择一个杯子，建议使用容量在350~400毫升的透明玻璃杯",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将70克冰块放置在杯底，并将所有橙汁倒入",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将之前准备的一片橙子贴杯内壁放置",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将一次分量的腌制百香果浇在冰上",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "缓慢注入茉莉绿茶直至满杯，便于分层",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在液面放置好装饰用的绿叶（可选）",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "搅拌均匀后享用",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    13,
+    27
+  ],
+  "wait_time": [
+    726,
+    1446
+  ],
+  "total_time": [
+    739,
+    1473
+  ],
+  "additional_notes": []
+}

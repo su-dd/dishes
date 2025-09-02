@@ -1,0 +1,223 @@
+{
+  "id": "0779b795-2443-4705-9265-0c36ee63ba3a",
+  "category": "蔬菜",
+  "name": "炒茄子",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/炒茄子.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "茄子",
+      "amount": 3.6,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 2,
+      "unit": "个",
+      "remake": "可选"
+    },
+    {
+      "name": "虾皮",
+      "amount": 2,
+      "unit": "把",
+      "remake": "可选，正常男子手抓半把"
+    },
+    {
+      "name": "香葱",
+      "amount": 4,
+      "unit": "颗",
+      "remake": "可选"
+    },
+    {
+      "name": "酱油",
+      "amount": 80,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "菜籽油",
+      "amount": 0,
+      "unit": "适量",
+      "remake": "或花生油"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将茄子洗净，一刀分为两段（竖切）",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "每段的茄子切菱形块",
+      "time_unit": "秒",
+      "time": [
+        60,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将香葱洗净，并切成葱花",
+      "time_unit": "秒",
+      "time": [
+        45,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "切好八角",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "开火热锅，直至锅内没有水",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "往锅内倒食用油，没过锅底的两倍",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热油约6成熟",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入八角、虾皮、香葱翻炒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热油至9成熟",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将碗中的茄子倒入锅内用锅铲进行翻炒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻炒约40秒",
+      "time_unit": "秒",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将酱油倒入锅铲内并加入锅中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续进行翻炒直至茄子变色且变软",
+      "time_unit": "秒",
+      "time": [
+        60,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将炒好的茄子捞出装盘",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    4,
+    7
+  ],
+  "wait_time": [
+    1,
+    2
+  ],
+  "total_time": [
+    6,
+    9
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "因为酱油的缘故，所以本菜不必加盐。出锅之前可以尝一下，如果不咸可以加微量的盐，下次炒时酱油量要增加"
+    },
+    {
+      "type": "list_item",
+      "content": "如果加了虾皮，可以将酱油量酌情减少。"
+    },
+    {
+      "type": "list_item",
+      "content": "炒本菜时，一直大火即可。"
+    },
+    {
+      "type": "list_item",
+      "content": "切忌！一定不可加水，会变成水煮茄子，口感差，所以油可多放，不可少放。"
+    }
+  ]
+}

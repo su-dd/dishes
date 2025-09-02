@@ -1,0 +1,234 @@
+{
+  "id": "78d094e6-538d-49bd-b2d6-47ad7c6d5a42",
+  "category": "汤类",
+  "name": "奶油蘑菇汤",
+  "description": "",
+  "source_path": "dishes/soup/奶油蘑菇汤.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "搅拌工具"
+  ],
+  "ingredients": [
+    {
+      "name": "白蘑菇",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "洋葱",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "黄油",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "面粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "牛奶",
+      "amount": 200,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "淡奶油",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "清水",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "黑胡椒碎",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "白蘑菇切片备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "洋葱切末备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "平底锅中放入黄油，小火融化",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入洋葱炒至透明",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入白蘑菇翻炒至出水变软",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒入面粉搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入牛奶和清水，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "小火煮沸，保持搅拌防止糊底",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转小火煮约10分钟至汤汁浓稠",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入淡奶油继续加热1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入盐和黑胡椒调味",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "熄火",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "用料理机打成细腻浓汤（可选）",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    18,
+    33
+  ],
+  "wait_time": [
+    10,
+    10
+  ],
+  "total_time": [
+    28,
+    43
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "可将部分蘑菇预留作为装饰，提前煎香再添加。"
+    },
+    {
+      "type": "list_item",
+      "content": "使用鸡高汤代替清水风味更佳，建议控制总液体不超过 300 毫升/份。"
+    },
+    {
+      "type": "list_item",
+      "content": "喜欢浓汤口感可适当增加面粉和淡奶油用量。"
+    },
+    {
+      "type": "list_item",
+      "content": "建议现做现吃，不建议冷藏或冷冻保存。"
+    }
+  ]
+}

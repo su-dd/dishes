@@ -1,0 +1,129 @@
+{
+  "id": "6226b99d-2be8-46cd-a59f-b6924ba3ea8c",
+  "category": "早餐",
+  "name": "蒸花卷",
+  "description": "",
+  "source_path": "dishes/breakfast/蒸花卷.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 5,
+  "kitchen_ware": [
+    "圆碟子",
+    "蒸架"
+  ],
+  "ingredients": [
+    {
+      "name": "冷冻花卷",
+      "amount": 5,
+      "unit": "个",
+      "remake": "女生分量 3 个即可"
+    },
+    {
+      "name": "水",
+      "amount": 400,
+      "unit": "毫升"
+    }
+  ],
+  "steps": [
+    {
+      "description": "从包装袋中取出5个花卷",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "把花卷平铺在碟子上，尽量不用重叠",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "往锅里倒入400ml水，放入蒸架和装花卷的碟子，盖上锅盖",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开大火加热至水沸腾",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转中火加热15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开盖检查花卷温度，必要时继续加热",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火出锅",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "碟子取出放凉至50度",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    0,
+    1
+  ],
+  "wait_time": [
+    18,
+    20
+  ],
+  "total_time": [
+    18,
+    21
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，需要注意观察锅里的水不能少于 50ml。"
+    }
+  ]
+}

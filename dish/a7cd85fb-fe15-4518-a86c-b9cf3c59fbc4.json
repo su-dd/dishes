@@ -1,0 +1,186 @@
+{
+  "id": "a7cd85fb-fe15-4518-a86c-b9cf3c59fbc4",
+  "category": "肉食",
+  "name": "巴基斯坦牛肉咖喱",
+  "description": "",
+  "source_path": "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+  "image_id": "c6e9ecf7-b9a2-4511-98b9-08f9ce67d4e3",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/c6e9ecf7-b9a2-4511-98b9-08f9ce67d4e3.webp",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 5,
+  "kitchen_ware": [
+    "炒锅",
+    "电饭煲",
+    "电炖锅"
+  ],
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "amount": 1000,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "番茄",
+      "amount": 4,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "螺丝椒",
+      "amount": 2,
+      "unit": "个",
+      "remake": "大个的"
+    },
+    {
+      "name": "原味酸奶",
+      "amount": 1,
+      "unit": "盒",
+      "remake": ""
+    },
+    {
+      "name": "Masala粉",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "螺丝椒切成段状",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "番茄打成番茄蓉",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "牛肉切成2cm小块并洗净",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "炒锅中倒入一层油防止蒸发",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入番茄蓉持续搅拌",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入蒜粉、姜粉和香料粉搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入牛肉和螺丝椒段搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入酸奶搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转移至炖锅并加水",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "电饭煲/炖锅慢炖",
+      "time_unit": "小时",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开锅检查牛肉软糯程度",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    28
+  ],
+  "wait_time": [
+    120,
+    180
+  ],
+  "total_time": [
+    135,
+    208
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,237 @@
+{
+  "id": "eaaeb07d-6f91-47f2-81c8-96152c7cc64c",
+  "category": "肉食",
+  "name": "麻婆豆腐",
+  "description": "",
+  "source_path": "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
+  "image_id": "476c82bd-ccee-47f3-9b68-ae7983e1d368",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/476c82bd-ccee-47f3-9b68-ae7983e1d368.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [
+    "水果刀"
+  ],
+  "ingredients": [
+    {
+      "name": "内脂豆腐",
+      "amount": 1,
+      "unit": "盒",
+      "remake": ""
+    },
+    {
+      "name": "咸鸭蛋",
+      "amount": 1,
+      "unit": "枚",
+      "remake": ""
+    },
+    {
+      "name": "五花肉",
+      "amount": 25,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 2,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "生姜",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "小米椒",
+      "amount": 5,
+      "unit": "根",
+      "remake": "不吃辣的可选"
+    },
+    {
+      "name": "香辣酱",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "花椒",
+      "amount": 20,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "食盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "大蒜和生姜切碎",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小米辣切成辣椒圈",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "五花肉切成肉糜",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "肉糜中加入一半的食盐和味极鲜酱油，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸭蛋用菜刀竖着对半切开，去除蛋黄，剩下的蛋白捣碎",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "豆腐划成大约2.5cm*3cm大小",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，锅内放入10ml-15ml食用油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待10秒让油温升高",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入大蒜、生姜、辣椒圈、花椒、咸鸭蛋、蒜蓉辣酱翻炒20秒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入肉糜翻炒大约1分钟，肉炒变色",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入豆腐，将剩下的食盐、味极鲜酱油酱油均匀的洒在豆腐上",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "从锅边倒入开水，没过豆腐",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水沸腾后转入中火，等待大约10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    12,
+    20
+  ],
+  "wait_time": [
+    10,
+    10
+  ],
+  "total_time": [
+    22,
+    30
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "期间一定要注意观察，防止糊锅"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": "8ab6d0b5-e8df-41f0-9b3f-f86a6f2c6ed4",
+  "category": "半成品",
+  "name": "凉皮",
+  "description": "",
+  "source_path": "dishes/semi-finished/凉皮.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "盆",
+    "碗",
+    "盘子",
+    "蒜臼"
+  ],
+  "ingredients": [
+    {
+      "name": "凉皮",
+      "amount": 300,
+      "unit": "克",
+      "remake": "用量为300g/人向下取整"
+    },
+    {
+      "name": "面筋",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "香油",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "香醋",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "芝麻酱",
+      "amount": 30,
+      "unit": "克",
+      "remake": "用量为30g/人向下取整，原味芝麻酱最佳"
+    },
+    {
+      "name": "黄瓜",
+      "amount": 100,
+      "unit": "克",
+      "remake": "100g/人"
+    },
+    {
+      "name": "大蒜",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "绿豆芽",
+      "amount": 50,
+      "unit": "克",
+      "remake": "50g/人"
+    }
+  ],
+  "steps": [
+    {
+      "description": "锅中加入500ml水，煮沸",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将绿豆芽放入锅中，大火煮60秒",
+      "time_unit": "秒",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "豆芽捞出，过凉水，放入盘中备用",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "黄瓜切丝放入盘中备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜瓣剥皮，放入蒜臼中加入盐，锤成蒜泥",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜泥中加入自来水，放置备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "清洗凉皮和面筋表面的食用油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "用手将面筋中的大量水分挤出",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "准备小碗，加入盐、鸡精、生抽、老抽、香油、蚝油、香醋等调料",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入温水，使用筷子将调料拌匀、溶解",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "静置一旁冷却",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将芝麻酱放入小碗中，加入盐、鸡精、生抽、老抽、蚝油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "使用筷子将调料与芝麻酱拌匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入清水将其拌匀，重复2-3次",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将凉皮放入小盆中，倒入盐水拌匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛入小碗中",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "依次放入豆芽、面筋、芝麻酱、黄瓜丝",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "加入辣椒油（可选）",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    17,
+    30
+  ],
+  "wait_time": [
+    6,
+    12
+  ],
+  "total_time": [
+    23,
+    42
+  ],
+  "additional_notes": []
+}

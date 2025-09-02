@@ -1,0 +1,141 @@
+{
+  "id": "96ea487a-63ed-4283-8d52-4b8a3903324d",
+  "category": "肉食",
+  "name": "烤鸡翅",
+  "description": "",
+  "source_path": "dishes/meat_dish/烤鸡翅.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "烤箱"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡翅中",
+      "amount": 3,
+      "unit": "个",
+      "remake": "3-4个/人"
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": "2g/人"
+    },
+    {
+      "name": "黑胡椒粉",
+      "amount": 1,
+      "unit": "克",
+      "remake": "1g/人"
+    },
+    {
+      "name": "酱油",
+      "amount": 3,
+      "unit": "毫升",
+      "remake": "3ml/人"
+    },
+    {
+      "name": "料酒",
+      "amount": 3,
+      "unit": "毫升",
+      "remake": "3ml/人"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡翅放入碗中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加盐、黑胡椒粉、酱油、料酒进行腌制",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将烤箱预热至200℃",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将腌制好的鸡翅均匀地放在烤盘上",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将烤盘放入烤箱中层烤",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出烤盘将鸡翅翻面",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "再烤直到熟透",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    1,
+    2
+  ],
+  "wait_time": [
+    70,
+    95
+  ],
+  "total_time": [
+    71,
+    97
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "可以在腌制鸡翅时加入蜂蜜、酱油、姜蒜粉、五香粉等作为调味料，提升口感和香气"
+    },
+    {
+      "type": "list_item",
+      "content": "烤鸡翅时，建议将烤盘底部垫上一层锡纸，便于清洁烤盘"
+    }
+  ]
+}

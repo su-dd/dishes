@@ -1,0 +1,175 @@
+{
+  "id": "26b32a50-a206-4150-8544-956ad79d5a5c",
+  "category": "主食",
+  "name": "韭菜盒子",
+  "description": "",
+  "source_path": "dishes/staple/韭菜盒子.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "韭菜",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "虾仁",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 3,
+      "unit": "枚",
+      "remake": ""
+    },
+    {
+      "name": "香油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "面粉",
+      "amount": 250,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将面粉放入大碗中，加入水，搅拌成光滑的面团",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "面团静置",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "韭菜洗净切碎",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入打散的鸡蛋、盐，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将面团分成小剂子，擀成薄圆饼",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "包入韭菜、虾仁、鸡蛋液",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，加入食用油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入包好的韭菜盒子，煎至两面金黄",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "稍凉后即可享用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    18,
+    29
+  ],
+  "wait_time": [
+    30,
+    30
+  ],
+  "total_time": [
+    48,
+    59
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "制作时可根据个人口味添加豆腐干等配料。"
+    },
+    {
+      "type": "list_item",
+      "content": "注意煎制时火候，避免外焦内生。"
+    }
+  ]
+}

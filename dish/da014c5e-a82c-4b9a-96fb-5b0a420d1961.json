@@ -1,0 +1,135 @@
+{
+  "id": "da014c5e-a82c-4b9a-96fb-5b0a420d1961",
+  "category": "甜品",
+  "name": "龟苓膏",
+  "description": "",
+  "source_path": "dishes/dessert/龟苓膏/龟苓膏.md",
+  "image_id": "94d5eb69-7046-439c-ad9e-fa319fef8a8d",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/94d5eb69-7046-439c-ad9e-fa319fef8a8d.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 4,
+  "kitchen_ware": [
+    "小锅",
+    "搅拌工具",
+    "模具或碗"
+  ],
+  "ingredients": [
+    {
+      "name": "龟苓膏粉",
+      "amount": 25,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "冷水",
+      "amount": 120,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "开水",
+      "amount": 500,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "在锅中倒入龟苓膏粉25克与冷水120毫升，充分搅拌至无颗粒感",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "在另一个容器中加入白砂糖100克，倒入沸水500毫升，搅拌至糖完全溶解",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将糖水缓慢倒入龟苓膏粉液中，立即搅拌均匀，避免结块",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将混合液体放入锅中，加热时保持中小火，并持续搅拌以防粘锅",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加热至液体变粘稠并开始冒小泡，即可关火",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "快速将液体倒入模具中，自然冷却凝固",
+      "time_unit": "分钟",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    6,
+    11
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    6,
+    11
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "龟苓膏冷却过程中不可随意移动容器，否则可能影响成型。"
+    },
+    {
+      "type": "list_item",
+      "content": "加热时应避免使用大火，防止结块或糊底。"
+    },
+    {
+      "type": "list_item",
+      "content": "可根据个人口味添加蜂蜜、炼乳或水果食用。"
+    },
+    {
+      "type": "list_item",
+      "content": "不同品牌龟苓膏粉浓度略有差异，建议参照包装说明调整配比。"
+    }
+  ]
+}

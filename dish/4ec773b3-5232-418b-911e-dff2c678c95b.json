@@ -1,0 +1,158 @@
+{
+  "id": "4ec773b3-5232-418b-911e-dff2c678c95b",
+  "category": "汤类",
+  "name": "银耳莲子粥",
+  "description": "",
+  "source_path": "dishes/soup/银耳莲子粥/银耳莲子粥.md",
+  "image_id": "6c108a27-df52-47a3-b8d4-8d13326e06af",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/6c108a27-df52-47a3-b8d4-8d13326e06af.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗"
+  ],
+  "ingredients": [
+    {
+      "name": "银耳",
+      "amount": 60,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "去心莲子",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "红枣",
+      "amount": 6,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "枸杞",
+      "amount": 5.5,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "冰糖",
+      "amount": 15,
+      "unit": "克",
+      "remake": "10-20g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "把银耳、莲子用清水浸泡",
+      "time_unit": "小时",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "红枣浸泡",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "枸杞洗净，备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在锅中倒入水，烧开后依次放入银耳、莲子、红枣",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待水再次烧开",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖上锅盖，转至中火继续熬",
+      "time_unit": "分钟",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入冰糖和枸杞，转至小火熬",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "再次放入冰糖，用勺子搅拌",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，用勺子盛出",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    11,
+    20
+  ],
+  "wait_time": [
+    222,
+    235
+  ],
+  "total_time": [
+    233,
+    255
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "当银耳呈现粘稠状态时，需要用勺子及时搅拌，防止银耳糊在锅底"
+    }
+  ]
+}

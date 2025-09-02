@@ -1,0 +1,176 @@
+{
+  "id": "7fd6565e-fe27-4059-bed5-1b64f718cd95",
+  "category": "主食",
+  "name": "烙饼",
+  "description": "",
+  "source_path": "dishes/staple/烙饼/烙饼.md",
+  "image_id": "74605125-be0a-4e7d-9edd-c0b01f78a32d",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/74605125-be0a-4e7d-9edd-c0b01f78a32d.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 4,
+  "kitchen_ware": [
+    "电饼铛"
+  ],
+  "ingredients": [
+    {
+      "name": "油",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "面粉",
+      "amount": 400,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "热水",
+      "amount": 130,
+      "unit": "毫升",
+      "remake": "80度"
+    },
+    {
+      "name": "冷水",
+      "amount": 130,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将面粉倒入盆中，一半用凉水和面，一半用热水和面，搅拌成面絮，用手揉成团",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用保鲜膜封起来，醒面",
+      "time_unit": "分钟",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "醒好的面不用揉，稍微摁一下，用一横刀一竖刀将其分成四份",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "搓圆，擀开，擀成与电饼铛大小差不多的饼",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "取油酥，将饼表面涂抹均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "沿饼的半径切开，从外圈将其卷成圆锥形，然后将圆锥尾部捏好",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "按压面饼圆锥尖的地方，将其压扁，然后再次擀成面饼",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将电饼铛预热",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "涂上凉油，将擀好的饼放入电饼铛中，将饼的上方也刷点油，涂抹均匀，盖上盖子",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火烙一分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "打开盖子，将饼翻个面",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "再烙一分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    12,
+    20
+  ],
+  "wait_time": [
+    44,
+    45
+  ],
+  "total_time": [
+    56,
+    65
+  ],
+  "additional_notes": []
+}

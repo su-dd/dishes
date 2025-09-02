@@ -1,0 +1,190 @@
+{
+  "id": "04c00ecf-9afa-44de-997d-8fa664b99b2e",
+  "category": "蔬菜",
+  "name": "西红柿炒鸡蛋",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/西红柿炒鸡蛋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "炒锅",
+    "锅铲",
+    "碗",
+    "筷子"
+  ],
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "amount": 1,
+      "unit": "个",
+      "remake": "约180g"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1.5,
+      "unit": "个",
+      "remake": "向上取整"
+    },
+    {
+      "name": "食用油",
+      "amount": 4,
+      "unit": "毫升",
+      "remake": "按鸡蛋个数计算"
+    },
+    {
+      "name": "盐",
+      "amount": 1.5,
+      "unit": "克",
+      "remake": "1.5-2g范围"
+    },
+    {
+      "name": "糖",
+      "amount": 0,
+      "unit": "克",
+      "remake": "可选，0-2g范围"
+    },
+    {
+      "name": "葱花",
+      "amount": 0,
+      "unit": "克",
+      "remake": "可选，0-10g范围"
+    }
+  ],
+  "steps": [
+    {
+      "description": "西红柿洗净",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "开水烫表皮，然后将西红柿放入冷水，剥去外皮",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "西红柿去蒂，切成边长不超过4cm的小块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将鸡蛋打入碗中，加入盐，搅匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，加入食用油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "油热后，倒入鸡蛋液，翻炒至鸡蛋结为固体且颜色微微发黄",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将炒好的鸡蛋盛盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "加入西红柿块，锅铲拍打并翻炒20秒，或至西红柿软烂",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "向锅中加入炒好的鸡蛋，翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入剩余的盐、糖、葱花，翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，盛盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    16
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    7,
+    16
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "快速做法：直接在有的锅中加入 ，与鸡蛋一起翻炒直至西红柿软烂继续 第 10 步"
+    },
+    {
+      "type": "list_item",
+      "content": "加入盐 改为 “加入两滴生抽”"
+    }
+  ]
+}

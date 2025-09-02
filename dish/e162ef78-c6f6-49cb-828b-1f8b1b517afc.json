@@ -1,0 +1,164 @@
+{
+  "id": "e162ef78-c6f6-49cb-828b-1f8b1b517afc",
+  "category": "甜品",
+  "name": "烤箱版巴斯克芝士蛋糕",
+  "description": "",
+  "source_path": "dishes/dessert/烤箱版巴斯克芝士蛋糕/烤箱版巴斯克芝士蛋糕.md",
+  "image_id": "eaa07ee6-4992-4826-bf52-8e5c34b86b9a",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/eaa07ee6-4992-4826-bf52-8e5c34b86b9a.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "7寸圆形模具",
+    "烤箱"
+  ],
+  "ingredients": [
+    {
+      "name": "奶油奶酪",
+      "amount": 212,
+      "unit": "克",
+      "remake": "这是一块的质量，比较方便，原教程是 250g"
+    },
+    {
+      "name": "白砂糖",
+      "amount": 60,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋黄",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "淡奶油",
+      "amount": 120,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "低筋面粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "巧克力",
+      "amount": 38,
+      "unit": "克",
+      "remake": "可选（巧克力味），只尝试过将普通巧克力融化，在淡奶油那一步加入搅拌均匀即可"
+    }
+  ],
+  "steps": [
+    {
+      "description": "奶油奶酪软化",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "奶油奶酪加入白砂糖，打蛋器打至顺滑",
+      "time_unit": "秒",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入2个全蛋和1个蛋黄，搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入淡奶油，搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入低筋面粉，搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "烤箱220度烘烤",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        25
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "蛋糕放凉",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    },
+    {
+      "description": "放入冰箱冷藏过夜",
+      "time_unit": "小时",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    }
+  ],
+  "take_time": [
+    2,
+    4
+  ],
+  "wait_time": [
+    500,
+    745
+  ],
+  "total_time": [
+    502,
+    750
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "烤箱出来成品抖动是正常的，放凉后口感还不是最好的，一定要冷藏才好吃！"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：下厨房 - 巴斯克芝士蛋糕『最简单的蛋糕』零失败🔥芝士控"
+    }
+  ]
+}

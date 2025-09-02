@@ -1,0 +1,281 @@
+{
+  "id": "bb74f361-ad77-478b-a0b6-d801d0bf7ef4",
+  "category": "肉食",
+  "name": "西红柿牛腩",
+  "description": "",
+  "source_path": "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 1,
+  "kitchen_ware": [
+    "燃气灶",
+    "高压锅",
+    "砂锅",
+    "普通铝锅",
+    "铁锅"
+  ],
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "amount": 3.5,
+      "unit": "个",
+      "remake": "每个约200g"
+    },
+    {
+      "name": "牛腩",
+      "amount": 500,
+      "unit": "克",
+      "remake": "挑选肥瘦相间的口感比较好"
+    },
+    {
+      "name": "食用油",
+      "amount": 25,
+      "unit": "毫升"
+    },
+    {
+      "name": "葱段",
+      "amount": 2,
+      "unit": "段",
+      "remake": "2cm长"
+    },
+    {
+      "name": "姜片",
+      "amount": 2,
+      "unit": "片"
+    },
+    {
+      "name": "葱花",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "姜",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "生抽",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "调味用"
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "调味用"
+    },
+    {
+      "name": "白糖",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "调味用"
+    },
+    {
+      "name": "料酒",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "或黄酒，调味用"
+    },
+    {
+      "name": "八角",
+      "amount": 3,
+      "unit": "片",
+      "remake": "三小片"
+    }
+  ],
+  "steps": [
+    {
+      "description": "牛腩切条、切块成长宽高均2cm",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "冷水下锅，开锅煮制2分钟去除血水",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出冲洗干净",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "另起锅2L水烧开",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入葱段、姜片、八角、料酒，放入焯好的牛肉，盖盖炖制（砂锅1小时，高压锅45分钟）",
+      "time_unit": "分钟",
+      "time": [
+        45,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "西红柿头部滑十字至腰线，筷子从果蒂捅入",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "煤气灶小火，一边转动一边烤至起皮",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撕下西红柿皮",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "西红柿切块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧油，油温7成热",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "葱、姜下锅炒香，番茄下锅炒透炒出红色",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入煮好的牛腩和原汤，原汤刚刚没过牛肉",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入盐、糖、生抽调味盖盖炖煮",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开锅后大火继续炒制3-5分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待番茄汁呈中等粘稠程度后关火",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "散入葱花，盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    27,
+    44
+  ],
+  "wait_time": [
+    50,
+    68
+  ],
+  "total_time": [
+    77,
+    112
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "用火注意安全、用火注意安全、用火注意安全"
+    },
+    {
+      "type": "list_item",
+      "content": "用砂锅/铝锅炖肉时，水开后转中小火/小火，使用高压锅见学习使用压力锅"
+    },
+    {
+      "type": "list_item",
+      "content": "教程中的番茄去皮方式是目前为止本人实践最快的方式"
+    },
+    {
+      "type": "list_item",
+      "content": "绝对不用番茄酱和少加佐料，尽可能还原食材的原味"
+    }
+  ]
+}

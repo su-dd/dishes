@@ -1,5 +1,622 @@
 [
   {
+    "id": "78d094e6-538d-49bd-b2d6-47ad7c6d5a42",
+    "category": "汤类",
+    "name": "奶油蘑菇汤",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "锅",
+      "搅拌工具"
+    ],
+    "ingredients": [
+      {
+        "name": "白蘑菇",
+        "amount": 200,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "洋葱",
+        "amount": 50,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "黄油",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "面粉",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "牛奶",
+        "amount": 200,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "淡奶油",
+        "amount": 30,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "清水",
+        "amount": 100,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "黑胡椒碎",
+        "amount": 1,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      18,
+      33
+    ],
+    "wait_time": [
+      10,
+      10
+    ],
+    "total_time": [
+      28,
+      43
+    ]
+  },
+  {
+    "id": "eb5c415c-8e6c-4c65-919c-b4af2fc31eff",
+    "category": "汤类",
+    "name": "小米粥",
+    "image_id": null,
+    "image": "",
+    "servings": 4,
+    "kitchen_ware": [
+      "锅",
+      "量杯"
+    ],
+    "ingredients": [
+      {
+        "name": "小米",
+        "amount": 100,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "水",
+        "amount": 2000,
+        "unit": "克",
+        "remake": "山泉水最佳"
+      }
+    ],
+    "take_time": [
+      21,
+      31
+    ],
+    "wait_time": [
+      5,
+      10
+    ],
+    "total_time": [
+      26,
+      41
+    ]
+  },
+  {
+    "id": "cdcdc0db-76ee-4736-bf1e-faefdf7a2f5d",
+    "category": "汤类",
+    "name": "生汆丸子汤",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "碗",
+      "锅"
+    ],
+    "ingredients": [
+      {
+        "name": "前腿肉",
+        "amount": 1,
+        "unit": "斤",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 6,
+        "unit": "克",
+        "remake": "猪肉斤数 * 6 克"
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 2,
+        "unit": "克",
+        "remake": "猪肉斤数 * 2 克"
+      },
+      {
+        "name": "葱姜花椒水",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "鸡蛋清",
+        "amount": 1,
+        "unit": "个",
+        "remake": "一个鸡蛋的鸡蛋清"
+      },
+      {
+        "name": "土豆淀粉",
+        "amount": 40,
+        "unit": "克",
+        "remake": "一人用量"
+      },
+      {
+        "name": "熟豆油",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "木耳",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "黄花",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "小香葱",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "粉丝",
+        "amount": 1,
+        "unit": "份",
+        "remake": "泡好的粉丝（放碗底）"
+      },
+      {
+        "name": "鸡粉",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "香油",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "香菜",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      31,
+      55
+    ],
+    "wait_time": [
+      4,
+      6
+    ],
+    "total_time": [
+      35,
+      61
+    ]
+  },
+  {
+    "id": "9ff15566-d4b8-4bae-a103-a6b61bc8301d",
+    "category": "汤类",
+    "name": "番茄牛肉蛋花汤",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "牛肉",
+        "amount": 150,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "番茄",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "葱",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "姜",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "蒜",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 0.5,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      12,
+      25
+    ],
+    "wait_time": [
+      18,
+      25
+    ],
+    "total_time": [
+      30,
+      50
+    ]
+  },
+  {
+    "id": "b87c84e2-ff23-45b3-b9f2-91452ecb616b",
+    "category": "汤类",
+    "name": "皮蛋瘦肉粥",
+    "image_id": null,
+    "image": "",
+    "servings": 2,
+    "kitchen_ware": [
+      "电饭锅",
+      "小碗",
+      "一次性手套"
+    ],
+    "ingredients": [
+      {
+        "name": "饮用水",
+        "amount": 1,
+        "unit": "升",
+        "remake": ""
+      },
+      {
+        "name": "皮蛋",
+        "amount": 2,
+        "unit": "颗",
+        "remake": "松花蛋"
+      },
+      {
+        "name": "瘦肉",
+        "amount": 100,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "大米",
+        "amount": 150,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "小葱",
+        "amount": 1,
+        "unit": "棵",
+        "remake": ""
+      },
+      {
+        "name": "香菜",
+        "amount": 1,
+        "unit": "棵",
+        "remake": ""
+      },
+      {
+        "name": "生菜",
+        "amount": 4,
+        "unit": "叶",
+        "remake": ""
+      },
+      {
+        "name": "生姜",
+        "amount": 1,
+        "unit": "拇指块",
+        "remake": ""
+      },
+      {
+        "name": "酱油",
+        "amount": 5,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "蚝油",
+        "amount": 5,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 1,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "食用油",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      25,
+      43
+    ],
+    "wait_time": [
+      30,
+      40
+    ],
+    "total_time": [
+      55,
+      83
+    ]
+  },
+  {
+    "id": "b08895b4-a21e-47d7-a20a-be29f67e4798",
+    "category": "汤类",
+    "name": "米粥",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "锅",
+      "碗"
+    ],
+    "ingredients": [
+      {
+        "name": "米",
+        "amount": 60,
+        "unit": "毫升",
+        "remake": "一般一个人可以食用60ml-110ml的米"
+      },
+      {
+        "name": "水",
+        "amount": 540,
+        "unit": "毫升",
+        "remake": "水的体积是米饭的体积的9倍"
+      },
+      {
+        "name": "植物油",
+        "amount": 6,
+        "unit": "毫升",
+        "remake": "可选，油的质量Mo：生米体积/10"
+      }
+    ],
+    "take_time": [
+      3,
+      5
+    ],
+    "wait_time": [
+      80,
+      148
+    ],
+    "total_time": [
+      83,
+      153
+    ]
+  },
+  {
+    "id": "fe59feb7-f8d8-470a-a7dc-64d57c859b10",
+    "category": "汤类",
+    "name": "紫菜蛋花汤",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "干紫菜",
+        "amount": 10,
+        "unit": "克",
+        "remake": "喜欢紫菜的可以多放些"
+      },
+      {
+        "name": "葱花",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "水",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "油",
+        "amount": 1,
+        "unit": "份",
+        "remake": ""
+      },
+      {
+        "name": "虾仁",
+        "amount": 1,
+        "unit": "份",
+        "remake": "个人口味，可加可不加"
+      }
+    ],
+    "take_time": [
+      1,
+      2
+    ],
+    "wait_time": [
+      17,
+      18
+    ],
+    "total_time": [
+      18,
+      20
+    ]
+  },
+  {
+    "id": "778b1cd2-df66-43c0-9f65-2b70af4d97ea",
+    "category": "汤类",
+    "name": "罗宋汤",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "锅",
+      "刀具",
+      "砧板"
+    ],
+    "ingredients": [
+      {
+        "name": "牛肉高汤",
+        "amount": 500,
+        "unit": "毫升",
+        "remake": "可用汤宝代替"
+      },
+      {
+        "name": "牛肉",
+        "amount": 250,
+        "unit": "克",
+        "remake": "可选用牛腩肉或牛尾肉"
+      },
+      {
+        "name": "番茄罐头",
+        "amount": 2,
+        "unit": "罐",
+        "remake": "可用番茄替代、但风味欠佳"
+      },
+      {
+        "name": "番茄膏",
+        "amount": 5,
+        "unit": "克",
+        "remake": "增加番茄风味"
+      },
+      {
+        "name": "马铃薯",
+        "amount": 400,
+        "unit": "克"
+      },
+      {
+        "name": "洋葱",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "欧芹",
+        "amount": 100,
+        "unit": "克"
+      },
+      {
+        "name": "包菜",
+        "amount": 200,
+        "unit": "克"
+      },
+      {
+        "name": "红肠",
+        "amount": 150,
+        "unit": "克",
+        "remake": "100-200g范围"
+      },
+      {
+        "name": "橄榄油",
+        "amount": 5,
+        "unit": "毫升",
+        "remake": "用于蔬菜的烹制，可以用植物油代替"
+      },
+      {
+        "name": "植物油",
+        "amount": 5,
+        "unit": "毫升",
+        "remake": "用于牛肉的烹制，不能用橄榄油代替"
+      },
+      {
+        "name": "盐",
+        "amount": 18,
+        "unit": "克"
+      },
+      {
+        "name": "黑胡椒",
+        "amount": 3,
+        "unit": "克"
+      }
+    ],
+    "take_time": [
+      17,
+      30
+    ],
+    "wait_time": [
+      95,
+      95
+    ],
+    "total_time": [
+      112,
+      125
+    ]
+  },
+  {
     "id": "979cf41d-8b90-4e1d-80d9-b7f33715f507",
     "category": "汤类",
     "name": "腊八粥",
@@ -139,6 +756,778 @@
     "total_time": [
       822,
       1069
+    ]
+  },
+  {
+    "id": "58e263fd-6277-4982-8a14-35d9e99b1758",
+    "category": "汤类",
+    "name": "西红柿鸡蛋汤",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "西红柿",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": "依照自己的口味而定，喜欢吃鸡蛋就放2个，一般就放1个"
+      },
+      {
+        "name": "香油",
+        "amount": 2,
+        "unit": "滴",
+        "remake": ""
+      },
+      {
+        "name": "味素",
+        "amount": 5,
+        "unit": "克",
+        "remake": "可选"
+      },
+      {
+        "name": "盐",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "葱",
+        "amount": 5,
+        "unit": "克",
+        "remake": "葱、姜、蒜共15克"
+      },
+      {
+        "name": "姜",
+        "amount": 5,
+        "unit": "克",
+        "remake": "葱、姜、蒜共15克"
+      },
+      {
+        "name": "蒜",
+        "amount": 5,
+        "unit": "克",
+        "remake": "葱、姜、蒜共15克"
+      }
+    ],
+    "take_time": [
+      7,
+      13
+    ],
+    "wait_time": [
+      2,
+      5
+    ],
+    "total_time": [
+      10,
+      19
+    ]
+  },
+  {
+    "id": "6c19d93b-507d-4d41-b5e0-47c442934dc1",
+    "category": "汤类",
+    "name": "金针菇汤",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "金针菇",
+        "amount": 450,
+        "unit": "克",
+        "remake": "市场里面售卖的一袋即可"
+      },
+      {
+        "name": "食盐",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "味精",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      8,
+      13
+    ],
+    "wait_time": [
+      3,
+      3
+    ],
+    "total_time": [
+      11,
+      16
+    ]
+  },
+  {
+    "id": "2495170e-2082-429e-963e-410cf21248f2",
+    "category": "汤类",
+    "name": "陈皮排骨汤",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "煲汤盅"
+    ],
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 4,
+        "unit": "块",
+        "remake": "用猪骨也替代也可"
+      },
+      {
+        "name": "陈皮",
+        "amount": 1,
+        "unit": "瓣",
+        "remake": "一般选用8-20年制，1块陈皮是3瓣"
+      },
+      {
+        "name": "西洋参",
+        "amount": 9,
+        "unit": "片",
+        "remake": "又名花旗参"
+      },
+      {
+        "name": "石斛",
+        "amount": 6,
+        "unit": "颗",
+        "remake": ""
+      },
+      {
+        "name": "玉竹",
+        "amount": 5,
+        "unit": "片",
+        "remake": ""
+      },
+      {
+        "name": "麦冬",
+        "amount": 7,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "食盐",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      10,
+      17
+    ],
+    "wait_time": [
+      90,
+      90
+    ],
+    "total_time": [
+      100,
+      107
+    ]
+  },
+  {
+    "id": "ef86a8da-56fc-4354-b344-abd63a3ba7b9",
+    "category": "汤类",
+    "name": "勾芡香菇汤",
+    "image_id": "715b1e7e-9a91-4bb8-a4c5-9f3ff7727775",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/715b1e7e-9a91-4bb8-a4c5-9f3ff7727775.webp",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "鲜香菇",
+        "amount": 2,
+        "unit": "朵",
+        "remake": ""
+      },
+      {
+        "name": "香葱",
+        "amount": 0.5,
+        "unit": "根",
+        "remake": ""
+      },
+      {
+        "name": "鸡精",
+        "amount": 3,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "食用油",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "食用盐",
+        "amount": 3,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "开水",
+        "amount": 350,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "生粉",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      2,
+      4
+    ],
+    "wait_time": [
+      18,
+      20
+    ],
+    "total_time": [
+      21,
+      25
+    ]
+  },
+  {
+    "id": "8b0ace41-36d9-43eb-aee9-66a4fb0f7161",
+    "category": "汤类",
+    "name": "排骨苦瓜汤",
+    "image_id": null,
+    "image": "",
+    "servings": 4,
+    "kitchen_ware": [
+      "电压力锅",
+      "砂锅"
+    ],
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 250,
+        "unit": "克",
+        "remake": "每份250g到500g"
+      },
+      {
+        "name": "苦瓜",
+        "amount": 100,
+        "unit": "克",
+        "remake": "每份100g到200g"
+      },
+      {
+        "name": "虾皮",
+        "amount": 5,
+        "unit": "克",
+        "remake": "每份5g到15g"
+      },
+      {
+        "name": "生姜",
+        "amount": 5,
+        "unit": "克",
+        "remake": "可选，用于焯水时去腥，每份5~10g"
+      }
+    ],
+    "take_time": [
+      31,
+      49
+    ],
+    "wait_time": [
+      165,
+      285
+    ],
+    "total_time": [
+      196,
+      334
+    ]
+  },
+  {
+    "id": "d20c0558-ec38-48d1-8509-51570b54cb85",
+    "category": "汤类",
+    "name": "昂刺鱼豆腐汤",
+    "image_id": "b855f188-f182-4768-92ef-1a72f6e6096a",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/b855f188-f182-4768-92ef-1a72f6e6096a.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "锅",
+      "刀",
+      "砧板"
+    ],
+    "ingredients": [
+      {
+        "name": "昂刺鱼或者沙光鱼",
+        "amount": 1,
+        "unit": "条",
+        "remake": ""
+      },
+      {
+        "name": "豆腐",
+        "amount": 100,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "香葱",
+        "amount": 1,
+        "unit": "根",
+        "remake": ""
+      },
+      {
+        "name": "姜",
+        "amount": 1,
+        "unit": "块",
+        "remake": ""
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 4,
+        "unit": "克",
+        "remake": "3-5g"
+      },
+      {
+        "name": "食用油",
+        "amount": 15,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "食用盐",
+        "amount": 12.5,
+        "unit": "克",
+        "remake": "10-15g"
+      },
+      {
+        "name": "开水",
+        "amount": 1,
+        "unit": "升",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      3,
+      5
+    ],
+    "wait_time": [
+      35,
+      35
+    ],
+    "total_time": [
+      38,
+      40
+    ]
+  },
+  {
+    "id": "ce330735-f999-4717-b4ee-d9064cd9d49c",
+    "category": "汤类",
+    "name": "朱雀汤",
+    "image_id": "d9d71299-762d-45d3-a6cf-643e54c15c8c",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/d9d71299-762d-45d3-a6cf-643e54c15c8c.webp",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "水",
+        "amount": 500,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "白糖",
+        "amount": 20,
+        "unit": "克",
+        "remake": "根据个人口味调整"
+      },
+      {
+        "name": "香油",
+        "amount": 2,
+        "unit": "毫升",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      0,
+      1
+    ],
+    "wait_time": [
+      3,
+      5
+    ],
+    "total_time": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "0ad0e98a-8020-4837-8e51-c8224a52aa65",
+    "category": "汤类",
+    "name": "玉米排骨汤",
+    "image_id": "00c20826-e42a-40e4-ac64-7c2706299746",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/00c20826-e42a-40e4-ac64-7c2706299746.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "砂锅",
+      "铁锅"
+    ],
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 500,
+        "unit": "克",
+        "remake": "500-800g"
+      },
+      {
+        "name": "玉米",
+        "amount": 1,
+        "unit": "根",
+        "remake": "喜欢吃玉米的可以多一根"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 1,
+        "unit": "根",
+        "remake": "喜欢吃胡萝卜的可以多一根"
+      },
+      {
+        "name": "大葱",
+        "amount": 0.5,
+        "unit": "根",
+        "remake": "小半根"
+      },
+      {
+        "name": "香葱",
+        "amount": 1,
+        "unit": "根",
+        "remake": null
+      },
+      {
+        "name": "食用油",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": null
+      },
+      {
+        "name": "黑胡椒粉",
+        "amount": 4,
+        "unit": "克",
+        "remake": null
+      },
+      {
+        "name": "料酒",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": null
+      },
+      {
+        "name": "醋",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": null
+      },
+      {
+        "name": "食用盐",
+        "amount": 10,
+        "unit": "克",
+        "remake": "10-15g（根据最后汤剩余的量而定）"
+      },
+      {
+        "name": "开水",
+        "amount": 1000,
+        "unit": "毫升",
+        "remake": null
+      }
+    ],
+    "take_time": [
+      25,
+      39
+    ],
+    "wait_time": [
+      60,
+      60
+    ],
+    "total_time": [
+      85,
+      99
+    ]
+  },
+  {
+    "id": "4bbc9bbf-c3a1-4862-8175-b861b4064a9c",
+    "category": "汤类",
+    "name": "羊肉汤",
+    "image_id": "430faff1-5fcc-41c4-9dab-450ccee666e0",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/430faff1-5fcc-41c4-9dab-450ccee666e0.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "锅",
+      "刀具",
+      "砧板",
+      "量杯",
+      "勺子"
+    ],
+    "ingredients": [
+      {
+        "name": "羊肉",
+        "amount": 300,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "食用油",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "料酒",
+        "amount": 20,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "大葱",
+        "amount": 50,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "开水",
+        "amount": 1000,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 1,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "食用盐",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "孜然粉",
+        "amount": 1,
+        "unit": "克",
+        "remake": "可选"
+      },
+      {
+        "name": "香菜",
+        "amount": 20,
+        "unit": "克",
+        "remake": "可选"
+      }
+    ],
+    "take_time": [
+      10,
+      15
+    ],
+    "wait_time": [
+      12,
+      12
+    ],
+    "total_time": [
+      22,
+      27
+    ]
+  },
+  {
+    "id": "58536393-131a-486f-b178-93e33feecdfb",
+    "category": "汤类",
+    "name": "菌菇炖乳鸽",
+    "image_id": "43685dd0-6315-4fc4-b7f5-862636fed721",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/43685dd0-6315-4fc4-b7f5-862636fed721.webp",
+    "servings": 2,
+    "kitchen_ware": [
+      "瓦罐",
+      "高压锅"
+    ],
+    "ingredients": [
+      {
+        "name": "乳鸽",
+        "amount": 300,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "菌菇",
+        "amount": 100,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "玉米",
+        "amount": 200,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "姜",
+        "amount": 30,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "料酒",
+        "amount": 15,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "食用盐",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      10,
+      16
+    ],
+    "wait_time": [
+      70,
+      90
+    ],
+    "total_time": [
+      80,
+      106
+    ]
+  },
+  {
+    "id": "4ec773b3-5232-418b-911e-dff2c678c95b",
+    "category": "汤类",
+    "name": "银耳莲子粥",
+    "image_id": "6c108a27-df52-47a3-b8d4-8d13326e06af",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/6c108a27-df52-47a3-b8d4-8d13326e06af.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "锅",
+      "碗"
+    ],
+    "ingredients": [
+      {
+        "name": "银耳",
+        "amount": 60,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "去心莲子",
+        "amount": 20,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "红枣",
+        "amount": 6,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "枸杞",
+        "amount": 5.5,
+        "unit": "克",
+        "remake": "可选"
+      },
+      {
+        "name": "冰糖",
+        "amount": 15,
+        "unit": "克",
+        "remake": "10-20g"
+      }
+    ],
+    "take_time": [
+      11,
+      20
+    ],
+    "wait_time": [
+      222,
+      235
+    ],
+    "total_time": [
+      233,
+      255
+    ]
+  },
+  {
+    "id": "2073b047-057a-48a3-aea4-16199a373ea8",
+    "category": "汤类",
+    "name": "陈皮排骨汤",
+    "image_id": "974fefb3-392e-4cb2-a9dd-5d793ab43926",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/974fefb3-392e-4cb2-a9dd-5d793ab43926.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "煲汤盅"
+    ],
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 4,
+        "unit": "块",
+        "remake": "用猪骨也替代也可"
+      },
+      {
+        "name": "陈皮",
+        "amount": 1,
+        "unit": "瓣",
+        "remake": "一般选用8-20年制"
+      },
+      {
+        "name": "西洋参",
+        "amount": 9,
+        "unit": "片",
+        "remake": "又名花旗参"
+      },
+      {
+        "name": "石斛",
+        "amount": 6,
+        "unit": "颗"
+      },
+      {
+        "name": "玉竹",
+        "amount": 5,
+        "unit": "片"
+      },
+      {
+        "name": "麦冬",
+        "amount": 7,
+        "unit": "个"
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克"
+      }
+    ],
+    "take_time": [
+      9,
+      15
+    ],
+    "wait_time": [
+      90,
+      90
+    ],
+    "total_time": [
+      99,
+      105
     ]
   }
 ]

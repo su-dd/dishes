@@ -1,0 +1,239 @@
+{
+  "id": "0ad0e98a-8020-4837-8e51-c8224a52aa65",
+  "category": "汤类",
+  "name": "玉米排骨汤",
+  "description": "",
+  "source_path": "dishes/soup/玉米排骨汤/玉米排骨汤.md",
+  "image_id": "00c20826-e42a-40e4-ac64-7c2706299746",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/00c20826-e42a-40e4-ac64-7c2706299746.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "砂锅",
+    "铁锅"
+  ],
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount": 500,
+      "unit": "克",
+      "remake": "500-800g"
+    },
+    {
+      "name": "玉米",
+      "amount": 1,
+      "unit": "根",
+      "remake": "喜欢吃玉米的可以多一根"
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 1,
+      "unit": "根",
+      "remake": "喜欢吃胡萝卜的可以多一根"
+    },
+    {
+      "name": "大葱",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": "小半根"
+    },
+    {
+      "name": "香葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": null
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": null
+    },
+    {
+      "name": "黑胡椒粉",
+      "amount": 4,
+      "unit": "克",
+      "remake": null
+    },
+    {
+      "name": "料酒",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": null
+    },
+    {
+      "name": "醋",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": null
+    },
+    {
+      "name": "食用盐",
+      "amount": 10,
+      "unit": "克",
+      "remake": "10-15g（根据最后汤剩余的量而定）"
+    },
+    {
+      "name": "开水",
+      "amount": 1000,
+      "unit": "毫升",
+      "remake": null
+    }
+  ],
+  "steps": [
+    {
+      "description": "大葱切成3-4cm的大段，用刀背拍一下",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "玉米剁成小块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "胡萝卜切成滚刀块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生姜去皮切大片",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "新鲜的排骨砍成小块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "排骨凉水下锅，放入大葱、生姜、料酒开始焯水，大火烧开，撇去浮沫",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出排骨，沥干水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅凉油，切大片的生姜和排骨一起下锅煸炒",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待排骨表面微微焦黄，放入醋，继续煸炒一分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "冲入开水，一次给足，大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "先下入玉米，放入胡椒粉，盖盖小火炖二十分钟",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入胡萝卜，盖盖继续小火炖四十分钟",
+      "time_unit": "分钟",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅前三分钟放盐调味",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "最后撒上一把小葱花即可",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    25,
+    39
+  ],
+  "wait_time": [
+    60,
+    60
+  ],
+  "total_time": [
+    85,
+    99
+  ],
+  "additional_notes": []
+}

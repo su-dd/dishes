@@ -1,0 +1,205 @@
+{
+  "id": "a248a7e6-a0f9-4dd1-aeb4-395b3007ae4c",
+  "category": "水产",
+  "name": "白灼虾",
+  "description": "",
+  "source_path": "dishes/aquatic/白灼虾/白灼虾.md",
+  "image_id": "3f3f4d73-6187-4d67-9ed7-63b803dcee52",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/3f3f4d73-6187-4d67-9ed7-63b803dcee52.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "虾",
+      "amount": 250,
+      "unit": "克",
+      "remake": "活虾"
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 1,
+      "unit": "块",
+      "remake": ""
+    },
+    {
+      "name": "洋葱",
+      "amount": 1,
+      "unit": "头",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 5,
+      "unit": "瓣",
+      "remake": "5-8瓣"
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": "10-15ml"
+    },
+    {
+      "name": "料酒",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": "10-15ml"
+    },
+    {
+      "name": "芝麻",
+      "amount": 1,
+      "unit": "把",
+      "remake": ""
+    },
+    {
+      "name": "香醋",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "洋葱切小块，姜切片，平铺平底锅",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "活虾冲洗一下，控水，铺在平底锅的洋葱、姜片之上",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅内倒入料酒，盖上锅盖，中火1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "小火5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火焖5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "葱切成葱花、蒜切碎",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "倒入酱油、芝麻、香醋，搅拌",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "油烧热",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热油淋入蘸料",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "虾出锅，用干净的盘子装好",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    12
+  ],
+  "wait_time": [
+    11,
+    12
+  ],
+  "total_time": [
+    18,
+    24
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "技术细节：开始不能大火、防止糊底。如果锅盖有通气口、时间要相应调节一下（考虑增加 30 秒中火）。蘸料其实也是可选的、也可以是纯的醋，大自然馈赠的鲜虾在没有水带走冲淡鲜甜的情况下口感味道都非常棒的。"
+    }
+  ]
+}

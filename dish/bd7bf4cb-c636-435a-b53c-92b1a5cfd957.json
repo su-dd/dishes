@@ -1,0 +1,310 @@
+{
+  "id": "bd7bf4cb-c636-435a-b53c-92b1a5cfd957",
+  "category": "甜品",
+  "name": "戚风蛋糕",
+  "description": "",
+  "source_path": "dishes/dessert/戚风蛋糕/戚风蛋糕.md",
+  "image_id": "9f8d8438-7c49-4d01-863b-f95f84d2a2e2",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/9f8d8438-7c49-4d01-863b-f95f84d2a2e2.webp",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 3,
+  "kitchen_ware": [
+    "烤箱",
+    "打蛋器",
+    "铝合金阳极模具",
+    "刮刀"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 3,
+      "unit": "个",
+      "remake": "正常中等大小，约50g"
+    },
+    {
+      "name": "白糖",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 25,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "牛奶",
+      "amount": 30,
+      "unit": "克",
+      "remake": "或水"
+    },
+    {
+      "name": "低筋面粉",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "柠檬汁",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选，或白醋"
+    }
+  ],
+  "steps": [
+    {
+      "description": "从冰箱中取出鸡蛋",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "准备两个干燥容器分离蛋清蛋黄",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "分离蛋清和蛋黄",
+      "time_unit": "秒",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将食用油和低筋面粉搅拌混合",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入蛋黄、牛奶和1/4白糖搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        60,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "慢慢加入低筋面粉并Z字形搅拌",
+      "time_unit": "秒",
+      "time": [
+        90,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "面糊静置备用",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "蛋白中加入柠檬汁或白醋",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "中速打发蛋白至粗大气泡状态",
+      "time_unit": "秒",
+      "time": [
+        60,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "高速打发蛋白至细腻气泡状态",
+      "time_unit": "秒",
+      "time": [
+        60,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "高速打发蛋白至湿性发泡状态",
+      "time_unit": "秒",
+      "time": [
+        60,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "中低速打发蛋白至干性发泡状态",
+      "time_unit": "秒",
+      "time": [
+        60,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "取1/3蛋白霜与蛋黄糊翻拌混合",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将混合液与剩余蛋白霜翻拌均匀",
+      "time_unit": "秒",
+      "time": [
+        45,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将蛋糕糊倒入模具并震荡",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "烤箱预热10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "第一阶段烘烤（6寸18-21分钟，8寸30分钟）",
+      "time_unit": "分钟",
+      "time": [
+        18,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "第二阶段烘烤（6寸12-14分钟，8寸20分钟）",
+      "time_unit": "分钟",
+      "time": [
+        12,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出炉震模",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "模具倒扣冷却10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    },
+    {
+      "description": "脱模",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    16
+  ],
+  "wait_time": [
+    45,
+    70
+  ],
+  "total_time": [
+    55,
+    86
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "参考了以下教程，文中说明非常详细且有每一步骤的配图。同时，对于为什么做某一个操作、背后的原理也有阐释，以及出现某些问题的分析："
+    },
+    {
+      "type": "list_item",
+      "content": "为了做好这个戚风蛋糕，用了一整箱鸡蛋，从此告别凹底和塌陷"
+    },
+    {
+      "type": "list_item",
+      "content": "对戚风蛋糕而言，蛋清打发是次要问题，关键是烤制时的温度和时间。"
+    },
+    {
+      "type": "list_item",
+      "content": "蛋清容器而言，可有水珠，蛋黄容器不能有。原因：油会影响蛋白的打发，蛋清 85%是水，稍有水珠并不影响打发。特别新鲜的鸡蛋蛋清会比较硬，应对硬蛋清 5 个鸡蛋配方的话加 15ml 水会帮助蛋清打发（1 个鸡蛋配方则是 3g 水）"
+    },
+    {
+      "type": "list_item",
+      "content": "蛋清打发途中加的糖，实际也是先融于蛋清中的水里，成为糖浆溶液包裹在气泡外，对打发的气泡起保护作用。"
+    },
+    {
+      "type": "list_item",
+      "content": "温度对糖融于水的速率以及溶解度影响较大，刚从冰箱拿出的蛋清不易打发。但温度较低的鸡蛋容易分离蛋清蛋黄，建议分离后恢复室温再进行打发。"
+    },
+    {
+      "type": "list_item",
+      "content": "一些参考图片配方筛子分离蛋黄手动分蛋黄蛋黄打发蛋白倒入模具预热烤箱烤制成品"
+    }
+  ]
+}

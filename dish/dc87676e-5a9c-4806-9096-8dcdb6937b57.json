@@ -1,0 +1,217 @@
+{
+  "id": "dc87676e-5a9c-4806-9096-8dcdb6937b57",
+  "category": "肉食",
+  "name": "芥末罗氏虾",
+  "description": "",
+  "source_path": "dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
+  "image_id": "f2493ffb-3667-4a98-bdce-e46931271d12",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/f2493ffb-3667-4a98-bdce-e46931271d12.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "罗氏虾",
+      "amount": 250,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 1.5,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "青芥末",
+      "amount": 20,
+      "unit": "克",
+      "remake": "用于碗汁"
+    },
+    {
+      "name": "生粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": "用于碗汁"
+    },
+    {
+      "name": "生抽",
+      "amount": 30,
+      "unit": "克",
+      "remake": "用于碗汁"
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": "用于碗汁"
+    },
+    {
+      "name": "白糖",
+      "amount": 3,
+      "unit": "克",
+      "remake": "用于碗汁"
+    },
+    {
+      "name": "蚝油",
+      "amount": 15,
+      "unit": "克",
+      "remake": "用于碗汁"
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": "用于碗汁"
+    },
+    {
+      "name": "小米辣",
+      "amount": 1.5,
+      "unit": "个",
+      "remake": "不吃辣可不放或替换成红菜椒"
+    },
+    {
+      "name": "黄油",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 80,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将虾从背部切开，去除虾线和沙袋",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用清水洗干净虾，控干水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将大蒜切成蒜末",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "准备碗汁，放入生抽、蚝油、白糖、胡椒粉、盐，挤入芥末，加清水稀释后加入生粉化开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅热倒入食用油，覆盖锅底",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入虾慢慢煎制至虾油出来",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入蒜蓉及小米辣炒香",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入黄油等待融化",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "黄油融化后翻拌均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入碗汁后盖锅盖焖煮",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "汤汁浓稠后出锅装盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    13,
+    26
+  ],
+  "wait_time": [
+    3,
+    4
+  ],
+  "total_time": [
+    16,
+    30
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "注意事项：黄油入锅后不宜炸制太久，融化翻拌均匀即可烹入碗汁"
+    }
+  ]
+}

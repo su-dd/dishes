@@ -1,0 +1,163 @@
+{
+  "id": "79af4c09-5382-4aa5-9f27-6b1129698366",
+  "category": "肉食",
+  "name": "茭白炒肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/茭白炒肉/茭白炒肉.md",
+  "image_id": "5cfe1724-bff6-4508-ab9e-9183f7ced181",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/5cfe1724-bff6-4508-ab9e-9183f7ced181.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "炒锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "茭白",
+      "amount": 2,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "瘦肉",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 1,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "茭白切片，每片厚度0.5cm",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "瘦肉切条，厚度0.3-0.5cm，加入料酒、生粉、盐、水搅拌",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "姜切片、蒜头剁碎",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅水烧开，放入茭白，水煮60-90秒后取出沥干",
+      "time_unit": "秒",
+      "time": [
+        90,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "起锅，倒入15ml油，倒入瘦肉，反复翻炒60秒取出",
+      "time_unit": "秒",
+      "time": [
+        60,
+        80
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "起锅，倒入15ml油，倒入姜、蒜翻炒30秒，加入茭白继续翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        60,
+        70
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入瘦肉翻炒60秒，加入20ml水，加入盐、鸡精后翻炒60秒出锅",
+      "time_unit": "秒",
+      "time": [
+        120,
+        150
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    11,
+    17
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    11,
+    17
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "最后一个步骤，可以考虑加蚝油、生抽代替盐上色"
+    }
+  ]
+}

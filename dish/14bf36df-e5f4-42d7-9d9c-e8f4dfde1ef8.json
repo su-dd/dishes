@@ -1,0 +1,123 @@
+{
+  "id": "14bf36df-e5f4-42d7-9d9c-e8f4dfde1ef8",
+  "category": "主食",
+  "name": "电饭煲蒸米饭",
+  "description": "",
+  "source_path": "dishes/staple/米饭/电饭煲蒸米饭.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "电饭煲"
+  ],
+  "ingredients": [
+    {
+      "name": "江南米",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": "或北方大米"
+    },
+    {
+      "name": "水",
+      "amount": 2.6,
+      "unit": "厘米",
+      "remake": "指尖量水法，水量刚好没过食指第一个指节到第二个指节1/4处"
+    }
+  ],
+  "steps": [
+    {
+      "description": "清洗米",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将米和水一起加入电饭煲中",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "连接电饭煲电源，进入加热模式",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待加热完成",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待电饭煲自动进入保温模式",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将米在电饭煲中闷",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛出米",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    1,
+    2
+  ],
+  "wait_time": [
+    40,
+    45
+  ],
+  "total_time": [
+    41,
+    47
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "技术总结不论什么容器，水的量都是可以使用“指尖量水法”煮出好米饭。水的多少是能够严重影响一碗好米饭的口感。南方一般食用江南米，北方一般食用北方大米，江南米会比较细长，而北方大米会比较短且圆。米饭不同品种的米，不同的水量会极度影响口感。"
+    },
+    {
+      "type": "list_item",
+      "content": "更多信息请参考使用的电饭煲的说明书。"
+    }
+  ]
+}

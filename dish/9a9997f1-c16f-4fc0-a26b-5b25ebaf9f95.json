@@ -1,0 +1,363 @@
+{
+  "id": "9a9997f1-c16f-4fc0-a26b-5b25ebaf9f95",
+  "category": "肉食",
+  "name": "回锅肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/回锅肉/回锅肉.md",
+  "image_id": "04b8106e-9387-4b93-83d2-5f39d133eccf",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/04b8106e-9387-4b93-83d2-5f39d133eccf.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "amount": 0.4,
+      "unit": "斤",
+      "remake": "正宗回锅肉使用二刀肉[俗称：臀尖]制作，肉质坚实，肥瘦合适"
+    },
+    {
+      "name": "小葱",
+      "amount": 2,
+      "unit": "棵",
+      "remake": ""
+    },
+    {
+      "name": "生姜",
+      "amount": 25,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "青红椒",
+      "amount": 15,
+      "unit": "克",
+      "remake": "根据受辣程度选择, 不建议使用肉厚的菜椒"
+    },
+    {
+      "name": "蒜苗",
+      "amount": 1,
+      "unit": "把",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "味精",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "锅烧热，用手将五花肉紧紧压在锅上炙皮处理猪皮",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用钢丝球把皮刷干净，至黑色部分碳化部分被完全去除",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将五花肉放入锅中，放入冷水、生姜片、料酒和小葱",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火煮开水后撇去浮沫",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续煮15分钟至瘦肉部分可以用筷子轻松刺穿",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "青红椒切圈",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜苗切段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生姜切小薄片",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将豆瓣酱和生抽提前混合",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将煮熟的五花肉捞出放入冷水晾凉",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "擦干五花肉的水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将五花肉切成2mm的薄片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅烧热，放入一层底油滑锅",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入五花肉煸炒至肥肉透明，肉片微卷",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入豆瓣生抽混合物和味精翻炒15秒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入青红椒圈和小姜片，放入豆瓣酱翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入蒜苗翻炒60秒",
+      "time_unit": "秒",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "五花肉冷藏1个小时",
+      "time_unit": "小时",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "辣椒干煸30-45秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅烧热，放入底油滑锅，放入姜片煸炒15秒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入五花肉，间隔10秒翻炒一次，待出现焦黄色",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入干煸过的辣椒、豆瓣酱，生抽调味，翻炒60秒",
+      "time_unit": "秒",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入蒜苗翻炒10秒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    26,
+    40
+  ],
+  "wait_time": [
+    80,
+    83
+  ],
+  "total_time": [
+    106,
+    123
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "不喜欢蒜苗可以换成洋葱或者其他蔬菜，但是要注意蔬菜的易熟程度将蔬菜提前炒至，不然会出现蔬菜半生不熟的情况"
+    },
+    {
+      "type": "list_item",
+      "content": "如果回锅肉比较大块可以切成 5 厘米见方的块，五花肉煮至筷子稍微用力即可插入猪皮即可"
+    },
+    {
+      "type": "list_item",
+      "content": "回锅肉过冷水晾凉后肉质会更紧致"
+    },
+    {
+      "type": "list_item",
+      "content": "回锅肉擦干水是为了避免炒至的时候爆油溅伤"
+    },
+    {
+      "type": "list_item",
+      "content": "回锅肉切记不要切厚了，不然很腻"
+    },
+    {
+      "type": "list_item",
+      "content": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "616b3fa2-3947-4429-a49b-43d5097e5f7a",
+  "category": "半成品",
+  "name": "速冻馄饨",
+  "description": "",
+  "source_path": "dishes/semi-finished/速冻馄饨.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "电饭煲"
+  ],
+  "ingredients": [
+    {
+      "name": "速冻馄饨",
+      "amount": 12,
+      "unit": "个",
+      "remake": "未过期的一袋速冻馄饨，自带调味料包更佳"
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "速冻馄饨无调味料包时使用"
+    },
+    {
+      "name": "鸡精",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "速冻馄饨无调味料包时使用"
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "速冻馄饨无调味料包时使用"
+    },
+    {
+      "name": "香油",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "速冻馄饨无调味料包时使用"
+    },
+    {
+      "name": "香菜",
+      "amount": 1,
+      "unit": "根",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将水倒入电饭煲中，按炖或煮的模式运行35分钟",
+      "time_unit": "分钟",
+      "time": [
+        35,
+        35
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将速冻馄饨小心放入水中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入电饭煲前适当用水过一下",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "如果有调料包，此时可一并加入水中",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖上电饭煲，按同样炖或煮的模式运行20分钟",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将所有馄饨连同能没过所有馄饨的水一同盛入碗中",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "如果此前没有加入调料包，此时可按自身口味加入盐、鸡精、胡椒粉、香油调味",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒上5~8片香菜叶佐味",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    0,
+    1
+  ],
+  "wait_time": [
+    55,
+    55
+  ],
+  "total_time": [
+    55,
+    56
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "出锅后也可以加入水煮荷包蛋（太阳蛋）一起食用。"
+    }
+  ]
+}

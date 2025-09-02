@@ -1,0 +1,112 @@
+{
+  "id": "eb5c415c-8e6c-4c65-919c-b4af2fc31eff",
+  "category": "汤类",
+  "name": "小米粥",
+  "description": "",
+  "source_path": "dishes/soup/小米粥.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 4,
+  "kitchen_ware": [
+    "锅",
+    "量杯"
+  ],
+  "ingredients": [
+    {
+      "name": "小米",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 2000,
+      "unit": "克",
+      "remake": "山泉水最佳"
+    }
+  ],
+  "steps": [
+    {
+      "description": "小米放入碗中，用水轻淘一遍",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "水烧开",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将小米倒入烧开的水中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "搅拌防止粘锅，大火熬煮",
+      "time_unit": "分钟",
+      "time": [
+        6,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "改中火、文火熬煮，锅盖错开一条缝",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    21,
+    31
+  ],
+  "wait_time": [
+    5,
+    10
+  ],
+  "total_time": [
+    26,
+    41
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "这是普通锅熬制（只需 30-35 分钟即可出锅）,味道最佳。高压锅和电饭锅省事，不过效果下降，水量要适当减少，一般 100 克小米+1800 克水"
+    },
+    {
+      "type": "list_item",
+      "content": "小米只需用水去除浮灰，千万不可过分淘，会损失掉小米油的"
+    },
+    {
+      "type": "list_item",
+      "content": "千万记住小米需要在水开的时候下锅"
+    },
+    {
+      "type": "list_item",
+      "content": "不喜欢放碱，更喜欢原汁原味的小米香"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "cca70189-adb3-4b8e-889a-b3427f1d0099",
+  "category": "肉食",
+  "name": "黄瓜炒肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/黄瓜炒肉.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "黄瓜",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "猪肉",
+      "amount": 50,
+      "unit": "克",
+      "remake": "猪瘦肉"
+    },
+    {
+      "name": "食用油",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 5,
+      "unit": "克",
+      "remake": "酱油"
+    },
+    {
+      "name": "蒜",
+      "amount": 2,
+      "unit": "瓣",
+      "remake": "蒜瓣"
+    },
+    {
+      "name": "小米辣",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将猪瘦肉切片，放入碗中，倒入食用油和生抽，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "腌制猪肉",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将黄瓜切去头尾，剩余部分斜着切成薄片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "黄瓜撒盐搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "腌制黄瓜",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将蒜瓣去皮，压扁，切成蒜末",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将小米辣去丁切分成段状",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅倒油，等油温到冒烟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入蒜蓉小米辣翻炒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入腌制好的猪瘦肉，翻炒至肉熟变色",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入黄瓜，加入盐，大火翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        50
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    12,
+    21
+  ],
+  "wait_time": [
+    16,
+    17
+  ],
+  "total_time": [
+    28,
+    38
+  ],
+  "additional_notes": []
+}

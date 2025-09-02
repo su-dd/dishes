@@ -1,0 +1,242 @@
+{
+  "id": "6997148c-6f81-4943-8964-761fbe34e09e",
+  "category": "主食",
+  "name": "日式咖喱饭",
+  "description": "",
+  "source_path": "dishes/staple/日式咖喱饭/日式咖喱饭.md",
+  "image_id": "2c3dd5da-440d-4f2b-98ab-22c0b8eef11b",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/2c3dd5da-440d-4f2b-98ab-22c0b8eef11b.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 6,
+  "kitchen_ware": [
+    "锅",
+    "冰箱"
+  ],
+  "ingredients": [
+    {
+      "name": "咖喱块",
+      "amount": 115,
+      "unit": "克",
+      "remake": "半盒"
+    },
+    {
+      "name": "洋葱",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "土豆",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "蒜头",
+      "amount": 2.5,
+      "unit": "瓣",
+      "remake": "2~3瓣"
+    },
+    {
+      "name": "肉",
+      "amount": 2,
+      "unit": "斤",
+      "remake": "猪肉、鸡肉、牛肉均可"
+    }
+  ],
+  "steps": [
+    {
+      "description": "胡萝卜去头尾，去皮，滚刀切",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "洋葱剥去外层去芯，切成月牙状",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "土豆去皮、切大块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "肉切块状",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "剥蒜拍平切碎",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "咖喱块切碎，增加接触面积加速溶解",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热油锅放入蒜和肉，快速翻炒至肉表面变白",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入胡萝卜，快速翻炒至均匀受热",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入洋葱，快速翻炒至洋葱变透明状",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入土豆，保持翻炒至土豆变软",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加水没过所有食材，沸腾后等待15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，加咖喱并搅拌",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待咖喱融化后再开火，缓慢搅拌10分钟，防止糊锅",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在外观呈粘稠状态关火结束制作",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "冷藏的咖喱每次取出需要吃的份量",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加热后盖在米饭上",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    32,
+    47
+  ],
+  "wait_time": [
+    15,
+    15
+  ],
+  "total_time": [
+    47,
+    62
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "步骤 1-6 可以在 2-5 的等待过程进行，在这个过程也可以用清水锅煮些蔬菜，或做个煎蛋。"
+    },
+    {
+      "type": "list_item",
+      "content": "2-5 到 2-6 之间，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材。"
+    },
+    {
+      "type": "list_item",
+      "content": "世界美食教程的微博视频"
+    }
+  ]
+}

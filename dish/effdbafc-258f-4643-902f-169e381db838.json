@@ -1,0 +1,111 @@
+{
+  "id": "effdbafc-258f-4643-902f-169e381db838",
+  "category": "饮品",
+  "name": "B52轰炸机",
+  "description": "",
+  "source_path": "dishes/drink/B52轰炸机.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "吧勺",
+    "利口酒杯",
+    "打火机"
+  ],
+  "ingredients": [
+    {
+      "name": "甘露咖啡酒",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "爱尔兰百利甜酒",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "蓝天原味伏特加",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "在利口酒杯的最底层倒入甘露咖啡酒到1/3处",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "顺着吧勺缓缓倒入爱尔兰百利甜酒到1/3处，保证层次分明",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "在上层倒入蓝天原味伏特加",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "用打火机热一下杯口",
+      "time_unit": "秒",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "点火",
+      "time_unit": "秒",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    0,
+    0
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    0,
+    0
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "喝的时候，现在酒吧常用的方法是提供一个吸管，在火还燃烧的时候插入，然后快速全部吸入。"
+    },
+    {
+      "type": "list_item",
+      "content": "由于吸管太细，其中氧气不足，所以火苗会灭掉，不必担心。这时候，会感到一股热辣顺着喉咙一直烈到胃，之后就是久久的咖啡奶油回甘。非常刺激又好喝。"
+    }
+  ]
+}

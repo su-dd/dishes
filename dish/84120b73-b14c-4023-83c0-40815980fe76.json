@@ -1,0 +1,297 @@
+{
+  "id": "84120b73-b14c-4023-83c0-40815980fe76",
+  "category": "肉食",
+  "name": "冷吃兔",
+  "description": "",
+  "source_path": "dishes/meat_dish/冷吃兔.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 3,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板",
+    "量具"
+  ],
+  "ingredients": [
+    {
+      "name": "兔肉",
+      "amount": 1500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 6,
+      "unit": "克",
+      "remake": "兔肉斤数 * 2 克"
+    },
+    {
+      "name": "味精",
+      "amount": 3,
+      "unit": "克",
+      "remake": "兔肉斤数 * 1 克"
+    },
+    {
+      "name": "蚝油",
+      "amount": 15,
+      "unit": "克",
+      "remake": "兔肉斤数 * 5 克"
+    },
+    {
+      "name": "料酒",
+      "amount": 30,
+      "unit": "克",
+      "remake": "兔肉斤数 * 10 克"
+    },
+    {
+      "name": "蒜",
+      "amount": 0.5,
+      "unit": "头",
+      "remake": "兔肉斤数 * 二分之一头蒜"
+    },
+    {
+      "name": "姜",
+      "amount": 0.5,
+      "unit": "头",
+      "remake": "蒜量"
+    },
+    {
+      "name": "小葱/大葱/洋葱",
+      "amount": 45,
+      "unit": "克",
+      "remake": "兔肉斤数 * 15 克"
+    },
+    {
+      "name": "干辣椒",
+      "amount": 1500,
+      "unit": "克",
+      "remake": "辣椒段的总体积等于兔肉的总体积"
+    },
+    {
+      "name": "青花椒",
+      "amount": 1,
+      "unit": "碗",
+      "remake": "3 斤兔肉对应吃饭用的小碗，一整碗花椒"
+    },
+    {
+      "name": "八角",
+      "amount": 3,
+      "unit": "粒",
+      "remake": "兔肉斤数 * 1 粒"
+    },
+    {
+      "name": "桂皮",
+      "amount": 3,
+      "unit": "块",
+      "remake": "兔肉斤数 * 大拇指长短的一块"
+    },
+    {
+      "name": "香叶",
+      "amount": 15,
+      "unit": "片",
+      "remake": "兔肉斤数 * 5 片"
+    },
+    {
+      "name": "山奈",
+      "amount": 3,
+      "unit": "块",
+      "remake": "兔肉斤数 * 黄豆大小的一块"
+    },
+    {
+      "name": "白蔻",
+      "amount": 6,
+      "unit": "颗",
+      "remake": "兔肉斤数 * 2 颗"
+    },
+    {
+      "name": "小茴香",
+      "amount": 45,
+      "unit": "克",
+      "remake": "兔肉斤数 * 15 克"
+    },
+    {
+      "name": "白芝麻",
+      "amount": 75,
+      "unit": "克",
+      "remake": "兔肉斤数 * 25 克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "蒜、姜扒皮并剁碎备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "八角、桂皮、香叶、山奈、白蔻、小茴香洗净备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "干辣椒剪成2厘米的小段，洗净备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小葱/大葱/洋葱洗净，洋葱切成小块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "兔肉剁成2厘米的小块，加入盐、料酒、味精调味",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "腌制兔肉",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中倒油，油温4成热下小葱/大葱/洋葱，中小火煸炒出香味",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待到小葱/大葱/洋葱微焦，将其捞出",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开大火升高油温至8成热",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入兔肉炸制，转中小火炸至兔肉微微焦黄",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出兔肉",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "升高油温，倒入干辣椒、青花椒和各种香料",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转小火将辣椒段炸脆",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "重新倒入兔肉，加入蚝油翻炒",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，加入蒜、姜、白芝麻，翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放置一夜更加入味",
+      "time_unit": "小时",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    }
+  ],
+  "take_time": [
+    35,
+    58
+  ],
+  "wait_time": [
+    495,
+    735
+  ],
+  "total_time": [
+    530,
+    793
+  ],
+  "additional_notes": []
+}

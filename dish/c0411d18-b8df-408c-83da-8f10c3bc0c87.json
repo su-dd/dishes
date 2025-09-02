@@ -1,0 +1,175 @@
+{
+  "id": "c0411d18-b8df-408c-83da-8f10c3bc0c87",
+  "category": "甜品",
+  "name": "草莓冰淇淋",
+  "description": "",
+  "source_path": "dishes/dessert/草莓冰淇淋/草莓冰淇淋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "冰淇淋模具"
+  ],
+  "ingredients": [
+    {
+      "name": "草莓",
+      "amount": 500,
+      "unit": "克",
+      "remake": "草莓糖浆用"
+    },
+    {
+      "name": "白砂糖",
+      "amount": 45,
+      "unit": "克",
+      "remake": "草莓糖浆用"
+    },
+    {
+      "name": "香草精",
+      "amount": 1,
+      "unit": "克",
+      "remake": "草莓糖浆用"
+    },
+    {
+      "name": "食盐",
+      "amount": 1,
+      "unit": "克",
+      "remake": "草莓糖浆用"
+    },
+    {
+      "name": "香草精",
+      "amount": 5,
+      "unit": "克",
+      "remake": "冰淇淋底料用"
+    },
+    {
+      "name": "食盐",
+      "amount": 1,
+      "unit": "克",
+      "remake": "冰淇淋底料用"
+    },
+    {
+      "name": "重奶油",
+      "amount": 6,
+      "unit": "克",
+      "remake": "冰淇淋底料用"
+    },
+    {
+      "name": "加糖炼乳",
+      "amount": 400,
+      "unit": "克",
+      "remake": "冰淇淋底料用"
+    }
+  ],
+  "steps": [
+    {
+      "description": "把草莓洗干净，去掉顶部叶子",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将草莓切成5mm的小块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将切碎的草莓和糖放入酱汁锅用中火搅拌烹饪，直到草莓释放液体形成糖浆",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "让草莓在糖浆中加热，不时搅拌，直到分解变形，糖浆稍微变稠",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将草莓糖浆放在一边冷却",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "在碗中加入甜炼乳、浓奶油、香草精和盐，使用手动搅拌器搅打至轻盈蓬松并形成柔软尖峰",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将保留的切碎新鲜草莓折叠到冰淇淋底座中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将冰淇淋底座转移到冷冻容器，淋上草莓糖浆并轻轻旋入混合物",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "盖上冰淇淋并冷冻",
+      "time_unit": "小时",
+      "time": [
+        8,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    }
+  ],
+  "take_time": [
+    22,
+    35
+  ],
+  "wait_time": [
+    500,
+    510
+  ],
+  "total_time": [
+    522,
+    545
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "制作过程中注意安全，避免割/烫到手。"
+    }
+  ]
+}

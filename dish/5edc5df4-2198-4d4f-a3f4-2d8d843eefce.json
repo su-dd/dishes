@@ -1,0 +1,190 @@
+{
+  "id": "5edc5df4-2198-4d4f-a3f4-2d8d843eefce",
+  "category": "肉食",
+  "name": "农家一碗香",
+  "description": "",
+  "source_path": "dishes/meat_dish/农家一碗香/农家一碗香.md",
+  "image_id": "24ef7553-a671-40f0-bcb7-4a3e75ce6428",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/24ef7553-a671-40f0-bcb7-4a3e75ce6428.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "猪肉",
+      "amount": 250,
+      "unit": "克",
+      "remake": "推荐五花肉"
+    },
+    {
+      "name": "青椒",
+      "amount": 3,
+      "unit": "个"
+    },
+    {
+      "name": "蒜片",
+      "amount": 2,
+      "unit": "片"
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "小米椒",
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "白糖",
+      "amount": 5,
+      "unit": "毫克"
+    },
+    {
+      "name": "酱油",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "姜",
+      "amount": 2,
+      "unit": "片"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将猪肉切片，肥瘦分开放",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "青椒和小米辣切成段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜片拍成末，姜切成丝",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸡蛋打散",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热油炒鸡蛋至断生",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "肥猪肉逼出猪油",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入瘦肉翻炒至变色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入姜丝、蒜末和豆瓣酱翻炒上色",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入青红椒和鸡蛋翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入酱油和白糖翻炒至青椒微断生",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    17,
+    28
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    17,
+    28
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "如果第一次炒鸡蛋的时候放的油太多，炒猪肉的时候可以视情况不加油。"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料下厨房"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "ebd70010-3140-4ce7-a827-ec333ae498e0",
+  "category": "主食",
+  "name": "热干面",
+  "description": "",
+  "source_path": "dishes/staple/热干面.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "筷子",
+    "勺子",
+    "砧板",
+    "刀"
+  ],
+  "ingredients": [
+    {
+      "name": "热干面特有的碱水面",
+      "amount": 250,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "小葱",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "酸豆角",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "肉末",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜水",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "肉汤汁",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "萝卜干",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "芝麻酱",
+      "amount": 40,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "辣椒油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": "0-10ml"
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": "0-10g"
+    },
+    {
+      "name": "酱油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "食盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 3,
+      "unit": "克",
+      "remake": "0-3g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "水煮沸",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入碱水面焯烫25秒钟捞起",
+      "time_unit": "秒",
+      "time": [
+        25,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒上食盐、鸡精和胡椒粉",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "芝麻酱用水稀释搅匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入酱油、肉汤汁和蒜水",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入萝卜干、肉末、酸豆角、葱花",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "拌均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    2,
+    2
+  ],
+  "wait_time": [
+    3,
+    5
+  ],
+  "total_time": [
+    5,
+    7
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "辣椒油看个人口味添加"
+    }
+  ]
+}

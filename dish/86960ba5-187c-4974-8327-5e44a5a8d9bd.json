@@ -1,0 +1,99 @@
+{
+  "id": "86960ba5-187c-4974-8327-5e44a5a8d9bd",
+  "category": "早餐",
+  "name": "空气炸锅面包片",
+  "description": "",
+  "source_path": "dishes/breakfast/空气炸锅面包片.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "空气炸锅"
+  ],
+  "ingredients": [
+    {
+      "name": "面包片",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "取出两片面包片",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将面包片垂直放入空气炸锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "200°C烘烤5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出即可使用",
+      "time_unit": "秒",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    0,
+    0
+  ],
+  "wait_time": [
+    5,
+    5
+  ],
+  "total_time": [
+    5,
+    5
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "热量 254 千卡"
+    },
+    {
+      "type": "list_item",
+      "content": "蛋白质 12.3 克"
+    },
+    {
+      "type": "list_item",
+      "content": "脂肪 3.5 克"
+    },
+    {
+      "type": "list_item",
+      "content": "碳水化合物 43.1 克"
+    },
+    {
+      "type": "list_item",
+      "content": "膳食纤维 6.0 克"
+    }
+  ]
+}

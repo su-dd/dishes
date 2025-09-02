@@ -1,0 +1,195 @@
+{
+  "id": "4bbc9bbf-c3a1-4862-8175-b861b4064a9c",
+  "category": "汤类",
+  "name": "羊肉汤",
+  "description": "",
+  "source_path": "dishes/soup/羊肉汤/羊肉汤.md",
+  "image_id": "430faff1-5fcc-41c4-9dab-450ccee666e0",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/430faff1-5fcc-41c4-9dab-450ccee666e0.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀具",
+    "砧板",
+    "量杯",
+    "勺子"
+  ],
+  "ingredients": [
+    {
+      "name": "羊肉",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "大葱",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "开水",
+      "amount": 1000,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "孜然粉",
+      "amount": 1,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "香菜",
+      "amount": 20,
+      "unit": "克",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "羊肉切成长5cm宽0.5cm的块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大葱切成小段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "羊肉放入锅中，加入1000ml常温水，加入料酒、大葱",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煮沸2分钟后，捞出羊肉",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "使用常温水洗净羊肉，沥干水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅加入食用油，加入羊肉，翻炒2分钟至羊肉表面微黄",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入开水，开到大火档位",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煮沸5分钟后，加入白胡椒粉、盐",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续煮沸5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅之后，加入香菜、孜然粉，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    15
+  ],
+  "wait_time": [
+    12,
+    12
+  ],
+  "total_time": [
+    22,
+    27
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "加入开水时，注意要开大火，使油脂与汤汁更好的融合"
+    }
+  ]
+}

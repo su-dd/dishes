@@ -1,0 +1,137 @@
+{
+  "id": "e980f69d-8565-4988-9d99-9845bbdea98b",
+  "category": "主食",
+  "name": "麻油拌面",
+  "description": "",
+  "source_path": "dishes/staple/麻油拌面.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "煮面锅",
+    "量杯",
+    "量勺"
+  ],
+  "ingredients": [
+    {
+      "name": "水",
+      "amount": 1,
+      "unit": "升",
+      "remake": ""
+    },
+    {
+      "name": "快熟面",
+      "amount": 1,
+      "unit": "块",
+      "remake": "不需要调味料"
+    },
+    {
+      "name": "麻油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 30,
+      "unit": "克",
+      "remake": "可选，这30g盐不会被全部食用"
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 5,
+      "unit": "克",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将水倒入锅中并煮沸",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将快熟面放入锅中煮3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "当面开始散了开始搅拌，让面受热均匀",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将水滤干把面倒入碗中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入麻油，老抽，胡椒粉，生抽等调料",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用筷子搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    1,
+    2
+  ],
+  "wait_time": [
+    6,
+    8
+  ],
+  "total_time": [
+    7,
+    10
+  ],
+  "additional_notes": []
+}

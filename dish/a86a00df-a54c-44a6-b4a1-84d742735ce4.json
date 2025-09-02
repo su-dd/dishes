@@ -1,0 +1,340 @@
+{
+  "id": "a86a00df-a54c-44a6-b4a1-84d742735ce4",
+  "category": "肉食",
+  "name": "枝竹羊腩煲",
+  "description": "",
+  "source_path": "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 1,
+  "kitchen_ware": [
+    "煲",
+    "锅"
+  ],
+  "ingredients": [
+    {
+      "name": "羊腩",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "炸腐竹",
+      "amount": 30,
+      "unit": "克",
+      "remake": "30g-50g"
+    },
+    {
+      "name": "柱侯酱",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "腐乳",
+      "amount": 40,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "南乳",
+      "amount": 35,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "辣椒油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "清水",
+      "amount": 500,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "冰糖",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "砂糖",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "小葱",
+      "amount": 5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "姜片",
+      "amount": 6,
+      "unit": "片",
+      "remake": "6-8片"
+    },
+    {
+      "name": "香菇",
+      "amount": 7,
+      "unit": "个",
+      "remake": "7-8个"
+    },
+    {
+      "name": "洋葱",
+      "amount": 1,
+      "unit": "个",
+      "remake": "或红葱头4-5个"
+    },
+    {
+      "name": "蒜瓣",
+      "amount": 7,
+      "unit": "瓣",
+      "remake": "7-8瓣"
+    },
+    {
+      "name": "香叶",
+      "amount": 1,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 4,
+      "unit": "个",
+      "remake": "4-5个"
+    },
+    {
+      "name": "桂皮",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "香菇提前浸泡至变软",
+      "time_unit": "小时",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "腐竹提前浸泡至变软",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "南乳、柱侯酱、腐乳、老抽放入碗中搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "腐乳、砂糖、辣椒油放入碗中搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "泡好的香菇去除根部",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "腐竹切成5cm小段，挤干水分",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "洋葱去皮切丝",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小葱切成5cm葱段",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "羊腩冷水下锅，放入姜片，大火煮至水滚",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出羊腩放入冷水盆中放凉",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅烧热后放入冷油，爆香姜片、洋葱、葱白段、蒜瓣",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入羊腩搅拌至出现金黄色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入酱汁1翻炒至颜色均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入清水至刚好没过食材",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入香菇、冰糖、香叶、八角、桂皮",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加盖转小火炖煮",
+      "time_unit": "分钟",
+      "time": [
+        90,
+        90
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开盖加入腐竹，加盖转中火煮",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开盖加入酱汁2搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，出锅前加入葱绿段或香菜",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    20,
+    32
+  ],
+  "wait_time": [
+    265,
+    330
+  ],
+  "total_time": [
+    285,
+    362
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "此菜属于粤菜，正宗做法多会添加马蹄。考虑到萝卜青菜各有所爱，也可根据个人口味替换成土豆、萝卜等其他食材"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：枝竹羊腩煲 Lamb Stew with Bean Curd Sheet [by 點Cook Guide]"
+    }
+  ]
+}

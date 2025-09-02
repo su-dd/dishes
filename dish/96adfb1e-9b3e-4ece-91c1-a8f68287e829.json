@@ -1,0 +1,110 @@
+{
+  "id": "96adfb1e-9b3e-4ece-91c1-a8f68287e829",
+  "category": "早餐",
+  "name": "桂圆红枣粥",
+  "description": "",
+  "source_path": "dishes/breakfast/桂圆红枣粥.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "量杯",
+    "秤"
+  ],
+  "ingredients": [
+    {
+      "name": "糯米",
+      "amount": 100,
+      "unit": "克",
+      "remake": "或大米"
+    },
+    {
+      "name": "红枣",
+      "amount": 15,
+      "unit": "颗"
+    },
+    {
+      "name": "桂圆",
+      "amount": 15,
+      "unit": "颗"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将桂圆肉扒出，用清水洗两次，放入碗中浸泡",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "红枣用清水洗两次，放入碗中浸泡",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "糯米放入电饭锅中，清水淘米两次",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入2000ml水",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将桂圆和红枣加入电饭锅",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "打开电饭锅煮饭模式煮粥",
+      "time_unit": "分钟",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    2,
+    3
+  ],
+  "wait_time": [
+    80,
+    80
+  ],
+  "total_time": [
+    82,
+    83
+  ],
+  "additional_notes": []
+}

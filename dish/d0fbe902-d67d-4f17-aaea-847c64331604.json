@@ -1,0 +1,321 @@
+{
+  "id": "d0fbe902-d67d-4f17-aaea-847c64331604",
+  "category": "主食",
+  "name": "中式馅饼",
+  "description": "",
+  "source_path": "dishes/staple/中式馅饼/中式馅饼.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "平底锅",
+    "炒锅"
+  ],
+  "ingredients": [
+    {
+      "name": "面粉",
+      "amount": 200,
+      "unit": "克",
+      "remake": "非自发粉"
+    },
+    {
+      "name": "肉沫",
+      "amount": 50,
+      "unit": "克"
+    },
+    {
+      "name": "油",
+      "amount": 30,
+      "unit": "毫升"
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克"
+    },
+    {
+      "name": "糖",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "生粉",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "酱油",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "风味调料",
+      "amount": 3,
+      "unit": "克",
+      "remake": "如鸡粉、孜然、椒盐，可选"
+    },
+    {
+      "name": "蒜头",
+      "amount": 2,
+      "unit": "瓣"
+    },
+    {
+      "name": "大葱",
+      "amount": 0.25,
+      "unit": "根",
+      "remake": "靠叶部分"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "取肉沫解冻",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入调料和生粉搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "腌制肉沫",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "面粉加入碗中，加入鸡蛋和调料",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入水搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜头切为蒜末",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大葱切段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "胡萝卜切末",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅冷油，宽油起锅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待油烧热",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入蒜末爆香",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入腌制的肉沫翻炒至断生",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入胡萝卜末翻炒至油变金黄色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火冷却",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将炒好的肉沫倒入生面糊中搅匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "重新开火，平底锅铺底油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "调至小火，将面糊倒入锅中均匀铺满",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒上大葱段",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "保持小火直到底面凝固",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将饼翻面继续小火煎烤直至另一侧凝固",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "每一面额外煎20秒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    21,
+    36
+  ],
+  "wait_time": [
+    66,
+    99
+  ],
+  "total_time": [
+    87,
+    135
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "将肉沫和胡萝卜末加入面糊后，应该尽量搅匀，保证味道扩散到饼内各处。"
+    },
+    {
+      "type": "list_item",
+      "content": "肉沫和胡萝卜末即馅料可以使用各类熟馅料替代。"
+    }
+  ]
+}

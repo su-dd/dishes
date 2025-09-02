@@ -1,0 +1,165 @@
+{
+  "id": "95bddc94-55c3-4bcd-9321-cfbbf4918744",
+  "category": "佐料",
+  "name": "葱油",
+  "description": "",
+  "source_path": "dishes/condiment/葱油.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "油",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 80,
+      "unit": "克",
+      "remake": "大葱小葱都可以"
+    },
+    {
+      "name": "姜",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "洋葱",
+      "amount": 150,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "开洋",
+      "amount": 50,
+      "unit": "克",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "开洋泡入50度温水中，加入料酒去腥",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取出开洋沥干水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱、香菜洗净，切成5cm长的段",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "擦干葱和香菜表面水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "洋葱切成丝",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在锅里用热水煮洋葱丝",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出洋葱丝沥干水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "姜去皮，切成片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅里倒入全部油，放入预处理好的材料，开中小火炸",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    35,
+    42
+  ],
+  "wait_time": [
+    10,
+    10
+  ],
+  "total_time": [
+    45,
+    52
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "渣后的开洋葱渣也可以食用，葱油可以滤掉这些料渣，也可以保留"
+    },
+    {
+      "type": "list_item",
+      "content": "开洋可以极大提升葱油鲜香，并增加鲜甜风味"
+    }
+  ]
+}

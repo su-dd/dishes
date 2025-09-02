@@ -1,0 +1,203 @@
+{
+  "id": "b331f8f8-a011-4db4-be11-c392e7e50a49",
+  "category": "水产",
+  "name": "咖喱炒蟹",
+  "description": "",
+  "source_path": "dishes/aquatic/咖喱炒蟹.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1Nq4y1W7K9"
+  ],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "肉蟹",
+      "amount": 1,
+      "unit": "只",
+      "remake": "大约 300g"
+    },
+    {
+      "name": "咖喱块",
+      "amount": 15,
+      "unit": "克",
+      "remake": "一小块"
+    },
+    {
+      "name": "椰浆",
+      "amount": 100,
+      "unit": "毫升"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个"
+    },
+    {
+      "name": "洋葱",
+      "amount": 200,
+      "unit": "克"
+    },
+    {
+      "name": "大蒜",
+      "amount": 5,
+      "unit": "瓣"
+    }
+  ],
+  "steps": [
+    {
+      "description": "肉蟹掀盖后对半砍开，蟹钳用刀背轻轻拍裂，切口和蟹钳蘸一下生粉，撒5g生粉到蟹盖中盖住蟹黄",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "洋葱切成洋葱碎",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大蒜切碎",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "烧一壶开水",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "起锅烧油，倒入约20ml食用油，等待10秒让油温升高",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将螃蟹切口朝下放入锅中煎20秒封住蟹黄蟹肉，然后翻面每面煎10秒",
+      "time_unit": "秒",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将螃蟹盖放入锅中，用勺子舀热油泼到蟹盖中煎封蟹黄",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "再倒入10ml食用油，大火让油温升高至轻微冒烟",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将大蒜末、洋葱碎倒入炒10秒钟",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将咖喱块放入锅中炒化，放入煎好的螃蟹翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入开水300ml焖煮3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入椰浆和蛋清，关火后不断翻炒至酱汁变浓稠",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    11
+  ],
+  "wait_time": [
+    6,
+    8
+  ],
+  "total_time": [
+    13,
+    19
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "做法参考：十几年澳门厨房佬教学挂汁的咖喱蟹怎么做"
+    }
+  ]
+}

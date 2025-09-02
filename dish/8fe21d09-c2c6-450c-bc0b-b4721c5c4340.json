@@ -1,0 +1,322 @@
+{
+  "id": "8fe21d09-c2c6-450c-bc0b-b4721c5c4340",
+  "category": "水产",
+  "name": "糖醋鲤鱼",
+  "description": "",
+  "source_path": "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
+  "image_id": "ac8ca3b7-ecf0-458a-b4c6-12b63d79ea63",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/ac8ca3b7-ecf0-458a-b4c6-12b63d79ea63.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 3,
+  "kitchen_ware": [
+    "盆",
+    "菜刀",
+    "笊篱",
+    "锅铲"
+  ],
+  "ingredients": [
+    {
+      "name": "鲤鱼",
+      "amount": 3,
+      "unit": "斤",
+      "remake": "约3斤"
+    },
+    {
+      "name": "清水",
+      "amount": 50,
+      "unit": "克"
+    },
+    {
+      "name": "番茄酱",
+      "amount": 40,
+      "unit": "克"
+    },
+    {
+      "name": "白糖",
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "白醋",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "淀粉",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "amount": 30,
+      "unit": "克"
+    },
+    {
+      "name": "大葱",
+      "amount": 30,
+      "unit": "克",
+      "remake": "约半颗"
+    },
+    {
+      "name": "姜",
+      "amount": 30,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "amount": 25,
+      "unit": "克"
+    },
+    {
+      "name": "香菜",
+      "amount": 1,
+      "unit": "颗"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将鱼清洗干净，确保无鱼鳞等异物",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将鱼头朝左，鱼肚朝下，右手持刀。刀竖直切下1cm，按紧鱼身往左片3-4cm，再将鱼片中间轻轻划一刀",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将鱼放进盆里，然后将大姜切片，大葱切段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用吃奶的力气将大葱大姜里的汁水挤到盆中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入20g盐，25g料酒，然后给鲤鱼搓个澡，涂抹均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "腌制30分钟以上",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "找个干净的盆，加入100g面粉、200g淀粉、180g水、5g盐，用手将其搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "打入一个鸡蛋，再次搅匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "等待30分钟",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将鱼放在案板上，用干毛巾将鱼身上的水擦干",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将盆冲洗干净，用干毛巾擦干",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "起锅烧油，加入约1L的油，将油温烧至7成热，约200-240度",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捏起鱼的尾巴，将鱼头沉入锅底，用勺子往鱼的身上淋热油，待面糊成型后，将鱼慢慢放入锅中",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "拿锅铲轻轻铲起鱼的头部，然后垫上笊篱，防止底部炸糊",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "准备一个盛鱼的盘子，放在锅的旁边",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "用锅铲从鱼身处轻轻铲入，两个工具配合鱼翻个身，再炸两分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将鱼盛入盘中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "将锅中的油倒入擦干的盆中，放置一边，然后将锅刷干净",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将50g清水、40g番茄酱、20g白糖、10g白醋放入小碗中，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "再准备一个小碗加入10g淀粉、10g水，搅拌成水淀粉",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "开大火将锅烧热，然后倒入之前准备的料汁，大火烧开，转小火",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入调好的水淀粉，边倒边搅拌，然后20秒后关火",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将熬好的糖醋汁用勺子均匀地浇在鱼身上，可以加点香菜或葱花点缀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    37,
+    62
+  ],
+  "wait_time": [
+    60,
+    90
+  ],
+  "total_time": [
+    97,
+    152
+  ],
+  "additional_notes": []
+}

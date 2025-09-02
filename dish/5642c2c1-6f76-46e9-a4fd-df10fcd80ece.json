@@ -1,0 +1,221 @@
+{
+  "id": "5642c2c1-6f76-46e9-a4fd-df10fcd80ece",
+  "category": "蔬菜",
+  "name": "小炒藕丁",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
+  "image_id": "f4392e16-f678-487e-8721-621c9174e1c4",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/f4392e16-f678-487e-8721-621c9174e1c4.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "大葱",
+      "amount": 1,
+      "unit": "段",
+      "remake": ""
+    },
+    {
+      "name": "小米辣",
+      "amount": 1.5,
+      "unit": "根",
+      "remake": "看个人吃辣程度"
+    },
+    {
+      "name": "莲藕",
+      "amount": 1,
+      "unit": "段",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "耗油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "大葱、小米辣切小段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "莲藕去皮，切成不超过3cm的小块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "藕块放入水中防止氧化",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "锅内放入凉水煮沸",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "藕丁焯水2分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出藕丁放入盘中备用",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将锅加热干燥",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入食用油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待油温升高",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入葱花、小米辣爆香",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入藕丁大火翻炒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入生抽、老抽、耗油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻炒2分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    9,
+    13
+  ],
+  "wait_time": [
+    6,
+    9
+  ],
+  "total_time": [
+    15,
+    23
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "食用莲藕要挑选外皮呈黄褐色、肉肥厚而白的。如果发黑，有异味，则不宜食用。"
+    },
+    {
+      "type": "list_item",
+      "content": "请尽量不要使用铁器，会导致莲藕发黑"
+    }
+  ]
+}

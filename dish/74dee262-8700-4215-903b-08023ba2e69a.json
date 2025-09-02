@@ -1,0 +1,276 @@
+{
+  "id": "74dee262-8700-4215-903b-08023ba2e69a",
+  "category": "肉食",
+  "name": "鱼香肉丝",
+  "description": "",
+  "source_path": "dishes/meat_dish/鱼香肉丝.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "刀",
+    "砧板",
+    "炒锅",
+    "碗",
+    "盘子"
+  ],
+  "ingredients": [
+    {
+      "name": "里脊肉",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "青椒",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "木耳",
+      "amount": 5,
+      "unit": "克",
+      "remake": "干"
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "蛋清",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "醋",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 2,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将生抽、料酒、淀粉、水和蛋清混合腌制里脊肉",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "干木耳泡发4个小时",
+      "time_unit": "小时",
+      "time": [
+        4,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "洗净木耳并切成小块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "青椒洗净去蒂切成丝",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "胡萝卜洗净切成丝",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "胡萝卜丝焯水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "姜蒜切沫",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱切5mm小段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将锅烧热加入15ml油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入腌肉快速滑散至变白",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将锅烧热加入5ml油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入配料翻炒20秒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入青椒和木耳翻炒2分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入调料快速翻炒不超过20秒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    18,
+    31
+  ],
+  "wait_time": [
+    255,
+    270
+  ],
+  "total_time": [
+    273,
+    301
+  ],
+  "additional_notes": []
+}

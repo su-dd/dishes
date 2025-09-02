@@ -1,0 +1,121 @@
+{
+  "id": "c9c4cb14-c515-4de1-83fa-ae6d0a30166e",
+  "category": "早餐",
+  "name": "太阳蛋",
+  "description": "",
+  "source_path": "dishes/breakfast/太阳蛋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "微波炉",
+    "筷子",
+    "牙签"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "克",
+      "remake": "每个鸡蛋"
+    },
+    {
+      "name": "油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": "每个鸡蛋"
+    }
+  ],
+  "steps": [
+    {
+      "description": "准备一个小碗，倒入油，撒盐，搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "倾斜碗使油沾在碗表面",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取出一个鸡蛋，打入小碗",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蛋黄表面戳孔（牙签戳5个或筷子戳1个）",
+      "time_unit": "秒",
+      "time": [
+        5,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入微波炉，中火加热3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "检查太阳蛋是否大面积成固体状，如未完成继续微波加热30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    0,
+    1
+  ],
+  "wait_time": [
+    3,
+    3
+  ],
+  "total_time": [
+    4,
+    4
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "不可控火候微波炉：定义： 即无法控制火候仅能控制时长的微波炉。辨别方法： 若在微波炉操作面板上无法找到小火，中火， 大火等字样即为不可控火候微波炉"
+    },
+    {
+      "type": "list_item",
+      "content": "可控火候微波炉：定义：即能控制火候又能控制时长的微波炉，辨别方法： 若在微波炉操作面板上能找到小火，中火，大火等字样即为可控火候微波炉"
+    }
+  ]
+}

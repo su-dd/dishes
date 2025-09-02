@@ -1,0 +1,160 @@
+{
+  "id": "3a8dfc42-436d-40f7-b56b-040ce35cd161",
+  "category": "肉食",
+  "name": "湘祁米夫鸭",
+  "description": "",
+  "source_path": "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
+  "image_id": "1fca1571-1473-4dd5-83ba-f445f312169e",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/1fca1571-1473-4dd5-83ba-f445f312169e.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 4,
+  "kitchen_ware": [
+    "蒸锅"
+  ],
+  "ingredients": [
+    {
+      "name": "鸭子",
+      "amount": 1000,
+      "unit": "克",
+      "remake": "必须新鲜现杀的"
+    },
+    {
+      "name": "糯米粉",
+      "amount": 100,
+      "unit": "克"
+    },
+    {
+      "name": "粘米粉",
+      "amount": 300,
+      "unit": "克"
+    },
+    {
+      "name": "蒸肉粉",
+      "amount": 50,
+      "unit": "克"
+    },
+    {
+      "name": "细辣椒粉",
+      "amount": 50,
+      "unit": "克",
+      "remake": "吃辣则加"
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "五花肉",
+      "amount": 50,
+      "unit": "克",
+      "remake": "可加可不加"
+    },
+    {
+      "name": "姜蒜",
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "开水",
+      "amount": 100,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将糯米粉、粘米粉、蒸肉粉、细辣椒粉、5克盐、白胡椒粉倒一起搅匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "鸭子让热心摊主剁成蒸煮块，姜切片，蒜子剥皮，五花肉切片",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅凉油煸炒五花肉出油，再加食用油烧热，下入鸭子煸炒",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "鸭子煸炒到表皮焦变色，下入姜蒜和盐继续煸炒香味",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关小火倒入米粉翻炒，鸭肉均匀裹满米粉子，加入开水，少量多次的加，边加边翻炒",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻炒鸭肉和米粉有湿感，铲出入碗中，高压锅放水蒸20-25分钟",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        25
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅前撒点葱花即可享用了",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    24
+  ],
+  "wait_time": [
+    20,
+    25
+  ],
+  "total_time": [
+    35,
+    49
+  ],
+  "additional_notes": []
+}

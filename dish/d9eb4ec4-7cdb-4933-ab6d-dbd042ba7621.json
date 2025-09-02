@@ -1,0 +1,64 @@
+{
+  "id": "d9eb4ec4-7cdb-4933-ab6d-dbd042ba7621",
+  "category": "佐料",
+  "name": "蔗糖糖浆",
+  "description": "",
+  "source_path": "dishes/condiment/蔗糖糖浆/蔗糖糖浆.md",
+  "image_id": "b980c84b-1421-4f08-b060-b21b2d3dada2",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/b980c84b-1421-4f08-b060-b21b2d3dada2.webp",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "可密封容器"
+  ],
+  "ingredients": [
+    {
+      "name": "白砂糖",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将称好的白砂糖和饮用水于容器混匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "容器封盖放冰箱冷藏",
+      "time_unit": "小时",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    }
+  ],
+  "take_time": [
+    1,
+    3
+  ],
+  "wait_time": [
+    120,
+    240
+  ],
+  "total_time": [
+    121,
+    243
+  ],
+  "additional_notes": []
+}

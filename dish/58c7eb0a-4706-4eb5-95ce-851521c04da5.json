@@ -1,0 +1,240 @@
+{
+  "id": "58c7eb0a-4706-4eb5-95ce-851521c04da5",
+  "category": "肉食",
+  "name": "粉蒸肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/粉蒸肉.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 3,
+  "kitchen_ware": [
+    "蒸锅"
+  ],
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "amount": 500,
+      "unit": "克",
+      "remake": "肥瘦相间"
+    },
+    {
+      "name": "蒸肉米粉",
+      "amount": 100,
+      "unit": "克"
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "老抽",
+      "amount": 10,
+      "unit": "毫升"
+    },
+    {
+      "name": "料酒",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "郫县豆瓣酱",
+      "amount": 10,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "姜末",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "蒜末",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "白砂糖",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "土豆",
+      "amount": 300,
+      "unit": "克",
+      "remake": "或南瓜 300g，作为垫底食材"
+    },
+    {
+      "name": "清水",
+      "amount": 2000,
+      "unit": "毫升",
+      "remake": "蒸锅用"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将五花肉洗净，切成长约5cm、宽约3cm、厚度约0.5cm的肉片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将姜、蒜切成颗粒直径不大于1mm的细末",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "取一大碗，放入切好的五花肉、15ml生抽、10ml老抽、15ml料酒、10g郫县豆瓣酱、10g姜末、10g蒜末、5g白砂糖",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用筷子搅拌均匀后，盖上保鲜膜，室温(20°C-25°C)静置腌制30分钟",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "腌制完成后，加入100g蒸肉米粉，继续翻拌2分钟，确保每片肉都均匀裹粉",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "土豆去皮，切片厚度控制在0.8cm，片面积约为5cmx5cm，重量控制在300g",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在直径20cm的深碗底部铺满土豆片，尽量无重叠",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将拌好粉的五花肉均匀铺在土豆片上，压实",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "蒸锅中加入2000ml清水，开火加热至水面持续冒泡(100°C)",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将装好食材的碗放入蒸锅内，盖好锅盖",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "保持中火蒸60分钟（火力保持在可持续沸腾的程度，约600W热功率）",
+      "time_unit": "分钟",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "时间结束后，用筷子插入肉块中央，若能轻松穿透并无明显阻力，则表明蒸熟",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "若未达到此状态，则继续加热10-15分钟，直至肉质软烂，油脂渗出",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出盛盘，即可食用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    21,
+    34
+  ],
+  "wait_time": [
+    100,
+    105
+  ],
+  "total_time": [
+    121,
+    139
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "如需自制米粉，可将大米 150g 放入锅中，中小火炒至微黄色（约 8 分钟），再加入干辣椒 1g、花椒 1g、八角 0.5g，炒香后用料理机打碎，过筛备用"
+    },
+    {
+      "type": "list_item",
+      "content": "蒸制期间如水量低于锅底高度 1cm，应立即补充 500ml 热水（90°C 以上），以维持蒸汽充足"
+    }
+  ]
+}

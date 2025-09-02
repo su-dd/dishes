@@ -1,1 +1,527 @@
-[]
+[
+  {
+    "id": "fd40d1c7-60ab-4cee-a319-15c942dcf807",
+    "category": "佐料",
+    "name": "油酥",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "面粉",
+        "amount": 7.69,
+        "unit": "克",
+        "remake": "要烙饼的张数 / 0.13g"
+      },
+      {
+        "name": "油",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": "要烙饼的张数 * 10ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0.5,
+        "unit": "克",
+        "remake": "要烙饼的张数 / 2g"
+      }
+    ],
+    "take_time": [
+      0,
+      1
+    ],
+    "wait_time": [
+      0,
+      0
+    ],
+    "total_time": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "e64e04e0-dd62-430c-a28f-38730b85b341",
+    "category": "佐料",
+    "name": "炸串酱料",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "干辣椒面",
+        "amount": 60,
+        "unit": "克",
+        "remake": "粗细都准备"
+      },
+      {
+        "name": "孜然粉",
+        "amount": 20,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "胡椒粉",
+        "amount": 10,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "五香粉",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "食盐",
+        "amount": 20,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "花椒粉",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "鸡精",
+        "amount": 8,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "十三香",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "麻辣鲜",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "白芝麻",
+        "amount": 30,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      8,
+      15
+    ],
+    "wait_time": [
+      0,
+      0
+    ],
+    "total_time": [
+      8,
+      15
+    ]
+  },
+  {
+    "id": "8d568208-f425-4dbd-be69-29f664534d7e",
+    "category": "佐料",
+    "name": "简易版炒糖色",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "炒锅",
+      "电磁炉"
+    ],
+    "ingredients": [
+      {
+        "name": "冰糖",
+        "amount": 100,
+        "unit": "毫升",
+        "remake": "炒出来的色泽最为鲜艳，红亮，必须水油炒"
+      },
+      {
+        "name": "白砂糖",
+        "amount": 100,
+        "unit": "毫升",
+        "remake": "必须水油炒，不加水融化会很慢"
+      },
+      {
+        "name": "绵白糖",
+        "amount": 100,
+        "unit": "毫升",
+        "remake": "可以不加水"
+      }
+    ],
+    "take_time": [
+      4,
+      8
+    ],
+    "wait_time": [
+      0,
+      0
+    ],
+    "total_time": [
+      4,
+      9
+    ]
+  },
+  {
+    "id": "c56a1bfd-303a-47d0-9bb8-e26eab8c5db7",
+    "category": "佐料",
+    "name": "糖醋汁",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "清水",
+        "amount": 50,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "生抽",
+        "amount": 40,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "白糖",
+        "amount": 30,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "白醋",
+        "amount": 20,
+        "unit": "毫升",
+        "remake": "或米醋"
+      },
+      {
+        "name": "料酒",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      8,
+      18
+    ],
+    "wait_time": [
+      0,
+      0
+    ],
+    "total_time": [
+      8,
+      18
+    ]
+  },
+  {
+    "id": "95bddc94-55c3-4bcd-9321-cfbbf4918744",
+    "category": "佐料",
+    "name": "葱油",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [],
+    "ingredients": [
+      {
+        "name": "油",
+        "amount": 200,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "葱",
+        "amount": 80,
+        "unit": "克",
+        "remake": "大葱小葱都可以"
+      },
+      {
+        "name": "姜",
+        "amount": 20,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "料酒",
+        "amount": 10,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "洋葱",
+        "amount": 150,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "开洋",
+        "amount": 50,
+        "unit": "克",
+        "remake": "可选"
+      }
+    ],
+    "take_time": [
+      35,
+      42
+    ],
+    "wait_time": [
+      10,
+      10
+    ],
+    "total_time": [
+      45,
+      52
+    ]
+  },
+  {
+    "id": "c7438d26-8a50-40f5-9fff-72eaa5680164",
+    "category": "佐料",
+    "name": "蒜香酱油",
+    "image_id": null,
+    "image": "",
+    "servings": 1,
+    "kitchen_ware": [
+      "蘸料碟"
+    ],
+    "ingredients": [
+      {
+        "name": "蒜头",
+        "amount": 2,
+        "unit": "瓣",
+        "remake": ""
+      },
+      {
+        "name": "白芝麻",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "花生油",
+        "amount": 15,
+        "unit": "毫升",
+        "remake": ""
+      },
+      {
+        "name": "酱油",
+        "amount": 30,
+        "unit": "毫升",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      1,
+      1
+    ],
+    "wait_time": [
+      2,
+      3
+    ],
+    "total_time": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "3b3ae8d6-0007-49ec-b223-a2950b189c86",
+    "category": "佐料",
+    "name": "油泼辣子",
+    "image_id": "52032131-7e78-4246-a9e2-341863bf2add",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/52032131-7e78-4246-a9e2-341863bf2add.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "家庭小陶瓷碗",
+      "家庭铁勺子"
+    ],
+    "ingredients": [
+      {
+        "name": "蒜头",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "干辣椒面",
+        "amount": 100,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "盐",
+        "amount": 5,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "熟白芝麻",
+        "amount": 15,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "小米椒",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "花生油",
+        "amount": 150,
+        "unit": "毫升",
+        "remake": "可用菜籽油替换"
+      },
+      {
+        "name": "五香粉",
+        "amount": 10,
+        "unit": "克",
+        "remake": "可选"
+      },
+      {
+        "name": "草寇",
+        "amount": 1,
+        "unit": "个",
+        "remake": "可选"
+      },
+      {
+        "name": "小葱",
+        "amount": 4,
+        "unit": "根",
+        "remake": "可选，3-5根"
+      },
+      {
+        "name": "八角",
+        "amount": 1,
+        "unit": "个",
+        "remake": ""
+      },
+      {
+        "name": "花椒",
+        "amount": 35,
+        "unit": "粒",
+        "remake": "20-50粒都可，看个人口味"
+      },
+      {
+        "name": "香叶",
+        "amount": 2.5,
+        "unit": "片",
+        "remake": "2-3片"
+      },
+      {
+        "name": "白芷",
+        "amount": 2.5,
+        "unit": "片",
+        "remake": "2-3片"
+      },
+      {
+        "name": "姜片",
+        "amount": 1,
+        "unit": "份",
+        "remake": "可选，大拇指粗细的姜切片"
+      },
+      {
+        "name": "糖",
+        "amount": 30,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "白醋",
+        "amount": 5,
+        "unit": "毫升",
+        "remake": "大概就是小铁勺子的量"
+      }
+    ],
+    "take_time": [
+      7,
+      12
+    ],
+    "wait_time": [
+      3,
+      5
+    ],
+    "total_time": [
+      10,
+      17
+    ]
+  },
+  {
+    "id": "bcb2991b-bcaa-4a0d-9716-a7ff53f29dd8",
+    "category": "佐料",
+    "name": "草莓酱",
+    "image_id": "5d53c4c8-b04d-4dc2-b31a-c0e264a88f62",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/5d53c4c8-b04d-4dc2-b31a-c0e264a88f62.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "保鲜膜"
+    ],
+    "ingredients": [
+      {
+        "name": "草莓",
+        "amount": 1200,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "白糖",
+        "amount": 400,
+        "unit": "克",
+        "remake": "如需要低糖饮食，可以考虑降低到 200g"
+      }
+    ],
+    "take_time": [
+      26,
+      45
+    ],
+    "wait_time": [
+      60,
+      60
+    ],
+    "total_time": [
+      86,
+      105
+    ]
+  },
+  {
+    "id": "d9eb4ec4-7cdb-4933-ab6d-dbd042ba7621",
+    "category": "佐料",
+    "name": "蔗糖糖浆",
+    "image_id": "b980c84b-1421-4f08-b060-b21b2d3dada2",
+    "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/icon/b980c84b-1421-4f08-b060-b21b2d3dada2.webp",
+    "servings": 1,
+    "kitchen_ware": [
+      "可密封容器"
+    ],
+    "ingredients": [
+      {
+        "name": "白砂糖",
+        "amount": 100,
+        "unit": "克",
+        "remake": ""
+      },
+      {
+        "name": "水",
+        "amount": 100,
+        "unit": "克",
+        "remake": ""
+      }
+    ],
+    "take_time": [
+      1,
+      3
+    ],
+    "wait_time": [
+      120,
+      240
+    ],
+    "total_time": [
+      121,
+      243
+    ]
+  }
+]

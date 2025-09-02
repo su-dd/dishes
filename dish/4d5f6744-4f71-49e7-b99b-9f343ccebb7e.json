@@ -1,0 +1,352 @@
+{
+  "id": "4d5f6744-4f71-49e7-b99b-9f343ccebb7e",
+  "category": "肉食",
+  "name": "虎皮肘子",
+  "description": "",
+  "source_path": "dishes/meat_dish/虎皮肘子.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1P4421c7s5"
+  ],
+  "difficulty": 5,
+  "servings": 4,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板",
+    "量匙",
+    "碗",
+    "蒸锅"
+  ],
+  "ingredients": [
+    {
+      "name": "猪前肘",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "食用植物油",
+      "amount": 1,
+      "unit": "桶",
+      "remake": ""
+    },
+    {
+      "name": "冰糖",
+      "amount": 5,
+      "unit": "桶",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1.5,
+      "unit": "茶匙",
+      "remake": "1-2茶匙"
+    },
+    {
+      "name": "老抽",
+      "amount": 1,
+      "unit": "茶匙",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 1,
+      "unit": "汤匙",
+      "remake": ""
+    },
+    {
+      "name": "白醋",
+      "amount": 1,
+      "unit": "汤匙",
+      "remake": ""
+    },
+    {
+      "name": "香叶",
+      "amount": 3,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "肉桂皮",
+      "amount": 2.5,
+      "unit": "克",
+      "remake": "2-3克"
+    },
+    {
+      "name": "豆蔻",
+      "amount": 3,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "花椒",
+      "amount": 10,
+      "unit": "个",
+      "remake": "8-12个"
+    },
+    {
+      "name": "大料",
+      "amount": 3,
+      "unit": "个",
+      "remake": "2-4个"
+    },
+    {
+      "name": "淀粉",
+      "amount": 1,
+      "unit": "汤匙",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 2,
+      "unit": "棵",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 6,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 6,
+      "unit": "粒",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 2,
+      "unit": "汤匙",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 0,
+      "unit": "适量",
+      "remake": "未指定具体用量"
+    }
+  ],
+  "steps": [
+    {
+      "description": "猪肘解冻后水泡1小时去除血水",
+      "time_unit": "小时",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "使用火焰喷枪灼烧猪肘皮表面至棕黑色以去除猪毛",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将铁锅烧热后烫猪肘皮至整个猪肘被充分烫过",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "使用清洁球在水中刷洗猪肘，去除表面烧焦的部分",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将猪肘置于铁锅中，加冷水浸没猪肘3/4以上",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入葱白、蒜、姜、料酒等配料",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "锅中水烧开后等待五分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将猪肘取出，捡出锅中所有配料",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "向锅中加入冷油，开中火加热至五成油温",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入猪肘油炸，期间翻转猪肘使其油炸均匀",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "炒糖色200ml备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将猪肘加入高压锅内，加入所有配料和调味料",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "盖上锅盖，加压炖煮40分钟",
+      "time_unit": "分钟",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "调制水淀粉",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "打开高压锅锅盖，捡出锅中所有的配料",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将肉汤转移至铁锅内，开大火收汁",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入一半水淀粉，等待肉汤沸腾",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入剩下的一半水淀粉，等待肉汤沸腾",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沸腾后等待1-2分钟关火",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将肉汤均匀地淋在猪肘上",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    58,
+    83
+  ],
+  "wait_time": [
+    108,
+    111
+  ],
+  "total_time": [
+    166,
+    194
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "参考资料：Bilibili老饭骨的视频教程"
+    }
+  ]
+}

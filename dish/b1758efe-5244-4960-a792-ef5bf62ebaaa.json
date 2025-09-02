@@ -1,0 +1,239 @@
+{
+  "id": "b1758efe-5244-4960-a792-ef5bf62ebaaa",
+  "category": "肉食",
+  "name": "鱼香茄子",
+  "description": "",
+  "source_path": "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
+  "image_id": "cc25abee-b7b5-483f-8eb2-d5f391802a57",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/cc25abee-b7b5-483f-8eb2-d5f391802a57.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板",
+    "碗",
+    "勺子"
+  ],
+  "ingredients": [
+    {
+      "name": "茄子",
+      "amount": 2,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "肉末",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": "3-5g"
+    },
+    {
+      "name": "糖",
+      "amount": 5,
+      "unit": "克",
+      "remake": "5-10g"
+    },
+    {
+      "name": "味精",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "醋",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "水淀粉",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 20,
+      "unit": "克",
+      "remake": "20-30g"
+    },
+    {
+      "name": "小葱",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "根据自己口味"
+    },
+    {
+      "name": "姜",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "根据自己口味"
+    },
+    {
+      "name": "蒜",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "根据自己口味"
+    },
+    {
+      "name": "小米辣",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "根据自己口味"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将茄子切成条",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将肉切成肉沫，葱姜蒜切碎、小米椒切丁",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "调鱼香汁：碗中放入盐、味精、糖、生抽、老抽、醋、水淀粉搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "锅中倒入油，开小火等油温七成热（有烟冒出）",
+      "time_unit": "秒",
+      "time": [
+        40,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入茄子炸两分钟至边缘微黄",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅中留油，倒入肉沫炒至颜色变白",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅中倒油，放入豆瓣酱、葱白、姜、蒜炒香",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入肉沫翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入清水，倒入茄子、料汁，爆炒入味收汁",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入葱翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "起锅装盘",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    31
+  ],
+  "wait_time": [
+    0,
+    1
+  ],
+  "total_time": [
+    16,
+    32
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "茄子看个人喜好，可以去皮，肉沫也可以多放一点。"
+    },
+    {
+      "type": "list_item",
+      "content": "参考: 鱼香茄子详细步骤"
+    }
+  ]
+}

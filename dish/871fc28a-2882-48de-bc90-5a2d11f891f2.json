@@ -1,0 +1,321 @@
+{
+  "id": "871fc28a-2882-48de-bc90-5a2d11f891f2",
+  "category": "肉食",
+  "name": "无骨鸡爪",
+  "description": "",
+  "source_path": "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
+  "image_id": "e593b5b5-b502-41c5-ae66-e01d7fc8b749",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/e593b5b5-b502-41c5-ae66-e01d7fc8b749.webp",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1t44y117D8?share_source=copy_web"
+  ],
+  "difficulty": 5,
+  "servings": 3,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "鸡爪",
+      "amount": 1,
+      "unit": "kg",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 4,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 65,
+      "unit": "g",
+      "remake": ""
+    },
+    {
+      "name": "大葱",
+      "amount": 3,
+      "unit": "段",
+      "remake": "5cm一段"
+    },
+    {
+      "name": "大蒜",
+      "amount": 10,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "小米辣",
+      "amount": 12,
+      "unit": "个",
+      "remake": "推荐大辣"
+    },
+    {
+      "name": "洋葱",
+      "amount": 0.5,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 75,
+      "unit": "g",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 30,
+      "unit": "g",
+      "remake": ""
+    },
+    {
+      "name": "黑醋",
+      "amount": 50,
+      "unit": "g",
+      "remake": "推荐陈醋"
+    },
+    {
+      "name": "白糖",
+      "amount": 10,
+      "unit": "g",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "g",
+      "remake": ""
+    },
+    {
+      "name": "花椒油",
+      "amount": 10,
+      "unit": "ml",
+      "remake": ""
+    },
+    {
+      "name": "香菜",
+      "amount": 3,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "柠檬",
+      "amount": 2,
+      "unit": "颗",
+      "remake": "以1颗为单位来调整酸度"
+    }
+  ],
+  "steps": [
+    {
+      "description": "剪掉鸡爪上的指甲部分，包括指甲下面的肉和骨头",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用水把鸡爪洗干净",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将鸡爪放入大锅中准备去腥",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入去腥调料（葱姜料酒）",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加水没过鸡爪",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火煮开，中途捞起浮沫",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水沸腾后继续煮10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，捞出鸡爪沥干水分并洗干净",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将鸡爪放入冰箱冷冻层冷冻20分钟",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "分批取出鸡爪进行去骨操作",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在鸡爪每只手指前端用刀划开到手背部分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "从手背部用刀划开至整个手臂",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "掰按每只手指关节",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "推每只手指最前端到手掌手背部分",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "从手掌往手臂部分推直到整个脱骨",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "准备配料：洋葱切均匀小颗，大蒜切碎，柠檬对半切开挤汁",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将调料倒入鸡爪容器中",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "抓拌均匀使调料充分混合",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入冰箱冷藏腌制6个小时",
+      "time_unit": "小时",
+      "time": [
+        6,
+        6
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    }
+  ],
+  "take_time": [
+    38,
+    63
+  ],
+  "wait_time": [
+    390,
+    390
+  ],
+  "total_time": [
+    428,
+    453
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，需要注意观察沸腾的水位线，如发现低于 3/4 的食材应加热水至没过食材。"
+    },
+    {
+      "type": "list_item",
+      "content": "鸡爪去骨教程 ：bili_89324373958"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "ce330735-f999-4717-b4ee-d9064cd9d49c",
+  "category": "汤类",
+  "name": "朱雀汤",
+  "description": "",
+  "source_path": "dishes/soup/朱雀汤/朱雀汤.md",
+  "image_id": "d9d71299-762d-45d3-a6cf-643e54c15c8c",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/d9d71299-762d-45d3-a6cf-643e54c15c8c.webp",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 500,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 20,
+      "unit": "克",
+      "remake": "根据个人口味调整"
+    },
+    {
+      "name": "香油",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡蛋在碗中打散",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "倒入香油",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "水烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在沸腾状态下快速倒入盛有鸡蛋的碗中",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入白糖",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    0,
+    1
+  ],
+  "wait_time": [
+    3,
+    5
+  ],
+  "total_time": [
+    3,
+    6
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "鸡蛋一定要打散，水一定要在沸腾冒泡状态倒入鸡蛋液中，否则汤可能会浑浊影响口感"
+    },
+    {
+      "type": "list_item",
+      "content": "此为豫东地区做法，其他地区有不放白糖放盐的，口味不同，根据个人口味调整"
+    },
+    {
+      "type": "list_item",
+      "content": "此汤乃去火神器！"
+    }
+  ]
+}

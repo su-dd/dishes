@@ -1,0 +1,181 @@
+{
+  "id": "492e42cd-00ab-417e-b36d-52da0319def0",
+  "category": "蔬菜",
+  "name": "清炒花菜",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/清炒花菜.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [
+    "炒锅",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "花菜",
+      "amount": 300.0,
+      "unit": "克",
+      "remake": "约1/2中等大小的花菜"
+    },
+    {
+      "name": "大蒜",
+      "amount": 2.5,
+      "unit": "瓣",
+      "remake": "2-3瓣"
+    },
+    {
+      "name": "盐",
+      "amount": 3.0,
+      "unit": "克"
+    },
+    {
+      "name": "食用油",
+      "amount": 15.0,
+      "unit": "毫升"
+    },
+    {
+      "name": "饮用水",
+      "amount": 50.0,
+      "unit": "毫升",
+      "remake": "用于炒制过程"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将花菜洗净，用刀或手掰成小朵，粗茎部分切片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将大蒜去皮，切成蒜片",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加水大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入花菜煮至颜色变浅，口感软化",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将煮好的花菜捞出沥干水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅加油大火烧热",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入蒜片快速煸炒出香味",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入花菜转中大火快速翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加盐继续翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沿锅边淋水盖上锅盖焖煮",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开盖快速翻炒均匀出锅",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    12
+  ],
+  "wait_time": [
+    9,
+    14
+  ],
+  "total_time": [
+    16,
+    26
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "提前将花菜焯水可以缩短炒制时间，并使花菜更容易熟透。"
+    },
+    {
+      "type": "list_item",
+      "content": "炒制时间可以根据个人喜欢的花菜软硬程度调整。喜欢脆一些可以缩短时间。"
+    }
+  ]
+}

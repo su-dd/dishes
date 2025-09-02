@@ -1,0 +1,184 @@
+{
+  "id": "f3e0ee22-229f-4c9f-81d1-053c5b4e8cb3",
+  "category": "肉食",
+  "name": "豆豉鲮鱼油麦菜",
+  "description": "",
+  "source_path": "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
+  "image_id": "8fae2c7f-fb0f-474a-baa4-beae6edefb00",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/8fae2c7f-fb0f-474a-baa4-beae6edefb00.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [
+    "罐头",
+    "炒锅"
+  ],
+  "ingredients": [
+    {
+      "name": "油麦菜",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鲮鱼罐头",
+      "amount": 1,
+      "unit": "罐",
+      "remake": "250g 上下"
+    },
+    {
+      "name": "蒜",
+      "amount": 4,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "油麦菜洗净后切段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鲮鱼罐头打开后去除主刺，切成小段备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大蒜切成末",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅热倒入食用油，油热后加入油麦菜炒至萎蔫出水",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛出油麦菜，倒掉炒制出的水分",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "重新热锅，加入鲮鱼罐头中的油",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入蒜末煸香",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入豆豉翻拌",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入切碎的鲮鱼块翻拌",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入油麦菜，加入生抽和糖调味",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "简单翻拌后出锅装盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    16
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    10,
+    16
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "注意事项：鲮鱼罐头本身带味道，加入生抽后够味，无需下盐"
+    }
+  ]
+}

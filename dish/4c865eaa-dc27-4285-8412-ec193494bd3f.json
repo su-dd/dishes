@@ -1,0 +1,170 @@
+{
+  "id": "4c865eaa-dc27-4285-8412-ec193494bd3f",
+  "category": "早餐",
+  "name": "燕麦鸡蛋饼",
+  "description": "",
+  "source_path": "dishes/breakfast/燕麦鸡蛋饼.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [
+    "搅拌碗",
+    "搅拌工具",
+    "平底锅",
+    "铲子"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": "亦可选择两个蛋清，一个蛋黄"
+    },
+    {
+      "name": "燕麦",
+      "amount": 50,
+      "unit": "克",
+      "remake": "纯干燕麦片，大约等同一个鸡蛋的量"
+    },
+    {
+      "name": "牛奶",
+      "amount": 50,
+      "unit": "克",
+      "remake": "能够将燕麦搅拌粘稠即可"
+    },
+    {
+      "name": "蔬菜",
+      "amount": 50,
+      "unit": "克",
+      "remake": "可根据口味选择增加，如菠菜"
+    },
+    {
+      "name": "蔬菜碎叶",
+      "amount": 1,
+      "unit": "把",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将牛奶与干燕麦混合搅拌均匀至黏稠状",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将鸡蛋搅拌均匀至颜色单一程度",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将鸡蛋液倒入燕麦牛奶中继续搅拌至黏稠、均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "平底锅中加入一层黄油并覆盖均匀",
+      "time_unit": "分钟",
+      "time": [
+        0.5,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入搅拌好的食材，并摊开至饼状",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "小火加热两到三分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻面继续加热两分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅，搭配剩下的牛奶作为早餐",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    4,
+    9
+  ],
+  "wait_time": [
+    4,
+    5
+  ],
+  "total_time": [
+    8,
+    14
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "如果口味偏咸口，可以在搅拌鸡蛋液时加入盐，胡椒等调料。"
+    },
+    {
+      "type": "list_item",
+      "content": "煎饼时使用小火，避免燕麦部分煎糊。"
+    },
+    {
+      "type": "list_item",
+      "content": "碳水化合物：39g"
+    },
+    {
+      "type": "list_item",
+      "content": "蛋白质：30g"
+    },
+    {
+      "type": "list_item",
+      "content": "脂肪：19g"
+    },
+    {
+      "type": "list_item",
+      "content": "总热量：450kcal"
+    }
+  ]
+}

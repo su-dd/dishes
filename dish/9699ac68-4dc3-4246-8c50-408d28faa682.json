@@ -1,0 +1,205 @@
+{
+  "id": "9699ac68-4dc3-4246-8c50-408d28faa682",
+  "category": "水产",
+  "name": "油焖大虾",
+  "description": "",
+  "source_path": "dishes/aquatic/油焖大虾/油焖大虾.md",
+  "image_id": "edd010c8-1c9d-47d4-8bef-641f3361f452",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/edd010c8-1c9d-47d4-8bef-641f3361f452.webp",
+  "video_link": [
+    "https://www.bilibili.com/video/BV17f4y1W7z9"
+  ],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "虾",
+      "amount": 10,
+      "unit": "只",
+      "remake": ""
+    },
+    {
+      "name": "花椒",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "黄酒",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "冰糖",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "植物油",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "剪虾枪到根上，虾须虾爪都剪掉，沙包挑掉，开背虾线挑出来，洗净备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "炸料油油温三成热放花椒，油热离火，放葱姜（不要让油变色最好）葱稍微变黄沥油",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下油，虾摆放整齐，两面变色后轻轻摁虾头",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放姜米（姜切成细颗粒）",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入黄酒30g",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入水两小碗",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入盐3g",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入冰糖10克",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火烧开转小火盖盖子闷（中途不能再加汤水，不要开盖）",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "皮亮虾弯起锅，虾摆盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "收汁（过滤后倒回锅里收浓，放葱油）汤汁剩余1/4时",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "浇汁",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    9,
+    16
+  ],
+  "wait_time": [
+    8,
+    12
+  ],
+  "total_time": [
+    17,
+    28
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "做法参考：B 站老饭骨视频从小吃到大的油焖大虾居然是假的？泰斗级大师还原真·味道"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": "add96d93-9d53-47dd-ba61-354149b0b6c4",
+  "category": "主食",
+  "name": "凉粉",
+  "description": "",
+  "source_path": "dishes/staple/凉粉/凉粉.md",
+  "image_id": "89d2b1e7-e16d-4a37-b9bc-cb76f846c763",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/89d2b1e7-e16d-4a37-b9bc-cb76f846c763.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "豌豆淀粉",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 3,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "小米辣",
+      "amount": 3,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "辣椒粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "醋",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 3,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "花生碎",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香菜",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "准备食材",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "把豌豆淀粉和水各100克混合搅拌",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "往锅中倒入600g水，大火煮开后转为小火",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入淀粉水，边倒边不断的搅拌，搅拌到浓稠且色泽均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "找一个容器，在容器中刷一层薄薄的食用油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将煮好的淀粉倒入容器中冷藏2-4小时",
+      "time_unit": "小时",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "冷藏后取出，脱模，切条",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大蒜和小米辣剁成沫，放上10g辣椒粉，5g花生碎，热油搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "再加入10ml酱油，10ml醋，5g白糖，3g鸡精，3g盐搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将调味料倒在凉粉上，然后撒上香菜即可",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    16,
+    27
+  ],
+  "wait_time": [
+    120,
+    240
+  ],
+  "total_time": [
+    136,
+    267
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "参考: 制作凉粉的详细步骤"
+    }
+  ]
+}

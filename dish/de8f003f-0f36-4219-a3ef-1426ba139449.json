@@ -1,0 +1,217 @@
+{
+  "id": "de8f003f-0f36-4219-a3ef-1426ba139449",
+  "category": "肉食",
+  "name": "水煮牛肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
+  "image_id": "df29b8ee-ee1f-4842-8c2a-a13e29d30a7f",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/df29b8ee-ee1f-4842-8c2a-a13e29d30a7f.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "豆芽",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "香菜",
+      "amount": 5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "干辣椒粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 3,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "红辣椒",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 8,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "牛肉洗干净切片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入姜丝、鸡蛋、淀粉、蚝油、料酒搅拌均匀，腌制",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "香菜洗干净切好",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅里倒油，加入豆瓣酱、姜丝、蒜片",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入开水，煮成红汤",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "豆芽洗干净去掉尾须，放进开水里焯熟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将豆芽铺入碗底",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "将牛肉片一片一片放进红汤中，煮熟以后捞出",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将牛肉铺在豆芽上，撒上香菜梗",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "撒上香菜叶、辣椒粉、辣椒圈",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "另起锅烧热油，将热油淋在菜上面",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    14,
+    26
+  ],
+  "wait_time": [
+    15,
+    15
+  ],
+  "total_time": [
+    29,
+    41
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "参考: 水煮牛肉的详细步骤"
+    }
+  ]
+}

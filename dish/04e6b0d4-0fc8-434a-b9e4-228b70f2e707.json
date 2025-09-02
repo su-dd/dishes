@@ -1,0 +1,222 @@
+{
+  "id": "04e6b0d4-0fc8-434a-b9e4-228b70f2e707",
+  "category": "蔬菜",
+  "name": "干锅花菜",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/干锅花菜/干锅花菜.md",
+  "image_id": "02170264-8f15-4d35-a645-5ac4efd4c7e2",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/02170264-8f15-4d35-a645-5ac4efd4c7e2.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "花菜",
+      "amount": 400,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "五花肉",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "辣椒",
+      "amount": 1.5,
+      "unit": "根",
+      "remake": "1-2根"
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 3.5,
+      "unit": "个",
+      "remake": "蒜瓣3-4个"
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "花菜朵朝下，没入淡盐水中浸泡",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "洗净花菜用小刀拆成小朵",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "花菜入开水锅中焯水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用冷水冲淋花菜至完全凉透",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "五花肉切成薄片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大蒜白色切下用刀背拍扁",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小红辣椒切成段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅烧热放油，油热下大葱白爆香",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下五花肉片用中火煸炒至表面变色并逼出油份",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入红辣椒段和花菜翻炒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入生抽",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入白糖，转大火不断翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入大蒜叶段翻炒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火盖上盖子焖",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    15,
+    23
+  ],
+  "wait_time": [
+    21,
+    21
+  ],
+  "total_time": [
+    36,
+    44
+  ],
+  "additional_notes": []
+}

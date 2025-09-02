@@ -1,0 +1,116 @@
+{
+  "id": "bb4dbc30-b75c-4e7b-a92a-8e65f6921542",
+  "category": "主食",
+  "name": "电饭煲三文鱼炊饭",
+  "description": "",
+  "source_path": "dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md",
+  "image_id": "ce95c39a-1410-4ba0-8a4a-9554717e22ff",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/ce95c39a-1410-4ba0-8a4a-9554717e22ff.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "电饭煲"
+  ],
+  "ingredients": [
+    {
+      "name": "米",
+      "amount": 1,
+      "unit": "杯",
+      "remake": ""
+    },
+    {
+      "name": "三文鱼",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "有盐牛油",
+      "amount": 1,
+      "unit": "汤匙",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "三文鱼去鳞，去骨",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "金菇、冬菇切碎",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "洗米三次",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "把三文鱼、米、牛油放入电饭煲",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "根据电饭煲的刻度放水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "把电饭煲调至煲饭模式，等待大约30-45分钟",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    8,
+    16
+  ],
+  "wait_time": [
+    30,
+    45
+  ],
+  "total_time": [
+    38,
+    61
+  ],
+  "additional_notes": []
+}

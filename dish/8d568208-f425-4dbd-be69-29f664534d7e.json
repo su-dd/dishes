@@ -1,0 +1,151 @@
+{
+  "id": "8d568208-f425-4dbd-be69-29f664534d7e",
+  "category": "佐料",
+  "name": "简易版炒糖色",
+  "description": "",
+  "source_path": "dishes/condiment/简易版炒糖色.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "炒锅",
+    "电磁炉"
+  ],
+  "ingredients": [
+    {
+      "name": "冰糖",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": "炒出来的色泽最为鲜艳，红亮，必须水油炒"
+    },
+    {
+      "name": "白砂糖",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": "必须水油炒，不加水融化会很慢"
+    },
+    {
+      "name": "绵白糖",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": "可以不加水"
+    }
+  ],
+  "steps": [
+    {
+      "description": "开火，并向锅中倒入100ml开水",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "向锅中倒入100ml油",
+      "time_unit": "秒",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入冰糖（如冰糖过大可提前敲碎）",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "调整火力为中火",
+      "time_unit": "秒",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "持续搅拌至糖色变成棕褐色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转为小火继续搅拌",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待糖色变稀，变成红茶色",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续搅拌至酱红色起小泡泡",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待小泡泡消失，出现大泡泡",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "快速加入400ml开水降温或加入调味品翻炒",
+      "time_unit": "秒",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    4,
+    8
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    4,
+    9
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,173 @@
+{
+  "id": "7e6fa489-ebe3-497f-90ba-50aa81e1c926",
+  "category": "肉食",
+  "name": "荷兰豆炒腊肠",
+  "description": "",
+  "source_path": "dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md",
+  "image_id": "9204e629-73a2-443b-91ea-630c2c425f53",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/9204e629-73a2-443b-91ea-630c2c425f53.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "荷兰豆",
+      "amount": 50,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "腊肠",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "把荷兰豆去掉蒂，有时间的也可以同时把尾部去掉",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "腊肠如果是生的需要提前蒸一下",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "把荷兰豆清洗一下",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "荷兰豆焯水至变色",
+      "time_unit": "秒",
+      "time": [
+        40,
+        50
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出过凉水备用",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，锅内放入食用油",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待油温升高",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入腊肠，保持小火翻炒至微微卷边",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入荷兰豆，转为中大火翻炒",
+      "time_unit": "秒",
+      "time": [
+        25,
+        35
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入生抽",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续翻炒至完成",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    7,
+    14
+  ],
+  "wait_time": [
+    15,
+    20
+  ],
+  "total_time": [
+    22,
+    34
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "在制作过程中没有放盐，是因为腊肠本身会有一些味道，同时生抽也会有一些咸味。"
+    },
+    {
+      "type": "list_item",
+      "content": "腊肠虽然味道不错，但属于不太健康的食物，建议少放。"
+    }
+  ]
+}

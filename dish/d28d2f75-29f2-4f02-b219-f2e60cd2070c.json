@@ -1,0 +1,195 @@
+{
+  "id": "d28d2f75-29f2-4f02-b219-f2e60cd2070c",
+  "category": "肉食",
+  "name": "麻辣香锅",
+  "description": "",
+  "source_path": "dishes/meat_dish/麻辣香锅.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 3,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "青菜",
+      "amount": 455,
+      "unit": "克",
+      "remake": "油菜、油麦菜、菠菜的比例按自己喜好分配即可"
+    },
+    {
+      "name": "无骨肉",
+      "amount": 430,
+      "unit": "克",
+      "remake": "猪肉、牛肉、鸡肉、鱼丸、火腿肠的比例按自己喜好分配即可"
+    },
+    {
+      "name": "干豆腐",
+      "amount": 152,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "北京麻辣方便面",
+      "amount": 1,
+      "unit": "袋",
+      "remake": ""
+    },
+    {
+      "name": "干辣椒",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "麻辣香锅调料",
+      "amount": 110,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "烧开一锅水",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "在开水中放入青菜，焯5分钟后盛出备用",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在开水中放入无骨肉，焯4分钟后盛出备用",
+      "time_unit": "分钟",
+      "time": [
+        4,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在开水中放入方便面，煮2分钟后盛出备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒出开水，擦干锅具",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "放入食用油，大火加热30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入麻辣香锅调料，翻炒20秒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入干辣椒，翻炒10秒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入焯过的青菜，改中火，翻炒3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入焯过的无骨肉，翻炒3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入煮过的方便面，用筷子翻动1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，出锅",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    8,
+    8
+  ],
+  "wait_time": [
+    16,
+    19
+  ],
+  "total_time": [
+    24,
+    27
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "大火通常温度在 240 摄氏度，以电磁炉为例，输入功率大约 2 千瓦。"
+    },
+    {
+      "type": "list_item",
+      "content": "中火通常温度在 120 摄氏度，以电磁炉为例，输入功率大约 1.4 千瓦。"
+    }
+  ]
+}

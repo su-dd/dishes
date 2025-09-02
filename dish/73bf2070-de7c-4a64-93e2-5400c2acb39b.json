@@ -1,0 +1,198 @@
+{
+  "id": "73bf2070-de7c-4a64-93e2-5400c2acb39b",
+  "category": "肉食",
+  "name": "姜炒鸡",
+  "description": "",
+  "source_path": "dishes/meat_dish/姜炒鸡/姜炒鸡.md",
+  "image_id": "dfd11e56-3b49-4e94-8985-059300280ce8",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/dfd11e56-3b49-4e94-8985-059300280ce8.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 3,
+  "kitchen_ware": [
+    "炒锅"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡",
+      "amount": 650,
+      "unit": "克",
+      "remake": "半只（土鸡最好）"
+    },
+    {
+      "name": "食用油",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": "茶油最好，没有就用菜籽油"
+    },
+    {
+      "name": "生姜",
+      "amount": 250,
+      "unit": "克",
+      "remake": "半斤"
+    },
+    {
+      "name": "啤酒",
+      "amount": 250,
+      "unit": "毫升",
+      "remake": "半瓶"
+    },
+    {
+      "name": "生抽",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "小米椒",
+      "amount": 5,
+      "unit": "个",
+      "remake": "根据辣口味调整，0-50g"
+    },
+    {
+      "name": "美人辣",
+      "amount": 5,
+      "unit": "个",
+      "remake": "没有可以用小米椒代替，0-50g"
+    },
+    {
+      "name": "泡椒",
+      "amount": 5,
+      "unit": "个",
+      "remake": "50g"
+    },
+    {
+      "name": "大蒜",
+      "amount": 3,
+      "unit": "头",
+      "remake": "50g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡剁成1cm的小块，洗净后滤干",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用生抽和料酒腌制鸡肉",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅到微微冒烟",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入食用油等待",
+      "time_unit": "秒",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入姜片中火翻炒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入鸡块翻炒至干水分出鸡油",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入剁碎的辣椒和大蒜子，加盐和老抽翻炒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入啤酒中小火焖煮",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火收汁",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    10
+  ],
+  "wait_time": [
+    32,
+    32
+  ],
+  "total_time": [
+    39,
+    42
+  ],
+  "additional_notes": []
+}

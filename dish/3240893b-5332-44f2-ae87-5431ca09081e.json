@@ -1,0 +1,293 @@
+{
+  "id": "3240893b-5332-44f2-ae87-5431ca09081e",
+  "category": "水产",
+  "name": "红烧鱼",
+  "description": "",
+  "source_path": "dishes/aquatic/红烧鱼.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "刀",
+    "锅"
+  ],
+  "ingredients": [
+    {
+      "name": "鱼",
+      "amount": 1,
+      "unit": "条",
+      "remake": "中等大小鲫鱼，提前划好花刀"
+    },
+    {
+      "name": "姜",
+      "amount": 2,
+      "unit": "片",
+      "remake": "切丝"
+    },
+    {
+      "name": "蒜瓣",
+      "amount": 3,
+      "unit": "个",
+      "remake": "拍碎或切碎或切片"
+    },
+    {
+      "name": "干辣椒",
+      "amount": 2,
+      "unit": "个",
+      "remake": "切碎，依个人口味"
+    },
+    {
+      "name": "盐",
+      "amount": 10,
+      "unit": "克",
+      "remake": "如果辣椒辣度高建议多一点"
+    },
+    {
+      "name": "醋",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": "切葱花"
+    },
+    {
+      "name": "小米椒",
+      "amount": 1,
+      "unit": "个",
+      "remake": "可不放，最多放2个"
+    },
+    {
+      "name": "味精",
+      "amount": 5,
+      "unit": "克",
+      "remake": "看个人口味，不要放多"
+    },
+    {
+      "name": "蚝油",
+      "amount": 5,
+      "unit": "克",
+      "remake": "不要放多"
+    },
+    {
+      "name": "香菜",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "按照个人口味"
+    },
+    {
+      "name": "油",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "姜蒜准备好，切碎",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "干辣椒切碎，和姜蒜一起",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入油，等待锅热",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入擦干水分的鱼，晃动锅，用热油小火煎鱼",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将鱼翻面，重复油煎过程",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入姜蒜辣椒，翻炒出香味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入料酒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入醋",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入白砂糖，酱油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入冷水，调成中火，盖上锅盖",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将鱼翻身，继续盖上锅盖",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续炖煮3-4分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入盐、小米椒、蚝油等调料",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续盖上锅盖炖煮，期间需要翻身",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转小火，加入香菜，葱花，盖上锅盖20秒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "起锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    11,
+    18
+  ],
+  "wait_time": [
+    10,
+    15
+  ],
+  "total_time": [
+    21,
+    34
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,304 @@
+{
+  "id": "5f177d3d-3736-4229-b858-f1fd74d0a7de",
+  "category": "肉食",
+  "name": "简易红烧肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/红烧肉/简易红烧肉.md",
+  "image_id": "7b24ec65-5c8e-40d8-93c4-59bcb18b9837",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/7b24ec65-5c8e-40d8-93c4-59bcb18b9837.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 3,
+  "kitchen_ware": [
+    "刀"
+  ],
+  "ingredients": [
+    {
+      "name": "猪五花肉",
+      "amount": 3.5,
+      "unit": "斤",
+      "remake": "约3~4斤"
+    },
+    {
+      "name": "姜",
+      "amount": 6,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "冰糖",
+      "amount": 15,
+      "unit": "克",
+      "remake": "约7块"
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "开水",
+      "amount": 750,
+      "unit": "毫升",
+      "remake": "没过食材的量，需要600ml-900ml"
+    },
+    {
+      "name": "香叶",
+      "amount": 3,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "鹌鹑蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": "可选，没有鹌鹑蛋可以用同等重量的鸡蛋代替"
+    },
+    {
+      "name": "豆皮",
+      "amount": 40,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "盐",
+      "amount": 2.5,
+      "unit": "克",
+      "remake": "2-3g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将肉切大块（约4.5cm），冷冻半小时至一小时更好切",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将肉切2cm宽度",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将肉切片（每片厚度约3mm）",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "烧开水",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将食材煮熟并用工具扎孔（尽量多些好入味）",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "准备大葱白色的部分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "冷水锅中放入切好的肉，加入料酒与葱姜，煮15分钟去掉血腥",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅中放入两片提味食材",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开中小火后直接加入肉块，每块六个面都煎至出油",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将煎出的油倒出备用",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入15g冰糖翻炒至融化",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将五花肉与冰糖炒至融合上色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入调味料（10ml、15ml、5ml）翻炒至上色",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入食材炖煮40分钟",
+      "time_unit": "分钟",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入调味食材（2片、3片、2个）",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖上锅盖煮至沸腾",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入煮好扎好孔的食材，开中小火等待40分钟",
+      "time_unit": "分钟",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "打开锅盖，待汤汁快没有的时候开大火收汁",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入2-3g调味料翻炒一下",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    47,
+    73
+  ],
+  "wait_time": [
+    110,
+    140
+  ],
+  "total_time": [
+    157,
+    213
+  ],
+  "additional_notes": []
+}

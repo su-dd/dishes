@@ -1,0 +1,158 @@
+{
+  "id": "ab6f6165-12c2-4e41-b753-9c1ea18b16a3",
+  "category": "半成品",
+  "name": "半成品意面",
+  "description": "",
+  "source_path": "dishes/semi-finished/半成品意面.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 2,
+  "kitchen_ware": [
+    "平底锅",
+    "微波炉"
+  ],
+  "ingredients": [
+    {
+      "name": "半成品意大利面",
+      "amount": 1,
+      "unit": "袋",
+      "remake": "推荐品牌圃美多"
+    },
+    {
+      "name": "清水",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "热锅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将50ml清水倒入平底锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将面条放入，炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将酱料倒入，翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "装盘即可",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "将面条放入可用于微波炉加热的盘子中",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将附带的酱料倒在面条上",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "倒入50ml清水",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "700W加热2分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出拌匀即可",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    3,
+    5
+  ],
+  "wait_time": [
+    2,
+    2
+  ],
+  "total_time": [
+    5,
+    7
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "传统意大利面非常长。20 世纪下半叶开始流行短的意大利粉，典型长度 25–30 cm。"
+    },
+    {
+      "type": "list_item",
+      "content": "“Spaghettoni”是较厚的意大利粉。“Spaghettini”较细的意大利面。“capellini”是更细版的意大利面。"
+    },
+    {
+      "type": "list_item",
+      "content": "一个不可见，且不可感知的“飞行着的意大利面条怪物”在“一次严重的酗酒后”，创造了整个宇宙。"
+    }
+  ]
+}

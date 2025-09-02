@@ -1,0 +1,178 @@
+{
+  "id": "deed2ea3-1ea4-4b61-937f-060cb4f56587",
+  "category": "肉食",
+  "name": "香干肉丝",
+  "description": "",
+  "source_path": "dishes/meat_dish/香干肉丝.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "猪里脊",
+      "amount": 100,
+      "unit": "克",
+      "remake": "可以买超市切好且称重好的肉丝"
+    },
+    {
+      "name": "香干",
+      "amount": 75,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 5,
+      "unit": "克",
+      "remake": "大约3个蒜瓣"
+    },
+    {
+      "name": "青椒",
+      "amount": 5,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将肉切丝，用生抽和生粉混合均匀腌制",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将香干横切成片再切丝",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将青椒洗净切丝备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将淀粉与水混合搅拌均匀制成芡汁",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "锅中倒油，冷油下入肉丝划散至熟后捞出",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入蒜片和香干，加入生抽翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入青椒丝翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入肉丝混合翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入芡汁勾芡，加入盐和鸡精翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    23
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    15,
+    23
+  ],
+  "additional_notes": []
+}

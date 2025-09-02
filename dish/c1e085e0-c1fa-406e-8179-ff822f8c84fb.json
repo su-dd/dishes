@@ -1,0 +1,135 @@
+{
+  "id": "c1e085e0-c1fa-406e-8179-ff822f8c84fb",
+  "category": "饮品",
+  "name": "冬瓜茶",
+  "description": "",
+  "source_path": "dishes/drink/冬瓜茶.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 4,
+  "kitchen_ware": [
+    "保鲜膜",
+    "过滤网",
+    "大锅"
+  ],
+  "ingredients": [
+    {
+      "name": "冬瓜",
+      "amount": 1000,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "冰糖",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将冬瓜去皮，去籽，切成小块（每块不超过4cm）",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "冬瓜加入冰糖，搅拌均匀，盖上保鲜膜放冰箱冷藏",
+      "time_unit": "小时",
+      "time": [
+        2,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "大火煮开冬瓜汁",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转中小火慢慢熬制1~2个小时，中途多搅拌防止糊锅",
+      "time_unit": "小时",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "使用过滤网将煮好的冬瓜茶液过滤，取出冬瓜块，只保留茶液",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将冬瓜茶液放凉",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "倒入干净的容器中，放入冰箱冷藏",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "根据个人喜好添加水或其他饮品",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    70,
+    136
+  ],
+  "wait_time": [
+    150,
+    780
+  ],
+  "total_time": [
+    220,
+    916
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "口感调整：冰糖的用量可以调整，以达到个人喜好的甜度。"
+    },
+    {
+      "type": "list_item",
+      "content": "保存方法：冷藏保存，建议 1 周内喝完。"
+    }
+  ]
+}

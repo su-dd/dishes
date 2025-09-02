@@ -1,0 +1,162 @@
+{
+  "id": "af26e694-5c7e-4db3-81f7-062c72052d54",
+  "category": "饮品",
+  "name": "长岛冰茶",
+  "description": "",
+  "source_path": "dishes/drink/长岛冰茶.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "高球杯"
+  ],
+  "ingredients": [
+    {
+      "name": "金酒",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "龙舌兰酒",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "伏特加",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白朗姆酒",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "橙味甜酒",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "柠檬汁",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "枫糖浆",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "可乐",
+      "amount": 75,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "柠檬",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "冰块",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "柠檬对半切，挤出30ml柠檬汁至杯中",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "依次向杯中加入金酒、龙舌兰酒、伏特加、白朗姆酒、橙味甜酒",
+      "time_unit": "秒",
+      "time": [
+        40,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "向杯中缓慢倒入枫糖浆，边倒边搅拌",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "向杯中加入可乐",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "向杯中加入冰块直至满杯",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "轻轻搅拌20秒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "开始享用",
+      "time_unit": "秒",
+      "time": [
+        1,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    2,
+    3
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    2,
+    3
+  ],
+  "additional_notes": []
+}

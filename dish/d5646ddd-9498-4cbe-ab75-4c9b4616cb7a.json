@@ -1,0 +1,248 @@
+{
+  "id": "d5646ddd-9498-4cbe-ab75-4c9b4616cb7a",
+  "category": "肉食",
+  "name": "口水鸡",
+  "description": "",
+  "source_path": "dishes/meat_dish/口水鸡/口水鸡.md",
+  "image_id": "9d1b4ff6-32be-4686-9a9a-7ad3dba1b76c",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/9d1b4ff6-32be-4686-9a9a-7ad3dba1b76c.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "食用油",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "鸡",
+      "amount": 0.5,
+      "unit": "只",
+      "remake": "500g"
+    },
+    {
+      "name": "辣椒粉",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "花椒",
+      "amount": 30,
+      "unit": "颗",
+      "remake": "20g"
+    },
+    {
+      "name": "花生",
+      "amount": 10,
+      "unit": "颗",
+      "remake": "30g"
+    },
+    {
+      "name": "小葱",
+      "amount": 2,
+      "unit": "颗",
+      "remake": "50g"
+    },
+    {
+      "name": "姜",
+      "amount": 1,
+      "unit": "小块",
+      "remake": "20g"
+    },
+    {
+      "name": "蒜",
+      "amount": 2,
+      "unit": "个",
+      "remake": "10g"
+    },
+    {
+      "name": "白糖",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "醋",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "味精",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "花椒粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香菜",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "姜切片，小葱和花椒备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸡肉洗干净，放入锅中，清水没过鸡肉，放入姜片、小葱和花椒，开大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火烧开后，转中小火20分钟关火",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出鸡肉，放入冰水中，直至冰凉",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取出鸡肉，切块摆盘子中，备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小火把锅烧热，导入花生，烘烤至表皮爆裂",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "葱切成段，蒜拍成末，花椒备用，花生去皮切碎",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅内导入油烧热后，放入葱段，花椒和一半蒜末，炒香",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "炒至油温8成热，关火，滤出热油",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将热油倒入放辣椒粉的碗中，搅拌，并滤出红油",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "红油中放入剩余蒜末、生抽、醋、盐、味精、糖、香油、花椒粉，拌匀放凉",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "在鸡肉上撒上花生碎，把红油淋到切好的鸡肉上，撒上香菜，成盘",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    22,
+    35
+  ],
+  "wait_time": [
+    33,
+    40
+  ],
+  "total_time": [
+    55,
+    75
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "口水鸡第二种做法待更"
+    },
+    {
+      "type": "list_item",
+      "content": "如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。"
+    }
+  ]
+}

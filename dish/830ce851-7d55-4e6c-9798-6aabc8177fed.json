@@ -1,0 +1,227 @@
+{
+  "id": "830ce851-7d55-4e6c-9798-6aabc8177fed",
+  "category": "肉食",
+  "name": "香菇滑鸡",
+  "description": "",
+  "source_path": "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
+  "image_id": "d298668a-c845-4cd5-aaec-6d61bdfe58f5",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/d298668a-c845-4cd5-aaec-6d61bdfe58f5.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "大鸡腿",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "干香菇",
+      "amount": 5,
+      "unit": "粒",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 2,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 2,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "温水",
+      "amount": 150,
+      "unit": "毫升",
+      "remake": "30-40 ℃"
+    },
+    {
+      "name": "料酒",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1.5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "糖",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "香油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "温水泡发干香菇",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "姜切小块，葱切段，蒜对半切小粒",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸡腿去骨，切成小块",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "泡发的香菇一分为四",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸡腿肉焯水1分钟，去除血沫和杂质",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "鸡腿肉中加料酒、生抽、盐、老抽，抓匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "油温3成，下入鸡腿肉煸炒至金黄",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入葱、姜、蒜炒香，香菇入锅，大火翻匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待20秒让香菇香味飘出",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入煸炒过的鸡腿肉、香菇水、糖、生抽",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转中火不盖盖，咕嘟2分钟收浓汤汁",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "淋入香油，撒上葱花后关火、装盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    22,
+    34
+  ],
+  "wait_time": [
+    30,
+    45
+  ],
+  "total_time": [
+    52,
+    79
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "鸡腿去骨操作较复杂，本人经验可供参考：鸡腿于案板摆正，骨头正对程序员，从头部划一刀至最底部，刀口要深，确保有碰到骨头用手扒拉肉到两边用刀尖隔开骨头上沾着的肉鸡腿翻面，刀紧贴骨头插入，挑断骨头与肉的连接点用刀尖切断最后的粘连即可"
+    }
+  ]
+}

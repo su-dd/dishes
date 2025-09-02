@@ -1,0 +1,225 @@
+{
+  "id": "b262252b-2e36-47f5-a2e6-e4d8c3e5e24b",
+  "category": "主食",
+  "name": "葱油拌面",
+  "description": "",
+  "source_path": "dishes/staple/葱油拌面.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 3,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "筷子"
+  ],
+  "ingredients": [
+    {
+      "name": "干面条",
+      "amount": 240,
+      "unit": "克",
+      "remake": "约相当于450克湿面条"
+    },
+    {
+      "name": "小葱",
+      "amount": 100,
+      "unit": "克",
+      "remake": "制作葱油酱汁基础量"
+    },
+    {
+      "name": "食用油",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": "制作葱油酱汁基础量"
+    },
+    {
+      "name": "生抽",
+      "amount": 60,
+      "unit": "毫升",
+      "remake": "制作葱油酱汁基础量"
+    },
+    {
+      "name": "老抽",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": "制作葱油酱汁基础量"
+    },
+    {
+      "name": "白糖",
+      "amount": 15,
+      "unit": "克",
+      "remake": "制作葱油酱汁基础量"
+    },
+    {
+      "name": "葱油酱汁",
+      "amount": 45,
+      "unit": "毫升",
+      "remake": "每份面条需要15ml"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将小葱洗净，切成长段（约5-7cm）。葱白和葱绿可以分开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加入100ml食用油，中火烧热",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "先放入葱白段，煸炒至微黄",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入葱绿段，转小火，继续煸炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "保持小火，耐心煸炒约15-20分钟，直至葱段变得焦黄酥脆",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将焦黄的葱段捞出（葱油保留在锅中）",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在锅中的葱油中加入60ml生抽，20ml老抽，15g白糖。小火加热并搅拌，约1分钟，至糖溶解，酱汁混合均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将制作好的葱油酱汁倒入容器中，放凉后密封保存",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    },
+    {
+      "description": "锅中加入1000ml饮用水，大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入面条，根据面条包装说明，煮至熟透（通常3-8分钟）",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将煮好的面条捞出，沥干水分，放入碗中",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "在装有面条的碗中加入15ml之前做好的葱油酱汁",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "可以加入之前炸好的葱段（可选）",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "用筷子快速搅拌均匀，即可食用",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    23,
+    33
+  ],
+  "wait_time": [
+    6,
+    13
+  ],
+  "total_time": [
+    29,
+    46
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "炸葱油时，火一定要小，要有耐心，才能将葱的香味充分炸出。"
+    },
+    {
+      "type": "list_item",
+      "content": "制作好的葱油酱汁可以冷藏保存一段时间，下次吃面时直接取用。"
+    }
+  ]
+}

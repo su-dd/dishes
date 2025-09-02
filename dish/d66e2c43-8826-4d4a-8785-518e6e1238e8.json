@@ -1,0 +1,189 @@
+{
+  "id": "d66e2c43-8826-4d4a-8785-518e6e1238e8",
+  "category": "蔬菜",
+  "name": "茄子炖土豆",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/茄子炖土豆.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "茄子",
+      "amount": 1,
+      "unit": "个",
+      "remake": "每个茄子约150g"
+    },
+    {
+      "name": "土豆",
+      "amount": 1,
+      "unit": "个",
+      "remake": "每个土豆约150g"
+    },
+    {
+      "name": "肉",
+      "amount": 180,
+      "unit": "克"
+    },
+    {
+      "name": "辣椒",
+      "amount": 50,
+      "unit": "克",
+      "remake": "青辣椒，调味用"
+    },
+    {
+      "name": "酱油",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "蒜",
+      "amount": 3,
+      "unit": "瓣",
+      "remake": "小瓣，调味用"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将茄子、土豆、辣椒洗净，蒜扒皮并拍碎",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将茄子、土豆切成约6立方厘米的块，辣椒切成5克的小块，肉切成3厘米的丝",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "开火，热锅，加入油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待油热至冒出一丝烟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入辣椒煸出香气",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入肉，用铲子翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入土豆，翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入茄子，翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入酱油和盐，继续翻炒5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入水，水面高度为食材高度的0.9倍，盖上锅盖炖煮",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开盖，放入蒜，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    26
+  ],
+  "wait_time": [
+    16,
+    28
+  ],
+  "total_time": [
+    31,
+    54
+  ],
+  "additional_notes": []
+}

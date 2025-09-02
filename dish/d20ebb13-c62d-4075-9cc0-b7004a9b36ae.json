@@ -1,0 +1,196 @@
+{
+  "id": "d20ebb13-c62d-4075-9cc0-b7004a9b36ae",
+  "category": "蔬菜",
+  "name": "松仁玉米",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/松仁玉米.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "玉米粒",
+      "amount": 200,
+      "unit": "克",
+      "remake": "建议使用甜玉米，可用罐头甜玉米，也可自备煮熟"
+    },
+    {
+      "name": "熟松子仁",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 50,
+      "unit": "克",
+      "remake": "可选，增加色彩，切小丁，可省略"
+    },
+    {
+      "name": "食用油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": "用于调淀粉水"
+    }
+  ],
+  "steps": [
+    {
+      "description": "玉米粒和胡萝卜丁焯水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出沥干备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "热锅凉油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入胡萝卜丁略炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入玉米粒翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入白砂糖和盐炒匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "混合水与淀粉成水淀粉",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "倒入锅中快速翻炒使汤汁略稠",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入熟松仁翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    9,
+    15
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    9,
+    15
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "松仁可以提前用小火干炒至微微金黄香脆，更加美味"
+    },
+    {
+      "type": "list_item",
+      "content": "使用罐头玉米时应先沥干水分，避免炒制过程中出水过多"
+    },
+    {
+      "type": "list_item",
+      "content": "炒制时火候不宜过大，以防糊锅或松仁焦糊"
+    }
+  ]
+}

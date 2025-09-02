@@ -1,0 +1,168 @@
+{
+  "id": "f440ebb6-caad-4fb2-b0fe-239fac629d17",
+  "category": "肉食",
+  "name": "黑椒牛柳",
+  "description": "",
+  "source_path": "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
+  "image_id": "875b3dc1-d937-4317-a8ef-c3a7456ebca0",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/875b3dc1-d937-4317-a8ef-c3a7456ebca0.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 3,
+  "kitchen_ware": [
+    "不粘锅"
+  ],
+  "ingredients": [
+    {
+      "name": "牛肉",
+      "amount": 300,
+      "unit": "克",
+      "remake": "可以用牛里脊肉或者牛排肉"
+    },
+    {
+      "name": "洋葱",
+      "amount": 0.25,
+      "unit": "个",
+      "remake": "约切1/4"
+    },
+    {
+      "name": "菜椒",
+      "amount": 0.25,
+      "unit": "个",
+      "remake": "红/黄椒，约切1/4"
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克"
+    },
+    {
+      "name": "淀粉",
+      "amount": 9,
+      "unit": "克"
+    },
+    {
+      "name": "黑椒腌料",
+      "amount": 1,
+      "unit": "份",
+      "remake": "参照所购商品的说明按比例腌制"
+    },
+    {
+      "name": "黑胡椒粉",
+      "amount": 3,
+      "unit": "克",
+      "remake": "实际上是随便撒"
+    },
+    {
+      "name": "花生油",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": "实际上油量是依据菜量变动的"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将牛肉切条，长度控制在8厘米以下，厚度约5-10毫米，宽度约1厘米",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "利用腌料腌制牛肉，混合均匀后静置",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "撒一层黑胡椒粉，再加入淀粉，混合均匀后静置",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "开火热锅，加入花生油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待油温升高至冒烟时，放入牛肉翻炒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中火偏大翻炒至牛肉外表变色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入洋葱和菜椒翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入盐和黑胡椒粉，翻炒搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "观察洋葱变软后关火出锅盛盘",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    9,
+    12
+  ],
+  "wait_time": [
+    50,
+    80
+  ],
+  "total_time": [
+    59,
+    92
+  ],
+  "additional_notes": []
+}

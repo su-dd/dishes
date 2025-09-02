@@ -1,0 +1,259 @@
+{
+  "id": "fbfd9805-e77d-4cff-b1ff-ea4aa7941ab5",
+  "category": "主食",
+  "name": "蒸卤面",
+  "description": "",
+  "source_path": "dishes/staple/蒸卤面.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "蒸锅",
+    "笼屉",
+    "炒锅"
+  ],
+  "ingredients": [
+    {
+      "name": "猪五花肉",
+      "amount": 350,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "芹菜",
+      "amount": 2,
+      "unit": "根",
+      "remake": "中等大小"
+    },
+    {
+      "name": "鲜面条",
+      "amount": 500,
+      "unit": "克",
+      "remake": "要求必须是最细的"
+    },
+    {
+      "name": "大葱",
+      "amount": 10,
+      "unit": "厘米",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 5,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "姜片",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "花生油最佳"
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "五香粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "青椒",
+      "amount": 2,
+      "unit": "个",
+      "remake": "选配"
+    },
+    {
+      "name": "干红椒",
+      "amount": 3,
+      "unit": "个",
+      "remake": "选配"
+    },
+    {
+      "name": "花椒",
+      "amount": 20,
+      "unit": "粒",
+      "remake": "选配"
+    }
+  ],
+  "steps": [
+    {
+      "description": "猪肉去皮，切成薄片备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "芹菜去叶，去掉根部2cm，然后从中对半切开，切成2cm段备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大蒜去皮切粒备用，葱切0.2cm薄片备用，姜切细丝备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "炒锅烧热至冒烟后，倒入3ml食用油滑锅后倒出底油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "重新加入食用油，加入肉片，葱姜蒜，干红椒，炒1分钟，注意不停匀速翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入料酒，生抽，老抽，再翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "续入500ml热水，盖上锅盖炖煮3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将芹菜，青椒倒入锅中，加入盐，五香粉调味，盖上锅盖继续炖煮3分钟后关火",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "蒸锅加入1000ml水，烧开上汽",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将面条摊平在笼屉上放入锅中，蒸15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "面条蒸熟后取出，用筷子和手扒拉散开在案板上，室温冷却",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将面条放入菜锅中搅拌，以面条全部均匀上色为完成标准",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将搅拌后的面条再次放在蒸屉上，再次蒸10分钟关火",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    16,
+    27
+  ],
+  "wait_time": [
+    36,
+    39
+  ],
+  "total_time": [
+    52,
+    66
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "技术总结切割猪肉时，可以让菜市场摊贩帮忙，根据经验，请求时机把握在已切割后未付款之前成功率最高首次做饭时可以提前备好料防止手忙脚乱，后续熟练后可以并发执行两次蒸面条时，都要尽量的弄散开，可以避免蒸好后团在一起。面条太长时可以拽断，方便后续搅拌与盛取取出蒸好的面条时尽量动作轻一些，避免蒸屉翻到面条触水佐餐时啤酒更配呦！"
+    }
+  ]
+}

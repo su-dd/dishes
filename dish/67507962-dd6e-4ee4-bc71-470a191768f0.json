@@ -1,0 +1,367 @@
+{
+  "id": "67507962-dd6e-4ee4-bc71-470a191768f0",
+  "category": "主食",
+  "name": "豆角焖面",
+  "description": "",
+  "source_path": "dishes/staple/豆角焖面/豆角焖面.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "菜刀"
+  ],
+  "ingredients": [
+    {
+      "name": "鲜面条",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "肉",
+      "amount": 100,
+      "unit": "克",
+      "remake": "最好为五花肉"
+    },
+    {
+      "name": "豆角",
+      "amount": 150,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 14,
+      "unit": "毫升",
+      "remake": "用量为10-18ml，取中间值14ml"
+    },
+    {
+      "name": "鸡精",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "耗油",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "十三香",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "味精",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "热水",
+      "amount": 150,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将豆角切成5cm-6cm的小段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将葱切成1cm-2cm小段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将姜切成1mm x 1mm x 3cm的长条",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将蒜拍碎切成1mm的粒度",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将五花肉切成2mm厚度的肉片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将锅烧热去除水汽",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入食用油并摇晃锅使其均匀挂满",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入姜和葱段翻炒爆香5秒",
+      "time_unit": "秒",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入肉片静置5秒后再翻炒",
+      "time_unit": "秒",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻炒肉片至全部变色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沿锅边淋入生抽并翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入盐、老抽、耗油、十三香、鸡精和豆角翻炒2分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入热水",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待水开",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "舀出一半菜汤",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将面条平铺在菜上方",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中火焖5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将舀出的菜汤均匀撒在面条上",
+      "time_unit": "秒",
+      "time": [
+        30,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中火焖3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒入蒜和味精",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "使用筷子翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    17,
+    26
+  ],
+  "wait_time": [
+    10,
+    11
+  ],
+  "total_time": [
+    27,
+    37
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "毛细（顾名思义，就像头发，其实就有点像细粉丝那样细）"
+    },
+    {
+      "type": "list_item",
+      "content": "细（这个比毛细粗点，跟香头一样）"
+    },
+    {
+      "type": "list_item",
+      "content": "二细（有点像一般的炒面条那样粗）"
+    },
+    {
+      "type": "list_item",
+      "content": "三细（比二细稍微粗点，吃起来像吃粗粉条，不过面如果拉的比较劲道的话，这个嚼起来感觉很有味）"
+    },
+    {
+      "type": "list_item",
+      "content": "韭叶（这鸡就像韭菜叶子一样宽）"
+    },
+    {
+      "type": "list_item",
+      "content": "大宽（就像吃麻辣烫的那个宽粉一样）"
+    }
+  ]
+}

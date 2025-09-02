@@ -1,0 +1,154 @@
+{
+  "id": "2495170e-2082-429e-963e-410cf21248f2",
+  "category": "汤类",
+  "name": "陈皮排骨汤",
+  "description": "",
+  "source_path": "dishes/soup/陈皮排骨汤.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "煲汤盅"
+  ],
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount": 4,
+      "unit": "块",
+      "remake": "用猪骨也替代也可"
+    },
+    {
+      "name": "陈皮",
+      "amount": 1,
+      "unit": "瓣",
+      "remake": "一般选用8-20年制，1块陈皮是3瓣"
+    },
+    {
+      "name": "西洋参",
+      "amount": 9,
+      "unit": "片",
+      "remake": "又名花旗参"
+    },
+    {
+      "name": "石斛",
+      "amount": 6,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "玉竹",
+      "amount": 5,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "麦冬",
+      "amount": 7,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "食盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "排骨用热水过一遍，去血水",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "陈皮、麦冬、玉竹、石斛和西洋参冲洗干净",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "煲汤盅洗干净",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "依次放入排骨、陈皮、麦冬、玉竹、石斛和西洋参到煲汤盅",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入热水到煲汤盅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "炖煮1.5小时",
+      "time_unit": "小时",
+      "time": [
+        1.5,
+        1.5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入食盐调味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "趁热饮用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    17
+  ],
+  "wait_time": [
+    90,
+    90
+  ],
+  "total_time": [
+    100,
+    107
+  ],
+  "additional_notes": []
+}

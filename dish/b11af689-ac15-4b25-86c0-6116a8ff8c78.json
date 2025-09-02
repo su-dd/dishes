@@ -1,0 +1,193 @@
+{
+  "id": "b11af689-ac15-4b25-86c0-6116a8ff8c78",
+  "category": "甜品",
+  "name": "英式司康",
+  "description": "",
+  "source_path": "dishes/dessert/英式司康/英式司康.md",
+  "image_id": "76f494a7-568d-45f9-8762-61c44300099e",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/76f494a7-568d-45f9-8762-61c44300099e.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 4,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "amount": 40.0,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "低筋面粉",
+      "amount": 180.0,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "糖",
+      "amount": 30.0,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1.0,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "泡打粉",
+      "amount": 5.0,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1.0,
+      "unit": "个",
+      "remake": "约50g"
+    },
+    {
+      "name": "淡奶油",
+      "amount": 45.0,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "奶油奶酪",
+      "amount": 50.0,
+      "unit": "克",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡蛋打散，称量出30g蛋液放入干净容器中，放入全量淡奶油和奶油奶酪混合均匀",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "如果奶酪太硬可以水浴加热至大约40度再混合",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将低筋面粉，盐，糖，泡打粉放入干净容器中混合均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "黄油切成小块，放入上一步的混合物中，用手将黄油捏入混合物中，呈粗玉米粉质地",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将第一步的蛋奶混合液倒入上一步得到的粉油混合物中，搅拌均接近",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "叠压成均匀面团",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "面团放到案板上，擀成1.5cm厚的面片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用刀或者模具分切成合适的形状",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用刷子蘸取剩余的20g鸡蛋液，刷在司康表面",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "烤箱预热180度",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "烤制27分钟",
+      "time_unit": "分钟",
+      "time": [
+        27,
+        27
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    18,
+    32
+  ],
+  "wait_time": [
+    37,
+    42
+  ],
+  "total_time": [
+    55,
+    74
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "最简单的分切方案是擀成圆形面皮，用刀切成 6 个扇形"
+    }
+  ]
+}

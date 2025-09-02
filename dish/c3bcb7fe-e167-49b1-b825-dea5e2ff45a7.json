@@ -1,0 +1,221 @@
+{
+  "id": "c3bcb7fe-e167-49b1-b825-dea5e2ff45a7",
+  "category": "肉食",
+  "name": "可乐鸡翅",
+  "description": "",
+  "source_path": "dishes/meat_dish/可乐鸡翅.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡翅中",
+      "amount": 10,
+      "unit": "只",
+      "remake": "10～12只"
+    },
+    {
+      "name": "可乐",
+      "amount": 500,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生姜",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": "或啤酒"
+    },
+    {
+      "name": "小葱",
+      "amount": 1,
+      "unit": "结",
+      "remake": "挽成结"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡翅入锅，倒入冷水淹没，放生姜片和料酒，大火煮开后撇去浮沫，沥出水分",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出鸡翅，用刀将两边各划上两口改刀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用生抽腌制鸡翅",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小火起油，先将剩余姜片爆香，然后下入腌好的鸡翅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将鸡翅煎至两面金黄",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "与姜片一起翻炒4-5下",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入可乐没过鸡翅，开大火将锅中可乐煮沸",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撇去漂浮的黑色浮沫，加入葱结",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入食用盐、白糖、生抽调味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中火继续慢煮可乐鸡翅",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等到可乐呈现挂丝状态，关小火让汁牢牢挂在鸡翅上",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅，装盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    21,
+    36
+  ],
+  "wait_time": [
+    10,
+    10
+  ],
+  "total_time": [
+    31,
+    46
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "加入生姜爆香的同时能防止鸡翅粘锅。"
+    },
+    {
+      "type": "list_item",
+      "content": "最后收汁时勿开过大火，防止味道偏苦。"
+    },
+    {
+      "type": "list_item",
+      "content": "本菜品偏甜。"
+    }
+  ]
+}

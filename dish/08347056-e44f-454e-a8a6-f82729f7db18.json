@@ -1,0 +1,136 @@
+{
+  "id": "08347056-e44f-454e-a8a6-f82729f7db18",
+  "category": "甜品",
+  "name": "奥利奥冰淇淋",
+  "description": "",
+  "source_path": "dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "电动打蛋器",
+    "容器",
+    "小刀",
+    "冰淇淋模具"
+  ],
+  "ingredients": [
+    {
+      "name": "淡奶油",
+      "amount": 250,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "原味奥利奥",
+      "amount": 6,
+      "unit": "块",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 18,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将奥利奥拧开后去除夹心，备用",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用筷子将奥奥剁碎，需要有一半奥奥变成粉状，另一半的奥奥最大长度小于0.5厘米",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将奶油全部倒置于深容器中，并加入准备好的糖",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "用电动打蛋器高速挡搅打至奶油出现悬挂状态",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将奥奥放入奶油中，搅拌均匀直至底部有奥奥",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将混合物倒入冰淇淋模具中",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "放置冰箱冷冻室(-18度)冷冻",
+      "time_unit": "小时",
+      "time": [
+        4,
+        6
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    6,
+    12
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    6,
+    12
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "剁碎奥利奥的容器注意不要使用易碎容器。"
+    },
+    {
+      "type": "list_item",
+      "content": "去除奥利奥夹心时切忌注意割到手。"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：5分钟搞定【奥利奥麦旋风】太解馋叭！"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "id": "18ff233b-c3e1-4c92-aabd-c11951a90c7e",
+  "category": "水产",
+  "name": "红烧鲤鱼",
+  "description": "",
+  "source_path": "dishes/aquatic/红烧鲤鱼.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "鲤鱼",
+      "amount": 1,
+      "unit": "条",
+      "remake": "大约2斤"
+    },
+    {
+      "name": "五花肉",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大葱",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 80,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜瓣",
+      "amount": 4,
+      "unit": "个",
+      "remake": "3-4个"
+    },
+    {
+      "name": "干辣椒",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 0,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 0,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 0,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 0,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "陈醋",
+      "amount": 0,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 0,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 0,
+      "unit": "适量",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "葱、姜、蒜、干辣椒分别清洗干净",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "葱白处切段，每段长度约4cm，再将每段劈为四瓣",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "姜切片，每片厚度约3mm",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "一个大蒜拍碎切末，其余蒜切为二瓣",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "干辣椒切四段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "五花肉切片，约4cm*4cm",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "清洗鱼",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鱼背肉厚处拉几道斜口，方便入味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅里多倒点油，烧至7成热（刚刚开始冒烟）",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入鱼炸1分钟至鱼皮稍稍变硬捞出备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "炸鱼的油倒出，锅里留一点底油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将锅里底油烧热，下入五花肉，煸出香味",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入干辣椒、葱、姜、蒜瓣，翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将炸好的鱼倒入锅中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沿锅边倒入料酒、陈醋、味极鲜、老抽、蚝油、盐、白糖和清水没过鱼面",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "调至中火，将水烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "调至小火，慢焖入味",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "打开锅盖，挑出锅里的葱、姜、蒜、干辣椒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "调至大火收汁，汤汁剩余1/4时，撒点蒜末，关火盛出",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "红烧鲤鱼出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    29,
+    45
+  ],
+  "wait_time": [
+    15,
+    15
+  ],
+  "total_time": [
+    44,
+    60
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "五花肉煸炒的时候会出猪油，相比较于植物油，动物油脂更香。"
+    },
+    {
+      "type": "list_item",
+      "content": "煸炒至金黄的五花肉炖煮过后吃起来也很香的，相当于配菜。"
+    },
+    {
+      "type": "list_item",
+      "content": "鱼类本身脂肪含量少，所以香味欠缺，着重的是肉质的口感。所以一般做鱼类菜都建议用猪油，想要一锅奶白香醇的鱼汤。猪油是最好的选择~"
+    }
+  ]
+}

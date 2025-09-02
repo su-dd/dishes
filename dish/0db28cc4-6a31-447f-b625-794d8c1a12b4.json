@@ -1,0 +1,212 @@
+{
+  "id": "0db28cc4-6a31-447f-b625-794d8c1a12b4",
+  "category": "肉食",
+  "name": "湖南家常红烧肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
+  "image_id": "56615cae-a7c8-43c0-9ee6-50c72c3d9e7f",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/56615cae-a7c8-43c0-9ee6-50c72c3d9e7f.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "带皮五花肉",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "干小米椒",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "根据个人情况而定"
+    },
+    {
+      "name": "姜",
+      "amount": 3,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香叶",
+      "amount": 5,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "桂皮",
+      "amount": 1,
+      "unit": "小块",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 3,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "冰糖",
+      "amount": 6,
+      "unit": "颗",
+      "remake": "锁油上色"
+    },
+    {
+      "name": "料酒",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "开水",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "带皮五花肉洗净冷水下锅，加入姜片去腥味，煮到沸腾捞出冷水冲净白沫",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "五花肉切块，尺寸1.5cm*1.5cm块状大小",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅加入油，加入冰糖小火搅拌至焦糖色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入切好的五花肉，中火翻炒上色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入备好的姜片、八角、桂皮、生抽、老抽、料酒、干小米椒、盐，小火翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加开水没过肉，加盖中火煮沸",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转小火慢炖30分钟",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "间隔10分钟搅拌一次防止粘锅",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "小火慢炖汤汁剩三分之一时，调成中火收汁",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    13,
+    21
+  ],
+  "wait_time": [
+    41,
+    47
+  ],
+  "total_time": [
+    54,
+    68
+  ],
+  "additional_notes": []
+}

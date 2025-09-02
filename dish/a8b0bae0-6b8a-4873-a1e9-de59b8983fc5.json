@@ -1,0 +1,356 @@
+{
+  "id": "a8b0bae0-6b8a-4873-a1e9-de59b8983fc5",
+  "category": "肉食",
+  "name": "宫保鸡丁",
+  "description": "",
+  "source_path": "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
+  "image_id": "fda7e00c-213b-41df-a930-2b92ecc15b42",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/fda7e00c-213b-41df-a930-2b92ecc15b42.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "手枪腿",
+      "amount": 1,
+      "unit": "支",
+      "remake": "约350g"
+    },
+    {
+      "name": "大葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": "约180g"
+    },
+    {
+      "name": "熟花生",
+      "amount": 150,
+      "unit": "克"
+    },
+    {
+      "name": "姜片",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "干辣椒",
+      "amount": 10,
+      "unit": "克",
+      "remake": "若选择二荆条，则需要大约4支"
+    },
+    {
+      "name": "生抽酱油",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "白糖",
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "植物油",
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "淀粉",
+      "amount": 15,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "amount": 15,
+      "unit": "克"
+    },
+    {
+      "name": "老抽酱油",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "花椒",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "香醋",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "鸡精",
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "芝麻油",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "淀粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": "用以勾芡"
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "莴笋",
+      "amount": 250,
+      "unit": "克",
+      "remake": "可选配料"
+    },
+    {
+      "name": "油泼辣子",
+      "amount": 5,
+      "unit": "克",
+      "remake": "可选配料"
+    }
+  ],
+  "steps": [
+    {
+      "description": "手枪腿去骨，鸡肉拍打后切1.5cm肉丁，清水浸泡10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "制作葱姜水：葱绿和姜片加开水浸泡",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "葱白切1.5cm圆粒备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "花生微波炉高火焙干5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "鸡丁加调料搅拌至发干，加葱姜水搅拌至粘手",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "保鲜膜密封腌制1小时",
+      "time_unit": "小时",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "干辣椒切段，焙干至微糊",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "花椒焙干至出香味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热油七成热下鸡丁，煎至发白后翻面煎30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下葱粒翻炒，加葱姜水焖2分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入花生、干辣椒、花椒和调料翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加水淀粉翻炒收汁",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火淋芝麻油出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "莴笋去皮切1cm小块备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "二荆条切1cm长段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "中火炒生花生至表面微焦",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热油下鸡丁和豆瓣酱翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入莴笋丁继续翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下葱粒、葱姜水、二荆条段焖2分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入花生、花椒和调料翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加水淀粉翻炒收汁",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火淋芝麻油和油泼辣子翻炒10秒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    22,
+    36
+  ],
+  "wait_time": [
+    84,
+    89
+  ],
+  "total_time": [
+    106,
+    125
+  ],
+  "additional_notes": []
+}

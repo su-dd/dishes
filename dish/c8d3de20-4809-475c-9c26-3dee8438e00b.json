@@ -1,0 +1,284 @@
+{
+  "id": "c8d3de20-4809-475c-9c26-3dee8438e00b",
+  "category": "肉食",
+  "name": "卤菜",
+  "description": "",
+  "source_path": "dishes/meat_dish/卤菜/卤菜.md",
+  "image_id": "8032bc11-94b3-4a7c-b7b8-7e2e667eb11c",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/8032bc11-94b3-4a7c-b7b8-7e2e667eb11c.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 3,
+  "kitchen_ware": [
+    "高压锅",
+    "滤网"
+  ],
+  "ingredients": [
+    {
+      "name": "卤料包",
+      "amount": 1,
+      "unit": "包",
+      "remake": "约10g"
+    },
+    {
+      "name": "黄豆酱",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "蚝油",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "南腐乳",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "洋葱",
+      "amount": 0.5,
+      "unit": "个",
+      "remake": "约100g"
+    },
+    {
+      "name": "生姜",
+      "amount": 30,
+      "unit": "克"
+    },
+    {
+      "name": "大蒜",
+      "amount": 40,
+      "unit": "克"
+    },
+    {
+      "name": "干辣椒",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "生抽",
+      "amount": 120,
+      "unit": "毫升"
+    },
+    {
+      "name": "老抽",
+      "amount": 60,
+      "unit": "毫升"
+    },
+    {
+      "name": "盐",
+      "amount": 12.5,
+      "unit": "克",
+      "remake": "10-15g"
+    },
+    {
+      "name": "白糖",
+      "amount": 30,
+      "unit": "克",
+      "remake": "用于熬糖色，最好是黄冰糖"
+    },
+    {
+      "name": "啤酒",
+      "amount": 330,
+      "unit": "毫升"
+    },
+    {
+      "name": "牛腱子",
+      "amount": 500,
+      "unit": "克",
+      "remake": "或其他肉类"
+    },
+    {
+      "name": "清水",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "需要没过所有肉类"
+    }
+  ],
+  "steps": [
+    {
+      "description": "牛腱子提前浸泡在冷水中，去除血水",
+      "time_unit": "小时",
+      "time": [
+        3,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "准备糖色：锅中加入白糖，小火加热至糖完全融化并呈现棕褐色",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入热水，搅拌均匀备用",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将洋葱切块，生姜和大蒜拍碎，干辣椒掰断备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在锅中加入足量的水，放入卤料包、洋葱、生姜、大蒜、干辣椒，大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入黄豆酱、豆瓣酱、蚝油和南腐乳，搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入准备好的糖色，混合均匀",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入生抽和老抽，搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入盐调味",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入啤酒，再次烧开",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "牛腱子放入锅中焯水，捞出并用热水冲洗干净表面的浮沫",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将焯水后的牛腱子放入已烧开的卤水中，确保卤水没过所有肉类",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖上高压锅盖，上汽后继续烹饪",
+      "time_unit": "分钟",
+      "time": [
+        25,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "自然冷却并浸泡一晚上",
+      "time_unit": "小时",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将卤好的肉取出放入冰箱冷藏，使其成型",
+      "time_unit": "小时",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "食用前取出切片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    }
+  ],
+  "take_time": [
+    46,
+    64
+  ],
+  "wait_time": [
+    780,
+    1200
+  ],
+  "total_time": [
+    826,
+    1264
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "卤水可另取一部分做牛肉面，作为白水面条的汤底，再加上自己喜欢的蔬菜，味道极佳。"
+    }
+  ]
+}

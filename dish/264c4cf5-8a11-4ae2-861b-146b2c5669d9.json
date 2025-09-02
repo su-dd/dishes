@@ -1,0 +1,185 @@
+{
+  "id": "264c4cf5-8a11-4ae2-861b-146b2c5669d9",
+  "category": "水产",
+  "name": "微波葱姜黑鳕鱼",
+  "description": "",
+  "source_path": "dishes/aquatic/微波葱姜黑鳕鱼.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [
+    "密封袋"
+  ],
+  "ingredients": [
+    {
+      "name": "黑鳕鱼",
+      "amount": 2,
+      "unit": "片",
+      "remake": "带皮, 450g"
+    },
+    {
+      "name": "青葱",
+      "amount": 25,
+      "unit": "克",
+      "remake": "葱白"
+    },
+    {
+      "name": "青葱",
+      "amount": 10,
+      "unit": "克",
+      "remake": "葱绿"
+    },
+    {
+      "name": "姜",
+      "amount": 13,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 25,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "芝麻油",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "花生油",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "鱼片分别放入密封袋，鱼皮向下放在盘子中",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取葱白切丝25g，姜去皮后切丝10g，混合在一起后分成两半，分别放在袋内鱼片上",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "每个袋子倒入2.5mL料酒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "封好密封袋，放入微波炉中，中火（800瓦）微波至不透明且容易散开时",
+      "time_unit": "分钟",
+      "time": [
+        3.5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "从袋中取出鱼片",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "去除青葱和姜",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "取酱油25mL，芝麻油2mL，混合均匀后平均淋在两片鱼片上",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取葱绿切细丝10g，姜去皮后切丝3g，混合后分成两份撒在鱼片上",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "取花生油50mL，在小锅中加热至190℃",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将热油淋到放有葱绿的鱼片上，立刻上桌",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    6,
+    11
+  ],
+  "wait_time": [
+    6,
+    10
+  ],
+  "total_time": [
+    12,
+    21
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "如果想让香气更为浓郁，在微波前可将葱姜与料酒均匀涂抹在鱼片的两侧，再进行微波加热。"
+    }
+  ]
+}

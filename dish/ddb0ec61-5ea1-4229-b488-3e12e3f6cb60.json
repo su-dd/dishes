@@ -1,0 +1,240 @@
+{
+  "id": "ddb0ec61-5ea1-4229-b488-3e12e3f6cb60",
+  "category": "肉食",
+  "name": "猪皮冻",
+  "description": "",
+  "source_path": "dishes/meat_dish/猪皮冻/猪皮冻.md",
+  "image_id": "b91b370d-103b-490b-9d88-ae38490ebc6c",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/b91b370d-103b-490b-9d88-ae38490ebc6c.webp",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1hh41117TL?spm_id_from=333.999.0.0"
+  ],
+  "difficulty": 5,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "香料包"
+  ],
+  "ingredients": [
+    {
+      "name": "猪皮",
+      "amount": 1,
+      "unit": "kg",
+      "remake": "主料"
+    },
+    {
+      "name": "水",
+      "amount": 4,
+      "unit": "kg",
+      "remake": "主料"
+    },
+    {
+      "name": "盐",
+      "amount": 13,
+      "unit": "g",
+      "remake": "调料"
+    },
+    {
+      "name": "味精",
+      "amount": 10,
+      "unit": "g",
+      "remake": "调料"
+    },
+    {
+      "name": "鸡精",
+      "amount": 15,
+      "unit": "g",
+      "remake": "调料"
+    },
+    {
+      "name": "生抽",
+      "amount": 50,
+      "unit": "ml",
+      "remake": "调料"
+    },
+    {
+      "name": "老抽",
+      "amount": 20,
+      "unit": "ml",
+      "remake": "调料"
+    },
+    {
+      "name": "葱",
+      "amount": 10,
+      "unit": "g",
+      "remake": "调料"
+    },
+    {
+      "name": "姜片",
+      "amount": 20,
+      "unit": "g",
+      "remake": "调料"
+    },
+    {
+      "name": "八角",
+      "amount": 10,
+      "unit": "g",
+      "remake": "香料包"
+    },
+    {
+      "name": "花椒",
+      "amount": 5,
+      "unit": "g",
+      "remake": "香料包"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将猪皮剁成不超过10cm小块，用清水浸泡",
+      "time_unit": "小时",
+      "time": [
+        12,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "猪皮冷水下锅，加入姜和料酒汆烫",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出猪皮放入冷水中冷却",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将猪皮白肉部分剔除，切成不超过3mm的长条",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入白醋和盐，用力搓洗猪皮",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用清水洗净猪皮",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅内加水，放入猪皮和调料，大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "小火煲煮至猪皮软烂",
+      "time_unit": "分钟",
+      "time": [
+        90,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入调味料调味",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入盘中，拣出葱姜八角",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "晾凉至果冻状",
+      "time_unit": "小时",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    },
+    {
+      "description": "放冰箱冷藏",
+      "time_unit": "小时",
+      "time": [
+        4,
+        6
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "食用时切成小块或厚片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    116,
+    131
+  ],
+  "wait_time": [
+    962,
+    1085
+  ],
+  "total_time": [
+    1078,
+    1216
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，需要注意，做猪皮冻，直接下锅煮就“废”了，也是最忌讳的，一定要用白醋和盐不断搓洗猪皮，这样保证煮好的猪皮晶莹剔透，而且还没腥味"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：铭哥说美食"
+    }
+  ]
+}

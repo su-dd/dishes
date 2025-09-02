@@ -1,0 +1,127 @@
+{
+  "id": "be89b839-5a16-46d4-ba83-52ec6fbc1981",
+  "category": "主食",
+  "name": "空气炸锅照烧鸡饭",
+  "description": "",
+  "source_path": "dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md",
+  "image_id": "35ec82f4-6bb7-4415-8af5-827834e5c142",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/35ec82f4-6bb7-4415-8af5-827834e5c142.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "空气炸锅"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡肉",
+      "amount": 900,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": "100-125ml"
+    },
+    {
+      "name": "糖",
+      "amount": 60,
+      "unit": "克",
+      "remake": "60-65g，白沙糖"
+    },
+    {
+      "name": "白醋",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": "30-35ml"
+    },
+    {
+      "name": "丽滋饼干",
+      "amount": 16,
+      "unit": "个",
+      "remake": "咸味曲奇可替代，48g"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将酱油、糖和醋混合在一起，搅匀料汁备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "另一个碗中加入鸡肉、鸡蛋、1/2料汁和压碎的饼干，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "空气炸锅用箔纸碗铺底，加入肉饼混合物，将剩余的料汁均匀的倒在上面",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "350°炸40分钟",
+      "time_unit": "分钟",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在外观呈金黄酥脆后出锅，切块盛盘",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    6,
+    12
+  ],
+  "wait_time": [
+    40,
+    40
+  ],
+  "total_time": [
+    46,
+    52
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，需要注意温度以免烫伤。"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：库克美食教程"
+    }
+  ]
+}

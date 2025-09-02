@@ -1,0 +1,147 @@
+{
+  "id": "fd81f02a-29ca-42c3-9ea5-2c3e105cdf02",
+  "category": "水产",
+  "name": "黄油煎虾",
+  "description": "",
+  "source_path": "dishes/aquatic/黄油煎虾/黄油煎虾.md",
+  "image_id": "d843bb56-a1b0-4836-b5a8-cde2c72a2c18",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/d843bb56-a1b0-4836-b5a8-cde2c72a2c18.webp",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1g541177cd"
+  ],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "煎锅",
+    "磨瓶"
+  ],
+  "ingredients": [
+    {
+      "name": "鲜虾",
+      "amount": 300,
+      "unit": "克",
+      "remake": "强推肉质紧实的九节虾，普通明虾也可以"
+    },
+    {
+      "name": "黄油",
+      "amount": 7,
+      "unit": "克",
+      "remake": "一次用一小盒"
+    },
+    {
+      "name": "黑胡椒粒",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": "瓶磨的那种"
+    },
+    {
+      "name": "食用油",
+      "amount": 45,
+      "unit": "毫升"
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升"
+    },
+    {
+      "name": "米酒",
+      "amount": 5,
+      "unit": "毫升"
+    },
+    {
+      "name": "白糖",
+      "amount": 10,
+      "unit": "毫升"
+    },
+    {
+      "name": "盐",
+      "amount": 2.5,
+      "unit": "毫升"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鲜虾摘除头部，顺带扯出虾线，使用剪刀剪开或菜刀片开虾背，沥干水分备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "调制酱汁：小碗放入上述量的全部生抽、米酒、白糖、盐搅匀备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "中大火热锅，热锅内放入食用油，等待10秒让油温升高",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "虾全部放入锅中，开始瓶磨黑胡椒，均匀地撒在虾上翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "虾变色后加入黄油，黄油完全融化后倒入调制酱汁，继续翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火翻炒15秒收汁即可装盘",
+      "time_unit": "秒",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    6,
+    11
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    6,
+    11
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "虾开背才更好入味，不过处理时切记切记小心用刀，新手容易伤到手"
+    },
+    {
+      "type": "list_item",
+      "content": "冯小厨的菜谱"
+    }
+  ]
+}

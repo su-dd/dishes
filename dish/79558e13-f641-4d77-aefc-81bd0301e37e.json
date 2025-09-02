@@ -1,0 +1,84 @@
+{
+  "id": "79558e13-f641-4d77-aefc-81bd0301e37e",
+  "category": "早餐",
+  "name": "吐司果酱",
+  "description": "",
+  "source_path": "dishes/breakfast/吐司果酱.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "面包机"
+  ],
+  "ingredients": [
+    {
+      "name": "吐司",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "果酱",
+      "amount": 1,
+      "unit": "份",
+      "remake": "足够涂满一面吐司的量"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将吐司放入面包机",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "设置好档位,时间到了会自动弹出",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "先取出一片吐司,涂满果酱再盖上另一片吐司即可",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用餐巾纸包一下可以边走边吃也可以吃完再出门",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    0,
+    1
+  ],
+  "wait_time": [
+    2,
+    2
+  ],
+  "total_time": [
+    2,
+    3
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "dff3a08e-b457-474d-9881-b3fa723a9aca",
+  "category": "主食",
+  "name": "煮锅蒸米饭",
+  "description": "",
+  "source_path": "dishes/staple/米饭/煮锅蒸米饭.md",
+  "image_id": "c847fd70-34cc-4f56-a5e7-79630b07a825",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/c847fd70-34cc-4f56-a5e7-79630b07a825.webp",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1RW411z7r9"
+  ],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "厚底煮锅",
+    "严丝合缝的锅盖"
+  ],
+  "ingredients": [
+    {
+      "name": "北方大米",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": "100ml-200ml/人"
+    },
+    {
+      "name": "水",
+      "amount": 200,
+      "unit": "毫升",
+      "remake": "米的体积的2倍"
+    }
+  ],
+  "steps": [
+    {
+      "description": "清洗大米",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将米和水加入煮锅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "大火煮至水沸腾",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "搅拌底部防止粘黏",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖上锅盖，转小火加热10-15分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "静置5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "装盘享用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    5,
+    10
+  ],
+  "wait_time": [
+    15,
+    20
+  ],
+  "total_time": [
+    20,
+    30
+  ],
+  "additional_notes": []
+}

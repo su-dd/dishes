@@ -1,0 +1,138 @@
+{
+  "id": "b39b747b-d803-4dd8-a2fe-36dcd92b2d23",
+  "category": "水产",
+  "name": "清蒸生蚝",
+  "description": "",
+  "source_path": "dishes/aquatic/清蒸生蚝.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [
+    "刷子"
+  ],
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "amount": 1,
+      "unit": "升",
+      "remake": ""
+    },
+    {
+      "name": "生蚝",
+      "amount": 6,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 3,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 6,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 1,
+      "unit": "小块",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 6,
+      "unit": "毫升",
+      "remake": "每个生蚝1ml"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将生蚝用刷子刷干净",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "蒸锅中放水，将蒸屉放上之后，将生蚝平铺在蒸屉",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "使用50%功率蒸3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "掀开锅盖，将每个生蚝的外壳掀开一半去掉，生蚝凸面向下，每个放姜丝和蒜末",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "关上锅盖，100%功率蒸3.5分钟",
+      "time_unit": "分钟",
+      "time": [
+        3.5,
+        3.5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "掀开锅盖，每个生蚝放酱油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    6,
+    14
+  ],
+  "wait_time": [
+    6,
+    6
+  ],
+  "total_time": [
+    12,
+    20
+  ],
+  "additional_notes": []
+}

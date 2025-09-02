@@ -1,0 +1,177 @@
+{
+  "id": "d4db998b-f325-40cf-ab2c-1cfa73e87dfd",
+  "category": "饮品",
+  "name": "酒酿（醪糟）",
+  "description": "",
+  "source_path": "dishes/drink/酒酿醪糟/酒酿醪糟.md",
+  "image_id": "340e447a-7bda-4439-84fb-1228435671f5",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/340e447a-7bda-4439-84fb-1228435671f5.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 6,
+  "kitchen_ware": [
+    "蒸锅",
+    "电饭煲",
+    "温度计",
+    "密封玻璃容器",
+    "密封陶瓷容器"
+  ],
+  "ingredients": [
+    {
+      "name": "糯米",
+      "amount": 800,
+      "unit": "克",
+      "remake": "推荐使用圆糯米"
+    },
+    {
+      "name": "甜酒曲",
+      "amount": 8,
+      "unit": "克",
+      "remake": "安琪品牌，多放能提高成功概率"
+    },
+    {
+      "name": "清水",
+      "amount": 720,
+      "unit": "克",
+      "remake": "用于蒸饭"
+    },
+    {
+      "name": "清水",
+      "amount": 600,
+      "unit": "克",
+      "remake": "用于发酵"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将糯米淘洗干净放入电饭煲，加入清水选择蒸饭模式",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将蒸熟的米饭倒出摊凉至30°C左右",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将甜酒曲用温水化开，均匀撒在糯米饭中翻拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "向糯米饭中加入清水帮助酒曲翻拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "静置让糯米饭吸饱水分",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "用擀面杖在糯米饭中央挖一个小洞",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将混合好的米饭装入容器中，压平表面，盖上盖子密封",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "放置于28-32°C环境下发酵",
+      "time_unit": "小时",
+      "time": [
+        24,
+        48
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "发酵结束后冷藏保存",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "上锅蒸10分钟停止发酵",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    17,
+    21
+  ],
+  "wait_time": [
+    1487,
+    2948
+  ],
+  "total_time": [
+    1504,
+    2969
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "发酵温度至关重要，低温会发酵缓慢或失败，高温会杀死酒曲"
+    },
+    {
+      "type": "list_item",
+      "content": "发酵失败常见原因：温度过高、米饭太热时拌入酒曲、容器未清洁干净或进水进油"
+    },
+    {
+      "type": "list_item",
+      "content": "可搭配汤圆、蛋花、枸杞等加热食用，但注意不要煮沸时间过长以免酒香散失"
+    },
+    {
+      "type": "list_item",
+      "content": "酒酿汁可用于制作酒酿米糕、酒酿饼等，还可以用作调料为肥牛饭、照烧汁增添风味酒酿米糕"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "74173f42-789f-4c92-8bf6-264009e0b1a9",
+  "category": "饮品",
+  "name": "耙耙柑茶",
+  "description": "",
+  "source_path": "dishes/drink/耙耙柑茶/耙耙柑茶.md",
+  "image_id": "e2a4f792-166d-4b8b-9145-c240af6d051b",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/e2a4f792-166d-4b8b-9145-c240af6d051b.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "搅拌机"
+  ],
+  "ingredients": [
+    {
+      "name": "耙耙柑",
+      "amount": 1.5,
+      "unit": "个",
+      "remake": "200克以上"
+    },
+    {
+      "name": "茉莉绿茶",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "冰块",
+      "amount": 60,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蔗糖糖浆",
+      "amount": 10,
+      "unit": "克",
+      "remake": "1:1比例，可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "称量2~4克茶叶置于容器",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入100毫升开水，泡6分钟",
+      "time_unit": "分钟",
+      "time": [
+        6,
+        6
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "往泡好的绿茶中放入60克冰块冷却，可搅拌加速冷却",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待冰块消失后，将茶叶过滤得到茉莉绿茶茶水",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "选择一个容量约300毫升的透明玻璃杯",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取出耙耙柑的肉瓣，并将外皮剥去，取得果肉",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "取130克果肉和130毫升茉莉绿茶放入搅拌机中",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "倒入10克蔗糖糖浆",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "封盖启动搅拌机，搅拌20秒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将搅拌产物倒入杯中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "取一点果肉撕碎撒在液面上",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    11
+  ],
+  "wait_time": [
+    6,
+    6
+  ],
+  "total_time": [
+    13,
+    17
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "耙耙柑可以用其他容易分离果肉的柑橘替代，比如丑橘"
+    },
+    {
+      "type": "list_item",
+      "content": "果肉和茶水比例为 1 : 1，如果需要配置更大的分量，可按比例提升用量"
+    }
+  ]
+}

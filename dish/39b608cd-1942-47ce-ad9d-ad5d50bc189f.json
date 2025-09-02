@@ -1,0 +1,322 @@
+{
+  "id": "39b608cd-1942-47ce-ad9d-ad5d50bc189f",
+  "category": "主食",
+  "name": "河南蒸面条",
+  "description": "",
+  "source_path": "dishes/staple/河南蒸面条/河南蒸面条.md",
+  "image_id": "6ee9e600-98e6-48f2-a2cc-2beee0f9c597",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/6ee9e600-98e6-48f2-a2cc-2beee0f9c597.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "菜刀",
+    "铲子",
+    "蒸篦子",
+    "盆"
+  ],
+  "ingredients": [
+    {
+      "name": "挂面",
+      "amount": 300,
+      "unit": "克",
+      "remake": "推荐圆的"
+    },
+    {
+      "name": "五花肉",
+      "amount": 350,
+      "unit": "克"
+    },
+    {
+      "name": "蒜薹",
+      "amount": 150,
+      "unit": "克"
+    },
+    {
+      "name": "食用油",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": "10-15ml"
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "老抽",
+      "amount": 10,
+      "unit": "毫升"
+    },
+    {
+      "name": "蚝油",
+      "amount": 5,
+      "unit": "毫升"
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "鸡精",
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "十三香",
+      "amount": 1,
+      "unit": "克"
+    },
+    {
+      "name": "葱",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "姜",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "蒜",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "amount": 5,
+      "unit": "毫升"
+    },
+    {
+      "name": "麻油",
+      "amount": 5,
+      "unit": "毫升"
+    }
+  ],
+  "steps": [
+    {
+      "description": "起锅加7成水，水开，上蒸篦子",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将挂面均匀铺开放置，淋5ml油并抹匀，蒸15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将挂面和蒸篦子取出，放置一边，并倒掉锅中的水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "五花肉切成2mm厚度的肉片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜薹切成3cm段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱切成0.2cm薄片",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "姜切成1mm x 1mm x 3cm的细丝",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜放在砧板上拍碎，切成1mm的粒度",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅，烧干水分，加3ml食用油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "手持锅柄，摇晃锅，使食用油充分挂满锅的2/3",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中火，加入肉片，翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入葱姜蒜，料酒，继续翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将蒜薹段放入锅中，翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开始调味，加入老抽、生抽、蚝油、盐、鸡精、十三香，翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入500ML水，没过蔬菜，炖煮1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将蒸好的挂面放入，不断搅拌3分钟，待挂面全部均匀上色，关火",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将搅拌好的挂面和菜，全部倒入额外的盆中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "起锅，加冷水7成，放上蒸篦子，将拌好的面条和菜均匀的铺在上面",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水开后，大火烧15分钟，出锅",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "淋上10g的麻油，即可食用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    26,
+    38
+  ],
+  "wait_time": [
+    30,
+    30
+  ],
+  "total_time": [
+    56,
+    68
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "细的、圆的 （超市大部分都是这种，口感更加劲道）"
+    },
+    {
+      "type": "list_item",
+      "content": "宽的、扁的 （口感比较软）"
+    }
+  ]
+}

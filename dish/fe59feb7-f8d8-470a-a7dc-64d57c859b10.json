@@ -1,0 +1,141 @@
+{
+  "id": "fe59feb7-f8d8-470a-a7dc-64d57c859b10",
+  "category": "汤类",
+  "name": "紫菜蛋花汤",
+  "description": "",
+  "source_path": "dishes/soup/紫菜蛋花汤.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "干紫菜",
+      "amount": 10,
+      "unit": "克",
+      "remake": "喜欢紫菜的可以多放些"
+    },
+    {
+      "name": "葱花",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "虾仁",
+      "amount": 1,
+      "unit": "份",
+      "remake": "个人口味，可加可不加"
+    }
+  ],
+  "steps": [
+    {
+      "description": "干紫菜用清水泡，捞起沥干水份备用",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "热锅，倒入清水、油、盐",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待水开后放入紫菜",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "紫菜烧开后，将打好的蛋液徐徐倒入锅内",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒上葱花，转小火",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，出锅前放入几滴香油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    1,
+    2
+  ],
+  "wait_time": [
+    17,
+    18
+  ],
+  "total_time": [
+    18,
+    20
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "水开后，将火关小，将打好的蛋液围绕中间沸腾的水倒入。为了使蛋花比较嫩，锅盖盖上熄灭火等半分钟后再打开."
+    },
+    {
+      "type": "list_item",
+      "content": "如果喜欢浓稠口感，可加入 2g 淀粉."
+    }
+  ]
+}

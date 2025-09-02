@@ -1,0 +1,208 @@
+{
+  "id": "a985988f-b461-4724-b62c-0ba408f63806",
+  "category": "肉食",
+  "name": "辣椒炒肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/辣椒炒肉.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "炒锅",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "青椒",
+      "amount": 3,
+      "unit": "个",
+      "remake": "吃辣的话推荐用杭椒，螺丝椒，不吃辣的用尖椒，甜椒"
+    },
+    {
+      "name": "猪瘦肉",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 3,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 3,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": "可选"
+    },
+    {
+      "name": "豆豉",
+      "amount": 3,
+      "unit": "克",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将辣椒洗净，去除蒂和籽，再用刀切好备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用刀拍一下大蒜，再横切成片，切碎成末",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将猪肉切成薄片（顺着猪肉的纹理切）",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将切好的肉片洗净，放入碗中，加入调料搅拌均匀，腌制10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅不用倒油，把辣椒放入锅中，大火干煸至虎皮状",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加盐继续翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火热锅，加入食用油，等待30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入大蒜、生姜翻炒15秒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入腌制好的肉片翻炒2分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入干煸过的辣椒翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "根据个人口味加入调料，继续翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    11,
+    16
+  ],
+  "wait_time": [
+    10,
+    10
+  ],
+  "total_time": [
+    22,
+    27
+  ],
+  "additional_notes": []
+}

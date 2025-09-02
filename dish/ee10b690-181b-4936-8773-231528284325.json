@@ -1,0 +1,143 @@
+{
+  "id": "ee10b690-181b-4936-8773-231528284325",
+  "category": "蔬菜",
+  "name": "洋葱炒鸡蛋",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
+  "image_id": "a0274bad-11da-4ad5-a534-5eee536597c3",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/a0274bad-11da-4ad5-a534-5eee536597c3.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "炒锅",
+    "锅铲",
+    "刀具",
+    "砧板",
+    "碗",
+    "打蛋器"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "洋葱",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡蛋打入大碗中，加入洋葱片、盐后搅拌",
+      "time_unit": "秒",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧油",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入鸡蛋，一面煎炸",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻面继续翻炒，反复",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "散上料酒出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "鸡蛋装盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "散上葱花",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    4,
+    5
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    4,
+    5
+  ],
+  "additional_notes": []
+}

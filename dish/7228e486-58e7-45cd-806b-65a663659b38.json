@@ -1,0 +1,249 @@
+{
+  "id": "7228e486-58e7-45cd-806b-65a663659b38",
+  "category": "肉食",
+  "name": "酱牛肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/酱牛肉/酱牛肉.md",
+  "image_id": "9aee584d-b020-4463-bab3-1cf419d81e02",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/9aee584d-b020-4463-bab3-1cf419d81e02.webp",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "牛腱子肉",
+      "amount": 2000,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香叶",
+      "amount": 1,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 3,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "桂皮",
+      "amount": 1,
+      "unit": "块",
+      "remake": ""
+    },
+    {
+      "name": "冰糖",
+      "amount": 7.5,
+      "unit": "粒",
+      "remake": "7-8粒"
+    },
+    {
+      "name": "花椒",
+      "amount": 15,
+      "unit": "粒",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 8,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 4,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "黄豆酱",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "牛腱子肉清洗干净，用清水浸泡去除血水",
+      "time_unit": "分钟",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "用牙签或者叉子在牛腱子肉表面扎孔",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加料酒、花椒、姜片后，用保鲜膜紧密包裹容器腌制",
+      "time_unit": "小时",
+      "time": [
+        4,
+        6
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "牛腱子肉切成8cm不超过10cm的肉块",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "牛腱子肉放入锅中，加入冷水至水面没过牛肉，开锅至水沸腾开始计时，同时捞出浮沫",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "停火，捞出牛肉，用温水洗净",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将洗净后的牛腱子肉放入砂锅或炖锅，加水没过牛腱子肉，开大火，放入除盐之外其他未使用的配料",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水开之后，大火转为小火，持续加热",
+      "time_unit": "分钟",
+      "time": [
+        90,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加盐后继续小火加热",
+      "time_unit": "分钟",
+      "time": [
+        90,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出牛腱子肉，用保鲜膜紧密包裹，放入冰箱冷藏",
+      "time_unit": "小时",
+      "time": [
+        4,
+        6
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取出后沿牛肉纹路切片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "上桌食用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    206,
+    221
+  ],
+  "wait_time": [
+    540,
+    780
+  ],
+  "total_time": [
+    746,
+    1001
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水至没过食材（约每 30 分钟确认一次）。"
+    },
+    {
+      "type": "list_item",
+      "content": "用保鲜膜紧密包裹牛肉，放入冰箱冷藏数小时，可以使得切片肉质紧实不散。"
+    },
+    {
+      "type": "list_item",
+      "content": "用牙签或者叉子在牛肉表面扎孔可以破坏筋膜，便于入味。"
+    },
+    {
+      "type": "list_item",
+      "content": "下厨房app中的食谱"
+    }
+  ]
+}

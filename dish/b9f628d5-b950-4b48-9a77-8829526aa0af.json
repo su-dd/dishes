@@ -1,0 +1,229 @@
+{
+  "id": "b9f628d5-b950-4b48-9a77-8829526aa0af",
+  "category": "肉食",
+  "name": "糖醋里脊",
+  "description": "",
+  "source_path": "dishes/meat_dish/糖醋里脊.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "里脊肉",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "醋",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "番茄酱",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食盐",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将猪里脊肉切厚片，用刀背拍松",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将肉切成手指粗的条",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入料酒、生抽、蚝油、食盐、白胡椒粉、鸡蛋抓匀腌制",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "调制番茄酱+醋+白糖+清水酱汁，搅拌至糖融化",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将肉条均匀裹上淀粉",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "油温160摄氏度下锅炸制",
+      "time_unit": "分钟",
+      "time": [
+        4,
+        6
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出炸至微黄的里脊",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待油温升高至200摄氏度",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "高温复炸40秒至表皮酥脆",
+      "time_unit": "秒",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅中放底油，倒入酱汁煮至冒泡",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入炸好的里脊翻炒裹酱",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火盛出装盘",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    18,
+    28
+  ],
+  "wait_time": [
+    22,
+    33
+  ],
+  "total_time": [
+    40,
+    61
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "里脊要多炸几遍，注意火候，否则达不到外焦里嫩的效果！"
+    },
+    {
+      "type": "list_item",
+      "content": "下厨房"
+    },
+    {
+      "type": "list_item",
+      "content": "百度百科"
+    }
+  ]
+}

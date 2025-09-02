@@ -1,0 +1,205 @@
+{
+  "id": "8cdd9ad8-dbe4-413d-8fce-5ce18f265c34",
+  "category": "蔬菜",
+  "name": "鸡蛋羹",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
+  "image_id": "437b6bea-a249-41f5-8930-ac5107f2f9f2",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/437b6bea-a249-41f5-8930-ac5107f2f9f2.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "碗",
+    "蒸锅",
+    "打蛋器",
+    "筛网"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香油",
+      "amount": 4,
+      "unit": "毫升",
+      "remake": "或芝麻油，取最大值4ml"
+    },
+    {
+      "name": "生抽",
+      "amount": 8,
+      "unit": "毫升",
+      "remake": "或味极鲜"
+    },
+    {
+      "name": "白醋",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": "或料酒，可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "两个鸡蛋放入碗中打散",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入食用盐3g",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入2ml白醋去除腥味",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入鸡蛋体积1-1.5倍的70度纯净水并搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "过滤蛋液去掉浮沫",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加入50ml清水烧开",
+      "time_unit": "分",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "蒸碗加盖防止水汽进入",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "中火蒸10分钟",
+      "time_unit": "分",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火焖5分钟",
+      "time_unit": "分",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火蒸5分钟并保持水沸腾",
+      "time_unit": "分",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "每隔2分钟开盖释放水蒸气",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "检查蛋羹熟度",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "加入香油和生抽调味",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    1,
+    3
+  ],
+  "wait_time": [
+    23,
+    25
+  ],
+  "total_time": [
+    24,
+    28
+  ],
+  "additional_notes": []
+}

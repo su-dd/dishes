@@ -1,0 +1,204 @@
+{
+  "id": "14ee2fe1-eb77-4c00-b012-fe517a87dfbf",
+  "category": "蔬菜",
+  "name": "上汤娃娃菜",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
+  "image_id": "0c70f277-6ff5-490e-b8cd-02b1b89c5ba8",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/0c70f277-6ff5-490e-b8cd-02b1b89c5ba8.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 3,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "娃娃菜",
+      "amount": 700,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "金针菇",
+      "amount": 10,
+      "unit": "克",
+      "remake": "看个人喜好, 不喜欢 see you tomorrow 的就不放"
+    },
+    {
+      "name": "皮蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": "没有也可以不放"
+    },
+    {
+      "name": "午餐肉",
+      "amount": 1,
+      "unit": "份",
+      "remake": "火腿肠都可以替代"
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 1,
+      "unit": "块",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 1,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "糖",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "娃娃菜洗净,竖着切开切成段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱切小段，蒜切片，姜切小片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "皮蛋切成丁，火腿肠或午餐肉切成1cm大小的丁",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "金针菇洗净撕开",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "烧热水，娃娃菜放进去十秒钟出一下水捞出",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热锅凉油，加热锅倒入油过一遍就倒出来，重新倒入一点油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "调至小火加入葱姜蒜，煎炒出香味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入清水，放入娃娃菜、金针菇、午餐肉",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入调味料蚝油、糖、盐、味精烧开",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煮3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "装盘，盛出娃娃菜后皮蛋放在上面把汤汁浇上去",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    14,
+    22
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    14,
+    22
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,180 @@
+{
+  "id": "9c187a65-c8fe-4b7b-837b-9b394ab36e90",
+  "category": "蔬菜",
+  "name": "红烧冬瓜",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
+  "image_id": "bf05cf94-46e7-4b5b-88a0-4838d594134c",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/bf05cf94-46e7-4b5b-88a0-4838d594134c.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "冬瓜",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香葱",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "姜末",
+      "amount": 1,
+      "unit": "粒",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "冬瓜去皮，切边长不超过2cm小块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧油，放入冬瓜，缓缓翻滚煎炸2分钟，直至冬瓜表面泛金黄色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出冬瓜，放入大碗备用",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "利用锅中的剩余油，依次放入姜末、生抽、蚝油，翻炒15秒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "重新倒入冬瓜，翻炒30秒后，加入开水，水要没过冬瓜表面，大火煮10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入老抽上色，继续煮，直至冬瓜软糯（筷子可以轻松插近冬瓜）",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入鸡精、料酒、香葱翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出冬瓜到大碗中",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "锅中剩余汤汁保留，倒入水淀粉，煮开后汤汁浇灌在冬瓜表面",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    21,
+    27
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    21,
+    27
+  ],
+  "additional_notes": []
+}

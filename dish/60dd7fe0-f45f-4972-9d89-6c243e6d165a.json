@@ -1,0 +1,140 @@
+{
+  "id": "60dd7fe0-f45f-4972-9d89-6c243e6d165a",
+  "category": "蔬菜",
+  "name": "西红柿豆腐汤羹",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
+  "image_id": "814744a7-b4c1-42a1-af1e-022ed0ce6bff",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/814744a7-b4c1-42a1-af1e-022ed0ce6bff.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "豆腐",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香葱",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 1,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "开水",
+      "amount": 350,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "西红柿切成小丁、鸡蛋打入碗中搅拌、豆腐切块备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧油，放入姜片5秒后倒入西红柿翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        35,
+        35
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅中加入开水，汤水烧开，60秒后倒入鸡蛋液、豆腐块",
+      "time_unit": "秒",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "汤水重新烧开后，加入水淀粉，沿一个方向搅拌2圈",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入鸡精、盐、香葱，30秒后起锅",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    3,
+    5
+  ],
+  "wait_time": [
+    1,
+    1
+  ],
+  "total_time": [
+    5,
+    7
+  ],
+  "additional_notes": []
+}

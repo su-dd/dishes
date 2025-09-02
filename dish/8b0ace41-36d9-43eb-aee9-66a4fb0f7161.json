@@ -1,0 +1,152 @@
+{
+  "id": "8b0ace41-36d9-43eb-aee9-66a4fb0f7161",
+  "category": "汤类",
+  "name": "排骨苦瓜汤",
+  "description": "",
+  "source_path": "dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 4,
+  "kitchen_ware": [
+    "电压力锅",
+    "砂锅"
+  ],
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount": 250,
+      "unit": "克",
+      "remake": "每份250g到500g"
+    },
+    {
+      "name": "苦瓜",
+      "amount": 100,
+      "unit": "克",
+      "remake": "每份100g到200g"
+    },
+    {
+      "name": "虾皮",
+      "amount": 5,
+      "unit": "克",
+      "remake": "每份5g到15g"
+    },
+    {
+      "name": "生姜",
+      "amount": 5,
+      "unit": "克",
+      "remake": "可选，用于焯水时去腥，每份5~10g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "排骨洗净，切成约4cm的小块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "炒锅倒入冷水和排骨一起加热至煮沸，关火捞出排骨",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "苦瓜切半，清除内部种子和瓤，切成0.5cm的条状",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "汤锅倒入水和排骨，大火加热至沸腾",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入苦瓜和虾皮后转小火炖煮120-240分钟",
+      "time_unit": "分钟",
+      "time": [
+        120,
+        240
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅时加盐和白胡椒调味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "电压力锅倒入水和所有食材",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "选择炖汤功能加压烹饪45分钟",
+      "time_unit": "分钟",
+      "time": [
+        45,
+        45
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅加盐和胡椒调味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    31,
+    49
+  ],
+  "wait_time": [
+    165,
+    285
+  ],
+  "total_time": [
+    196,
+    334
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "可以使用其他带有鲜味的食材代替虾皮，如瑶柱"
+    }
+  ]
+}

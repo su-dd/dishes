@@ -1,0 +1,217 @@
+{
+  "id": "4dbaac3c-b251-4ce4-b8d8-743c3c8c34ec",
+  "category": "蔬菜",
+  "name": "凉拌金针菇",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/凉拌金针菇.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "金针菇",
+      "amount": 150,
+      "unit": "克",
+      "remake": "约 1 小包"
+    },
+    {
+      "name": "小葱",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "大蒜",
+      "amount": 2,
+      "unit": "瓣"
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "醋",
+      "amount": 10,
+      "unit": "毫升"
+    },
+    {
+      "name": "白糖",
+      "amount": 3,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "香油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": "可选"
+    },
+    {
+      "name": "辣椒油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将金针菇根部切除，用清水冲洗干净",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将小葱洗净，切成葱花",
+      "time_unit": "秒",
+      "time": [
+        40,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将大蒜去皮，切成蒜末",
+      "time_unit": "秒",
+      "time": [
+        30,
+        50
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加入饮用水，大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入金针菇，煮至变软",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将煮好的金针菇捞出，沥干水分",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在碗中加入生抽、醋、白糖、香油",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入切好的大蒜末",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "搅拌均匀使白糖溶解，酱汁混合均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将酱汁均匀淋在金针菇上",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒上切好的小葱花",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "淋上辣椒油（可选）",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用筷子轻轻拌匀",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    3,
+    5
+  ],
+  "wait_time": [
+    4,
+    7
+  ],
+  "total_time": [
+    7,
+    12
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "金针菇焯水时间不宜过长，以免影响口感。"
+    },
+    {
+      "type": "list_item",
+      "content": "酱汁的比例可以根据个人口味喜好进行调整。"
+    },
+    {
+      "type": "list_item",
+      "content": "如果不喜欢吃辣，可以省略辣椒油。"
+    }
+  ]
+}

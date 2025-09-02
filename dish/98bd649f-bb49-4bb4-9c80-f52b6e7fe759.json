@@ -1,0 +1,243 @@
+{
+  "id": "98bd649f-bb49-4bb4-9c80-f52b6e7fe759",
+  "category": "主食",
+  "name": "炒方便面",
+  "description": "",
+  "source_path": "dishes/staple/炒方便面.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "炒锅"
+  ],
+  "ingredients": [
+    {
+      "name": "方便面",
+      "amount": 1,
+      "unit": "包",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": "鸡蛋用量的2g"
+    },
+    {
+      "name": "火腿肠",
+      "amount": 1,
+      "unit": "个",
+      "remake": "可选"
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": "10-18ml/人"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将火腿肠撕开包装，切成宽度1cm的小块",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "向煮锅中加入300ml水，煮沸",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入方便面面饼，煮45秒，煮的过程中将其挑动，把面条打散",
+      "time_unit": "秒",
+      "time": [
+        45,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "面条打散后立刻关火",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将面汤和面分离，用凉水冲一下面条",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "准备一个小碗，将方便面的调料包挤进去",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将面汤取出80ml，加入小碗，搅匀，得到调料碗",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取出计算好的数量的鸡蛋，打入一个小碗",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "每个鸡蛋加入2g盐，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅20s，加入份数*8ml油",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入刚刚准备好的一碗鸡蛋，翻炒大约20s至鸡蛋形成固态即可",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将煎鸡蛋取出暂存",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "热锅20s，增加锅内的油到份数*10ml",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入第一步处理的火腿肠，翻炒10秒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入第二步的面，翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入第三步的调料碗，翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入第四步的煎鸡蛋，翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火盛盘即可",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    12
+  ],
+  "wait_time": [
+    3,
+    5
+  ],
+  "total_time": [
+    11,
+    17
+  ],
+  "additional_notes": []
+}

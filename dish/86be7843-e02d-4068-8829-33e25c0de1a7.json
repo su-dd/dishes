@@ -1,0 +1,311 @@
+{
+  "id": "86be7843-e02d-4068-8829-33e25c0de1a7",
+  "category": "主食",
+  "name": "西红柿鸡蛋挂面",
+  "description": "",
+  "source_path": "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
+  "image_id": "38edcd29-2404-42cb-bfde-0d46d9df455c",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/38edcd29-2404-42cb-bfde-0d46d9df455c.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "筷子",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "挂面",
+      "amount": 50,
+      "unit": "克",
+      "remake": "根据食量来，50-100g"
+    },
+    {
+      "name": "西红柿",
+      "amount": 1,
+      "unit": "个",
+      "remake": "大概200g"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": "1~2个"
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "蚝油",
+      "amount": 5,
+      "unit": "克",
+      "remake": "或鸡精3g"
+    },
+    {
+      "name": "白砂糖",
+      "amount": 2,
+      "unit": "克",
+      "remake": "中和西红柿的酸味，西红柿如果不酸就不用加"
+    },
+    {
+      "name": "酱油",
+      "amount": 5,
+      "unit": "克",
+      "remake": "5-8g"
+    },
+    {
+      "name": "食用油",
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "香油",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "青椒",
+      "amount": 1,
+      "unit": "个",
+      "remake": "非线椒"
+    }
+  ],
+  "steps": [
+    {
+      "description": "小葱洗净并切成葱花",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "西红柿切块儿",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "青椒切成菱形块",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生鸡蛋打入碗中并打散",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧热，倒入食用油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待油温到七成热",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入蛋液快速划散",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "鸡蛋滑到凝固后盛出备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入葱白、蒜末炒香",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入西红柿块、青椒炒出汁水",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入酱油和白砂糖翻炒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入清水煮沸",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入炒好的鸡蛋和调味料",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中小火收汁搅拌",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加葱花和香油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅中加清水煮沸",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入挂面煮软",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入清水再次煮沸",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "检查面条是否煮熟",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞面到碗中拌面",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    13,
+    23
+  ],
+  "wait_time": [
+    10,
+    16
+  ],
+  "total_time": [
+    23,
+    39
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "鸡蛋蛋液中可以加入 2g 黑胡椒味道更好"
+    },
+    {
+      "type": "list_item",
+      "content": "熬臊子过程中加入 2g 白胡椒粉提升香辛口味"
+    },
+    {
+      "type": "list_item",
+      "content": "煮面条如果一次性煮熟也可以，多次加水是为了让面条口感劲道，面条不粘黏，技巧在于煮沸就加冷水，循环往复两三次即可"
+    }
+  ]
+}

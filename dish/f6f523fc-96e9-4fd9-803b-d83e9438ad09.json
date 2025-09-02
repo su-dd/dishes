@@ -1,0 +1,242 @@
+{
+  "id": "f6f523fc-96e9-4fd9-803b-d83e9438ad09",
+  "category": "肉食",
+  "name": "荔枝肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/荔枝肉/荔枝肉.md",
+  "image_id": "0ecc1b21-f57d-4dce-a4fb-46c2e92e29e0",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/0ecc1b21-f57d-4dce-a4fb-46c2e92e29e0.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "鲜香菇",
+      "amount": 2,
+      "unit": "朵",
+      "remake": ""
+    },
+    {
+      "name": "蟹味菇",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "瘦肉",
+      "amount": 150,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "凤梨",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 500,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜末",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "芝麻",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "番茄酱",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香醋",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "瘦肉切块（每块2-3cm），放入大碗中，加入鸡蛋、生粉、生抽、鸡精",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "充分搅拌，直至生粉包裹住瘦肉块（太稀则加生粉，太干则加水），然后加入油，再充分搅拌后备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "准备碗，加入番茄酱、鸡精、生抽、姜末、白砂糖、生粉、香醋、凉水，充分搅拌后备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "切凤梨，准备6个凤梨块（每个1.5-2cm）",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧油，倒入油，烧油直到听到油炸声",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将瘦肉一个一个放入锅中，保证每个肉不粘在一起",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "全部放入瘦肉后，每30秒用勺子来回两面翻转瘦肉块，直至表面金黄",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出瘦肉，一分钟后倒入油锅中继续炸，直至表面焦黄后取出备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "起锅，倒入汤汁，30秒后倒入瘦肉块、凤梨块，充分翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "摆上芝麻",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    21,
+    34
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    21,
+    34
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "更多情况下，福州当地会选用马蹄（解腻）和马铃薯（洗油），因为疫情期间买不到，所以选用了凤梨"
+    },
+    {
+      "type": "list_item",
+      "content": "闽菜以甜为主，如果吃不惯的可以放弃白糖"
+    },
+    {
+      "type": "list_item",
+      "content": "可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉"
+    }
+  ]
+}

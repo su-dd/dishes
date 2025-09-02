@@ -1,0 +1,120 @@
+{
+  "id": "09a1b829-9a75-4993-aac0-62071a51fc2d",
+  "category": "早餐",
+  "name": "蒸水蛋",
+  "description": "",
+  "source_path": "dishes/breakfast/蒸水蛋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [
+    "锡纸",
+    "保鲜膜"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": "新鲜鸡蛋"
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "热水",
+      "amount": 260,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡蛋打入碗中，打散",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "取其他容器，倒入1.5倍于蛋液的温水，将盐倒入水中化开",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将盐水倒入鸡蛋液中，单方向搅拌均匀，去除气泡或过筛",
+      "time_unit": "秒",
+      "time": [
+        60,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "使用锡纸包裹盛蛋液的碗，置入加水的锅中",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "中火烧至水开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转最小的火继续蒸4分钟",
+      "time_unit": "分钟",
+      "time": [
+        4,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    2,
+    4
+  ],
+  "wait_time": [
+    7,
+    9
+  ],
+  "total_time": [
+    9,
+    13
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "一般出锅稍晾即可食用，保留鸡蛋原香的终极口感"
+    },
+    {
+      "type": "list_item",
+      "content": "也可加入蒸鱼豉油，葱花香油作为佐料。"
+    }
+  ]
+}

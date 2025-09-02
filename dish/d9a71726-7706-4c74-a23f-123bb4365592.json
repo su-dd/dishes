@@ -1,0 +1,324 @@
+{
+  "id": "d9a71726-7706-4c74-a23f-123bb4365592",
+  "category": "肉食",
+  "name": "乡村啤酒鸭",
+  "description": "",
+  "source_path": "dishes/meat_dish/乡村啤酒鸭.md",
+  "image_id": "5098f6ca-c699-4b35-82cf-a17808e626b1",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/5098f6ca-c699-4b35-82cf-a17808e626b1.webp",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1R4411u7po?spm_id_from=333.999.0.0"
+  ],
+  "difficulty": 4,
+  "servings": 4,
+  "kitchen_ware": [
+    "炒锅"
+  ],
+  "ingredients": [
+    {
+      "name": "鸭肉",
+      "amount": 1,
+      "unit": "kg",
+      "remake": "半只,让市场老板剁成小块"
+    },
+    {
+      "name": "啤酒",
+      "amount": 1000,
+      "unit": "毫升"
+    },
+    {
+      "name": "青椒",
+      "amount": 2,
+      "unit": "条",
+      "remake": "长度10-15厘米,切段或切片2厘米一段"
+    },
+    {
+      "name": "红椒",
+      "amount": 1,
+      "unit": "条",
+      "remake": "长度10-15厘米,切段或切片2厘米一段"
+    },
+    {
+      "name": "大蒜",
+      "amount": 4,
+      "unit": "颗",
+      "remake": "拍散备用"
+    },
+    {
+      "name": "生姜",
+      "amount": 3,
+      "unit": "厘米",
+      "remake": "拍散备用"
+    },
+    {
+      "name": "小米椒",
+      "amount": 3,
+      "unit": "颗",
+      "remake": "切两段(不吃辣可不用)"
+    },
+    {
+      "name": "蒜苗",
+      "amount": 2,
+      "unit": "根",
+      "remake": "切段备用"
+    },
+    {
+      "name": "大葱",
+      "amount": 2,
+      "unit": "根",
+      "remake": "1根切段,1根备用"
+    },
+    {
+      "name": "草果",
+      "amount": 2,
+      "unit": "颗",
+      "remake": "拍散去籽备用"
+    },
+    {
+      "name": "桂皮",
+      "amount": 4,
+      "unit": "厘米",
+      "remake": "一小片"
+    },
+    {
+      "name": "八角",
+      "amount": 3,
+      "unit": "颗"
+    },
+    {
+      "name": "香叶",
+      "amount": 3,
+      "unit": "片"
+    },
+    {
+      "name": "干辣椒",
+      "amount": 6,
+      "unit": "条",
+      "remake": "不吃辣可不用"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸭肉清洗一遍放进锅中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加清水淹没鸭肉",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加20ml料酒",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加备用的1根大葱",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加生姜,拍散的2厘米",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开火烧滚",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出浮沫",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "鸭肉捞出,清水洗干净备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅清洗干净烧热,加60ml的花生油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "油温到60度的时候,加一把花椒（30颗）",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加鸭肉翻炒4分钟",
+      "time_unit": "分钟",
+      "time": [
+        4,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "2分钟后加入所有的香料",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "3分钟的时候加入所有的料头（生姜,大蒜,小米辣）",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入1000ml的啤酒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "烧鸭肉30分钟",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "10分钟的时候加盐（3克）生抽(10ml)老抽(5ml)",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "20分钟加入所有的辅料（青椒和红椒段）",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "29分钟加入蒜苗段和大葱段",
+      "time_unit": "分钟",
+      "time": [
+        29,
+        29
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    9,
+    13
+  ],
+  "wait_time": [
+    97,
+    99
+  ],
+  "total_time": [
+    106,
+    112
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，需要注意观察沸腾的水位线，如发现低于 2/3 的食材应加热水或者加啤酒。"
+    },
+    {
+      "type": "list_item",
+      "content": "厨师长：用土灶烧“乡村啤酒鸭”，味道安逸得不摆了"
+    }
+  ]
+}

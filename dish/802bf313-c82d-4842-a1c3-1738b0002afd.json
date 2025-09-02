@@ -1,0 +1,199 @@
+{
+  "id": "802bf313-c82d-4842-a1c3-1738b0002afd",
+  "category": "水产",
+  "name": "小龙虾",
+  "description": "",
+  "source_path": "dishes/aquatic/小龙虾/小龙虾.md",
+  "image_id": "fbb7eddd-7662-4bb8-bf31-c0fa61fd006a",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/fbb7eddd-7662-4bb8-bf31-c0fa61fd006a.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "锅",
+    "炒锅"
+  ],
+  "ingredients": [
+    {
+      "name": "小龙虾",
+      "amount": 2,
+      "unit": "斤",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 70,
+      "unit": "毫升",
+      "remake": "这是平时炒菜3倍量"
+    },
+    {
+      "name": "香叶",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "桂皮",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "青花椒",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "花椒",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "子弹头辣椒",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": "大葱"
+    },
+    {
+      "name": "姜",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 7,
+      "unit": "瓣",
+      "remake": "大蒜"
+    },
+    {
+      "name": "郫县豆瓣",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "黄豆酱",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "啤酒",
+      "amount": 500,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "小龙虾刷干净去虾线，葱切2cm葱段，姜蒜切末",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "烧油，油微热，下香叶、八角、桂皮、青花椒、花椒、子弹头辣椒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "香料出香气之后下锅葱姜蒜",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "葱姜蒜爆香后，加入豆瓣酱、黄豆酱，炒出红油",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下小龙虾，翻炒至变色",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入啤酒，等啤酒烧开后加入生抽，盐",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将小龙虾完全煮熟后出锅",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    12,
+    20
+  ],
+  "wait_time": [
+    10,
+    16
+  ],
+  "total_time": [
+    22,
+    36
+  ],
+  "additional_notes": []
+}

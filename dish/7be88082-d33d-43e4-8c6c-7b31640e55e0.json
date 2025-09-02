@@ -1,0 +1,214 @@
+{
+  "id": "7be88082-d33d-43e4-8c6c-7b31640e55e0",
+  "category": "肉食",
+  "name": "香辣鸡爪煲",
+  "description": "",
+  "source_path": "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
+  "image_id": "b73158c2-e4c4-4e88-ae83-5af88f1a1adb",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/b73158c2-e4c4-4e88-ae83-5af88f1a1adb.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡爪",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 2,
+      "unit": "根",
+      "remake": "小葱"
+    },
+    {
+      "name": "姜",
+      "amount": 10,
+      "unit": "克",
+      "remake": "姜末"
+    },
+    {
+      "name": "料酒",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "香叶",
+      "amount": 3,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 3,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 10,
+      "unit": "克",
+      "remake": "蒜末"
+    },
+    {
+      "name": "小米椒",
+      "amount": 6,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "辣椒面",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选"
+    },
+    {
+      "name": "蚝油",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "五香粉",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "给鸡爪剪去指甲，对半切开或去骨，清水洗干净",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸡爪冷水下锅，葱姜料酒焯水，水开撇去浮沫",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入香叶、八角、生抽、老抽，盖盖小火慢煮三十分钟",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出鸡爪，留一碗鸡汤备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "起锅烧油，用小火炒香姜末、蒜末、小米椒，加入辣椒面、生抽、老抽、蚝油、五香粉、盐炒出酱香味",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入鸡爪，加盐调味，翻炒一两分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入鸡汤，边炒边搅动",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入鸡精提鲜，撒入葱段搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    25
+  ],
+  "wait_time": [
+    30,
+    30
+  ],
+  "total_time": [
+    45,
+    55
+  ],
+  "additional_notes": []
+}

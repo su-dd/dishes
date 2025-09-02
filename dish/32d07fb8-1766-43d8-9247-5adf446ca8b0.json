@@ -1,0 +1,103 @@
+{
+  "id": "32d07fb8-1766-43d8-9247-5adf446ca8b0",
+  "category": "半成品",
+  "name": "炸薯条",
+  "description": "",
+  "source_path": "dishes/semi-finished/炸薯条/炸薯条.md",
+  "image_id": "5f60dec0-02ed-4b0d-ae9b-6d510aeb6767",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/5f60dec0-02ed-4b0d-ae9b-6d510aeb6767.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "空气炸锅"
+  ],
+  "ingredients": [
+    {
+      "name": "半成品薯条",
+      "amount": 400,
+      "unit": "克",
+      "remake": "作为主食，1人1顿400g（以半成品为准）"
+    }
+  ],
+  "steps": [
+    {
+      "description": "开封半成品薯条，注意开口要小",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "空气炸锅200℃预热5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出薯条放入空气炸锅，200℃炸制",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "5-10分钟时拿出锅体晃动使薯条受热均匀",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "10-15分钟时往薯条表面喷油",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出薯条后晃动锅体或直接装盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    0,
+    1
+  ],
+  "wait_time": [
+    25,
+    25
+  ],
+  "total_time": [
+    25,
+    26
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "番茄酱、蛋黄酱、蜂蜜芥末酱、蒜香酱油……炸薯条的晋级之路在于对酱料及酱料组合的探究。"
+    }
+  ]
+}

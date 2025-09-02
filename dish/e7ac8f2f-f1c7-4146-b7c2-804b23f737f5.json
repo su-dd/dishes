@@ -1,0 +1,253 @@
+{
+  "id": "e7ac8f2f-f1c7-4146-b7c2-804b23f737f5",
+  "category": "肉食",
+  "name": "香干芹菜炒肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
+  "image_id": "9d58940e-40ce-45ab-956d-50b4bd785458",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/9d58940e-40ce-45ab-956d-50b4bd785458.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [
+    "炒锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "豆干",
+      "amount": 150,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香芹",
+      "amount": 4,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "猪肉",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜头",
+      "amount": 2,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "辣椒",
+      "amount": 4,
+      "unit": "个",
+      "remake": "青椒或者红椒都可以"
+    },
+    {
+      "name": "花椒",
+      "amount": 6,
+      "unit": "粒",
+      "remake": "不喜欢可以不放，或者放花椒水"
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 3,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "老抽",
+      "amount": 8,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": "10-15ml"
+    }
+  ],
+  "steps": [
+    {
+      "description": "芹菜去叶切段，切成不超过4cm的条状",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "香干切条，宽约小拇指",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜头切片或者剁成蒜泥",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "辣椒切圈或者斜切成条",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，锅内放入食用油",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待油温升高",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入花椒、大蒜爆香",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入猪肉炒至变色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入老抽上色翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入香干翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入辣椒翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入芹菜，放入盐翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入鸡精、蚝油翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    12,
+    18
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    12,
+    18
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "如果没有买到香芹，或者用的芹菜比较粗，可以考虑焯水，放入滚水中 1 分钟捞出，冷水冲洗（保持爽脆）"
+    },
+    {
+      "type": "list_item",
+      "content": "如果买到的豆干比较硬、紧实，也可以切条后再焯水"
+    },
+    {
+      "type": "list_item",
+      "content": "香干芹菜炒肉教程"
+    }
+  ]
+}

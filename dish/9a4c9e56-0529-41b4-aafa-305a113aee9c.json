@@ -1,0 +1,141 @@
+{
+  "id": "9a4c9e56-0529-41b4-aafa-305a113aee9c",
+  "category": "早餐",
+  "name": "蛋煎糍粑",
+  "description": "",
+  "source_path": "dishes/breakfast/蛋煎糍粑.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "平底锅",
+    "碗",
+    "筷子"
+  ],
+  "ingredients": [
+    {
+      "name": "糍粑",
+      "amount": 2,
+      "unit": "块",
+      "remake": ""
+    },
+    {
+      "name": "红糖",
+      "amount": 10,
+      "unit": "克",
+      "remake": "建议 8g - 15g 之间"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": "10-15ml"
+    },
+    {
+      "name": "食用盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "把糍粑切成长方形小块",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "碗里打入一个鸡蛋并把鸡蛋搅碎，加入2g食用盐",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将切好的小糍粑依此放入搅碎的鸡蛋里面，涂抹完糍粑双面为止",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅里倒入植物油10ml，把涂抹好的糍粑小块放进去小火慢慢煎软",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将剩下的鸡蛋液慢慢倒在糍粑表面",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用筷子或者勺子为糍粑翻面，来回煎至金黄色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    10,
+    20
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    10,
+    20
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "放糍粑进去时候注意把糍粑间隔开来，防止粘在一起"
+    },
+    {
+      "type": "list_item",
+      "content": "鸡蛋的量根据糍粑的量而定"
+    },
+    {
+      "type": "list_item",
+      "content": "糖的量根据个人喜好"
+    },
+    {
+      "type": "list_item",
+      "content": "蛋煎糍粑教程"
+    }
+  ]
+}

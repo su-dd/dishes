@@ -1,0 +1,171 @@
+{
+  "id": "048e57a0-5f56-41c7-96be-187d7297c05e",
+  "category": "水产",
+  "name": "鲤鱼炖白菜",
+  "description": "",
+  "source_path": "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
+  "image_id": "115d53c6-f513-4714-9ab7-e2b8d1ebe669",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/115d53c6-f513-4714-9ab7-e2b8d1ebe669.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 3,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 3,
+      "unit": "瓣",
+      "remake": "切成块"
+    },
+    {
+      "name": "鲤鱼",
+      "amount": 1.2,
+      "unit": "斤",
+      "remake": "清理过的"
+    },
+    {
+      "name": "娃娃菜",
+      "amount": 13,
+      "unit": "片",
+      "remake": "可以多放一些，一顿就缩小了"
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": "5-8克"
+    },
+    {
+      "name": "老抽",
+      "amount": 3,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 6,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "桂皮",
+      "amount": 1,
+      "unit": "块",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 3,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "郫县豆瓣酱",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "干辣椒",
+      "amount": 4,
+      "unit": "个",
+      "remake": "根据个人口味选择，4-6个"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鲤鱼清洗干净，改刀（在鱼身上多划几个伤口，方便入味）",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "娃娃菜清洗干净放入盘中备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加油，等油热放入少盐、姜、蒜、豆瓣酱、桂皮、八角炒出香味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "把鱼放锅里煎（3分钟），每30秒需要翻面",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入水（水量尽量和鱼平齐，可以少一点点），放入生抽、老抽、娃娃菜",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火炖15-20分钟，汤汁快干时添加盐即可出锅",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    11,
+    16
+  ],
+  "wait_time": [
+    15,
+    20
+  ],
+  "total_time": [
+    26,
+    36
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "也可以放一些粉条，粉条先凉水/热水，需要泡软，可以和娃娃菜一起放入"
+    }
+  ]
+}

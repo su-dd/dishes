@@ -1,0 +1,172 @@
+{
+  "id": "8892eb54-2f6d-491a-a9b7-caf3d1129470",
+  "category": "蔬菜",
+  "name": "蒲烧茄子",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/蒲烧茄子.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "不粘锅",
+    "铁锅"
+  ],
+  "ingredients": [
+    {
+      "name": "茄子",
+      "amount": 1,
+      "unit": "个",
+      "remake": "长的上小下大的茄子（注意不要使用浙茄和圆茄）"
+    },
+    {
+      "name": "蜂蜜",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 40,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "茄子削皮、横着切成两段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒸5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "纵向切开，不要切断，在两边切面各划2~3刀至可以摊平",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "煎至两面金黄",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "往茄子上浇蒲烧汁至没过1/2茄子高度",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煎至背面上色，翻面同时收汁",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "把剩下的蒲烧汁浇在茄子上",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅，一份茄子烧蒲烧汁就烧好了",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    8,
+    16
+  ],
+  "wait_time": [
+    5,
+    5
+  ],
+  "total_time": [
+    13,
+    21
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "这个蒲焼き其实很中国，日式的蒲烧其实是烤的。"
+    },
+    {
+      "type": "list_item",
+      "content": "灵魂其实在于蒲烧汁？也可以买现成的蒲烧汁。"
+    },
+    {
+      "type": "list_item",
+      "content": "如果觉得腻可以在装盘后撒点切成 2~5 mm 的小葱，颜色搭配上也能不那么单调。"
+    },
+    {
+      "type": "list_item",
+      "content": "炒茄子（鱼香茄子、酱爆茄子）墙裂推荐浙茄，细长所以切成滚刀块刚刚好，皮很嫩不像这里需要去皮，茄子的味道适中。"
+    }
+  ]
+}

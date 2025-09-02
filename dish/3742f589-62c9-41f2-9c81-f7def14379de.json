@@ -1,0 +1,412 @@
+{
+  "id": "3742f589-62c9-41f2-9c81-f7def14379de",
+  "category": "主食",
+  "name": "手工水饺",
+  "description": "",
+  "source_path": "dishes/staple/手工水饺.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 1,
+  "kitchen_ware": [
+    "擀面杖",
+    "直径30cm以上的盆"
+  ],
+  "ingredients": [
+    {
+      "name": "面粉",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "冷水",
+      "amount": 150,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "芝麻香油",
+      "amount": 2.5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "瘦肉末",
+      "amount": 250,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "肥肉末",
+      "amount": 20,
+      "unit": "克",
+      "remake": "不喜可不加"
+    },
+    {
+      "name": "姜",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "香油",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "盆中加入所有面粉",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入芝麻香油",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "面粉中央挖小洞",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "分4-5次加入水，并搅和，当出现碎末状的稍微干燥面团时",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取消加水，用手将面团压实",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "面团压实至可把盆周围的面粉纳入即可，此步骤为面光盆光",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将面团置于桌上，盆倒扣于桌上，环境温度为25度，使面团醒发约45分钟",
+      "time_unit": "分钟",
+      "time": [
+        45,
+        45
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "醒发完成后，将面团搓成条状，合成一团，再次搓成条，重复3次",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "擀成条状，切成20份均匀大小面团，并搓成直径约3-3.5cm的球状",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "压扁面团，在手上，桌上，擀面杖上，及面团上撒上面粉，此步骤防止面团发粘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用擀面杖将面团擀平，约8cm直径，厚约2mm，中间略微比四周厚1mm",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "猪肉去皮,保留部分肥肉,切成小块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "菜刀将猪肉剁成肉沫,放入碗中",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱、姜切成末,放入肉碗中搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "韭菜洗净,切短至3mm以下长度",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "韭菜和肉沫混合,加入蚝油、生抽、香油各2ml,加入一个鸡蛋的蛋清,用手混合搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放置30分钟即可开始包饺子",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "左手上放面皮，放饺子馅一面尽量不要粘到面粉，防止无法合拢",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "右手用筷子夹约面皮1/2直径的馅",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "沿饺子皮圆周进行合拢，捏实，个人吃无需捏花，饺子皮不漏即可",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "使用可放下20只饺子的锅，或分批量煮",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "烧水，水约3/4锅的高度",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火烧开水后放入饺子，调至中火",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "第一次放入饺子，且水冒泡后，锅边加入50ml冷水",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "重复加入冷水步骤两次",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "第三次水开后加入冷水50ml，水开后调至小火等60s",
+      "time_unit": "秒",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    46,
+    75
+  ],
+  "wait_time": [
+    76,
+    76
+  ],
+  "total_time": [
+    122,
+    151
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "煮水饺不需要盖锅盖，加三次水就是为了不让饺子一直处于沸腾状态导致表皮破损变成面片。"
+    },
+    {
+      "type": "list_item",
+      "content": "黑醋 10ml"
+    },
+    {
+      "type": "list_item",
+      "content": "姜 一小块 50 克"
+    },
+    {
+      "type": "list_item",
+      "content": "香油 2 滴"
+    },
+    {
+      "type": "list_item",
+      "content": "大蒜/蒜泥 3 瓣/人"
+    },
+    {
+      "type": "list_item",
+      "content": "考虑搭配黑醋食用。建议用量：10-20ml。"
+    },
+    {
+      "type": "list_item",
+      "content": "考虑姜切丝，在小碗加入 20ml 的黑醋与姜丝搅拌当蘸料，味道更丰富。"
+    },
+    {
+      "type": "list_item",
+      "content": "考虑搭配黑醋时加入 1~3 滴香油，搅拌当蘸料。"
+    },
+    {
+      "type": "list_item",
+      "content": "考虑搭配黑醋时加入砸好的蒜泥，搅拌当蘸料。（口腔内会残留蒜味，若饭后需要与他人面对面谈话建议放弃或清洁口腔）"
+    }
+  ]
+}

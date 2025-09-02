@@ -1,0 +1,236 @@
+{
+  "id": "738903aa-33b2-49a6-8693-1ce7e3aad715",
+  "category": "肉食",
+  "name": "广式萝卜牛腩",
+  "description": "",
+  "source_path": "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
+  "image_id": "eaf0480f-5574-4862-9519-a8901bb861b3",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/eaf0480f-5574-4862-9519-a8901bb861b3.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 4,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "牛腩",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白萝卜",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "姜片",
+      "amount": 8,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "蒜瓣",
+      "amount": 5,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "葱结",
+      "amount": 1,
+      "unit": "把",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "桂皮",
+      "amount": 1,
+      "unit": "小块",
+      "remake": ""
+    },
+    {
+      "name": "干辣椒",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "香叶",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "南乳",
+      "amount": 1,
+      "unit": "块",
+      "remake": ""
+    },
+    {
+      "name": "柱侯酱",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "冰糖",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "萝卜滚刀切块备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "牛腩整块焯水，加入姜片和葱结，水开后煮5-10分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出牛腩切块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "准备焖牛腩的酱料，将南乳、柱侯酱、酱油、蚝油、糖、盐调和",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "热锅下油，将姜蒜爆香",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入牛腩炒至干身",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入调好的酱料炒香",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入热水与调料混合",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将牛腩换到汤锅中，放入桂皮、八角、香叶和干辣椒，焖2个小时",
+      "time_unit": "小时",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "牛腩焖到半软后加入白萝卜继续焖30分钟",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "萝卜焖软后完成装盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    11,
+    21
+  ],
+  "wait_time": [
+    155,
+    160
+  ],
+  "total_time": [
+    166,
+    181
+  ],
+  "additional_notes": []
+}

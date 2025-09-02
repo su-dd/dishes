@@ -1,0 +1,121 @@
+{
+  "id": "b08895b4-a21e-47d7-a20a-be29f67e4798",
+  "category": "汤类",
+  "name": "米粥",
+  "description": "",
+  "source_path": "dishes/soup/米粥.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗"
+  ],
+  "ingredients": [
+    {
+      "name": "米",
+      "amount": 60,
+      "unit": "毫升",
+      "remake": "一般一个人可以食用60ml-110ml的米"
+    },
+    {
+      "name": "水",
+      "amount": 540,
+      "unit": "毫升",
+      "remake": "水的体积是米饭的体积的9倍"
+    },
+    {
+      "name": "植物油",
+      "amount": 6,
+      "unit": "毫升",
+      "remake": "可选，油的质量Mo：生米体积/10"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将油与洗净的米混合，确保每粒米都沾上少量油",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将米油混合物冷藏保存",
+      "time_unit": "小时",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将米和水加入锅中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "开大火加热",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将火关小防止溢出",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续加热至沸腾",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关闭火源",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    3,
+    5
+  ],
+  "wait_time": [
+    80,
+    148
+  ],
+  "total_time": [
+    83,
+    153
+  ],
+  "additional_notes": []
+}

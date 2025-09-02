@@ -1,0 +1,138 @@
+{
+  "id": "e46d3f23-56f7-4046-9257-595f404bbb9f",
+  "category": "主食",
+  "name": "老干妈拌面",
+  "description": "",
+  "source_path": "dishes/staple/老干妈拌面.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "筷子"
+  ],
+  "ingredients": [
+    {
+      "name": "水",
+      "amount": 1,
+      "unit": "升",
+      "remake": ""
+    },
+    {
+      "name": "面",
+      "amount": 120,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "老干妈",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将水倒入锅中并煮沸",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将面均匀放入锅中",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在煮的过程注意搅拌，避免面粘成一坨",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "当用筷子挑起一根面且该面能自然地从筷子上滑落时再等30秒关火",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将面夹入碗中",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "按照上面的计量放入老干妈和酱油",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "用筷子将碗里的面、老干妈、酱油拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "吃",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    3,
+    5
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    3,
+    6
+  ],
+  "additional_notes": []
+}

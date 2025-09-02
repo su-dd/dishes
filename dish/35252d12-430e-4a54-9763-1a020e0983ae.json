@@ -1,0 +1,125 @@
+{
+  "id": "35252d12-430e-4a54-9763-1a020e0983ae",
+  "category": "早餐",
+  "name": "溏心蛋",
+  "description": "",
+  "source_path": "dishes/breakfast/溏心蛋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "电锅",
+    "秒表"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "颗",
+      "remake": "或更多（只要您的电锅装得下，不管有几颗鸡蛋都可以）"
+    },
+    {
+      "name": "水",
+      "amount": 2,
+      "unit": "公分",
+      "remake": "淹过鸡蛋约 2 公分的冷水"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将鸡蛋放入电锅中，鸡蛋不可互相堆叠，应皆在底部，并留有空间可以晃动",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "倒入淹过鸡蛋约2公分的冷水",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "开盖，使用最大功率加热至水滚起（大约85-95度，稍微滚动，不需完全沸腾）",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，盖上盖子，让鸡蛋静置6分钟（流动蛋黄）",
+      "time_unit": "分钟",
+      "time": [
+        6,
+        6
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，盖上盖子，让鸡蛋静置10分钟（完全熟蛋黄）",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沥干水分",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用冷水冲洗鸡蛋约1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "去壳食用",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    11
+  ],
+  "wait_time": [
+    16,
+    16
+  ],
+  "total_time": [
+    23,
+    27
+  ],
+  "additional_notes": []
+}

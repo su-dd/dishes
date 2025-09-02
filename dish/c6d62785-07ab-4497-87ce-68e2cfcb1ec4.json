@@ -1,0 +1,124 @@
+{
+  "id": "c6d62785-07ab-4497-87ce-68e2cfcb1ec4",
+  "category": "饮品",
+  "name": "泰国手标红茶",
+  "description": "",
+  "source_path": "dishes/drink/泰国手标红茶/泰国手标红茶.md",
+  "image_id": "b481ec72-b0aa-4e82-a2f5-3837511106b6",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/b481ec72-b0aa-4e82-a2f5-3837511106b6.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "克称",
+    "带刻度容器",
+    "港式奶茶过滤袋"
+  ],
+  "ingredients": [
+    {
+      "name": "水",
+      "amount": 600,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "茶粉",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 24,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "牛奶",
+      "amount": 18,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "炼乳",
+      "amount": 24,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "600cc水大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在过滤袋中装入20g茶粉，开水倒入过滤袋中，过滤20遍",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "使用克称量取24g炼乳、24g白糖和18ml牛奶放入1000ml以上的水壶中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将过滤好的茶水倒入水壶中搅拌，直到白糖融化",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将水壶放到冰箱4小时以上",
+      "time_unit": "小时",
+      "time": [
+        4,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "喝前可以加6-8颗冰块",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    12
+  ],
+  "wait_time": [
+    240,
+    720
+  ],
+  "total_time": [
+    247,
+    732
+  ],
+  "additional_notes": []
+}

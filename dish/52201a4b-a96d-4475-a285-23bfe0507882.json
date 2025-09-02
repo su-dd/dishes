@@ -1,0 +1,162 @@
+{
+  "id": "52201a4b-a96d-4475-a285-23bfe0507882",
+  "category": "蔬菜",
+  "name": "葱煎豆腐",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/葱煎豆腐.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "平底锅"
+  ],
+  "ingredients": [
+    {
+      "name": "白豆腐",
+      "amount": 1,
+      "unit": "块",
+      "remake": "份数 * 0.8 向上取整"
+    },
+    {
+      "name": "葱",
+      "amount": 0.67,
+      "unit": "根",
+      "remake": "2根/三人"
+    },
+    {
+      "name": "青辣椒",
+      "amount": 0.5,
+      "unit": "只",
+      "remake": "1.5只/三人"
+    },
+    {
+      "name": "盐",
+      "amount": 3,
+      "unit": "克",
+      "remake": "份数 * 3g"
+    },
+    {
+      "name": "鸡精",
+      "amount": 1.5,
+      "unit": "克",
+      "remake": "份数 * 1.5g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "豆腐洗净，切约5mm厚度，置于碟中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱洗净，除去根部，切成葱花，备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "辣椒洗净，切开，去籽，切成1cm*1cm状，备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，加入适量油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "油入锅后使其均匀布于锅底，均匀放入豆腐，小火煎至金黄翻面",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待两面金黄，盛入碟中备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "补油至覆盖锅底，倒入辣椒大火翻炒，并铲碾3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入豆腐，翻炒，加入盐与鸡精，中火翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入10ml水，大火收汁",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅前撒上葱花，起锅盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    14,
+    22
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    14,
+    22
+  ],
+  "additional_notes": []
+}

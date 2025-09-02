@@ -1,0 +1,107 @@
+{
+  "id": "7c00099b-f3c8-444c-a586-17851818c0e3",
+  "category": "饮品",
+  "name": "酸梅汤（半成品加工）",
+  "description": "",
+  "source_path": "dishes/drink/酸梅汤（半成品加工）.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "容器",
+    "搅拌工具"
+  ],
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "amount": 1177,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "酸梅晶固体饮料",
+      "amount": 120,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "方糖",
+      "amount": 9,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "北京二锅头酒",
+      "amount": 48,
+      "unit": "克",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "取饮用水1177克",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "放入酸梅晶固体饮料60克，使用汤匙顺时针搅拌50圈",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入剩下60克酸梅晶固体饮料，再次使用汤匙顺时针搅拌50圈",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入9克的方糖，使用汤匙顺时针搅拌100圈",
+      "time_unit": "秒",
+      "time": [
+        45,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入二锅头酒48克，用汤匙顺时针搅拌30圈",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    }
+  ],
+  "take_time": [
+    2,
+    3
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    2,
+    3
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,154 @@
+{
+  "id": "9d3c65e0-8d22-480a-8768-dc3b0d865e7a",
+  "category": "早餐",
+  "name": "鸡蛋三明治",
+  "description": "",
+  "source_path": "dishes/breakfast/鸡蛋三明治.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "平底锅",
+    "刀",
+    "砧板",
+    "碗",
+    "勺子"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "吐司",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "培根",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "黄油",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蛋黄酱",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "黑胡椒",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "吐司切去四边",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸡蛋煮熟",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捣碎煮熟的鸡蛋",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "混合鸡蛋、蛋黄酱、盐、黑胡椒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加入黄油，煎熟培根",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "组装吐司，在两片吐司间加入制作好的鸡蛋酱及培根",
+      "time_unit": "秒",
+      "time": [
+        40,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "四边形吐司切成三角形装盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    4,
+    7
+  ],
+  "wait_time": [
+    8,
+    10
+  ],
+  "total_time": [
+    12,
+    17
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "也可加入芝士、酸黄瓜等食材"
+    }
+  ]
+}

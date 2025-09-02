@@ -1,0 +1,167 @@
+{
+  "id": "a816c039-6af6-4011-bcbe-6027dbb8545b",
+  "category": "主食",
+  "name": "茄子肉煎饼",
+  "description": "",
+  "source_path": "dishes/staple/茄子肉煎饼/茄子肉煎饼.md",
+  "image_id": "31c6381f-2c02-453b-b5e2-ce4dbca45a4b",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/31c6381f-2c02-453b-b5e2-ce4dbca45a4b.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "米粉",
+      "amount": 250,
+      "unit": "克",
+      "remake": "指用大米研磨成的粉"
+    },
+    {
+      "name": "小麦粉",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "煮熟的腊肉",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "茄子",
+      "amount": 1,
+      "unit": "根",
+      "remake": "买长条状的，越圆越好，约10-15cm长"
+    },
+    {
+      "name": "食用油",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": "10-15ml"
+    },
+    {
+      "name": "食盐",
+      "amount": 1.5,
+      "unit": "克",
+      "remake": "1-2g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将茄子去皮后切成片，将腊肉切成片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "依次向盆中加入米粉、面粉和鸡蛋",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "边搅拌边加入清水调节粘稠度，使混合成面糊",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将所有茄片和肉片放入面糊中，用面糊充分包裹",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "平底锅加入食用油，开小火",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "把裹了面糊的茄片、肉片放入锅中，煎至两面金黄",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续煎3-6分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        6
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒盐，翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "起锅装盘",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    26
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    15,
+    26
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "用小火煎"
+    }
+  ]
+}

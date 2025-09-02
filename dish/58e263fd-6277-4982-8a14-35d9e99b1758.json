@@ -1,0 +1,198 @@
+{
+  "id": "58e263fd-6277-4982-8a14-35d9e99b1758",
+  "category": "汤类",
+  "name": "西红柿鸡蛋汤",
+  "description": "",
+  "source_path": "dishes/soup/西红柿鸡蛋汤.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": "依照自己的口味而定，喜欢吃鸡蛋就放2个，一般就放1个"
+    },
+    {
+      "name": "香油",
+      "amount": 2,
+      "unit": "滴",
+      "remake": ""
+    },
+    {
+      "name": "味素",
+      "amount": 5,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "盐",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 5,
+      "unit": "克",
+      "remake": "葱、姜、蒜共15克"
+    },
+    {
+      "name": "姜",
+      "amount": 5,
+      "unit": "克",
+      "remake": "葱、姜、蒜共15克"
+    },
+    {
+      "name": "蒜",
+      "amount": 5,
+      "unit": "克",
+      "remake": "葱、姜、蒜共15克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将西红柿洗净，切块",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱姜蒜切碎",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸡蛋打到碗中，用筷子搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，并放入油，待能从油中看到冒出一丝烟时",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入葱姜蒜翻炒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入西红柿翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入水，放入盐",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待开锅后",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将鸡蛋液放入，并用筷子将鸡蛋打散",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入味素和香油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    13
+  ],
+  "wait_time": [
+    2,
+    5
+  ],
+  "total_time": [
+    10,
+    19
+  ],
+  "additional_notes": []
+}

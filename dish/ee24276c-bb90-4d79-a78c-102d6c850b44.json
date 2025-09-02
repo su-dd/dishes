@@ -1,0 +1,186 @@
+{
+  "id": "ee24276c-bb90-4d79-a78c-102d6c850b44",
+  "category": "甜品",
+  "name": "红柚蛋糕",
+  "description": "",
+  "source_path": "dishes/dessert/红柚蛋糕/红柚蛋糕.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "空气炸锅",
+    "锡纸盘"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "面粉",
+      "amount": 80,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "红柚果肉",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 80,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "糖",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "锡纸盘里打入鸡蛋2个，加入红柚果肉20g",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锡纸盘中倒入15ml油并摇晃锡纸盘使其均匀覆盖盘底",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锡纸盘中放入10g糖，以及40g面粉和40ml水",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用筷子顺时针方向搅拌至淡黄色糊状",
+      "time_unit": "秒",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锡纸盘中放入5g糖，以及40g面粉和40ml水",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "继续用筷子搅拌至淡黄色糊状",
+      "time_unit": "秒",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锡纸盘放入空气炸锅的烤篮上，用180摄氏度烤15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "打开空气炸锅，小心取出锡纸盘，用筷子或勺子将蛋糕翻面",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续180摄氏度烤8分钟",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出即可食用",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    3,
+    6
+  ],
+  "wait_time": [
+    23,
+    23
+  ],
+  "total_time": [
+    26,
+    29
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "如果喜欢较甜的口感可以增加 10g 糖"
+    },
+    {
+      "type": "list_item",
+      "content": "红柚果肉可以酌情添加，但每份最好不超过 40g 以免影响成品观感"
+    },
+    {
+      "type": "list_item",
+      "content": "糊状指没有面粉疙瘩且整体颜色均匀"
+    },
+    {
+      "type": "list_item",
+      "content": "刚出锅的锡纸盘比较烫，请用夹子夹取或使用湿抹布之类的隔热材料拿取"
+    }
+  ]
+}

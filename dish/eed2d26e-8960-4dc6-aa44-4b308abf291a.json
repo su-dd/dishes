@@ -1,0 +1,147 @@
+{
+  "id": "eed2d26e-8960-4dc6-aa44-4b308abf291a",
+  "category": "主食",
+  "name": "炒意大利面",
+  "description": "",
+  "source_path": "dishes/staple/炒意大利面/炒意大利面.md",
+  "image_id": "e6a88ddc-934d-4bcc-8334-8f8a3ee09e19",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/e6a88ddc-934d-4bcc-8334-8f8a3ee09e19.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "铲"
+  ],
+  "ingredients": [
+    {
+      "name": "意大利面",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "肥牛片",
+      "amount": 5,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "番茄酱",
+      "amount": 1,
+      "unit": "份",
+      "remake": "或黑胡椒酱（选其一即可）"
+    },
+    {
+      "name": "菜籽油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": "其他植物油也可"
+    }
+  ],
+  "steps": [
+    {
+      "description": "加入250克水/人",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "待水烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入面条，中火煮15-20分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出面条，盛入盘中备用",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "热锅倒入食用油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待油温中热",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入面条翻炒一分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入番茄酱、肥牛、加入食盐，继续翻炒一分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "起锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    2,
+    2
+  ],
+  "wait_time": [
+    18,
+    26
+  ],
+  "total_time": [
+    20,
+    28
+  ],
+  "additional_notes": []
+}

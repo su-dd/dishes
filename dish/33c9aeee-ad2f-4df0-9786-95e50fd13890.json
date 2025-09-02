@@ -1,0 +1,133 @@
+{
+  "id": "33c9aeee-ad2f-4df0-9786-95e50fd13890",
+  "category": "主食",
+  "name": "煮泡面加蛋",
+  "description": "",
+  "source_path": "dishes/staple/煮泡面加蛋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅"
+  ],
+  "ingredients": [
+    {
+      "name": "泡面",
+      "amount": 1,
+      "unit": "包",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 550,
+      "unit": "毫升",
+      "remake": "根据锅的情况，以能完整将泡面浸入其中为准"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将水加热至沸腾",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将面饼放入锅中",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将佐料放入锅中",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用筷子拨动泡面使佐料溶解",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖上锅盖等待水再次沸腾",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "去壳鸡蛋加入锅中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待鸡蛋和面条煮熟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    0,
+    1
+  ],
+  "wait_time": [
+    7,
+    13
+  ],
+  "total_time": [
+    7,
+    14
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "本指南中的鸡蛋包括但不仅限于：生鸡蛋，熟鸡蛋，卤蛋等"
+    },
+    {
+      "type": "list_item",
+      "content": "原材料泡面可在楼下便利店购买"
+    },
+    {
+      "type": "list_item",
+      "content": "可根据个人需要加入佐料，和其他食材包括但不仅限于：火腿肠，生菜，小肉丝，辣条，鱼干，虾仁，鸡腿"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "392bf15b-1ad2-4c6e-a2d2-eb5824c404ff",
+  "category": "饮品",
+  "name": "奇异果菠菜特调",
+  "description": "",
+  "source_path": "dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md",
+  "image_id": "26429ba5-cf15-48f9-8506-49a940e89456",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/26429ba5-cf15-48f9-8506-49a940e89456.webp",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "榨汁机"
+  ],
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "amount": 700,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "奇异果",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "苹果",
+      "amount": 0.5,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "菠菜叶",
+      "amount": 4,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 12,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将猕猴桃切成两半，每半再分四份小块",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将苹果切丁",
+      "time_unit": "秒",
+      "time": [
+        40,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将菠菜叶去梗，只留叶子部分",
+      "time_unit": "秒",
+      "time": [
+        60,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将菠菜切碎",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "一起倒入榨汁机搅拌杯",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "注水",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入白砂糖",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "启动搅拌机，搅拌约4个15秒（每15秒停下看状态）",
+      "time_unit": "秒",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    4,
+    5
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    4,
+    5
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "关于白砂糖的量：全糖为 12g，可根据个人情况在 0-12g 中调整"
+    },
+    {
+      "type": "list_item",
+      "content": "本品是仿照宜家的奇异果菠菜汁自己研制的，没有宜家的好喝，但也不错"
+    },
+    {
+      "type": "list_item",
+      "content": "欢迎改进！"
+    }
+  ]
+}

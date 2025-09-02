@@ -1,0 +1,248 @@
+{
+  "id": "4c9bf64e-8b43-4c9d-89ed-65480de8f221",
+  "category": "肉食",
+  "name": "杀猪菜",
+  "description": "",
+  "source_path": "dishes/meat_dish/杀猪菜.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 3,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板",
+    "碗",
+    "勺子"
+  ],
+  "ingredients": [
+    {
+      "name": "血肠",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "酸菜",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "排骨",
+      "amount": 400,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜瓣",
+      "amount": 5,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "姜粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "干辣椒",
+      "amount": 5,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "香叶",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "葱结",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "香油",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "菜籽油",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "辣椒油",
+      "amount": 5,
+      "unit": "克",
+      "remake": "蘸料"
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "克",
+      "remake": "蘸料"
+    },
+    {
+      "name": "蒜蓉",
+      "amount": 5,
+      "unit": "克",
+      "remake": "蘸料"
+    },
+    {
+      "name": "香油",
+      "amount": 2,
+      "unit": "克",
+      "remake": "蘸料"
+    }
+  ],
+  "steps": [
+    {
+      "description": "血肠用牙签扎小孔，放水中小火煮十分钟，保持80度水温",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煮好的血肠切块备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "排骨放料酒焯水，控干水分备用",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅内放菜籽油，放蒜瓣、干辣椒、姜粉炒香",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入排骨翻炒至表面金黄",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "酸菜洗净拧干水分，放入锅中加香油大火翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入热水600毫升",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转入电压力锅，加香叶、八角、葱结、盐",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "浓香模式压40分钟",
+      "time_unit": "分钟",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放气开盖，加入血肠和枸杞，盖上锅盖焖",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入盆中，调制蘸料",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    24,
+    32
+  ],
+  "wait_time": [
+    42,
+    42
+  ],
+  "total_time": [
+    66,
+    74
+  ],
+  "additional_notes": []
+}

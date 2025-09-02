@@ -1,0 +1,185 @@
+{
+  "id": "28af38fb-ca79-4dc8-936a-dd38ccb0b632",
+  "category": "肉食",
+  "name": "蒜苔炒肉末",
+  "description": "",
+  "source_path": "dishes/meat_dish/蒜苔炒肉末.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "炒锅",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "蒜苔",
+      "amount": 1,
+      "unit": "扎",
+      "remake": "每扎蒜苔约190g"
+    },
+    {
+      "name": "五花肉薄片",
+      "amount": 4,
+      "unit": "片",
+      "remake": "约20g"
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升"
+    },
+    {
+      "name": "蒜瓣",
+      "amount": 2,
+      "unit": "瓣"
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "食用盐",
+      "amount": 2,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "蒜苔切成5cm小段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "五花肉切成5mm*5cm丝状",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜瓣拍碎切成末",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，锅内放入10ml食用油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待10秒让油温升高",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入蒜末，中火翻炒10秒将蒜末炒出香味",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入五花肉和5ml生抽，中火翻炒30秒将肉炒熟并上色",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将蒜苔放入锅内并加入10ml生抽，翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅内加入20g水，中火翻炒5分钟将蒜苔炒至稍稍变软",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入2g食盐，中火翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    13
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    11,
+    14
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "加入食盐前可尝一下咸淡，自行决定是否增减盐量"
+    },
+    {
+      "type": "list_item",
+      "content": "选用五花肉薄片是因为切肉简单且不用腌制即可入味"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "07c89ecb-4cc4-4208-be67-40369ea591d4",
+  "category": "主食",
+  "name": "陕西油泼面",
+  "description": "",
+  "source_path": "dishes/staple/陕西油泼面/陕西油泼面.md",
+  "image_id": "5e652bc3-4c93-4a34-8c60-8cd9e7ff38d2",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/5e652bc3-4c93-4a34-8c60-8cd9e7ff38d2.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "锅",
+    "碗"
+  ],
+  "ingredients": [
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 3,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "干辣椒面",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "香醋",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "青菜",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "豆芽",
+      "amount": 50,
+      "unit": "克",
+      "remake": "选配"
+    }
+  ],
+  "steps": [
+    {
+      "description": "用擀面杖上下两边轻压，两手拽住左右两端轻轻拉开",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱切成葱花，蒜切成蒜末备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "青菜洗净，豆芽洗净备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加入足量清水，大火烧开后加入盐",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入面条，用筷子轻轻搅动防止粘连，煮至浮起后再煮1-2分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在煮面最后1分钟放入青菜和豆芽焯水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将煮好的面条和配菜捞出沥干水分放入碗中",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "在面条上依次加入生抽、香醋、葱花、蒜末和干辣椒面",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "炒锅中倒入食用油，放入香料小火炸出香味后捞出",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待油温升至七成热时均匀泼在干辣椒面上",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用筷子将所有调料和面条充分拌匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    6,
+    10
+  ],
+  "wait_time": [
+    9,
+    14
+  ],
+  "total_time": [
+    15,
+    24
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "技术总结辣椒面的选择很关键，建议使用陕西秦椒面，香而不辣; 陕西八大怪之一: 油泼辣子一道菜😂泼油的油温是成败关键，油温过低辣椒不香，油温过高容易糊喜欢吃肉的可以加入肉末做成肉臊子油泼面传统陕西油泼面讲究“一青二白三红四绿”，即面条、蒜末、辣椒、葱花的颜色搭配"
+    }
+  ]
+}

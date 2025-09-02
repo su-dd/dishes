@@ -1,0 +1,278 @@
+{
+  "id": "dbadba34-fad4-449e-aa8d-453eca03292d",
+  "category": "水产",
+  "name": "葱油桂鱼",
+  "description": "",
+  "source_path": "dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "蒸笼",
+    "蒸锅",
+    "砧板",
+    "铁锅",
+    "塑料盘",
+    "塑料盆",
+    "一次性手套",
+    "厨房纸",
+    "蒸鱼盘子",
+    "菜刀",
+    "削皮刀",
+    "防烫盘夹",
+    "防烫手套"
+  ],
+  "ingredients": [
+    {
+      "name": "桂鱼",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "小葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": "长度为30cm"
+    },
+    {
+      "name": "小米辣",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 25,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "植物油",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 8,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒸鱼豉油",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "清水",
+      "amount": 5,
+      "unit": "升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将鱼身表面的所有鳞片刮干净",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用厨房用纸将鱼肚子里的贴骨血和黑膜擦干净",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用菜刀在鱼身表面来回刮几次，将鱼身的黏液刮掉，然后用清水将鱼内外冲洗干净",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将鱼平放在砧板，使用厨房纸将鱼内外的水分擦干，然后在鱼身每隔3cm纵向划一刀",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将姜去皮并洗干净，切成厚度为3mm的姜片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将小米辣洗干净、去蒂，切成小圆片或丝状",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将小葱洗干净，去除根须，切成3cm的小段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入盐和料酒到盆中，对鱼进行全身按摩1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在鱼身的每一个刀口中塞入姜片，鱼肚子中放入姜片，腌制10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在蒸锅中加入清水，烧开",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将多余水分和腌制用料酒、姜片倒掉，用清水冲洗干净鱼身和鱼肚，擦干",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将鱼平放在蒸鱼盘中，重新在鱼身、鱼肚刀口处塞入姜片",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将蒸鱼盘放入蒸笼中，盖上盖子，中火蒸20分钟",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用防烫夹将蒸鱼盘夹出",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "在鱼身和鱼周围淋上蒸鱼豉油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在鱼身和周围均匀撒上小葱段和小米辣",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在铁锅中倒入植物油，用中小火慢熬5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将出锅后的热油均匀地慢慢地淋在鱼身上",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    22,
+    42
+  ],
+  "wait_time": [
+    38,
+    42
+  ],
+  "total_time": [
+    60,
+    84
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,331 @@
+{
+  "id": "ae10a6ca-8977-4b00-bfe7-7cebdf9da22e",
+  "category": "肉食",
+  "name": "水煮肉片",
+  "description": "",
+  "source_path": "dishes/meat_dish/水煮肉片.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1ys411u7Z4"
+  ],
+  "difficulty": 5,
+  "servings": 2,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板",
+    "碗",
+    "盘子"
+  ],
+  "ingredients": [
+    {
+      "name": "猪里脊肉",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "小葱",
+      "amount": 2,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "生姜",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "红泡椒",
+      "amount": 20,
+      "unit": "克",
+      "remake": "根据受辣程度选择 0-40 g"
+    },
+    {
+      "name": "蒜苗",
+      "amount": 2,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "芹菜",
+      "amount": 3,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "红油豆瓣",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 1.5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽酱油",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋清",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "土豆淀粉",
+      "amount": 7,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "植物油",
+      "amount": 280,
+      "unit": "克",
+      "remake": "根据情况选择，想吃重油就多加 100g"
+    },
+    {
+      "name": "菜籽油",
+      "amount": 200,
+      "unit": "克",
+      "remake": "根据情况选择，想吃重油就多加 100g"
+    },
+    {
+      "name": "绿豆芽",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "凤尾",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "干辣椒",
+      "amount": 20,
+      "unit": "克",
+      "remake": "根据受辣程度选择 0-40g"
+    },
+    {
+      "name": "青花椒",
+      "amount": 5,
+      "unit": "克",
+      "remake": "根据情况选择，想吃麻就多 5g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "里脊肉改刀成小块，切成2毫米薄片，放入碗中用清水清洗两遍去除血水和杂质，捞出挤干水分",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "碗中加入食用盐、胡椒粉、生抽酱油、料酒，朝一个方向搅拌2分钟使其入味",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "另准备碗加入鸡蛋清和土豆淀粉，朝一个方向搅拌均匀后倒入肉中再次搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入植物油轻轻搅拌防止肉片粘连",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "处理绿豆芽、凤尾、芹菜、蒜苗等配菜，切段备用",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大蒜、生姜、红泡椒剁碎备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅内滑油，下入干辣椒和花椒小火炒香后倒出剁细",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热油爆香花椒和干辣椒，下配菜加盐炒至断生",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热油爆香姜蒜红泡椒和豆瓣，小火炒出红油",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入清水大火烧开，转小火调味并加入水淀粉收浓汤汁",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "小火下入肉片，中火烫熟，轻轻推动防止粘连",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "肉片熟后捞出放入碗中，倒入原汤",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "碗中撒上刀口辣椒、蒜蓉和葱花",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "热油烧至7成热，一次性均匀泼在肉片上",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    33,
+    53
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    33,
+    53
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "垫底的蔬菜根据自己口味选择（蘑菇、白菜、油麦菜等）。"
+    },
+    {
+      "type": "list_item",
+      "content": "刀口辣椒制作嫌麻烦也可以直接用干辣椒段和青花椒代替。"
+    },
+    {
+      "type": "list_item",
+      "content": "特别注意肉的腌制（搅拌的时候朝着一个方向、血水处理干净），保证肉滑嫩（鸡蛋清、淀粉搅拌均匀）。"
+    },
+    {
+      "type": "list_item",
+      "content": "水煮牛肉也可以按照这个做法。"
+    },
+    {
+      "type": "list_item",
+      "content": "美食作家王刚R"
+    }
+  ]
+}

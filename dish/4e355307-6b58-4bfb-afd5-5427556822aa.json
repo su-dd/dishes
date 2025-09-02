@@ -1,0 +1,263 @@
+{
+  "id": "4e355307-6b58-4bfb-afd5-5427556822aa",
+  "category": "水产",
+  "name": "鳊鱼炖豆腐",
+  "description": "",
+  "source_path": "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
+  "image_id": "1d557eca-89dd-49c1-8f9b-ff42a41b454c",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/1d557eca-89dd-49c1-8f9b-ff42a41b454c.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 3,
+  "kitchen_ware": [
+    "锅"
+  ],
+  "ingredients": [
+    {
+      "name": "鳊鱼",
+      "amount": 550,
+      "unit": "克",
+      "remake": "鱼可以让摊主帮忙处理好"
+    },
+    {
+      "name": "老豆腐",
+      "amount": 400,
+      "unit": "克"
+    },
+    {
+      "name": "姜",
+      "amount": 5,
+      "unit": "片"
+    },
+    {
+      "name": "葱",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": "50克"
+    },
+    {
+      "name": "蒜",
+      "amount": 4,
+      "unit": "个"
+    },
+    {
+      "name": "老抽",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": "不太喜欢重口的可以不放"
+    },
+    {
+      "name": "桂皮",
+      "amount": 1,
+      "unit": "块",
+      "remake": "可选"
+    },
+    {
+      "name": "冰糖",
+      "amount": 5,
+      "unit": "块"
+    },
+    {
+      "name": "干辣椒",
+      "amount": 5,
+      "unit": "个",
+      "remake": "根据个人口味选择，不吃辣可以不放"
+    },
+    {
+      "name": "料酒",
+      "amount": 5,
+      "unit": "毫升"
+    },
+    {
+      "name": "生抽",
+      "amount": 4,
+      "unit": "毫升"
+    },
+    {
+      "name": "盐",
+      "amount": 6.5,
+      "unit": "克",
+      "remake": "根据个人口味选择"
+    },
+    {
+      "name": "八角",
+      "amount": 1,
+      "unit": "个",
+      "remake": "可选"
+    },
+    {
+      "name": "香叶",
+      "amount": 2,
+      "unit": "片",
+      "remake": "可选"
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升"
+    },
+    {
+      "name": "热水",
+      "amount": 400,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鳊鱼改刀,放上姜片和料酒腌制",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "老豆腐切块后放入水中备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加油，可以放点盐在锅里，防止煎鱼的时候粘锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "把腌制的鱼用厨房纸擦干水分",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "把鱼放到锅中，两面都煎一下",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等两面都煎好时，把鱼推向锅边一点，留点空间放入葱姜蒜，干辣椒，香叶，八角炒出味道",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "炒出佐料香味后，加入料酒，生抽，老抽，冰糖，桂皮",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入热水，水量和鱼平齐或者少点",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入老豆腐，豆腐贴在锅边，加入食盐",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转小火烧",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火收汁",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    9,
+    14
+  ],
+  "wait_time": [
+    17,
+    29
+  ],
+  "total_time": [
+    26,
+    43
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "鱼的两面，各煎 2-4 分钟即可"
+    },
+    {
+      "type": "list_item",
+      "content": "煎鱼的时候全程中小火"
+    },
+    {
+      "type": "list_item",
+      "content": "最后出锅时，加入一些切碎的大蒜，味道会更好"
+    }
+  ]
+}

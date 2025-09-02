@@ -1,0 +1,191 @@
+{
+  "id": "953d84f0-cb70-499b-9e69-742c2408efe7",
+  "category": "肉食",
+  "name": "糖醋排骨",
+  "description": "",
+  "source_path": "dishes/meat_dish/糖醋排骨/糖醋排骨.md",
+  "image_id": "31139e02-d30c-4508-968b-d55644a34a68",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/31139e02-d30c-4508-968b-d55644a34a68.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅具"
+  ],
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 300,
+      "unit": "毫升",
+      "remake": "油量需根据锅具大小调整，如用于深炸则以足以覆盖排骨 2/3 为准"
+    },
+    {
+      "name": "生抽",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜片",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "芝麻",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "番茄酱",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香醋",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "五香粉",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "排骨与姜片放入冷水中，大火加热至水沸腾、出现大量泡沫后转中火，待水持续沸腾时再转小火焯水2-3分钟，捞出备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用开水反复清洗排骨2-3遍，确保彻底去除血沫",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在锅中倒入足够量的食用油进行深炸，待油温升至约170°C后，下排骨炸制3-5分钟，直至表面略呈金黄色，捞出控油",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "另取干净锅，置于小火上加热50ml热水，加入白砂糖30g，轻轻搅拌直至糖完全溶解，并略呈淡黄色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将炸好的排骨倒入炒制糖水的锅中，迅速翻炒30秒后，依次加入香醋、生抽、蚝油、鸡精、番茄酱、五香粉，再次翻炒30秒，使调料均匀裹覆排骨，然后加入开水至刚好没过排骨",
+      "time_unit": "秒",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用大火将锅中液体煮沸后，加入老抽进行上色，并快速收汁；若排骨块较大，可转小火焖煮5-10分钟以便更好地入味",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "起锅装盘，撒上芝麻",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    14,
+    24
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    14,
+    24
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "炸排骨时可根据实际情况轻撒少量干淀粉于排骨表面，以提升酥脆口感。"
+    },
+    {
+      "type": "list_item",
+      "content": "焯水时注意火力变化：冷水下锅后先用大火至水沸腾、泡沫丰富，再转中火，最后转小火焯水；焯水后应使用开水清洗，避免因温差过大导致肉质变柴。"
+    },
+    {
+      "type": "list_item",
+      "content": "步骤四的关键在于确保白糖完全溶解，无须过分依赖颜色变化判断。"
+    },
+    {
+      "type": "list_item",
+      "content": "收汁时应快速翻炒，使排骨均匀裹上调料，避免长时间煮炖造成口感损失。"
+    }
+  ]
+}

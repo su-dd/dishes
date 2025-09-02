@@ -1,0 +1,152 @@
+{
+  "id": "56e1355d-fc4c-4efa-895d-83efd9f67a41",
+  "category": "早餐",
+  "name": "苏格兰蛋",
+  "description": "",
+  "source_path": "dishes/breakfast/苏格兰蛋/苏格兰蛋.md",
+  "image_id": "e87c4df1-5051-49b9-afa4-812dea45f111",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/e87c4df1-5051-49b9-afa4-812dea45f111.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "空气炸锅",
+    "油锅"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "颗",
+      "remake": "约50g"
+    },
+    {
+      "name": "手抓饼皮",
+      "amount": 1,
+      "unit": "份",
+      "remake": "看鸡蛋大小，1-2份"
+    },
+    {
+      "name": "芝士",
+      "amount": 1,
+      "unit": "片",
+      "remake": "1-2片"
+    },
+    {
+      "name": "培根",
+      "amount": 1,
+      "unit": "片",
+      "remake": "1-2片"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡蛋冷水下锅，水开后煮3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "鸡蛋捞出放入冰水中冷却",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "剥去鸡蛋壳",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用芝士片包裹鸡蛋",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用培根片包裹鸡蛋",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "手抓饼两端切除后包裹鸡蛋",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "油温六成热时下锅炸至金黄",
+      "time_unit": "分钟",
+      "time": [
+        4,
+        6
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "空气炸锅160度烤制15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "切开装盘即可食用",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    5,
+    8
+  ],
+  "wait_time": [
+    20,
+    21
+  ],
+  "total_time": [
+    25,
+    29
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "芝士片、培根片、手抓饼直接淘宝购买即可"
+    }
+  ]
+}

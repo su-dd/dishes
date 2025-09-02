@@ -1,0 +1,210 @@
+{
+  "id": "e9cdcf70-e52a-4af3-8eb3-6bffe7c1e3e9",
+  "category": "主食",
+  "name": "汤面",
+  "description": "",
+  "source_path": "dishes/staple/汤面.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗"
+  ],
+  "ingredients": [
+    {
+      "name": "面",
+      "amount": 70,
+      "unit": "克",
+      "remake": "单人一个方便面大小的量，可以在70-230g之间选择"
+    },
+    {
+      "name": "冷水",
+      "amount": 200,
+      "unit": "毫升",
+      "remake": "加入能浸没面的量，一般在200-400ml之间选择"
+    },
+    {
+      "name": "菜类",
+      "amount": 1,
+      "unit": "份",
+      "remake": "体积大约和面类相当，其中青菜体积可忽略"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将菜类材料切成边长不超过4cm的块状",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生肉放入冷水中煮沸腾，捞出上层血沫",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火捞出半熟的肉备用",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火将水加热至沸腾",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "调至中火",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入较难煮熟的食材",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沸腾后煮10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大块食材追加煮5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入面食并适当搅拌",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煮面5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入青菜类食材并适当搅拌",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煮青菜2-5分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入调味料并适当搅拌",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅食用",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    21,
+    35
+  ],
+  "wait_time": [
+    22,
+    25
+  ],
+  "total_time": [
+    43,
+    60
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作流程可根据自己喜好更改，多多尝试会有惊喜"
+    },
+    {
+      "type": "list_item",
+      "content": "如掌握不好加盐量，可采用少量多次添加的方法，以免过量"
+    }
+  ]
+}

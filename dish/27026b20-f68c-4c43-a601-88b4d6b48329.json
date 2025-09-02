@@ -1,0 +1,132 @@
+{
+  "id": "27026b20-f68c-4c43-a601-88b4d6b48329",
+  "category": "蔬菜",
+  "name": "炒青菜",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/炒青菜.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅"
+  ],
+  "ingredients": [
+    {
+      "name": "青菜",
+      "amount": 100,
+      "unit": "克",
+      "remake": "份数"
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": "覆盖锅底即可"
+    },
+    {
+      "name": "食盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": "份数"
+    },
+    {
+      "name": "饮用水",
+      "amount": 70,
+      "unit": "毫升",
+      "remake": "份数"
+    },
+    {
+      "name": "白糖",
+      "amount": 5,
+      "unit": "克",
+      "remake": "份数"
+    }
+  ],
+  "steps": [
+    {
+      "description": "青菜掰成小瓣，用清水洗净，备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "中火或大火热锅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅内放入食用油，等待30秒让油温升高",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将青菜倒入锅中，翻炒至青菜变软",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入清水，加入食盐，继续翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入白糖小火加热，加热时盖上锅盖",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    5,
+    10
+  ],
+  "wait_time": [
+    2,
+    2
+  ],
+  "total_time": [
+    7,
+    12
+  ],
+  "additional_notes": []
+}

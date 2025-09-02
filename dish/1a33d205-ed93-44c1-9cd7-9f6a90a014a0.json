@@ -1,0 +1,198 @@
+{
+  "id": "1a33d205-ed93-44c1-9cd7-9f6a90a014a0",
+  "category": "蔬菜",
+  "name": "芹菜拌茶树菇",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
+  "image_id": "d73017d6-401c-4486-8e4d-e0536ef106b7",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/d73017d6-401c-4486-8e4d-e0536ef106b7.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [
+    "瓶",
+    "焯水工具"
+  ],
+  "ingredients": [
+    {
+      "name": "茶树菇",
+      "amount": 1,
+      "unit": "瓶",
+      "remake": "闽星茶树菇"
+    },
+    {
+      "name": "芹菜",
+      "amount": 275,
+      "unit": "克",
+      "remake": "推荐30cm高的芹菜苗,没有芹菜苗可以用山芹或芹菜代替但是需要稍微焯水断生"
+    },
+    {
+      "name": "香油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 7,
+      "unit": "毫升",
+      "remake": "大约7ml"
+    },
+    {
+      "name": "味极鲜",
+      "amount": 3,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": "大约2g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "用热水壶烧一壶热水",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "新鲜的芹菜苗或者芹菜摘去黄叶清洗",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将芹菜摘去叶子单独放一个盆中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将芹菜茎用刀划成2-3毫米宽的芹菜条",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "芹菜苗切成4cm的芹菜段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅开火，将热水壶的开水倒入锅中待水起泡沸腾",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将切好的芹菜条放入锅中焯水20秒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入芹菜叶焯水5秒",
+      "time_unit": "秒",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火全部捞出过凉水",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将焯好的芹菜或者芹菜苗撒上食盐、香油、耗油和味极鲜搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将茶树菇倒入盆中搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "装盘",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    18
+  ],
+  "wait_time": [
+    5,
+    8
+  ],
+  "total_time": [
+    15,
+    26
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "焯水时的水位需要没过芹菜"
+    },
+    {
+      "type": "list_item",
+      "content": "芹菜叶太老太硬的话可以不要"
+    }
+  ]
+}

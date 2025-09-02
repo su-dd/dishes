@@ -1,0 +1,167 @@
+{
+  "id": "32ed3612-4157-4778-a758-e330e4a1b223",
+  "category": "蔬菜",
+  "name": "西葫芦炒鸡蛋",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
+  "image_id": "2daee1ac-98b3-45c9-bd49-fd27d386a870",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/2daee1ac-98b3-45c9-bd49-fd27d386a870.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [
+    "炒锅",
+    "锅铲",
+    "刀具",
+    "砧板",
+    "碗",
+    "筷子"
+  ],
+  "ingredients": [
+    {
+      "name": "西葫芦",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "西红柿",
+      "amount": 100,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 3,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": "10-20ml"
+    },
+    {
+      "name": "食用盐",
+      "amount": 6,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "西红柿洗净，切成小块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "西葫芦洗净，切成边长约为4cm的菱形",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "打三个鸡蛋到碗里，打散搅匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，锅内放入5ml-10ml食用油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入鸡蛋，保持翻炒至鸡蛋成固体，用锅铲分成小块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅内放入5ml-10ml食用油，倒入西红柿，炒至变软",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入西葫芦一起翻炒均匀，放入6g食用盐",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将火调小然后等待4-5分钟",
+      "time_unit": "分钟",
+      "time": [
+        4,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入备用的鸡蛋，中火翻炒15秒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    12,
+    20
+  ],
+  "wait_time": [
+    4,
+    5
+  ],
+  "total_time": [
+    16,
+    25
+  ],
+  "additional_notes": []
+}

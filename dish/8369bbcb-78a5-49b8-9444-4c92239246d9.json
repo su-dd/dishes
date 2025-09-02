@@ -1,0 +1,94 @@
+{
+  "id": "8369bbcb-78a5-49b8-9444-4c92239246d9",
+  "category": "半成品",
+  "name": "懒人蛋挞",
+  "description": "",
+  "source_path": "dishes/semi-finished/懒人蛋挞/懒人蛋挞.md",
+  "image_id": "488fc6d6-f8a0-4793-b535-0a4101366f49",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/488fc6d6-f8a0-4793-b535-0a4101366f49.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "烤箱",
+    "隔热手套"
+  ],
+  "ingredients": [
+    {
+      "name": "蛋挞液",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": "到达挞皮的4/5最佳"
+    },
+    {
+      "name": "蛋挞皮",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "烤箱预热至200度",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "在烤盘上摆放蛋挞皮并倒入蛋挞液约4/5满",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将烤盘放入烤箱，上下火190度烘烤",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "观察蛋挞液出现焦褐斑点，蛋挞皮完全蓬松冒油后取出",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    3,
+    5
+  ],
+  "wait_time": [
+    18,
+    32
+  ],
+  "total_time": [
+    21,
+    37
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，可以根据焦褐斑大小适当调整时间，如果需要"
+    },
+    {
+      "type": "list_item",
+      "content": "可以在蛋挞中加 10g 碎芝士，就是一道芝士蛋挞啦~"
+    }
+  ]
+}

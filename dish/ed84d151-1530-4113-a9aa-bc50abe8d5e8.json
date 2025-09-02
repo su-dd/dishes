@@ -1,0 +1,143 @@
+{
+  "id": "ed84d151-1530-4113-a9aa-bc50abe8d5e8",
+  "category": "主食",
+  "name": "意式肉酱面",
+  "description": "",
+  "source_path": "dishes/staple/意式肉酱面/意式肉酱面.md",
+  "image_id": "1acedbc5-4dfe-4304-9690-137f6b36ed30",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/1acedbc5-4dfe-4304-9690-137f6b36ed30.webp",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 2,
+  "kitchen_ware": [
+    "锅",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "意大利面",
+      "amount": 180,
+      "unit": "克",
+      "remake": "可以根据食量上下浮动"
+    },
+    {
+      "name": "肉沫",
+      "amount": 80,
+      "unit": "克",
+      "remake": "可以根据食量上下浮动"
+    },
+    {
+      "name": "白洋葱",
+      "amount": 150,
+      "unit": "克",
+      "remake": "大约150克，通常是肉的两倍重"
+    },
+    {
+      "name": "意大利面酱",
+      "amount": 300,
+      "unit": "克",
+      "remake": "可以看情况上下浮动"
+    },
+    {
+      "name": "食用油",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": "10-15ml"
+    }
+  ],
+  "steps": [
+    {
+      "description": "锅中加水，烧开后放入意面",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "洋葱切成小丁",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "空锅中倒油，中火下入洋葱碎",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "时刻搅拌，直到洋葱变成半透明状",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入肉沫，继续搅拌直到肉末变成棕色",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入意大利面酱，稍微搅拌一下",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "把煮好的意大利面沥干水分并倒入肉酱中搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    13,
+    21
+  ],
+  "wait_time": [
+    8,
+    15
+  ],
+  "total_time": [
+    21,
+    36
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "意大利面分为很多不同的粗细，煮面条之前请注意意面盒子上标注的时间"
+    },
+    {
+      "type": "list_item",
+      "content": "意大利面酱并不是番茄酱，平常用的番茄酱准确是叫番茄沙司，而意大利面酱虽然和番茄沙司都是调味过的番茄酱，但加的调味料不同"
+    }
+  ]
+}

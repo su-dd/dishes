@@ -1,0 +1,257 @@
+{
+  "id": "1bd9221c-1fdf-4835-b4fb-951f149344c2",
+  "category": "甜品",
+  "name": "魔芋蛋糕",
+  "description": "",
+  "source_path": "dishes/dessert/魔芋蛋糕/魔芋蛋糕.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "烤箱",
+    "电动打蛋器",
+    "金属蛋糕模具",
+    "烘焙纸",
+    "餐刀",
+    "隔热手套",
+    "分蛋器"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 3,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "赤藓糖醇",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "可可粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "魔芋粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "塔塔粉",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "预热烤箱至150℃",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "从冰箱取出鸡蛋",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "准备两个干燥容器分离蛋清蛋黄",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "分离蛋清蛋黄",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蛋清中加入塔塔粉",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "高速打发蛋白至粗大气泡状态",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入赤藓糖醇继续打发",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "中低速打发蛋白至干性发泡",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入蛋黄中低速搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入可可粉和魔芋粉翻拌",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "打蛋器低速搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "模具铺烘焙纸",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "倒入蛋糕糊并抹平震荡",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "烘烤蛋糕",
+      "time_unit": "分钟",
+      "time": [
+        25,
+        25
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出烤好的蛋糕",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "震出热气",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒扣冷却10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    },
+    {
+      "description": "脱模切块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    18,
+    29
+  ],
+  "wait_time": [
+    30,
+    35
+  ],
+  "total_time": [
+    48,
+    64
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "本食谱主要参考视频Keto Konjac Chocolate Cake｜生酮蛋糕"
+    },
+    {
+      "type": "list_item",
+      "content": "打发蛋白等部分大幅借鉴戚风蛋糕制作流程"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "id": "ca32184d-50b5-4e7d-b4a1-29a02640a99e",
+  "category": "蔬菜",
+  "name": "雷椒皮蛋",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/雷椒皮蛋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "深一点的小铁盆"
+  ],
+  "ingredients": [
+    {
+      "name": "皮蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "青椒",
+      "amount": 4,
+      "unit": "根",
+      "remake": "长条青椒，长10-15cm，宽2-4cm"
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "段",
+      "remake": "大约10cm即可，葱绿最佳"
+    },
+    {
+      "name": "蒜",
+      "amount": 3.5,
+      "unit": "瓣",
+      "remake": "3-4瓣"
+    },
+    {
+      "name": "食用油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": "10-20ml"
+    },
+    {
+      "name": "生抽",
+      "amount": 17.5,
+      "unit": "毫升",
+      "remake": "15-20ml"
+    },
+    {
+      "name": "陈醋",
+      "amount": 17.5,
+      "unit": "毫升",
+      "remake": "15-20ml"
+    },
+    {
+      "name": "白糖",
+      "amount": 8,
+      "unit": "克",
+      "remake": "6-10g"
+    },
+    {
+      "name": "香油",
+      "amount": 6,
+      "unit": "毫升",
+      "remake": "5-7ml"
+    },
+    {
+      "name": "小米辣",
+      "amount": 3.5,
+      "unit": "颗",
+      "remake": "3-4颗，可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "青椒清洗，去除根部，侧面切开，去除内部的子后在案板压平",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱切成半厘米小段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜去皮，切成碎末",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "皮蛋去皮",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小米辣切成5-10mm的小段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，锅内放入10ml-20ml食用油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入全部青椒，改小火保持锅子温度，煎至青椒变软",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，将皮蛋和青椒放入小铁盆中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用擀面杖的一头在小盆中砸击皮蛋和青椒，至皮蛋与青椒混合",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将青椒用手撕开成半厘米的条状，用叉子将皮蛋压碎",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "倒入生抽，陈醋，白糖，香油，以及其他未使用的备用食材",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "均匀搅拌",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    19,
+    31
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    19,
+    31
+  ],
+  "additional_notes": []
+}

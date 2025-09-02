@@ -1,0 +1,181 @@
+{
+  "id": "ec91fe29-8834-47bc-a533-9bdb4b59d100",
+  "category": "肉食",
+  "name": "咖喱肥牛",
+  "description": "",
+  "source_path": "dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
+  "image_id": "17b29732-bc19-4b47-b2a8-876d7b254a7f",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/17b29732-bc19-4b47-b2a8-876d7b254a7f.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "香叶",
+      "amount": 1,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "纯牛奶",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "洋葱",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 150,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "土豆",
+      "amount": 200,
+      "unit": "克",
+      "remake": "挺饱腹的，酌情添加"
+    },
+    {
+      "name": "肥牛卷",
+      "amount": 300,
+      "unit": "克",
+      "remake": "喜欢吃肉就多来点"
+    },
+    {
+      "name": "咖喱块",
+      "amount": 2,
+      "unit": "块",
+      "remake": "大约100g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "洋葱切成条状、胡萝卜以及土豆切成块状",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "烧一锅开水",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "肥牛卷下锅，捞出血沫后沥水",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热锅，放入食用油，等待油温升高",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入洋葱，翻炒至变软变透明",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入土豆和胡萝卜翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入冷水至淹没食材",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "投入香叶和咖喱块，炖至土豆胡萝卜软烂",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入肥牛卷和牛奶，小火煮",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    11
+  ],
+  "wait_time": [
+    22,
+    31
+  ],
+  "total_time": [
+    29,
+    42
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "咖喱块不用捣碎，直接整块投入即可。"
+    },
+    {
+      "type": "list_item",
+      "content": "操作时，需要注意搅拌食材，避免食材调味料不均匀。"
+    }
+  ]
+}

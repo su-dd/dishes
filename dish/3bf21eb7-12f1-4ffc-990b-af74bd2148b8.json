@@ -1,0 +1,248 @@
+{
+  "id": "3bf21eb7-12f1-4ffc-990b-af74bd2148b8",
+  "category": "甜品",
+  "name": "芋泥雪媚娘",
+  "description": "",
+  "source_path": "dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md",
+  "image_id": "44d7dc31-c993-4c75-a7a0-661ec4dd9322",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/44d7dc31-c993-4c75-a7a0-661ec4dd9322.webp",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 4,
+  "kitchen_ware": [
+    "料理搅拌机",
+    "电动打蛋器",
+    "筛网",
+    "保鲜膜"
+  ],
+  "ingredients": [
+    {
+      "name": "荔浦芋头",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "紫薯粉",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "牛奶",
+      "amount": 165,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "糯米粉",
+      "amount": 50,
+      "unit": "克",
+      "remake": "a"
+    },
+    {
+      "name": "糯米粉",
+      "amount": 75,
+      "unit": "克",
+      "remake": "b"
+    },
+    {
+      "name": "玉米淀粉",
+      "amount": 22,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "黄油",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "淡奶油",
+      "amount": 145,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 26,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "芋头切块，大火煮熟至软",
+      "time_unit": "分钟",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将煮熟的芋头放入料理机，加入牛奶和淡奶油打成泥状",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入紫薯粉和白砂糖，继续搅拌打成细腻芋泥",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "混合糯米粉、玉米淀粉、牛奶和白砂糖，混匀并过筛",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "盖上保鲜膜扎小洞，中火蒸半个小时",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将糯米粉小火翻炒至微微发黄作为手粉",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将蒸好的糯米混合物趁热加入黄油揉至完全吸收",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将面团放冰箱冷藏一小时",
+      "time_unit": "分钟",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "打发淡奶油和白砂糖至有纹路",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将打发好的奶油装进裱花袋",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取出冷藏面团搓揉5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将面团分成30g一个的小剂子",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "撒手粉防粘，擀成圆形面皮",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "挤上奶油，放上芋泥，包成包子形状",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "包好后撒手粉防粘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    32,
+    49
+  ],
+  "wait_time": [
+    130,
+    130
+  ],
+  "total_time": [
+    162,
+    179
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "制作时最好佩戴不粘手套"
+    },
+    {
+      "type": "list_item",
+      "content": "制作完即可食用，不用再加热"
+    }
+  ]
+}

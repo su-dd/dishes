@@ -1,0 +1,242 @@
+{
+  "id": "faed00cd-67ab-4825-ae47-abae262877a9",
+  "category": "主食",
+  "name": "微波炉腊肠煲仔饭",
+  "description": "",
+  "source_path": "dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
+  "image_id": "5faca0b2-6921-4053-8701-a988e21dec15",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/5faca0b2-6921-4053-8701-a988e21dec15.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "微波炉",
+    "大碗",
+    "小碗"
+  ],
+  "ingredients": [
+    {
+      "name": "米",
+      "amount": 200,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "腊肠",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "红萝卜",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "香葱",
+      "amount": 1,
+      "unit": "颗",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将米淘洗干净后倒入碗内，加入400ml的水，盖上盖",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "放入微波炉，高火，煮饭",
+      "time_unit": "分钟",
+      "time": [
+        6,
+        6
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "切好腊肠",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "洗好青菜",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "切好红萝卜片",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "切好葱花",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "碗中放入青菜、红萝卜片，倒入10ml油，放入5g盐",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "碗中倒入10ml生抽、5ml油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "取出米饭，在米饭上摆入切片的腊肠",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续高火加热",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出腊肠饭，放入青菜",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "高火加热青菜",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在腊肠饭上摆好青菜，磕入鸡蛋",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "高火加热鸡蛋",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加热生抽",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在腊肠饭上淋上生抽，撒上葱花",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    11,
+    20
+  ],
+  "wait_time": [
+    9,
+    12
+  ],
+  "total_time": [
+    20,
+    32
+  ],
+  "additional_notes": []
+}

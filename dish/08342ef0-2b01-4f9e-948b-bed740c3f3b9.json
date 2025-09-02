@@ -1,0 +1,274 @@
+{
+  "id": "08342ef0-2b01-4f9e-948b-bed740c3f3b9",
+  "category": "水产",
+  "name": "香煎翘嘴鱼",
+  "description": "",
+  "source_path": "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
+  "image_id": "6f4daca9-487e-4469-bdc8-f1a4266b3c31",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/6f4daca9-487e-4469-bdc8-f1a4266b3c31.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 3,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "翘嘴鱼",
+      "amount": 2,
+      "unit": "斤",
+      "remake": "肉食性鱼类，肉细腻，口感好"
+    },
+    {
+      "name": "姜",
+      "amount": 20,
+      "unit": "克",
+      "remake": "姜沫"
+    },
+    {
+      "name": "葱",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": "约50克"
+    },
+    {
+      "name": "蒜",
+      "amount": 4,
+      "unit": "个"
+    },
+    {
+      "name": "青椒",
+      "amount": 1,
+      "unit": "适量"
+    },
+    {
+      "name": "香菜",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "个人口味"
+    },
+    {
+      "name": "老抽",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": "不太喜欢重口的可以不放"
+    },
+    {
+      "name": "白糖",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 1,
+      "unit": "适量"
+    },
+    {
+      "name": "干辣椒",
+      "amount": 5,
+      "unit": "个",
+      "remake": "4-6个，根据个人口味选择"
+    },
+    {
+      "name": "料酒",
+      "amount": 100,
+      "unit": "毫升"
+    },
+    {
+      "name": "生抽",
+      "amount": 4,
+      "unit": "毫升"
+    },
+    {
+      "name": "盐",
+      "amount": 50,
+      "unit": "克",
+      "remake": "用于腌制鱼"
+    },
+    {
+      "name": "食用油",
+      "amount": 100,
+      "unit": "毫升"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鱼开背杀好，清洗干净",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鱼表面用盐涂抹均匀，倒入料酒，姜末",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入冰箱保鲜层进行腌制",
+      "time_unit": "天",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取出腌制好的鱼，用绳挂起晾晒至半干",
+      "time_unit": "天",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将鱼用清水清洗，沥干水分",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "开大火将锅烧热，改小火，锅中放油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将鱼沿锅边划入锅内，先煎鱼背面",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煎鱼背面，不要移动鱼",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻面煎另一面",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入豆瓣酱炒香味，放入姜蒜",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入料酒，生抽，老抽，倒入热水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中大火煮",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入青椒段，白糖，鸡精，十三香，陈醋",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "小火煮",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入葱，香菜，出锅",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    19,
+    35
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    19,
+    35
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "切记鱼是开背杀，腌制时，鱼表面涂抹均匀食盐即可，腌制时间，晾晒时间 1-2 天即可"
+    },
+    {
+      "type": "list_item",
+      "content": "煎鱼全程小火，刚入锅时不要移动鱼，会破皮"
+    },
+    {
+      "type": "list_item",
+      "content": "青椒断放入后注意观察熟透程度，里面的青椒很好吃，另外香菜最后放"
+    },
+    {
+      "type": "list_item",
+      "content": "注意火候的切换，豆瓣酱，白糖的调鲜效果，与陈醋的增香效果"
+    }
+  ]
+}

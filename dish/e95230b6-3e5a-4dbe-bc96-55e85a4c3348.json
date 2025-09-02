@@ -1,0 +1,121 @@
+{
+  "id": "e95230b6-3e5a-4dbe-bc96-55e85a4c3348",
+  "category": "早餐",
+  "name": "微波炉荷包蛋",
+  "description": "",
+  "source_path": "dishes/breakfast/微波炉荷包蛋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "微波炉"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "饮用水",
+      "amount": 35,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "芝麻油",
+      "amount": 3,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 0.8,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将鸡蛋打入小碗中，用筷子在所有鸡蛋黄上扎2个洞",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "向碗内倒入常温饮用水",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "向碗内倒入食用盐",
+      "time_unit": "秒",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入芝麻油",
+      "time_unit": "秒",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将放好材料的碗放入微波炉中，高火加热80秒",
+      "time_unit": "秒",
+      "time": [
+        80,
+        80
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "使用抹布垫着手取出成品",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    0,
+    0
+  ],
+  "wait_time": [
+    1,
+    1
+  ],
+  "total_time": [
+    1,
+    2
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "微波炉加热前，如果想进一步避免蛋黄和蛋白溅射，可以在碗上盖个盖子避免弄脏微波炉"
+    }
+  ]
+}

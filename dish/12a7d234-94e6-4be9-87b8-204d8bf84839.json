@@ -1,0 +1,290 @@
+{
+  "id": "12a7d234-94e6-4be9-87b8-204d8bf84839",
+  "category": "主食",
+  "name": "基础牛奶面包",
+  "description": "",
+  "source_path": "dishes/staple/基础牛奶面包/基础牛奶面包.md",
+  "image_id": "17286efd-ab08-4fca-96e5-488a22128fdf",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/17286efd-ab08-4fca-96e5-488a22128fdf.webp",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 1,
+  "kitchen_ware": [
+    "量杯",
+    "布",
+    "擀面杖",
+    "硅油纸",
+    "模具",
+    "烤箱"
+  ],
+  "ingredients": [
+    {
+      "name": "高筋或中筋面粉",
+      "amount": 1.0,
+      "unit": "cup",
+      "remake": "盛一杯后用勺子挂掉多余的部分，不要晃动"
+    },
+    {
+      "name": "温水",
+      "amount": 1.0,
+      "unit": "cup",
+      "remake": "30℃以不烫手为宜"
+    },
+    {
+      "name": "酵母",
+      "amount": 2.0,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "amount": 2.0,
+      "unit": "克"
+    },
+    {
+      "name": "高筋或中筋面粉",
+      "amount": 2.5,
+      "unit": "cup"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1.0,
+      "unit": "个"
+    },
+    {
+      "name": "糖或糖浆",
+      "amount": 0.125,
+      "unit": "cup"
+    },
+    {
+      "name": "奶制品",
+      "amount": 0.25,
+      "unit": "cup",
+      "remake": "混合后共¼cup（奶粉需要和水混合）"
+    },
+    {
+      "name": "黄油或玉米油",
+      "amount": 0.125,
+      "unit": "cup"
+    },
+    {
+      "name": "谷朊粉",
+      "amount": 0.25,
+      "unit": "cup",
+      "remake": "可选，¼~½cup"
+    },
+    {
+      "name": "香草精",
+      "amount": 3.0,
+      "unit": "克",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将酵母和30℃的温水混合均匀，静置5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将酵母水与面粉混合搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用布盖上面糊，放置温暖处发酵45-60分钟",
+      "time_unit": "分钟",
+      "time": [
+        45,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将剩余原料与酵头混合搅拌",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "按压揉制面团至成型",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用手掌推开对折面团至无干粉结块",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "容器喷油，放入面团发酵1小时",
+      "time_unit": "分钟",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "面板撒粉，取出面团压瘪排气",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用擀面杖擀成1cm厚片并卷起",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "旋转90度重复擀卷操作",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "整形放入模具，接缝朝下",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "最终发酵30-45分钟",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "预热烤箱最高温度空烤20分钟",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在面包表面划花纹",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "刷蛋液（可选）",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "180℃烤制30分钟",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "165℃继续烤10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放凉后装袋保存",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    28,
+    45
+  ],
+  "wait_time": [
+    200,
+    230
+  ],
+  "total_time": [
+    228,
+    275
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "常见原料的换算（仅供参考）"
+    },
+    {
+      "type": "list_item",
+      "content": "如何保存多余的面包"
+    },
+    {
+      "type": "list_item",
+      "content": "推荐食用方式"
+    }
+  ]
+}

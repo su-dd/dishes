@@ -1,0 +1,181 @@
+{
+  "id": "65af3ec5-11dd-45e9-b624-d9e121636443",
+  "category": "主食",
+  "name": "肉蛋盖饭",
+  "description": "",
+  "source_path": "dishes/staple/肉蛋盖饭.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅"
+  ],
+  "ingredients": [
+    {
+      "name": "米饭",
+      "amount": 240,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 4,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "肉馅",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 25,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "醋",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "红葱油",
+      "amount": 10,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "葱",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "糖",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "煮好米饭",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅中放油",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "放入肉馅，调中火煎至两面微焦",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将鸡蛋打入锅中，不要打散，盖上锅盖",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "调一个碗汁，碗中放入老抽，生抽，醋，糖，红葱油，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "打开锅盖，将碗汁倒入锅中，等待三分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，将肉蛋盖到米饭上",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "安全检查，开始食用盖饭",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    4,
+    7
+  ],
+  "wait_time": [
+    23,
+    33
+  ],
+  "total_time": [
+    27,
+    40
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "如果喜欢甜口可以增加 10g 糖"
+    },
+    {
+      "type": "list_item",
+      "content": "请务必保证做完饭后关掉燃气设备以免发生危险"
+    }
+  ]
+}

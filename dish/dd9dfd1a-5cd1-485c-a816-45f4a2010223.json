@@ -1,0 +1,171 @@
+{
+  "id": "dd9dfd1a-5cd1-485c-a816-45f4a2010223",
+  "category": "肉食",
+  "name": "瘦肉土豆片",
+  "description": "",
+  "source_path": "dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
+  "image_id": "2ba46d08-1799-4db2-bf3a-f6940904cd86",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/2ba46d08-1799-4db2-bf3a-f6940904cd86.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "纯瘦肉",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "土豆",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜苗",
+      "amount": 2,
+      "unit": "根",
+      "remake": "约20g"
+    },
+    {
+      "name": "生粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": "玉米淀粉或其他淀粉"
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "土豆去皮、对半切开，再切成约2mm的薄片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜苗洗净，切成约1cm的段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "瘦肉洗净切成约2mm的薄片，加入生粉、生抽、老抽腌制十分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "烧一锅开水，将土豆片放入锅中焯水",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热锅，放入食用油，等待10秒让油温升高",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入瘦肉翻炒至变色",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入蒜苗一起炒约20秒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入土豆，加入食用盐、生抽，保持翻炒",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    11
+  ],
+  "wait_time": [
+    15,
+    15
+  ],
+  "total_time": [
+    22,
+    26
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "土豆片焯水注意不宜太久，防止土豆片变软"
+    },
+    {
+      "type": "list_item",
+      "content": "腌制瘦肉要搅拌均匀"
+    }
+  ]
+}

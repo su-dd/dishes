@@ -1,0 +1,239 @@
+{
+  "id": "5d53ed52-ced5-4169-b688-09e34007457c",
+  "category": "甜品",
+  "name": "无厨师机蜂蜜面包",
+  "description": "",
+  "source_path": "dishes/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md",
+  "image_id": "13cb53c1-3fb8-4cbf-9113-68830d58970f",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/13cb53c1-3fb8-4cbf-9113-68830d58970f.webp",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 14,
+  "kitchen_ware": [
+    "长方形烤盘",
+    "正方形烤盘",
+    "油纸",
+    "冰箱",
+    "微波炉"
+  ],
+  "ingredients": [
+    {
+      "name": "高筋面粉",
+      "amount": 400,
+      "unit": "克",
+      "remake": "面包本体"
+    },
+    {
+      "name": "牛奶",
+      "amount": 200,
+      "unit": "克",
+      "remake": "面包本体"
+    },
+    {
+      "name": "酵母",
+      "amount": 4,
+      "unit": "克",
+      "remake": "面包本体"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": "面包本体"
+    },
+    {
+      "name": "白砂糖",
+      "amount": 70,
+      "unit": "克",
+      "remake": "面包本体"
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": "面包本体"
+    },
+    {
+      "name": "黄油",
+      "amount": 30,
+      "unit": "克",
+      "remake": "面包本体"
+    },
+    {
+      "name": "蜂蜜",
+      "amount": 20,
+      "unit": "克",
+      "remake": "蜂蜜水（涂在顶部）"
+    },
+    {
+      "name": "水",
+      "amount": 20,
+      "unit": "克",
+      "remake": "蜂蜜水（涂在顶部）"
+    },
+    {
+      "name": "芝麻",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选（洒在顶部）"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将面粉、牛奶、酵母、鸡蛋、糖和盐混合",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "搅拌原料混合均匀成团",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入黄油混合",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "继续搅拌和手揉均匀混合",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "发面，保鲜膜覆盖容器，普通气温放置",
+      "time_unit": "小时",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "切分面团成60g小份",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "擀成舌状后卷起，醒面",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "再次擀成舌状后卷起，从中间切开",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "底部蘸水和面粉后放入烤盘",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "再次醒发，可放入冰箱过夜",
+      "time_unit": "小时",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "刷上蛋液",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "烤箱180°烘烤",
+      "time_unit": "分钟",
+      "time": [
+        18,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "刷上蜂蜜水，撒上芝麻",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    18,
+    30
+  ],
+  "wait_time": [
+    568,
+    870
+  ],
+  "total_time": [
+    586,
+    900
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "发面时间并不固定, 每 1 小时左右看一下确认就可以, 明显发酵变大即可, 建议发酵 2 - 2.5 倍大。"
+    },
+    {
+      "type": "list_item",
+      "content": "面团大小不会显著影响口感和烘烤效果，可根据喜好调整。"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：下厨房 - 脆底蜂蜜小面包"
+    }
+  ]
+}

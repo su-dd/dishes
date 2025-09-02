@@ -1,0 +1,331 @@
+{
+  "id": "ea0262cb-4cfb-48df-94da-2b6b92ef1293",
+  "category": "水产",
+  "name": "烤鱼",
+  "description": "",
+  "source_path": "dishes/aquatic/混合烤鱼/烤鱼.md",
+  "image_id": "08069d42-4a06-47ce-88ab-5e9b0ab77b8c",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/08069d42-4a06-47ce-88ab-5e9b0ab77b8c.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "草鱼",
+      "amount": 3.0,
+      "unit": "斤",
+      "remake": "农贸市场或者超市让店家杀掉，去除不要的器官"
+    },
+    {
+      "name": "大葱",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 20.0,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 7.5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": 7.5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "桂皮",
+      "amount": 1.0,
+      "unit": "小片",
+      "remake": ""
+    },
+    {
+      "name": "八角",
+      "amount": 2.0,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "大蒜粒",
+      "amount": 8.0,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "香叶",
+      "amount": 2.0,
+      "unit": "张",
+      "remake": ""
+    },
+    {
+      "name": "青花椒",
+      "amount": 1.0,
+      "unit": "小把",
+      "remake": ""
+    },
+    {
+      "name": "干辣椒段",
+      "amount": 10.0,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "灯笼椒",
+      "amount": 4.0,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "芹菜段",
+      "amount": 2.0,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "洋葱",
+      "amount": 0.5,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "千张",
+      "amount": 1.0,
+      "unit": "张",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "草鱼从背部切开，两面沿着鱼的背部往下划几刀，不要划到鱼肚皮",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用热水浇在鱼身上洗去粘液或用刷子在流动水下刷洗至没有黏糊糊的手感",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鱼加入料酒、白胡椒粉、食盐抹匀腌制入味",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "大葱切块，大蒜粒切开，和八角香叶桂皮放在一起",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "干辣椒段切开和灯笼椒装在一起",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "芹菜切小段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "豆芽焯水",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "千张焯水切成丝",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "洋葱切成丝",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "烤箱烤盘刷底油，鱼皮朝下烤制两面金黄，撒孜然粉",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热锅热油，锅边撒盐，下草鱼煎至两面金黄，撒孜然粉",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅中烧油，油热后加入大葱大蒜八角香叶炒香",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入火锅底料和豆瓣酱炒出红油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入白糖、食盐、生抽调味，倒入清水煮开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "依次下入芹菜段、豆芽、千张丝稍微烫一下",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "铺上洋葱丝，放上烤鱼",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "加入干辣椒、灯笼椒、青花椒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "另一个锅烧热油浇在辣椒上激发出香味",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒上熟花生米、葱花、白芝麻、香菜",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "煮5-6分钟至美味即成",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        6
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    54,
+    79
+  ],
+  "wait_time": [
+    20,
+    20
+  ],
+  "total_time": [
+    74,
+    99
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "技术总结：上述这道菜的食盐，胡椒粉，孜然粉，食用油，生抽，白糖等的使用量，根据个人口味和食材比例做决定，并不需要严格按照上述分量来做。"
+    }
+  ]
+}

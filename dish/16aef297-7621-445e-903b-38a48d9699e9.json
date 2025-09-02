@@ -1,0 +1,147 @@
+{
+  "id": "16aef297-7621-445e-903b-38a48d9699e9",
+  "category": "蔬菜",
+  "name": "清蒸南瓜",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/清蒸南瓜.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 2,
+  "kitchen_ware": [
+    "蒸锅"
+  ],
+  "ingredients": [
+    {
+      "name": "南瓜",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "饮用水",
+      "amount": 1000,
+      "unit": "毫升",
+      "remake": "用于蒸锅"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将南瓜外皮洗净，去除瓜瓤和籽",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将南瓜切成厚度大约2cm的片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在蒸锅中加入1000ml饮用水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将切好的南瓜片均匀摆放在盘中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "等待蒸锅中的水烧开",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将装有南瓜的盘子放入蒸锅中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖上锅盖，保持大火蒸15-20分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "小心取出盘子",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    14
+  ],
+  "wait_time": [
+    20,
+    28
+  ],
+  "total_time": [
+    27,
+    42
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "南瓜的品种不同，甜度和口感会有差异。老南瓜通常更甜更面。"
+    },
+    {
+      "type": "list_item",
+      "content": "南瓜皮含有营养，如果喜欢也可以不去皮蒸，但需要彻底洗净。"
+    },
+    {
+      "type": "list_item",
+      "content": "蒸的时间取决于南瓜块的大小和厚度，以及南瓜的品种。用筷子测试是判断是否蒸熟的好方法。"
+    }
+  ]
+}

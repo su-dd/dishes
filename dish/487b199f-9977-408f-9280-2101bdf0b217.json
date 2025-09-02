@@ -1,0 +1,196 @@
+{
+  "id": "487b199f-9977-408f-9280-2101bdf0b217",
+  "category": "肉食",
+  "name": "红烧猪蹄",
+  "description": "",
+  "source_path": "dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
+  "image_id": "b3c5a476-0779-45e8-9297-10562387dce1",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/b3c5a476-0779-45e8-9297-10562387dce1.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 4,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "猪蹄",
+      "amount": 2.5,
+      "unit": "根",
+      "remake": "2~3根"
+    },
+    {
+      "name": "食用油",
+      "amount": 30,
+      "unit": "毫升"
+    },
+    {
+      "name": "香叶",
+      "amount": 2,
+      "unit": "片"
+    },
+    {
+      "name": "姜",
+      "amount": 5,
+      "unit": "片"
+    },
+    {
+      "name": "葱",
+      "amount": 0.5,
+      "unit": "根"
+    },
+    {
+      "name": "桂皮",
+      "amount": 1,
+      "unit": "块"
+    },
+    {
+      "name": "冰糖",
+      "amount": 7.5,
+      "unit": "粒",
+      "remake": "7-8粒"
+    },
+    {
+      "name": "料酒",
+      "amount": 30,
+      "unit": "毫升"
+    },
+    {
+      "name": "生抽",
+      "amount": 20,
+      "unit": "毫升"
+    },
+    {
+      "name": "老抽",
+      "amount": 20,
+      "unit": "毫升"
+    },
+    {
+      "name": "盐",
+      "amount": 8,
+      "unit": "克"
+    },
+    {
+      "name": "八角",
+      "amount": 4,
+      "unit": "个"
+    }
+  ],
+  "steps": [
+    {
+      "description": "冷水锅中放入猪蹄，加入料酒与葱姜，煮15分钟去掉血腥",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热锅冷油，倒入食用油，放入冰糖，开小火，熬成糖色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用锅铲把冰糖压碎",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入焯过水的猪蹄，继续小火，翻炒猪蹄直至两面微黄",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入香叶、桂皮、八角、生抽、老抽、料酒、姜、盐，转中火继续翻炒1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入开水或者冷水，水没过猪蹄，盖上锅盖，大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "把锅内食材全部倒入高压锅中，高压15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "把高压锅的食材倒入炒锅中，开大火收汁",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用筷子尝味道，淡的话可以加盐",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "大火收汁，根据锅中水量一般30秒即可",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    11,
+    16
+  ],
+  "wait_time": [
+    35,
+    38
+  ],
+  "total_time": [
+    46,
+    54
+  ],
+  "additional_notes": []
+}

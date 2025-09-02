@@ -1,0 +1,191 @@
+{
+  "id": "ac3504cb-bbfc-4382-a643-9ea1b569ad97",
+  "category": "主食",
+  "name": "火腿饭团",
+  "description": "",
+  "source_path": "dishes/staple/火腿饭团/火腿饭团.md",
+  "image_id": "14eeb07c-405d-49ad-8d6e-67eb57838bdf",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/14eeb07c-405d-49ad-8d6e-67eb57838bdf.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "火腿",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "米饭",
+      "amount": 125,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 90,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "冷冻青豆",
+      "amount": 30,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "冷冻玉米粒",
+      "amount": 30,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "海苔碎",
+      "amount": 10,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "沙拉酱",
+      "amount": 20,
+      "unit": "克",
+      "remake": "推荐日式 mayo"
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": "10-15ml"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将米饭和水放到电饭锅里，点击米饭模式",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "等待电饭锅完成煮饭",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "冷冻玉米粒和青豆放到锅里，加水没过所有食材",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待水沸腾",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沸腾后静待2分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出玉米粒和青豆",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "火腿切成1cm的方块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入10ml食用油，加入火腿翻炒至火腿上色",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将米饭、火腿、海苔碎、青豆、玉米粒、沙拉酱放入碗中混合均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "装盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    11,
+    18
+  ],
+  "wait_time": [
+    35,
+    47
+  ],
+  "total_time": [
+    46,
+    65
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "沙拉酱的程度可以根据个人口味酌情删减。"
+    },
+    {
+      "type": "list_item",
+      "content": "可以尝试混合沙拉酱。"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：小红书 - 干饭选手又困了"
+    }
+  ]
+}

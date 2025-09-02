@@ -1,0 +1,156 @@
+{
+  "id": "ca3fa3e9-44a6-4ace-8454-633d9383fb16",
+  "category": "饮品",
+  "name": "可乐桶",
+  "description": "",
+  "source_path": "dishes/drink/可乐桶.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "手动压汁器"
+  ],
+  "ingredients": [
+    {
+      "name": "波旁威士忌",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "可口可乐",
+      "amount": 500,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "柠檬",
+      "amount": 1,
+      "unit": "个",
+      "remake": "可选，提升口感用"
+    },
+    {
+      "name": "冰块",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将柠檬对半切（刀方向垂直于柠檬的头尾连线）",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "从其中的一半中切取一片柠檬备用",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "再次将柠檬对半切",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将得到的4角柠檬用压汁器压出柠檬汁置于容器中备用",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将挤压过的柠檬置于容器中备用",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "选择一个杯子，建议使用容量在大约1升的大型玻璃杯或铁皮酒桶",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将冰块和挤压过的柠檬入杯中（可根据个人喜好设计柠檬与冰块的摆放）",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "倒入15毫升柠檬汁（如果喜酸可以加多点或全加）",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沿杯壁缓慢倒入可乐至距离杯口3/4处",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入威士忌直至满杯",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    2,
+    3
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    2,
+    3
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,169 @@
+{
+  "id": "2ab9486e-d409-4f19-87e3-839b5849ae1a",
+  "category": "早餐",
+  "name": "牛奶燕麦",
+  "description": "",
+  "source_path": "dishes/breakfast/牛奶燕麦.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "牛奶",
+      "amount": 280,
+      "unit": "毫升",
+      "remake": "巴氏奶口感更好"
+    },
+    {
+      "name": "燕麦",
+      "amount": 40,
+      "unit": "克"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将牛奶倒入早餐杯",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "准备好200ml水，根据水质决定是否烧开",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "水沸后煮燕麦2分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煮好的燕麦捞出倒入牛奶中",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将牛奶倒入装有快煮燕麦的容器中并搅拌",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将混合物放入微波炉中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中等火力微波4分钟",
+      "time_unit": "分钟",
+      "time": [
+        4,
+        4
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热锅，锅内放一层底油",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "油热后煎鸡蛋，每面煎20秒",
+      "time_unit": "秒",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "装盘",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    4,
+    8
+  ],
+  "wait_time": [
+    6,
+    6
+  ],
+  "total_time": [
+    10,
+    14
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "由于不同微波炉火力不同，故微波炉火力无法精确表明"
+    },
+    {
+      "type": "list_item",
+      "content": "不建议混合物超过容器容量 50%，否则加热过程中内容物极有可能溢出"
+    },
+    {
+      "type": "list_item",
+      "content": "不建议使用玻璃杯进行烹饪，理由同上"
+    }
+  ]
+}

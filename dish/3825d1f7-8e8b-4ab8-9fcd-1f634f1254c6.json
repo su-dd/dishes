@@ -1,0 +1,305 @@
+{
+  "id": "3825d1f7-8e8b-4ab8-9fcd-1f634f1254c6",
+  "category": "水产",
+  "name": "水煮鱼",
+  "description": "",
+  "source_path": "dishes/aquatic/水煮鱼.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 4,
+  "kitchen_ware": [
+    "量杯",
+    "厨房秤",
+    "大不锈钢碗"
+  ],
+  "ingredients": [
+    {
+      "name": "巴沙鱼",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蔬菜",
+      "amount": 400,
+      "unit": "克",
+      "remake": "比如土豆片/豆芽/花菜/生菜等，可有不同搭配，推荐合计重量300g至500g"
+    },
+    {
+      "name": "红油豆瓣酱",
+      "amount": 40,
+      "unit": "克",
+      "remake": "不怕辣想多加红油就多加10至20g"
+    },
+    {
+      "name": "豆豉",
+      "amount": 10,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "藤椒油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "菜籽油",
+      "amount": 25,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 2,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "糖",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "巴沙鱼放室温自然解冻",
+      "time_unit": "小时",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "巴沙鱼撇成薄片，约5cm长，3cm宽",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将切好片的巴沙鱼放入大不锈钢碗中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入豆瓣酱、盐、藤椒油、白胡椒粉",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用手抓匀调料",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入菜籽油收尾封住口味",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "常温静置入味",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大蒜切成蒜末",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将花菜与生菜洗净",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "花菜开水锅焯水",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "生菜炒熟备用（不用放油）",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "热锅冷油，加入豆瓣酱、豆豉、蒜末，中火慢炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入热水，水开后加入腌制好的鱼片",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "轻轻翻动让鱼片在水中散开",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入盐和糖调味",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水再次沸腾后即可盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "先将熟的蔬菜盛至大碗中",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "将热的鱼片盛在蔬菜上面",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "浇上锅中剩余热汤",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    17,
+    28
+  ],
+  "wait_time": [
+    331,
+    332
+  ],
+  "total_time": [
+    348,
+    360
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "垫底的蔬菜组合及用量可自由发挥，但需要注意各种蔬菜的特点，比如改成土豆的时候，需要将土豆片/土豆块煮熟（可以用筷子戳一戳确认）。"
+    },
+    {
+      "type": "list_item",
+      "content": "红油豆瓣酱（辣度）以及盐的用量可根据个人口味调整。"
+    },
+    {
+      "type": "list_item",
+      "content": "注意切鱼片的时候可以垂直于鱼片长条的方向先剁成 5cm 的鱼块，然后翻转 90 度斜着撇成薄片。"
+    },
+    {
+      "type": "list_item",
+      "content": "腌制的时候注意不要太用力抓。"
+    },
+    {
+      "type": "list_item",
+      "content": "How to Fillet a Fish 怎样给鱼剔骨"
+    }
+  ]
+}

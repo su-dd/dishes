@@ -1,0 +1,191 @@
+{
+  "id": "109ac825-ae94-446b-811d-5a8ae5988c0e",
+  "category": "肉食",
+  "name": "姜葱捞鸡",
+  "description": "",
+  "source_path": "dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "鸡腿",
+      "amount": 4,
+      "unit": "个",
+      "remake": "约400g"
+    },
+    {
+      "name": "盐焗鸡粉",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "姜",
+      "amount": 50,
+      "unit": "克"
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "根"
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "糖",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "油",
+      "amount": 35,
+      "unit": "毫升"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡腿清洗干净，放入碗中",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "碗中加入盐焗鸡粉和油，搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸡腿静置腌制15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "准备蒸锅并把水煮开",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "鸡腿放入蒸锅中蒸制20分钟",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将姜切成姜蓉、姜丝或姜粒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将葱切成0.5cm小段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将葱姜放入蘸料碗，并加入盐和糖",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将油倒入锅中加热至六至七层热",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将热油淋入葱姜碗中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "鸡腿蒸好后撕碎成1cm粗的鸡丝",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "姜葱姜油淋在鸡丝上，搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    14,
+    30
+  ],
+  "wait_time": [
+    35,
+    35
+  ],
+  "total_time": [
+    49,
+    65
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "参考: 白饭杀手来啦 #姜葱捞鸡-哔哩哔哩"
+    }
+  ]
+}

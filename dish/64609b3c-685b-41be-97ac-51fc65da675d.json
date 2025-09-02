@@ -1,0 +1,165 @@
+{
+  "id": "64609b3c-685b-41be-97ac-51fc65da675d",
+  "category": "蔬菜",
+  "name": "蚝油生菜",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/蚝油生菜.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "刀",
+    "砧板",
+    "锅",
+    "碗",
+    "搅拌工具"
+  ],
+  "ingredients": [
+    {
+      "name": "生菜",
+      "amount": 1,
+      "unit": "棵",
+      "remake": "200 g ± 50"
+    },
+    {
+      "name": "蚝油",
+      "amount": 7,
+      "unit": "毫升",
+      "remake": "6-8 ml"
+    },
+    {
+      "name": "大蒜",
+      "amount": 4.5,
+      "unit": "瓣",
+      "remake": "做成蒜泥或切碎"
+    },
+    {
+      "name": "生抽",
+      "amount": 6,
+      "unit": "毫升"
+    },
+    {
+      "name": "盐",
+      "amount": 0.5,
+      "unit": "克"
+    },
+    {
+      "name": "白糖",
+      "amount": 1,
+      "unit": "克"
+    },
+    {
+      "name": "食用油",
+      "amount": 6.5,
+      "unit": "毫升",
+      "remake": "5-8 ml"
+    }
+  ],
+  "steps": [
+    {
+      "description": "生菜洗净并去掉烂菜叶",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，先放清水，然后在锅内放入食用油和盐，等待锅中的水煮沸",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水沸后，放入生菜，将每一片生菜叶都焯水",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出生菜，控干水份，摆盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "将生抽、蚝油、盐、白糖放入碗中调匀，并加入清水搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "再开火，热锅，放入食用油，油热放入蒜泥",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待有蒜香飘出",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入调好的汁，煮沸即可，立马关火",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将锅中的汤汁均匀地浇在生菜上",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    5,
+    12
+  ],
+  "wait_time": [
+    3,
+    8
+  ],
+  "total_time": [
+    8,
+    21
+  ],
+  "additional_notes": []
+}

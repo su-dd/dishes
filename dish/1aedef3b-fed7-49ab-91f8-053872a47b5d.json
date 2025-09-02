@@ -1,0 +1,213 @@
+{
+  "id": "1aedef3b-fed7-49ab-91f8-053872a47b5d",
+  "category": "主食",
+  "name": "炸酱面",
+  "description": "",
+  "source_path": "dishes/staple/炸酱面.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "肉丁/肉末",
+      "amount": 150,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "面条",
+      "amount": 150,
+      "unit": "克",
+      "remake": "选择了挂面"
+    },
+    {
+      "name": "葱",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "菜码",
+      "amount": 35,
+      "unit": "克",
+      "remake": "总量，根据个人喜好选择黄瓜、白菜、萝卜等"
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "甜面酱",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "菜码切丝备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱切碎",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "油锅烧热，下葱和肉，炒至肉完全熟透（无红色）",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下豆瓣酱和甜面酱，继续炒至微微粘稠",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛出炸酱",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "取大碗，加凉水备用",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "煮面条至断生（无白芯）",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将面条盛入装有凉水的碗中",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "立即控水捞出，盛入干净的碗中",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "倒入炸酱拌匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "倒入菜码拌匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    25
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    15,
+    25
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "肉推荐瘦肉丁，口感更好，推荐现买现用。"
+    },
+    {
+      "type": "list_item",
+      "content": "面条推荐使用普通面条。"
+    },
+    {
+      "type": "list_item",
+      "content": "面条口感关键在于劲道。勿选龙须等细面。"
+    },
+    {
+      "type": "list_item",
+      "content": "如有条件（另一个锅）且熟练后，第 2、3 步和 1、4、5、6 步可分时并行执行。"
+    },
+    {
+      "type": "list_item",
+      "content": "甜咸口个人有爱好，两种酱的配比需要自己迭代优化。"
+    }
+  ]
+}

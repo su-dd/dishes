@@ -1,0 +1,167 @@
+{
+  "id": "e45fa47a-9980-4f69-8d1e-91b0a03e9839",
+  "category": "蔬菜",
+  "name": "鸡蛋火腿炒黄瓜",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "炒锅",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "黄瓜",
+      "amount": 1,
+      "unit": "根",
+      "remake": "约200g"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "火腿肠",
+      "amount": 1,
+      "unit": "根",
+      "remake": "约40g"
+    },
+    {
+      "name": "红尖椒",
+      "amount": 1,
+      "unit": "个",
+      "remake": "可选"
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升"
+    },
+    {
+      "name": "生抽",
+      "amount": 3,
+      "unit": "毫升"
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "黄瓜洗净，切半圆形片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "火腿切半圆形片",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "红尖椒切碎",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将鸡蛋打入碗中搅匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅里倒食用油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "油热后转小火，倒入蛋液翻炒至凝固微黄",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入黄瓜片大火翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入盐、生抽，倒入火腿片和辣椒碎翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火，盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    17
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    10,
+    17
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "火腿是咸的，要在调味后才加入，这样不会让火腿也沾上盐"
+    }
+  ]
+}

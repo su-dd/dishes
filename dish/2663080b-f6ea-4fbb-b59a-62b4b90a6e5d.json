@@ -1,0 +1,119 @@
+{
+  "id": "2663080b-f6ea-4fbb-b59a-62b4b90a6e5d",
+  "category": "早餐",
+  "name": "金枪鱼酱三明治",
+  "description": "",
+  "source_path": "dishes/breakfast/金枪鱼酱三明治.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "轻食机"
+  ],
+  "ingredients": [
+    {
+      "name": "水浸金枪鱼",
+      "amount": 65,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "方形吐司片",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "蛋黄酱",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "俄式酸黄瓜汁",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": "可根据个人口味调整"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将金枪鱼、蛋黄酱、俄式酸黄瓜汁倒入碗中，用勺子搅拌，保证将金枪鱼块搅碎，酱整体呈糊状，并备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将 1 片吐司放在轻食机上",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将做好的金枪鱼酱涂抹到吐司上，建议 10-15ml",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将另一片方形吐司片覆盖在上面，并按压轻食机，开机",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待轻食机自动停止加热，即可装盘使用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    2,
+    6
+  ],
+  "wait_time": [
+    3,
+    5
+  ],
+  "total_time": [
+    5,
+    11
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "金枪鱼酱可以在前一天晚上在冰箱冷藏"
+    },
+    {
+      "type": "list_item",
+      "content": "金枪鱼酱建议冷藏时间不超过一周，切需要使用保鲜膜盖住"
+    },
+    {
+      "type": "list_item",
+      "content": "注意在按压操作之前不要将轻食机电源接通，以免引发安全问题"
+    }
+  ]
+}

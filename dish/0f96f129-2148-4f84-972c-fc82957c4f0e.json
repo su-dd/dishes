@@ -1,0 +1,196 @@
+{
+  "id": "0f96f129-2148-4f84-972c-fc82957c4f0e",
+  "category": "主食",
+  "name": "老友猪肉粉",
+  "description": "",
+  "source_path": "dishes/staple/老友猪肉粉/老友猪肉粉.md",
+  "image_id": "e0c5987a-1dcc-41e2-8060-1d0d7c8181f6",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/e0c5987a-1dcc-41e2-8060-1d0d7c8181f6.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "砧板",
+    "刀",
+    "量杯",
+    "量勺"
+  ],
+  "ingredients": [
+    {
+      "name": "米粉",
+      "amount": 250,
+      "unit": "克",
+      "remake": "记得50度的温水泡半小时"
+    },
+    {
+      "name": "猪肉",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "酸笋",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "剁椒",
+      "amount": 15,
+      "unit": "克",
+      "remake": "辣椒剁完后,个人需求适当放"
+    },
+    {
+      "name": "豆豉",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 5,
+      "unit": "克",
+      "remake": "如果不喜欢糖，可以考虑不放"
+    },
+    {
+      "name": "米醋",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生粉",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "猪肉用料酒、盐、生抽、生粉、胡椒粉调味",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅不放油，下酸笋把水份炒干",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入食用油、大蒜、剁椒、豆豉炒出香味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入调味好的猪肉，加生抽炒一分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入米醋、生抽、清水一起煮开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入温水泡好的米粉继续煮",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    8,
+    13
+  ],
+  "wait_time": [
+    6,
+    8
+  ],
+  "total_time": [
+    14,
+    21
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "记得米粉必须是泡过的才好吃,没有泡过的话是很难吃的！"
+    }
+  ]
+}

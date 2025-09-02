@@ -1,0 +1,185 @@
+{
+  "id": "fb3fbd60-d9dc-4b3f-97da-c4ade3fad270",
+  "category": "蔬菜",
+  "name": "虎皮青椒",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
+  "image_id": "b16254e6-ff04-443c-941e-aefbb6864e5a",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/b16254e6-ff04-443c-941e-aefbb6864e5a.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "砵",
+    "有一定深度的碗"
+  ],
+  "ingredients": [
+    {
+      "name": "青椒",
+      "amount": 5,
+      "unit": "个",
+      "remake": "长度在 10-15cm 的最为合适"
+    },
+    {
+      "name": "大蒜",
+      "amount": 2.5,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 15,
+      "unit": "克",
+      "remake": "灵魂"
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "香醋",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 4,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "去掉青椒蒂，用自来水冲洗干净",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "青椒切长片，平均一个青椒纵向切成3-4片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大蒜去皮，切成碎末",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将大蒜末放入油中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将白糖、生抽、醋、盐倒入容器中搅拌",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "锅中倒油加热至5成热，放入青椒片",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用锅铲不停按压青椒并适时翻面",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻炒青椒约2分钟至表皮出现褶皱",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入调味料汁",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加大火候继续翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅盛入盘中",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    20
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    10,
+    20
+  ],
+  "additional_notes": []
+}

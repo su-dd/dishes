@@ -1,0 +1,156 @@
+{
+  "id": "080be2ac-a4d6-4fb1-b5f6-306bec78f387",
+  "category": "蔬菜",
+  "name": "蒜蓉西兰花",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/蒜蓉西兰花.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "西兰花",
+      "amount": 200,
+      "unit": "克",
+      "remake": "约1/2中等大小的西兰花"
+    },
+    {
+      "name": "大蒜",
+      "amount": 3.5,
+      "unit": "瓣",
+      "remake": "3-4瓣"
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升"
+    },
+    {
+      "name": "蚝油",
+      "amount": 5,
+      "unit": "毫升"
+    },
+    {
+      "name": "白糖",
+      "amount": 2,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将西兰花切成小朵，清洗干净",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将大蒜去皮，切成蒜末，备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加入饮用水，大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入西兰花，保持大火煮2-3分钟，至西兰花颜色变翠绿，口感变软",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将煮好的西兰花捞出，沥干水分，摆入盘中，备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "热锅，加入食用油。油温升高后，放入大蒜末，小火煸炒出香味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入生抽，蚝油，白糖，加入饮用水",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将锅中汤汁烧开",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将烧好的蒜蓉汁均匀淋在盘中的西兰花上",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    4,
+    7
+  ],
+  "wait_time": [
+    6,
+    10
+  ],
+  "total_time": [
+    10,
+    17
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "焯水时间不宜超过推荐时长，以免影响西兰花的口感和营养。"
+    },
+    {
+      "type": "list_item",
+      "content": "如果想保留西兰花更脆的口感，可以缩短焯水时间。"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "id": "b70086f6-0a4d-484a-95d1-801a57a2b79d",
+  "category": "肉食",
+  "name": "商芝肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/商芝肉.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 5,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "带皮猪五花肉",
+      "amount": 500,
+      "unit": "克",
+      "remake": "去骨"
+    },
+    {
+      "name": "商芝",
+      "amount": 50,
+      "unit": "克",
+      "remake": "又名紫萁，属蕨类，嫩叶可食"
+    },
+    {
+      "name": "葱",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "姜",
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "八角",
+      "amount": 3,
+      "unit": "个"
+    },
+    {
+      "name": "蜂蜜",
+      "amount": 15,
+      "unit": "克"
+    },
+    {
+      "name": "醋",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "amount": 15,
+      "unit": "克"
+    },
+    {
+      "name": "味精",
+      "amount": 1.5,
+      "unit": "克"
+    },
+    {
+      "name": "酱油",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "摊鸡蛋皮",
+      "amount": 15,
+      "unit": "克",
+      "remake": "一张约15克"
+    },
+    {
+      "name": "精盐",
+      "amount": 1,
+      "unit": "克"
+    },
+    {
+      "name": "鸡汤",
+      "amount": 200,
+      "unit": "克"
+    },
+    {
+      "name": "芝麻油",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "熟猪油",
+      "amount": 2000,
+      "unit": "克",
+      "remake": "消耗约60克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将肉刮洗干净，入煮锅煮至六成熟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出趁热用蜂蜜、醋涂抹肉皮",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "炒锅内放入熟猪油，用旺火烧至八成熟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将肉块皮朝下投入，炸至呈金红色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞入凉肉煮锅中泡软",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "放在案板上，切成三寸长、两分厚的片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "整齐装入蒸碗内",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将大葱切段和斜形片，姜切片和末，鸡蛋皮切三角形片",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "商芝入沸水锅中煮软捞出",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "去除老茎、杂质，淘洗干净，切成段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加酱油、精盐、熟猪油拌匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "盖在肉片上",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "鸡汤加酱油、精盐、料酒搅匀，浇入蒸碗",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "放入姜片、葱段、八角上笼用旺火蒸约半小时",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转用小火继续蒸约一小时三十分钟",
+      "time_unit": "分钟",
+      "time": [
+        90,
+        90
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出，拣去姜、葱、八角",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "倒、过滤原汁，将肉扣入汤盘",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "炒锅内放入鸡汤，加入原汁，用旺火烧沸",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入姜末、葱片、味精后搅匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "投入摊鸡蛋皮，淋芝麻油",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "浇入汤盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    28
+  ],
+  "wait_time": [
+    149,
+    170
+  ],
+  "total_time": [
+    164,
+    198
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "商芝属于小地方不特别有名的特产，至少本人在其他地方没有见到过，在制作时可换成其他蕨类蔬菜。"
+    }
+  ]
+}

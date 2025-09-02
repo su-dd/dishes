@@ -1,0 +1,243 @@
+{
+  "id": "41f928dd-ec2a-4b7a-b7f4-903ecb9d5282",
+  "category": "主食",
+  "name": "酸辣蕨根粉",
+  "description": "",
+  "source_path": "dishes/staple/酸辣蕨根粉.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "有点深度的锅"
+  ],
+  "ingredients": [
+    {
+      "name": "蕨根粉",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "油泼辣子",
+      "amount": 2,
+      "unit": "份",
+      "remake": "酱料比例3:2:2中的2份"
+    },
+    {
+      "name": "酱油",
+      "amount": 3,
+      "unit": "份",
+      "remake": "酱料比例3:2:2中的3份"
+    },
+    {
+      "name": "香醋",
+      "amount": 2,
+      "unit": "份",
+      "remake": "酱料比例3:2:2中的2份"
+    },
+    {
+      "name": "小米辣",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选"
+    },
+    {
+      "name": "蒜",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选"
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选"
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": "可选，如觉得酱料清淡可加入2-5克"
+    },
+    {
+      "name": "糖",
+      "amount": 2,
+      "unit": "克",
+      "remake": "可选，如想要酱料鲜一些可加入"
+    }
+  ],
+  "steps": [
+    {
+      "description": "锅中加入约为深度3/5的水，烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水沸腾后加入蕨根粉，中小火煮8分钟",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "根据配比，加入酱油、醋、油泼辣子",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用筷子蘸取，尝一口",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "如果觉得此时酱油味稍浓，加入准备好的盐",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "如果觉得此时不够鲜，加入准备好的糖",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "充分搅拌至大部分颗粒状调料溶解",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取一个碗",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入上一步调制的酱料",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将蕨根粉过冷水后放入酱料中",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "充分搅拌",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将准备的葱、蒜、小米辣切碎后撒在粉上",
+      "time_unit": "秒",
+      "time": [
+        60,
+        90
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "完成",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    2,
+    4
+  ],
+  "wait_time": [
+    11,
+    13
+  ],
+  "total_time": [
+    13,
+    17
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "葱姜蒜为附加调料，加入可以增添风味，不加也并无大碍"
+    },
+    {
+      "type": "list_item",
+      "content": "糖和盐根据个人口味，需要加入的具体量不同，请酌情加入"
+    },
+    {
+      "type": "list_item",
+      "content": "建议使用碗作为最终装盘餐具，因为使用盘子会使吃粉变得困难一些"
+    },
+    {
+      "type": "list_item",
+      "content": "整体口味偏辣，如果不能吃辣请减少油泼辣子的量并且不加入小米辣"
+    }
+  ]
+}

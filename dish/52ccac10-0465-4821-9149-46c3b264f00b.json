@@ -1,0 +1,225 @@
+{
+  "id": "52ccac10-0465-4821-9149-46c3b264f00b",
+  "category": "水产",
+  "name": "干煎阿根廷红虾",
+  "description": "",
+  "source_path": "dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
+  "image_id": "02beb0a8-10a6-483a-9491-9ea231f2ae4e",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/02beb0a8-10a6-483a-9491-9ea231f2ae4e.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "研磨器",
+    "煎锅"
+  ],
+  "ingredients": [
+    {
+      "name": "阿根廷红虾",
+      "amount": 3,
+      "unit": "只",
+      "remake": "选用了速冻虾"
+    },
+    {
+      "name": "海盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": "研磨装"
+    },
+    {
+      "name": "黑胡椒",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "研磨装"
+    },
+    {
+      "name": "白葡萄酒",
+      "amount": 20,
+      "unit": "毫升"
+    },
+    {
+      "name": "生抽",
+      "amount": 1,
+      "unit": "毫升"
+    },
+    {
+      "name": "香菜",
+      "amount": 3,
+      "unit": "片"
+    },
+    {
+      "name": "柠檬",
+      "amount": 1,
+      "unit": "片"
+    },
+    {
+      "name": "洋葱",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "生姜",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "大蒜",
+      "amount": 10,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "阿根廷红虾解冻，最好是提前从速冻取出放到冷藏里自然解冻",
+      "time_unit": "天",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "解冻好的红虾洗净擦干备用，用厨房用纸吸干水分",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生姜切片，洋葱切小方块，香菜洗干净后叶茎分离，把香菜叶切碎，大蒜压碎切成小块碎末",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大火热锅，热锅后倒入两调羹橄榄油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等油温升高后，放入生姜片，洋葱块和香菜茎煸炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "约1分钟后取出生姜，洋葱和香菜茎，弃用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "调中大火，放入红虾开始煎，所有虾需要单面都完整接触平底锅，同时给每只虾刷上一层油",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待底面虾壳有微微焦黄时翻面，并撒入大蒜碎末，轻微晃动平底锅使得受热均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "约1分钟后添加20ml白葡萄酒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "再煎1分钟后调中小火，均匀撒上一层盐和黑胡椒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "给每只虾滴上一滴生抽",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒上香菜叶，装盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "切好柠檬片，摆放到盘边即可",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    13,
+    18
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    13,
+    18
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "柠檬可提升虾的口感，但偏酸，可以根据喜好添加，也可以不用"
+    },
+    {
+      "type": "list_item",
+      "content": "趁热吃"
+    }
+  ]
+}

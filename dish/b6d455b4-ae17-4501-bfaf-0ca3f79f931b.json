@@ -1,0 +1,207 @@
+{
+  "id": "b6d455b4-ae17-4501-bfaf-0ca3f79f931b",
+  "category": "肉食",
+  "name": "小炒黄牛肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+  "image_id": "5412d553-8101-488b-a87f-2a859acc58b8",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/5412d553-8101-488b-a87f-2a859acc58b8.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "牛里脊",
+      "amount": 400,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "芹菜",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "小米椒",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "野山椒",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香菜",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 6,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "牛里脊切成不超过3cm宽，3mm厚的薄片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "倒入酱油，用手抓匀备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "芹菜切成不超过5cm的小段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小米椒切成丝状",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "野山椒切成颗粒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "香菜切成不超过3cm的小段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，锅内放入食用油",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火等待30秒让油温升高",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入小米椒和野山椒爆香",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入牛里脊和芹菜，大火翻炒1分钟",
+      "time_unit": "秒",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "撒上香菜",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "盛盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    17
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    10,
+    18
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，全程需要开大火"
+    }
+  ]
+}

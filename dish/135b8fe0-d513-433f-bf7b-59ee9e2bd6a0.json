@@ -1,0 +1,148 @@
+{
+  "id": "135b8fe0-d513-433f-bf7b-59ee9e2bd6a0",
+  "category": "甜品",
+  "name": "咖啡椰奶冻",
+  "description": "",
+  "source_path": "dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md",
+  "image_id": "534122d0-f07e-4268-9783-ee459fe67de1",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/534122d0-f07e-4268-9783-ee459fe67de1.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 4,
+  "kitchen_ware": [
+    "过滤网"
+  ],
+  "ingredients": [
+    {
+      "name": "淡奶油",
+      "amount": 125,
+      "unit": "毫升",
+      "remake": "whipping cream, 35% M.E"
+    },
+    {
+      "name": "椰汁",
+      "amount": 250,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "意式浓缩咖啡",
+      "amount": 35,
+      "unit": "毫升",
+      "remake": "espresso，个人不推荐用 fruity 的咖啡豆"
+    },
+    {
+      "name": "椰子水",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": "推荐 vita coco coconut water，有条件可以敲一个椰子"
+    },
+    {
+      "name": "吉利丁",
+      "amount": 10,
+      "unit": "克",
+      "remake": "gelatin"
+    },
+    {
+      "name": "糖",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将定量淡奶油，椰汁，espresso，椰子水混合备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将以上液体加热1分钟，温度达到50-60度即可",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "如果格外嗜甜可以加额外的糖",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "倒入吉利丁，搅拌至融化，煮1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "过筛（这一步可以让椰奶冻口感更佳顺畅）",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入模具",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "过滤掉表层的泡泡。这一步可以让椰奶冻口感更好，并且看着也会更棒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入冰箱冷藏区，等待3小时",
+      "time_unit": "小时",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    }
+  ],
+  "take_time": [
+    5,
+    10
+  ],
+  "wait_time": [
+    180,
+    180
+  ],
+  "total_time": [
+    185,
+    190
+  ],
+  "additional_notes": []
+}

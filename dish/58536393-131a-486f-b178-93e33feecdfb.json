@@ -1,0 +1,129 @@
+{
+  "id": "58536393-131a-486f-b178-93e33feecdfb",
+  "category": "汤类",
+  "name": "菌菇炖乳鸽",
+  "description": "",
+  "source_path": "dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
+  "image_id": "43685dd0-6315-4fc4-b7f5-862636fed721",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/43685dd0-6315-4fc4-b7f5-862636fed721.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "瓦罐",
+    "高压锅"
+  ],
+  "ingredients": [
+    {
+      "name": "乳鸽",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "菌菇",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "玉米",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "冷水洗干净乳鸽",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "冷水锅中放入乳鸽，加入料酒与姜，水煮开捞出乳鸽",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将乳鸽放入高压锅或瓦罐中，加水没过乳鸽，放入生姜、玉米、菌菇",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "高压锅炖煮30分钟",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "瓦罐水烧开后转小火慢炖40-60分钟",
+      "time_unit": "分钟",
+      "time": [
+        40,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛到碗中，加入盐",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    10,
+    16
+  ],
+  "wait_time": [
+    70,
+    90
+  ],
+  "total_time": [
+    80,
+    106
+  ],
+  "additional_notes": []
+}

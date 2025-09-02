@@ -1,0 +1,215 @@
+{
+  "id": "06ac86c4-ca56-43a4-9446-9d8c36380b2a",
+  "category": "肉食",
+  "name": "椒盐排条",
+  "description": "",
+  "source_path": "dishes/meat_dish/椒盐排条.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [
+    "https://www.bilibili.com/video/BV14s4y1c76H"
+  ],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "大排",
+      "amount": 4,
+      "unit": "块",
+      "remake": "大约 360 克"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": "50 g"
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "椒盐粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱姜水",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "面粉",
+      "amount": 80,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 80,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "吉士粉",
+      "amount": 2.5,
+      "unit": "克",
+      "remake": "增色增香，没有可以不放"
+    },
+    {
+      "name": "水",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "大排洗干净，剔骨，用刀面拍松，切成厚片，再改成粗条",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入椒盐粉，搅匀，待到出胶质了分次加入葱姜水",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入冰箱腌制20分钟",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "制作炸糊。放入80g面粉，20g淀粉，2-3g吉士粉，盐1g",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "打入一个鸡蛋，搅拌，再分次加入水100g，再加10g油，反复搅拌直到炸糊完全调开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取出排条，裹上一层淀粉，再裹上面糊",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加入油，加热到大约150℃-160℃",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入排条炸成浅金黄色后捞出",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待油温再次升高到150℃-160℃",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下入排条复炸至金黄色后捞出",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒上椒盐粉，搅拌均匀后出锅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    16,
+    25
+  ],
+  "wait_time": [
+    25,
+    28
+  ],
+  "total_time": [
+    41,
+    53
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "也可以用面包糠代替炸糊，但口感差距很大。"
+    },
+    {
+      "type": "list_item",
+      "content": "炸糊也可以用来炸鸡腿、炸鱼等。"
+    },
+    {
+      "type": "list_item",
+      "content": "参考：椒盐排条的做法"
+    }
+  ]
+}

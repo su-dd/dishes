@@ -1,0 +1,347 @@
+{
+  "id": "b87c84e2-ff23-45b3-b9f2-91452ecb616b",
+  "category": "汤类",
+  "name": "皮蛋瘦肉粥",
+  "description": "",
+  "source_path": "dishes/soup/皮蛋瘦肉粥.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [
+    "电饭锅",
+    "小碗",
+    "一次性手套"
+  ],
+  "ingredients": [
+    {
+      "name": "饮用水",
+      "amount": 1,
+      "unit": "升",
+      "remake": ""
+    },
+    {
+      "name": "皮蛋",
+      "amount": 2,
+      "unit": "颗",
+      "remake": "松花蛋"
+    },
+    {
+      "name": "瘦肉",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大米",
+      "amount": 150,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "小葱",
+      "amount": 1,
+      "unit": "棵",
+      "remake": ""
+    },
+    {
+      "name": "香菜",
+      "amount": 1,
+      "unit": "棵",
+      "remake": ""
+    },
+    {
+      "name": "生菜",
+      "amount": 4,
+      "unit": "叶",
+      "remake": ""
+    },
+    {
+      "name": "生姜",
+      "amount": 1,
+      "unit": "拇指块",
+      "remake": ""
+    },
+    {
+      "name": "酱油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "大米洗净，放入电饭锅内胆，加入1升饮用水",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "瘦肉洗净，简易晾去水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "瘦肉加入食用油揉搓均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "瘦肉放入电饭锅内胆",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "皮蛋去壳洗净",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "皮蛋对半切开，分离蛋白蛋黄",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蛋白切碎块，蛋黄揉碎",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "皮蛋放入电饭锅内胆",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生姜洗净削皮，去除不可食用部分",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生姜切丝",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生姜放入电饭锅内胆",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小葱洗净，去除根部和不可食用部分",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "小葱切碎放入小碗备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "香菜洗净，去除根部和不可食用部分",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "香菜切碎放入小碗备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生菜洗净，去除根部和不可食用部分",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生菜切碎放入小碗备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "酱油、蚝油、盐、胡椒粉搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "酱料放入小碗备用",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "使用电饭锅煮粥模式煮熟主料",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "生菜单独过一次热水",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "配料加入主料中搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "酱料加入主料中搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    25,
+    43
+  ],
+  "wait_time": [
+    30,
+    40
+  ],
+  "total_time": [
+    55,
+    83
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "作为早餐时可提前一夜准备好主料，保温模式到第二天早餐，再添加配料和酱料"
+    }
+  ]
+}

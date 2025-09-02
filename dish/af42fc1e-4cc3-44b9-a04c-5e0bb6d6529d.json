@@ -1,0 +1,164 @@
+{
+  "id": "af42fc1e-4cc3-44b9-a04c-5e0bb6d6529d",
+  "category": "水产",
+  "name": "蒜香黄油虾",
+  "description": "",
+  "source_path": "dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
+  "image_id": "d87bc3ff-5f13-4ef3-b590-0dfbd2e12b35",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/d87bc3ff-5f13-4ef3-b590-0dfbd2e12b35.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [
+    "平底煎锅",
+    "厨房用夹"
+  ],
+  "ingredients": [
+    {
+      "name": "大虾",
+      "amount": 8,
+      "unit": "只",
+      "remake": "约200g，推荐黑虎虾或基围虾"
+    },
+    {
+      "name": "无盐黄油",
+      "amount": 30,
+      "unit": "克",
+      "remake": "推荐安佳"
+    },
+    {
+      "name": "大蒜",
+      "amount": 4,
+      "unit": "瓣",
+      "remake": "约20g"
+    },
+    {
+      "name": "白葡萄酒",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": "可选"
+    },
+    {
+      "name": "柠檬",
+      "amount": 0.25,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "橄榄油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "大虾去头去壳留尾，用牙签挑去虾线，洗净后用厨房纸吸干水分",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大蒜切成蒜末，备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "中火加热平底锅，放入10ml橄榄油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "油热后放入大虾，每面煎1-1.5分钟至变色，取出备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "同一锅中加入黄油，融化后放入蒜末，小火炒香（约30秒）",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "如使用白葡萄酒，此时加入并煮至酒精挥发（约1分钟）",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将虾放回锅中，与蒜香黄油酱汁翻炒均匀（约1分钟）",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "挤入柠檬汁，翻炒均匀后立即关火",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "装盘，淋上锅中剩余酱汁",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    9,
+    15
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    9,
+    15
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "虾不宜过度烹饪，否则会变硬"
+    }
+  ]
+}

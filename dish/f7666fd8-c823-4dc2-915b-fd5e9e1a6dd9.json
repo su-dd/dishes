@@ -1,0 +1,256 @@
+{
+  "id": "f7666fd8-c823-4dc2-915b-fd5e9e1a6dd9",
+  "category": "蔬菜",
+  "name": "蚝油三鲜菇",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
+  "image_id": "77e96b11-6287-444d-9cd1-367fe695696f",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/77e96b11-6287-444d-9cd1-367fe695696f.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "鲜香菇",
+      "amount": 2,
+      "unit": "朵",
+      "remake": ""
+    },
+    {
+      "name": "蟹味菇",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白玉菇",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "小米辣",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "菜椒",
+      "amount": 0.5,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 2,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "香葱",
+      "amount": 0.5,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "姜末",
+      "amount": 1,
+      "unit": "粒",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "开水",
+      "amount": 350,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "西蓝花",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "蟹味菇、白玉菇去掉根部泥土，掰散菌朵",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "香菇切片（每片厚度0.5-1cm）",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "生粉倒入小碗中，加入50ml水，搅拌生粉直至融化没有颗粒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "水开，放入西蓝花，清水煮3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "洗锅烧开水",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入5g食用盐，倒入蟹味菇、白玉菇、香菇，水煮1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出沥干水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧油，待油开始冒小泡",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入姜末、小米辣、菜椒煸炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入三鲜菇，然后依次倒入生抽、蚝油、鸡精，翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入水淀粉，中火烧干汁",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入料酒、葱花出锅",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "摆上西蓝花",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    12,
+    20
+  ],
+  "wait_time": [
+    9,
+    12
+  ],
+  "total_time": [
+    21,
+    32
+  ],
+  "additional_notes": []
+}

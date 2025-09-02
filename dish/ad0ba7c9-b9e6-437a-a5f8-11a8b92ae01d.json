@@ -1,0 +1,150 @@
+{
+  "id": "ad0ba7c9-b9e6-437a-a5f8-11a8b92ae01d",
+  "category": "蔬菜",
+  "name": "拔丝土豆",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
+  "image_id": "bc64152e-3a52-456e-8434-c64f43bffbbb",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/bc64152e-3a52-456e-8434-c64f43bffbbb.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "ingredients": [
+    {
+      "name": "土豆",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 300,
+      "unit": "毫升",
+      "remake": "土豆能浮在油上面即可"
+    },
+    {
+      "name": "淀粉",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 120,
+      "unit": "克",
+      "remake": "要多放糖，这是为了在土豆上面裹上一层厚厚的糖浆，从而产生拔丝的效果"
+    },
+    {
+      "name": "水",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "芝麻",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "土豆去皮，切均匀的小块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入淀粉搅拌，使得淀粉覆盖土豆表面",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧油，放入土豆块煎炸",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        7
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "取出土豆，放入大碗备用",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "锅中加入水、白砂糖，沿着一个方向慢慢搅动",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "重新倒入土豆，翻炒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "土豆盛盘，散上芝麻",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    12,
+    19
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    12,
+    19
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "土豆煎炸不可太熟透，否则在拔丝端盘时不容易定型，影响美观"
+    },
+    {
+      "type": "list_item",
+      "content": "对于使用剩余的食用油，可以考虑重新收集到油壶。"
+    }
+  ]
+}

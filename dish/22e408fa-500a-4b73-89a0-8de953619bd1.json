@@ -1,0 +1,289 @@
+{
+  "id": "22e408fa-500a-4b73-89a0-8de953619bd1",
+  "category": "肉食",
+  "name": "尖叫牛蛙",
+  "description": "",
+  "source_path": "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
+  "image_id": "76801fcd-b770-46af-bb6a-4224c88bbdda",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/76801fcd-b770-46af-bb6a-4224c88bbdda.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "牛蛙肉块",
+      "amount": 800,
+      "unit": "克",
+      "remake": "买3斤活蛙，建议挑小个头的，肉质鲜嫩"
+    },
+    {
+      "name": "泡姜",
+      "amount": 25,
+      "unit": "克",
+      "remake": "看个人口味，喜欢重口一点可以多放"
+    },
+    {
+      "name": "泡椒",
+      "amount": 7.5,
+      "unit": "克",
+      "remake": "看个人吃辣的承受能力，不能吃辣的建议减半为2.5克，微微辣"
+    },
+    {
+      "name": "野山椒",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "青红辣椒",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 40,
+      "unit": "克",
+      "remake": "可以根据口味偏好调整，最好不低于30克"
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 25,
+      "unit": "克",
+      "remake": "重口选30，想吃清淡点20克。PS这菜不可能太清淡"
+    },
+    {
+      "name": "盐巴",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "啤酒",
+      "amount": 450,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "藤椒油",
+      "amount": 7.5,
+      "unit": "毫升",
+      "remake": "可选"
+    },
+    {
+      "name": "猪油",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": "可选，没有猪油也可，用食用油替代"
+    },
+    {
+      "name": "生粉",
+      "amount": 30,
+      "unit": "克",
+      "remake": "干淀粉可以平替"
+    },
+    {
+      "name": "食用油",
+      "amount": 200,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "葱花",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "牛蛙肉洗净后控干水分",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入盐巴和啤酒，用手抓5分钟去除腥味",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "对着清水冲洗至不再流出血水和杂质",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "控干水分，放到器皿中准备腌制",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入盐、生粉、料酒、胡椒粉，用手抓均匀腌制",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将泡姜、泡椒、野山椒切丝或片，青红辣椒切圈，大蒜拨开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧热加入食用油，烧至6成油温",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将腌制好的牛蛙快速过油炸制10秒钟",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出蛙肉后控油，倒出热油保留适量油量",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入泡姜、泡椒、野山椒、大蒜炒出香味",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入豆瓣酱中火翻炒至出红油",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入啤酒，加入炸过的牛蛙肉，加入胡椒粉和藤椒油中火慢焖3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火收汁半分钟",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入青红辣椒圈再煮10秒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛到盆里，撒上葱花",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    18,
+    23
+  ],
+  "wait_time": [
+    5,
+    10
+  ],
+  "total_time": [
+    23,
+    33
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "控干水分的时候可以选择漏勺按压"
+    },
+    {
+      "type": "list_item",
+      "content": "生粉抓揉的时候要均匀覆盖蛙肉"
+    }
+  ]
+}

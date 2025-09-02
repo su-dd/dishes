@@ -1,0 +1,199 @@
+{
+  "id": "47702fa4-f248-42a7-99b1-59f849a02366",
+  "category": "蔬菜",
+  "name": "酸辣土豆丝",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/酸辣土豆丝.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "土豆",
+      "amount": 240,
+      "unit": "克",
+      "remake": "越细越长更好"
+    },
+    {
+      "name": "大蒜",
+      "amount": 4,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "青椒",
+      "amount": 0.5,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "红椒",
+      "amount": 0.5,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "干辣椒",
+      "amount": 3,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "陈醋",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "土豆去皮、切丝（或用刨丝器）",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "切好的土豆丝用清水清洗，去除多余的淀粉",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "对土豆丝焯水10秒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沥干，备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱蒜干辣椒切小块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "青红椒切丝",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，小火热油爆香蒜和干辣椒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入青红椒翻炒几下",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入土豆丝翻炒至变色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加生抽、陈醋、蒜末，最后加入盐翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    11,
+    21
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    11,
+    21
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "清洗土豆丝淀粉一定要去干净，不然会全黏在一起"
+    },
+    {
+      "type": "list_item",
+      "content": "加入蒜末、盐后应尽快出锅，保留蒜香以及避免破坏口感。"
+    }
+  ]
+}

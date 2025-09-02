@@ -1,0 +1,183 @@
+{
+  "id": "83f92986-08e2-4fc6-bcda-76a33829e81f",
+  "category": "肉食",
+  "name": "洋葱炒猪肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/洋葱炒猪肉.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "茶匙",
+    "大匙"
+  ],
+  "ingredients": [
+    {
+      "name": "洋葱",
+      "amount": 1,
+      "unit": "颗",
+      "remake": "是主角，喜欢吃洋葱可以多半颗～一颗"
+    },
+    {
+      "name": "猪肉",
+      "amount": 250,
+      "unit": "克"
+    },
+    {
+      "name": "蒜头",
+      "amount": 3,
+      "unit": "瓣"
+    },
+    {
+      "name": "食用油",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "黑胡椒",
+      "amount": 1.25,
+      "unit": "克"
+    },
+    {
+      "name": "酱油",
+      "amount": 30,
+      "unit": "毫升"
+    },
+    {
+      "name": "糖",
+      "amount": 15,
+      "unit": "克"
+    },
+    {
+      "name": "麻油",
+      "amount": 5,
+      "unit": "毫升"
+    },
+    {
+      "name": "番茄酱",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "料酒",
+      "amount": 15,
+      "unit": "毫升"
+    }
+  ],
+  "steps": [
+    {
+      "description": "洋葱切片，猪肉切片，蒜头拍碎，混合调味料备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "炒锅内倒入食用油，等待油温升高",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入猪肉炒至变色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下蒜头炒香盛起备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "原锅下洋葱翻炒",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入调味料炒匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下备用的猪肉翻炒至熟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待猪肉熟后再翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "起锅装盘",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    14,
+    23
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    14,
+    23
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "猪肉可选猪肩肉片或是切好的肉丝看个人喜好"
+    },
+    {
+      "type": "list_item",
+      "content": "爱料理"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "e4470a9f-e26e-4fb1-ac29-23678f619724",
+  "category": "早餐",
+  "name": "美式炒蛋",
+  "description": "",
+  "source_path": "dishes/breakfast/美式炒蛋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "搅拌工具"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 3,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "全脂牛奶",
+      "amount": 10,
+      "unit": "克",
+      "remake": "或奶油"
+    },
+    {
+      "name": "黄油",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡蛋打入大碗中，加盐搅打至起泡",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "静置",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "黄油切小块入锅",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "倒入蛋液，开小火不断搅拌",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "黄油融化后快速翻动蛋液，将其打碎成细密状",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在蛋液大体凝固前关火",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入牛奶搅拌",
+      "time_unit": "秒",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "装盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    3,
+    6
+  ],
+  "wait_time": [
+    15,
+    15
+  ],
+  "total_time": [
+    18,
+    21
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "想吃的更丰富可以在最后一步那里加上炒好的番茄丁，洋葱丁，培根丁，切好的芝士小丁，等等。(总之不会再出水的东东）"
+    },
+    {
+      "type": "list_item",
+      "content": "使用平底锅（不粘锅）。"
+    },
+    {
+      "type": "list_item",
+      "content": "考虑到很多人是一人食就炒一两个鸡蛋，口径比较小的锅或许更方便在锅中均匀搅拌。"
+    }
+  ]
+}

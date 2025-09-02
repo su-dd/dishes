@@ -1,0 +1,106 @@
+{
+  "id": "327e2fb1-7c6a-4901-ab75-eb0dd7fba25c",
+  "category": "早餐",
+  "name": "水煮玉米",
+  "description": "",
+  "source_path": "dishes/breakfast/水煮玉米.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅"
+  ],
+  "ingredients": [
+    {
+      "name": "新鲜玉米",
+      "amount": 1,
+      "unit": "个",
+      "remake": "带皮"
+    },
+    {
+      "name": "水",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "淹过玉米约半节指头"
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": "煮玉米时开始和淡盐水，2克盐加50ml水"
+    },
+    {
+      "name": "糖",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "根据口味选择加或者不加（可选）"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将新鲜玉米剥去外皮，剩部分玉米皮入锅",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入淹过玉米约半节指头的水，加盐和糖",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水煮开之后转至小火，加盖继续煮",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煮熟后沥干水分",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "冷却后食用",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    1,
+    2
+  ],
+  "wait_time": [
+    15,
+    20
+  ],
+  "total_time": [
+    16,
+    22
+  ],
+  "additional_notes": []
+}

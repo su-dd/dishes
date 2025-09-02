@@ -1,0 +1,127 @@
+{
+  "id": "3f498296-255a-4066-8ad1-4848e3bd6d8e",
+  "category": "甜品",
+  "name": "反沙芋头",
+  "description": "",
+  "source_path": "dishes/dessert/反沙芋头/反沙芋头.md",
+  "image_id": "dd052335-d900-4e38-9aea-8ed6d164e43f",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/dd052335-d900-4e38-9aea-8ed6d164e43f.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "荔浦芋头",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "芋头切长条",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "等油温起来（插入筷子冒小泡）",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "炸芋头至浮起且微黄可轻松戳洞",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "糖和水按比例加热至不变色冒小泡",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入葱花和芋头关火翻炒等待反沙",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "装盘上桌",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    25
+  ],
+  "wait_time": [
+    6,
+    10
+  ],
+  "total_time": [
+    21,
+    35
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "刚做好的反沙芋头很烫，小心烫嘴哦"
+    },
+    {
+      "type": "list_item",
+      "content": "再配上茶，啊~真惬意啊"
+    }
+  ]
+}

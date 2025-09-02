@@ -1,0 +1,157 @@
+{
+  "id": "005aedc2-b3dc-4788-93b4-4bff6c6209d5",
+  "category": "蔬菜",
+  "name": "金针菇日本豆腐煲",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/金针菇日本豆腐煲.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "金针菇",
+      "amount": 1.5,
+      "unit": "把",
+      "remake": ""
+    },
+    {
+      "name": "日本豆腐",
+      "amount": 2,
+      "unit": "袋",
+      "remake": "玉子豆腐"
+    },
+    {
+      "name": "小米椒",
+      "amount": 4,
+      "unit": "根",
+      "remake": "切碎"
+    },
+    {
+      "name": "蒜",
+      "amount": 2.5,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "老抽",
+      "amount": 3,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "糖",
+      "amount": 3,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "豆腐切片，小火煎到两面金黄出锅备用",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "切蒜成蒜末；将生抽，蚝油，老抽，糖，100ml 水调汁备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅放油，油热放小米椒、蒜末爆香",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "先放金针菇，炒软",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "把煎好的豆腐平铺在金针菇上，倒入配好的料汁，焖5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火收汁",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    14,
+    22
+  ],
+  "wait_time": [
+    5,
+    5
+  ],
+  "total_time": [
+    19,
+    27
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "金针菇一定要先炒软"
+    },
+    {
+      "type": "list_item",
+      "content": "豆腐尽量不要翻炒，容易碎"
+    }
+  ]
+}

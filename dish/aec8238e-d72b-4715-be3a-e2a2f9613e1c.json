@@ -1,0 +1,208 @@
+{
+  "id": "aec8238e-d72b-4715-be3a-e2a2f9613e1c",
+  "category": "甜品",
+  "name": "炸鲜奶",
+  "description": "",
+  "source_path": "dishes/dessert/炸鲜奶/炸鲜奶.md",
+  "image_id": "f8de6cc4-2b87-4fda-8799-578ac1e8d26e",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/f8de6cc4-2b87-4fda-8799-578ac1e8d26e.webp",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1U7411E7LH/"
+  ],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "面包模具",
+    "浅盘子"
+  ],
+  "ingredients": [
+    {
+      "name": "牛奶",
+      "amount": 250,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "玉米淀粉",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "面包糠",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "将牛奶倒入碗中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入玉米淀粉和白糖，搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将模具刷上食用油",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "牛奶下锅，中火烧开",
+      "time_unit": "分",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "烧开后转小火，边煮边搅拌",
+      "time_unit": "分",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "牛奶变粘稠后出锅，倒入模具",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将模具放冰箱冷却1小时",
+      "time_unit": "小时",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "拿出，切成大小均匀的条",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "奶条放入碗中，倒入一半面包糠，裹上后取出备用",
+      "time_unit": "秒",
+      "time": [
+        40,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "打入鸡蛋并搅匀备用",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将奶糊裹上蛋液和剩余的面包糠",
+      "time_unit": "秒",
+      "time": [
+        45,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中倒油，油热后下锅炸",
+      "time_unit": "分",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "炸至金黄后停火，摆盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    12
+  ],
+  "wait_time": [
+    63,
+    65
+  ],
+  "total_time": [
+    70,
+    77
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "煮牛奶时必须小火慢煮，才能均匀受热"
+    },
+    {
+      "type": "list_item",
+      "content": "奶糊下锅时油温不能过高或过低，最好保持在 5 分热"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：王刚的教学视频"
+    }
+  ]
+}

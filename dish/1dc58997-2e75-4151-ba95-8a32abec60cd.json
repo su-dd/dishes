@@ -1,0 +1,217 @@
+{
+  "id": "1dc58997-2e75-4151-ba95-8a32abec60cd",
+  "category": "蔬菜",
+  "name": "陕北熬豆角",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/陕北熬豆角.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "豆角",
+      "amount": 600,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "土豆",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "西红柿",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "螺丝椒",
+      "amount": 4,
+      "unit": "个",
+      "remake": "可选"
+    },
+    {
+      "name": "盐",
+      "amount": 12,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 12,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "五香粉",
+      "amount": 6,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 12,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "葱",
+      "amount": 3,
+      "unit": "圈",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 2,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "香菜碎",
+      "amount": 0,
+      "unit": "",
+      "remake": "可选，根据口味加"
+    }
+  ],
+  "steps": [
+    {
+      "description": "葱切花，蒜切沫，姜切丝",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "豆角去筋，切2-10cm小段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "土豆去皮，切1cm³小块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "西红柿去皮，切1cm³小块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "辣椒去仔，切0.15cm宽条",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧油，冒烟后放入葱姜蒜翻炒至闻到香味",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入豆角翻炒至变色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入土豆块翻炒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入热水熬至土豆变软",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入西红柿块和调料熬至成汁",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入香菜碎出锅",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    30,
+    48
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    30,
+    48
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "加入西红柿后开始继续熬制后，需要偶尔翻搅防止糊底"
+    }
+  ]
+}

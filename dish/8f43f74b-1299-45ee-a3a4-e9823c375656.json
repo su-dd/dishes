@@ -1,0 +1,182 @@
+{
+  "id": "8f43f74b-1299-45ee-a3a4-e9823c375656",
+  "category": "饮品",
+  "name": "金汤力",
+  "description": "",
+  "source_path": "dishes/drink/金汤力/金汤力.md",
+  "image_id": "73a181b4-ca6b-4e20-9b4f-f92891376f65",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/73a181b4-ca6b-4e20-9b4f-f92891376f65.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "手动压汁器"
+  ],
+  "ingredients": [
+    {
+      "name": "金酒",
+      "amount": 35,
+      "unit": "毫升",
+      "remake": "30~40毫升"
+    },
+    {
+      "name": "汤力水气泡水",
+      "amount": 1,
+      "unit": "罐",
+      "remake": ""
+    },
+    {
+      "name": "柠檬",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "冰块",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "新鲜绿叶",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选，装饰用"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将柠檬对半切（刀方向垂直于柠檬的头尾连线）",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "从其中的一半中切取一片柠檬备用",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "再次将柠檬对半切，将得到的4角柠檬用压汁器压出柠檬汁置于容器中备用",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "选择一个杯子，建议使用容量在350~400毫升的透明玻璃杯",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将100克冰块放置在杯底",
+      "time_unit": "秒",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "倒入30~40毫升金酒",
+      "time_unit": "秒",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入15毫升柠檬汁",
+      "time_unit": "秒",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用勺子搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将之前准备的一片柠檬放置好",
+      "time_unit": "秒",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "缓慢沿杯壁注入汤力水直至满杯",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用勺子轻轻上下提拉将液体搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在液面放置好装饰用的绿叶",
+      "time_unit": "秒",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    1,
+    2
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    1,
+    2
+  ],
+  "additional_notes": []
+}

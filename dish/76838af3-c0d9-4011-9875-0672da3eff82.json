@@ -1,0 +1,181 @@
+{
+  "id": "76838af3-c0d9-4011-9875-0672da3eff82",
+  "category": "水产",
+  "name": "蛏抱蛋",
+  "description": "",
+  "source_path": "dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
+  "image_id": "5c4cb88c-d774-49b6-a54a-1628ba9d76be",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/5c4cb88c-d774-49b6-a54a-1628ba9d76be.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "蛏子",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 100,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "洋葱",
+      "amount": 0.25,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "鸡精",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "烧开水",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将蛏子放入水中煮2分钟后捞上去壳",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "往大碗中加入洋葱、生抽、料酒、鸡精、生粉",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "充分搅拌调料和蛏子",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "打入2个鸡蛋",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "继续搅拌蛋液和蛏子混合物",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入碗中蛏子煎炸至单面金黄",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻面继续煎炸",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    7,
+    10
+  ],
+  "wait_time": [
+    4,
+    7
+  ],
+  "total_time": [
+    11,
+    17
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "更多情况下，福州当地会选用马蹄（解腻）和马铃薯（洗油），因为疫情期间买不到，所以选用了凤梨"
+    },
+    {
+      "type": "list_item",
+      "content": "闽菜以甜为主，如果吃不惯的可以放弃白糖"
+    },
+    {
+      "type": "list_item",
+      "content": "可以通过勺子敲打瘦肉块，听到声响来判断是否炸透瘦肉"
+    }
+  ]
+}

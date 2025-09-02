@@ -1,0 +1,283 @@
+{
+  "id": "161fc28e-4e30-4a42-9220-7a02072acc3b",
+  "category": "肉食",
+  "name": "青椒土豆炒肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
+  "image_id": "ae1c6925-9ead-4073-ad0b-9c293b81b1a2",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/ae1c6925-9ead-4073-ad0b-9c293b81b1a2.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "青椒",
+      "amount": 2,
+      "unit": "个",
+      "remake": "共约200g"
+    },
+    {
+      "name": "土豆",
+      "amount": 2,
+      "unit": "个",
+      "remake": "共约300g"
+    },
+    {
+      "name": "猪肉",
+      "amount": 200,
+      "unit": "克",
+      "remake": "五花肉"
+    },
+    {
+      "name": "葱",
+      "amount": 1,
+      "unit": "根",
+      "remake": "约10g"
+    },
+    {
+      "name": "姜",
+      "amount": 1,
+      "unit": "块",
+      "remake": "约5g"
+    },
+    {
+      "name": "蒜",
+      "amount": 3,
+      "unit": "瓣",
+      "remake": "约12g"
+    },
+    {
+      "name": "盐",
+      "amount": 7,
+      "unit": "克"
+    },
+    {
+      "name": "酱油",
+      "amount": 8,
+      "unit": "毫升",
+      "remake": "6-10ml"
+    },
+    {
+      "name": "食用油",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": "10-15ml"
+    },
+    {
+      "name": "土豆淀粉",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "水",
+      "amount": 15,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "青椒去除根蒂切小块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "土豆去皮切2mm薄片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "猪肉切4mm薄片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱横纵切3mm小段",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "姜蒜去皮拍散剁碎末",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "土豆淀粉加入约15g水搅拌均匀至水淀粉",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "起锅烧油，加热至7成热",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入猪肉片，缓缓翻滚炒至去肉红色",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入约3ml酱油，翻炒肉片均匀上色",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入约2g盐",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转5成油温，加入葱姜蒜炒5秒",
+      "time_unit": "秒",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入土豆片，转7成油温均匀翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入约5ml酱油和2g盐",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "炒至土豆断生，表面轻微焦黄",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转8成油温加入青椒，大火煸炒出锅气",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "反复均匀翻炒1分钟上色",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在锅周围倒入水淀粉转4成火勾芡",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "外观呈粘稠状态后关火",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盛盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    25,
+    41
+  ],
+  "wait_time": [
+    0,
+    1
+  ],
+  "total_time": [
+    25,
+    42
+  ],
+  "additional_notes": []
+}

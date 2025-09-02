@@ -1,0 +1,114 @@
+{
+  "id": "bcb2991b-bcaa-4a0d-9716-a7ff53f29dd8",
+  "category": "佐料",
+  "name": "草莓酱",
+  "description": "",
+  "source_path": "dishes/condiment/草莓酱/草莓酱.md",
+  "image_id": "5d53c4c8-b04d-4dc2-b31a-c0e264a88f62",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/5d53c4c8-b04d-4dc2-b31a-c0e264a88f62.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "保鲜膜"
+  ],
+  "ingredients": [
+    {
+      "name": "草莓",
+      "amount": 1200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 400,
+      "unit": "克",
+      "remake": "如需要低糖饮食，可以考虑降低到 200g"
+    }
+  ],
+  "steps": [
+    {
+      "description": "草莓洗净去叶",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将草莓切碎放入合适的碗中",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将白糖倒入碗中与草莓搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "碗用保鲜膜覆盖静置 1 小时",
+      "time_unit": "小时",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将静置的草莓和糖的混合物倒入不粘锅中开大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "烧开后转小火不断搅拌直至果酱呈粘稠状关火",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "待草莓酱冷却后装入准备好的密封罐中",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "wait",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    26,
+    45
+  ],
+  "wait_time": [
+    60,
+    60
+  ],
+  "total_time": [
+    86,
+    105
+  ],
+  "additional_notes": []
+}

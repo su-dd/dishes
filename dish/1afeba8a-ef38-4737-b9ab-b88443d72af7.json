@@ -1,0 +1,191 @@
+{
+  "id": "1afeba8a-ef38-4737-b9ab-b88443d72af7",
+  "category": "蔬菜",
+  "name": "椒盐玉米",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/椒盐玉米/椒盐玉米.md",
+  "image_id": "0597c29b-409d-4e39-b7fa-8c09cb821c26",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/0597c29b-409d-4e39-b7fa-8c09cb821c26.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "塑料簸箕",
+    "吸油纸",
+    "锅"
+  ],
+  "ingredients": [
+    {
+      "name": "玉米粒",
+      "amount": 350,
+      "unit": "克",
+      "remake": "袋装"
+    },
+    {
+      "name": "淀粉",
+      "amount": 40,
+      "unit": "克",
+      "remake": "在锅里完全能盖住玉米粒表面为准，在40-70g"
+    },
+    {
+      "name": "椒盐粉",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "芝麻粒",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "油",
+      "amount": 1,
+      "unit": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "description": "玉米粒解冻，温水泡15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将解冻好的玉米粒倒入垫有吸油纸的簸箕中",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "摇晃簸箕直到吸油纸全部变湿",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将玉米粒转移到另一个垫有吸油纸的簸箕中",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "重复摇晃操作去除多余水分",
+      "time_unit": "秒",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "倒入淀粉完全覆盖玉米粒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "摇晃簸箕使淀粉均匀裹住玉米粒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中倒入油铺满锅底",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待油热至8成热",
+      "time_unit": "秒",
+      "time": [
+        60,
+        90
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入裹粉玉米粒中火煎30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "轻微翻炒3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "撒上椒盐和芝麻粒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        25
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    10
+  ],
+  "wait_time": [
+    16,
+    16
+  ],
+  "total_time": [
+    23,
+    26
+  ],
+  "additional_notes": []
+}

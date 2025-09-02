@@ -1,0 +1,202 @@
+{
+  "id": "d572b768-9f13-413b-a34d-acfa85eeba3e",
+  "category": "蔬菜",
+  "name": "白灼菜心",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
+  "image_id": "99274c6c-bc0b-404c-b00e-b8169d6a2884",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/99274c6c-bc0b-404c-b00e-b8169d6a2884.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "新鲜菜心",
+      "amount": 250,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 5,
+      "unit": "克",
+      "remake": "调灵魂料汁儿"
+    },
+    {
+      "name": "蚝油",
+      "amount": 5,
+      "unit": "克",
+      "remake": "调灵魂料汁儿"
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": "调灵魂料汁儿"
+    },
+    {
+      "name": "糖",
+      "amount": 5,
+      "unit": "克",
+      "remake": "调灵魂料汁儿"
+    },
+    {
+      "name": "大蒜",
+      "amount": 4,
+      "unit": "瓣",
+      "remake": "四五瓣"
+    },
+    {
+      "name": "小米辣",
+      "amount": 1,
+      "unit": "根",
+      "remake": "一两根"
+    }
+  ],
+  "steps": [
+    {
+      "description": "菜心洗净，去除根部比较硬或老的地方，刮掉根茎外层较硬部分",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大蒜切成蒜末，洋葱切碎",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "调制料汁：将生抽、蚝油、糖和清水混合搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "锅中清水加盐和食用油烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将菜心根茎在沸水中烫1分钟至深绿色",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将整个菜心放入锅中烫熟1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出菜心码入盘中",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "另起锅倒油，五成热后倒入蒜末、洋葱爆香",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入调好的料汁和小米辣煮开",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "料汁煮沸后稍等十来秒收汁",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将料汁浇在菜心上",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    9,
+    14
+  ],
+  "wait_time": [
+    3,
+    5
+  ],
+  "total_time": [
+    12,
+    19
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "选择菜心一定要比较新鲜！新鲜！"
+    },
+    {
+      "type": "list_item",
+      "content": "锅内烧清水要加油和盐"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "cf2ac19c-0d77-467f-aeff-03ca5d5eaeca",
+  "category": "蔬菜",
+  "name": "凉拌木耳",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
+  "image_id": "9a2056c7-ebe4-4b55-9ceb-5d3b918925aa",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/9a2056c7-ebe4-4b55-9ceb-5d3b918925aa.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "碗",
+    "搅拌工具"
+  ],
+  "ingredients": [
+    {
+      "name": "干木耳",
+      "amount": 20,
+      "unit": "克",
+      "remake": "湿木耳也可，但不能太久之前泡发的，必须是新鲜的湿木耳"
+    },
+    {
+      "name": "蒜瓣",
+      "amount": 2.5,
+      "unit": "个",
+      "remake": "2-3个"
+    },
+    {
+      "name": "小米辣",
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "白糖",
+      "amount": 7.5,
+      "unit": "克",
+      "remake": "5-10g（依个人口味）"
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "醋",
+      "amount": 15,
+      "unit": "毫升"
+    },
+    {
+      "name": "香油",
+      "amount": 5,
+      "unit": "毫升"
+    },
+    {
+      "name": "芥末",
+      "amount": 2,
+      "unit": "厘米",
+      "remake": "可以不用"
+    }
+  ],
+  "steps": [
+    {
+      "description": "泡发干木耳",
+      "time_unit": "分钟",
+      "time": [
+        45,
+        45
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将泡发好的木耳进行去根处理，并彻底洗净",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "起锅烧水",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水开后放入木耳，大火煮1.5-2分钟",
+      "time_unit": "分钟",
+      "time": [
+        1.5,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将蒜瓣、小米辣切碎放入碗中",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "依次加入盐、糖、生抽、醋、香油、芥末",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "木耳盛出后沥水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将木耳放入调料碗中",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "搅拌充分",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "端盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    11
+  ],
+  "wait_time": [
+    49,
+    52
+  ],
+  "total_time": [
+    56,
+    63
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "调味品的数量可以根据个人口味进行调整, 如果不喜欢芥末, 可以不加入。"
+    },
+    {
+      "type": "list_item",
+      "content": "等木耳冷却入味后口味更佳, 约 15 分钟。"
+    }
+  ]
+}

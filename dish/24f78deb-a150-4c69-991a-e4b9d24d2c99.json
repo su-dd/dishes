@@ -1,0 +1,294 @@
+{
+  "id": "24f78deb-a150-4c69-991a-e4b9d24d2c99",
+  "category": "肉食",
+  "name": "小炒鸡肝",
+  "description": "",
+  "source_path": "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
+  "image_id": "7602d0c8-1bf5-4f04-9889-da04d7c01e8e",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/7602d0c8-1bf5-4f04-9889-da04d7c01e8e.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [
+    "刀",
+    "砧板",
+    "锅",
+    "铲"
+  ],
+  "ingredients": [
+    {
+      "name": "生鸡肝",
+      "amount": 5,
+      "unit": "个",
+      "remake": "约 800g"
+    },
+    {
+      "name": "蒜苗",
+      "amount": 200,
+      "unit": "克",
+      "remake": "喜欢吃的可以多放"
+    },
+    {
+      "name": "大葱",
+      "amount": 100,
+      "unit": "克",
+      "remake": "切段"
+    },
+    {
+      "name": "大葱",
+      "amount": 50,
+      "unit": "克",
+      "remake": "切片"
+    },
+    {
+      "name": "姜",
+      "amount": 70,
+      "unit": "克",
+      "remake": "切片"
+    },
+    {
+      "name": "姜",
+      "amount": 50,
+      "unit": "克",
+      "remake": "切丁"
+    },
+    {
+      "name": "料酒",
+      "amount": 30,
+      "unit": "毫升"
+    },
+    {
+      "name": "食用盐",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "鸡精",
+      "amount": 5,
+      "unit": "克",
+      "remake": "也可以是味精"
+    },
+    {
+      "name": "五香粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": "十三香"
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "烧烤料",
+      "amount": 10,
+      "unit": "克",
+      "remake": "或孜然粉，可选"
+    },
+    {
+      "name": "芝麻",
+      "amount": 5,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "食用油",
+      "amount": 30,
+      "unit": "毫升"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡肝清洗",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜苗清洗，切段",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大葱清洗，切段切片",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "姜清洗，切片切丁",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸡肝焯水：放入锅内加凉水、大葱、姜和料酒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火煮沸后调中火撇浮沫",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中火煮5-10分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火捞出过凉水并清洗",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "鸡肝切片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅内加入食用油，等待10秒油升温",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入大葱和姜翻炒爆香",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入鸡肝翻炒至微微发黄",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入蒜苗翻炒30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入所有调味料",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火快速翻炒30秒防止糊锅",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火盛出装盘",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "撒芝麻装饰（可选）",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    21,
+    30
+  ],
+  "wait_time": [
+    5,
+    10
+  ],
+  "total_time": [
+    26,
+    41
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "焯水时，需要注意观察沸腾的水位线，不要让水溢出避免发生危险。"
+    },
+    {
+      "type": "list_item",
+      "content": "焯完水的鸡肝建议用凉水冲洗，更推荐冰水，可以让口感更好。"
+    }
+  ]
+}

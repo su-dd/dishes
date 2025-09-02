@@ -1,0 +1,216 @@
+{
+  "id": "c9f42685-eb44-4da8-a66d-74324f368c7f",
+  "category": "肉食",
+  "name": "凉拌鸡丝",
+  "description": "",
+  "source_path": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
+  "image_id": "a29eb726-910c-4763-9b33-831eec309e64",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/a29eb726-910c-4763-9b33-831eec309e64.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "搅拌工具"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡胸肉",
+      "amount": 200,
+      "unit": "克",
+      "remake": "常温冷冻均可"
+    },
+    {
+      "name": "麻油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": "花椒油"
+    },
+    {
+      "name": "生抽",
+      "amount": 4,
+      "unit": "毫升"
+    },
+    {
+      "name": "香醋",
+      "amount": 4,
+      "unit": "毫升"
+    },
+    {
+      "name": "白糖",
+      "amount": 3,
+      "unit": "克"
+    },
+    {
+      "name": "盐",
+      "amount": 2,
+      "unit": "克"
+    },
+    {
+      "name": "料酒",
+      "amount": 1,
+      "unit": "适量"
+    },
+    {
+      "name": "姜",
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "凉白开水",
+      "amount": 1,
+      "unit": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "description": "姜切片",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中倒入水",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入鸡胸肉、姜片",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入料酒",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开大火不盖盖将水烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水开后转中火，用勺子将浮沫捞出",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续煮鸡胸肉",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        7
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用凉白开水冲泡鸡胸肉降温",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将鸡胸肉撕成细丝",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "准备一个碗",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "碗中加入麻油、生抽、香醋、白糖、盐",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "搅拌料汁使糖和盐溶化",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将料汁倒入鸡丝中搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    5,
+    9
+  ],
+  "wait_time": [
+    10,
+    15
+  ],
+  "total_time": [
+    15,
+    24
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "这道菜是隔离期间用现有材料做的，有条件可以加入香菜、小葱等进行调味，喜欢吃辣的可以加入辣椒油"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "ad3f37eb-82da-430c-8ba0-a73968860c09",
+  "category": "主食",
+  "name": "蛋炒饭",
+  "description": "",
+  "source_path": "dishes/staple/蛋炒饭.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [
+    "炒锅",
+    "锅铲",
+    "刀具",
+    "砧板",
+    "碗",
+    "筷子"
+  ],
+  "ingredients": [
+    {
+      "name": "冷饭",
+      "amount": 1000,
+      "unit": "毫升",
+      "remake": "份数*500ml"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 3,
+      "unit": "个",
+      "remake": "份数*1.5 // 1 向下取整"
+    },
+    {
+      "name": "火腿",
+      "amount": 4,
+      "unit": "个",
+      "remake": "份数*2个"
+    },
+    {
+      "name": "黄瓜",
+      "amount": 60,
+      "unit": "克",
+      "remake": "可选，份数*30g"
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 60,
+      "unit": "克",
+      "remake": "可选，份数*30g"
+    },
+    {
+      "name": "油",
+      "amount": 24,
+      "unit": "毫升",
+      "remake": "份数*12ml"
+    },
+    {
+      "name": "盐",
+      "amount": 8,
+      "unit": "克",
+      "remake": "份数*4g - 份数*6g"
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 16,
+      "unit": "克",
+      "remake": "份数*8g"
+    },
+    {
+      "name": "香葱",
+      "amount": 2,
+      "unit": "颗",
+      "remake": "份数*1颗"
+    },
+    {
+      "name": "生抽",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": "份数*10ml"
+    }
+  ],
+  "steps": [
+    {
+      "description": "米饭提前用铲子铲成小块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "火腿肠、胡萝卜、黄瓜等根据需求切片或者块状",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将蛋白，蛋黄分开，分别打入一个大碗里，各自搅匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大火热锅，待锅里冒烟放入食用油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入蛋白，待主体凝固后盛出备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入蛋黄，待主体凝固",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入火腿肠、熟肉，胡萝卜、黄瓜等备料、翻炒10秒钟",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "重新倒入蛋白，翻炒5秒钟",
+      "time_unit": "秒",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入米饭大火翻炒，使每一粒饭都裹上鸡蛋",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将米饭的块状捣碎，待米饭全部捣碎再翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加盐、胡椒粉、生抽",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "进一步翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入香葱再翻炒10秒钟",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "盛入碗中",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    15,
+    31
+  ],
+  "wait_time": [
+    1,
+    2
+  ],
+  "total_time": [
+    16,
+    33
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "技术总结使用隔夜的冷饭炒饭最佳，没有冷饭的同学也可以现煮（可以使用冰箱立马给米饭降温），不过要做到“粒粒分明”的口感就需要炒更久。炒饭要做到“粒粒分明”其实就是要将饭炒干。为什么要用隔夜的冷饭是因为隔夜已经流失了一定的水分。"
+    }
+  ]
+}

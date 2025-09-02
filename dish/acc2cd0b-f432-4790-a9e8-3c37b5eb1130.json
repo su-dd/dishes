@@ -1,0 +1,209 @@
+{
+  "id": "acc2cd0b-f432-4790-a9e8-3c37b5eb1130",
+  "category": "饮品",
+  "name": "金菲士",
+  "description": "",
+  "source_path": "dishes/drink/金菲士/金菲士.md",
+  "image_id": "590d35ad-08eb-4179-92a1-4305519dbe93",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/590d35ad-08eb-4179-92a1-4305519dbe93.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "手动压汁器",
+    "雪克瓶"
+  ],
+  "ingredients": [
+    {
+      "name": "金酒",
+      "amount": 35,
+      "unit": "毫升",
+      "remake": "30~40毫升"
+    },
+    {
+      "name": "苏打气泡水",
+      "amount": 1,
+      "unit": "罐",
+      "remake": ""
+    },
+    {
+      "name": "柠檬",
+      "amount": 1,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "蔗糖糖浆",
+      "amount": 35,
+      "unit": "克",
+      "remake": "1:1蔗糖糖浆 30~40克"
+    },
+    {
+      "name": "冰块",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "新鲜绿叶",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可选，装饰用"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将柠檬对半切，并从其中的一半中切取一片柠檬备用",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将得到的4角柠檬用压汁器压出柠檬汁置于容器中备用",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "选择容量在350~400毫升的透明玻璃杯",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将100克冰块放置在杯底",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "倒入30~40毫升金酒",
+      "time_unit": "秒",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入20毫升柠檬汁",
+      "time_unit": "秒",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入30~40克蔗糖糖浆",
+      "time_unit": "秒",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用勺子搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将之前准备的一片柠檬放置好",
+      "time_unit": "秒",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "缓慢沿杯壁注入苏打气泡水直至满杯",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用勺子轻轻上下提拉将液体搅拌均匀",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "在液面放置好装饰用的绿叶",
+      "time_unit": "秒",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "将冰块、金酒、柠檬汁、蔗糖糖浆倒入雪克瓶，雪克均匀",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将充分雪克的产物倒到杯子中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    2,
+    3
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    2,
+    3
+  ],
+  "additional_notes": []
+}

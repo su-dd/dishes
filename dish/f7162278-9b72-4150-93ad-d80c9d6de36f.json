@@ -1,0 +1,166 @@
+{
+  "id": "f7162278-9b72-4150-93ad-d80c9d6de36f",
+  "category": "主食",
+  "name": "麻辣减脂荞麦面",
+  "description": "",
+  "source_path": "dishes/staple/麻辣减脂荞麦面.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "洗菜盆",
+    "小锅"
+  ],
+  "ingredients": [
+    {
+      "name": "半干荞麦面",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "娃娃菜",
+      "amount": 8,
+      "unit": "片",
+      "remake": "共150g"
+    },
+    {
+      "name": "生菜",
+      "amount": 6,
+      "unit": "片",
+      "remake": "共80g"
+    },
+    {
+      "name": "火锅底料",
+      "amount": 25,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "花生酱",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "全脂牛奶",
+      "amount": 150,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 6,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "辣椒油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "醋",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "花椒油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 500,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "娃娃菜、生菜洗好，备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "锅内倒入500ml水，开大火，将荞麦面和娃娃菜放进去，等待水沸腾",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水沸腾后，转小火，加入火锅底料、花生酱、牛奶、生抽、辣椒油，水开后煮5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入生菜，再煮2分钟",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入醋、花椒油，关火，直接端着小锅开吃",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    9,
+    12
+  ],
+  "wait_time": [
+    3,
+    8
+  ],
+  "total_time": [
+    12,
+    20
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "一定要选半干荞麦面，口感最好"
+    },
+    {
+      "type": "list_item",
+      "content": "可以随意添加其他东西，比如火锅丸、蛋饺等"
+    },
+    {
+      "type": "list_item",
+      "content": "火锅底料、花生酱、牛奶一定要加，口味三大巨头"
+    },
+    {
+      "type": "list_item",
+      "content": "如果不能吃酸，可以不加醋"
+    }
+  ]
+}

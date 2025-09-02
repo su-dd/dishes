@@ -1,0 +1,228 @@
+{
+  "id": "a2d99c45-9699-4828-8a3d-c46577ccb750",
+  "category": "肉食",
+  "name": "冬瓜酿肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
+  "image_id": "1a6f42a1-6d67-4e9e-a3fa-7759872a40d5",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/1a6f42a1-6d67-4e9e-a3fa-7759872a40d5.webp",
+  "video_link": [
+    "https://www.bilibili.com/video/BV1oF411F7wD?spm_id_from=333.337.search-card.all.click&vd_source=9f568660d497311d3f945e5dce319705"
+  ],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "刀",
+    "砧板",
+    "碗",
+    "蒸锅",
+    "搅拌工具",
+    "量具"
+  ],
+  "ingredients": [
+    {
+      "name": "猪肉末",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "个",
+      "remake": "可选,不习惯的人可能会有点腥"
+    },
+    {
+      "name": "冬瓜",
+      "amount": 200,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "葱花",
+      "amount": 20,
+      "unit": "克",
+      "remake": "一根"
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "水淀粉",
+      "amount": 25,
+      "unit": "克",
+      "remake": "淀粉25g,水50ml"
+    },
+    {
+      "name": "葱姜末",
+      "amount": 30,
+      "unit": "克",
+      "remake": "姜3-4片,取葱白部分"
+    },
+    {
+      "name": "盐",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "冬瓜去皮，切成25cm长3cm厚的片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将切好的冬瓜放入碗中，放入15g盐，将冬瓜抹匀，放置10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "放入肉末，葱姜末，5g盐，淀粉5g，胡椒粉，生抽，胡椒粉",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "使用筷子在肉末中进行顺时针搅拌，搅拌到食材颜色没有明显对比",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将腌制好的冬瓜使用清水洗三遍",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "拿出1片冬瓜片卷起来，并把肉塞进去",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入碟子中摆到碟子的边缘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "打入1个鸡蛋到中间圆圈处",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入普通铁锅中水烧开后，蒸15分钟，盖上锅盖",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开盖，取出蒸好的冬瓜酿肉",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "将冬瓜酿肉碟子的水倒入锅中，放入水淀粉，加入50ml清水倒入锅中烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "淋到冬瓜酿肉上",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    14,
+    25
+  ],
+  "wait_time": [
+    25,
+    25
+  ],
+  "total_time": [
+    39,
+    50
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，拿出冬瓜酿肉时注意碟子很烫，小心操作。"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：b站视频"
+    }
+  ]
+}

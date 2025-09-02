@@ -1,0 +1,139 @@
+{
+  "id": "0cd18965-2f96-44de-af6b-cb1fdbcdd874",
+  "category": "主食",
+  "name": "螺蛳粉",
+  "description": "",
+  "source_path": "dishes/staple/螺蛳粉.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "煮锅",
+    "电磁炉/灶台",
+    "筷子"
+  ],
+  "ingredients": [
+    {
+      "name": "袋装螺蛳粉",
+      "amount": 1,
+      "unit": "包",
+      "remake": "包含米粉、螺蛳肉包、汤料包、酸笋包、花生包、豆皮包、木耳包等配料包、醋包、辣椒油等调味包"
+    },
+    {
+      "name": "水",
+      "amount": 1,
+      "unit": "升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "锅中加水，将水烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下米粉，煮3-5分钟，期间用筷子搅拌，防止米粉粘在一起",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下汤料包，按个人口味添加",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下一部分配料包，如木耳，花生，螺蛳，煮一会入味",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下调味包，按个人口味添加",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "搅拌后捞出，放入碗中",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "下剩下的配料包，如酸笋，豆皮",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "享用美食",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    3,
+    6
+  ],
+  "wait_time": [
+    5,
+    8
+  ],
+  "total_time": [
+    8,
+    14
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "如果想要更有嚼劲的粉，可以缩短第二步煮粉的时间"
+    },
+    {
+      "type": "list_item",
+      "content": "如果想在螺蛳粉中添加炸蛋，请参考炸蛋的教程"
+    },
+    {
+      "type": "list_item",
+      "content": "配料的选择请依照个人口味"
+    }
+  ]
+}

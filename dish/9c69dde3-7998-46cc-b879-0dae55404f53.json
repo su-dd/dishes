@@ -1,0 +1,114 @@
+{
+  "id": "9c69dde3-7998-46cc-b879-0dae55404f53",
+  "category": "肉食",
+  "name": "肉饼炖蛋",
+  "description": "",
+  "source_path": "dishes/meat_dish/肉饼炖蛋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 3,
+  "kitchen_ware": [
+    "碗",
+    "蒸锅"
+  ],
+  "ingredients": [
+    {
+      "name": "猪肉末",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "芝麻香油",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": "10-15ml"
+    }
+  ],
+  "steps": [
+    {
+      "description": "在碗中加入猪肉末、料酒、生抽、白胡椒粉、鸡蛋和芝麻香油，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将调好味的猪肉末铺在盘子里，肉末中间用勺子挖一个洞，往洞中打入1个鸡蛋",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加水至1/4高度，水烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将盘子放入锅中，盖上锅盖，蒸15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    3,
+    5
+  ],
+  "wait_time": [
+    18,
+    20
+  ],
+  "total_time": [
+    21,
+    25
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "在取出肉饼炖蛋时，注意盘子很烫，请小心操作。"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": "5d32c7e7-4c71-4ca7-bfa9-19d8de234f0b",
+  "category": "肉食",
+  "name": "新疆大盘鸡",
+  "description": "",
+  "source_path": "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
+  "image_id": "790aa53a-6ce4-400f-ae44-6203e5607a46",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/790aa53a-6ce4-400f-ae44-6203e5607a46.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "火枪"
+  ],
+  "ingredients": [
+    {
+      "name": "花椒",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "香叶",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "香果",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "干线椒",
+      "amount": 5,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 4,
+      "unit": "瓣",
+      "remake": ""
+    },
+    {
+      "name": "大葱",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 1,
+      "unit": "适量",
+      "remake": "可拿啤酒"
+    },
+    {
+      "name": "白糖",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡肉",
+      "amount": 1,
+      "unit": "千克",
+      "remake": "鸡腿肉最好，两个火枪腿的鸡肉"
+    },
+    {
+      "name": "土豆",
+      "amount": 2,
+      "unit": "个",
+      "remake": "适中大小，约750g"
+    },
+    {
+      "name": "菜椒",
+      "amount": 1,
+      "unit": "个",
+      "remake": "各50g，加上配色好看"
+    },
+    {
+      "name": "甜椒",
+      "amount": 1,
+      "unit": "个",
+      "remake": "各50g，加上配色好看"
+    }
+  ],
+  "steps": [
+    {
+      "description": "肉剁成块状，用清水加盐浸泡去除血水",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "空干鸡肉水分",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱蒜辣椒土豆等洗干净，土豆削皮",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "葱白切长段，菜椒和线椒切块状",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "土豆切成滚刀块",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "炒糖色：将油和白砂糖放入锅中炒至焦黄色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入鸡肉翻炒上色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入花椒、香叶、香果、干线椒等翻炒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入盐、生抽、蚝油、料酒和清水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中火烧开水后转中小火慢炖入味",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入土豆块在表面炖煮",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入大葱、菜椒和甜椒继续炖",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻面使土豆与汤汁混合",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火盛出",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    18,
+    29
+  ],
+  "wait_time": [
+    35,
+    48
+  ],
+  "total_time": [
+    53,
+    77
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,226 @@
+{
+  "id": "cf05c71a-b7dd-4ec0-9fa6-903cd9181a76",
+  "category": "蔬菜",
+  "name": "凉拌豆腐",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/凉拌豆腐.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "刀",
+    "砧板",
+    "碗",
+    "搅拌勺"
+  ],
+  "ingredients": [
+    {
+      "name": "豆腐",
+      "amount": 250,
+      "unit": "克",
+      "remake": "推荐选用北豆腐或老豆腐，约1块常见大小的豆腐"
+    },
+    {
+      "name": "小葱",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 2.5,
+      "unit": "瓣",
+      "remake": "约2-3瓣"
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "香油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "醋",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": "可选"
+    },
+    {
+      "name": "白糖",
+      "amount": 2,
+      "unit": "克",
+      "remake": "可选"
+    },
+    {
+      "name": "辣椒油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将豆腐切成2cm见方的小块",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加入500ml饮用水，大火烧开",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入豆腐块，煮1-2分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将煮好的豆腐块捞出，沥干水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将小葱洗净，切成葱花",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将大蒜去皮，切成蒜末",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在小碗中加入生抽、香油、醋、白糖",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入切好的大蒜末",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "搅拌均匀使白糖充分溶解",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将酱汁均匀淋在豆腐块上",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "撒上切好的小葱花",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "淋上辣椒油（可选）",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用筷子或勺子轻轻拌匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    8,
+    16
+  ],
+  "wait_time": [
+    4,
+    7
+  ],
+  "total_time": [
+    12,
+    23
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "制作凉拌豆腐时，建议选用质地较硬的北豆腐或老豆腐，不易碎裂，口感更佳。"
+    },
+    {
+      "type": "list_item",
+      "content": "如果喜欢更清淡的口感，可以省略醋和辣椒油。"
+    },
+    {
+      "type": "list_item",
+      "content": "酱汁的比例可以根据个人口味进行调整。"
+    }
+  ]
+}

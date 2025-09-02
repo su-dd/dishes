@@ -1,0 +1,323 @@
+{
+  "id": "b65f2d8d-716a-494a-b44b-e6b34f5e8ea0",
+  "category": "主食",
+  "name": "炒河粉",
+  "description": "",
+  "source_path": "dishes/staple/炒河粉.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "盆",
+    "盘子"
+  ],
+  "ingredients": [
+    {
+      "name": "河粉",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "猪肉/牛肉",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 10,
+      "unit": "克",
+      "remake": "若自行准备炒料"
+    },
+    {
+      "name": "味精",
+      "amount": 2,
+      "unit": "克",
+      "remake": "若自行准备炒料"
+    },
+    {
+      "name": "老抽",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": "每250g河粉10ml"
+    },
+    {
+      "name": "生抽",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": "每250g河粉15ml"
+    },
+    {
+      "name": "孜然粉",
+      "amount": 3,
+      "unit": "克",
+      "remake": "若自行准备炒料"
+    },
+    {
+      "name": "胡椒粉",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "黄瓜",
+      "amount": 60,
+      "unit": "克",
+      "remake": "切丝"
+    },
+    {
+      "name": "面筋块",
+      "amount": 60,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "绿豆芽",
+      "amount": 60,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": "打碎"
+    },
+    {
+      "name": "蒜瓣",
+      "amount": 4,
+      "unit": "个",
+      "remake": "拍碎"
+    },
+    {
+      "name": "小葱",
+      "amount": 2,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "淀粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": "每100g肉+5g淀粉"
+    }
+  ],
+  "steps": [
+    {
+      "description": "小葱切碎（葱白和葱叶分开）、蒜瓣拍碎",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "打碎鸡蛋，分离蛋清和蛋黄",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "绿豆芽大火煮60秒",
+      "time_unit": "秒",
+      "time": [
+        60,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "豆芽过凉水",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "黄瓜切丝",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "处理面筋",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "肉切细条状",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "肉条加入淀粉、蛋清、胡椒粉拌匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "清洗凉皮和面筋",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "挤出面筋水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅倒油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻炒肉丝至变色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "爆炒葱白和蒜出香",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入河粉，淋入老提色翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入河粉炒料继续翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入肉丝与面筋，加入生抽翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入豆芽与黄瓜丝翻炒至河粉透明",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "撒入葱叶点缀",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "装盘",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    28,
+    45
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    28,
+    45
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,233 @@
+{
+  "id": "52d73e0f-f2c9-4eb7-81d3-99cbbf25ce43",
+  "category": "肉食",
+  "name": "奶酪培根通心粉",
+  "description": "",
+  "source_path": "dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md",
+  "image_id": "cdcd71e6-68c0-4895-96a3-2ad682d9bb99",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/cdcd71e6-68c0-4895-96a3-2ad682d9bb99.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 2,
+  "kitchen_ware": [
+    "锅",
+    "刀",
+    "砧板",
+    "烤箱"
+  ],
+  "ingredients": [
+    {
+      "name": "通心粉",
+      "amount": 100,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "奶酪",
+      "amount": 40,
+      "unit": "克",
+      "remake": "条状"
+    },
+    {
+      "name": "培根",
+      "amount": 100,
+      "unit": "克",
+      "remake": "或其他肉类"
+    },
+    {
+      "name": "洋葱",
+      "amount": 25,
+      "unit": "克",
+      "remake": "切成碎"
+    },
+    {
+      "name": "黄油",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "面粉",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "牛奶",
+      "amount": 125,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 0.5,
+      "unit": "瓣",
+      "remake": "切碎"
+    }
+  ],
+  "steps": [
+    {
+      "description": "奶酪磨成碎末",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "洋葱切成条状",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "通心粉用微咸的水煮6分钟",
+      "time_unit": "分钟",
+      "time": [
+        6,
+        6
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅中放入黄油，等待融化",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入洋葱",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "洋葱软化后加入大蒜",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大蒜香味出来后，加入肉类，等待5秒",
+      "time_unit": "秒",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "分四次加入牛奶，每次搅拌5秒后再加下一次",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入面粉并充分搅拌",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入奶酪并搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将通心粉和奶酪搅拌",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "预热烤箱至180°C",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将额外的50g芝士铺在通心粉之上",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "等待烤箱预热至180°C后，将通心粉放入",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "烤至表面金黄，约24分钟",
+      "time_unit": "分钟",
+      "time": [
+        24,
+        24
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    12,
+    23
+  ],
+  "wait_time": [
+    41,
+    48
+  ],
+  "total_time": [
+    53,
+    71
+  ],
+  "additional_notes": []
+}

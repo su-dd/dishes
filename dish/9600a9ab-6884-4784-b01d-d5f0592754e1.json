@@ -1,0 +1,228 @@
+{
+  "id": "9600a9ab-6884-4784-b01d-d5f0592754e1",
+  "category": "主食",
+  "name": "披萨饼皮",
+  "description": "",
+  "source_path": "dishes/staple/披萨饼皮/披萨饼皮.md",
+  "image_id": "62370c12-cd3d-4831-83ad-9004f2f0810d",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/62370c12-cd3d-4831-83ad-9004f2f0810d.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "烤箱",
+    "烘焙油纸",
+    "披萨石",
+    "擀面杖"
+  ],
+  "ingredients": [
+    {
+      "name": "中筋面粉",
+      "amount": 125,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "水",
+      "amount": 70,
+      "unit": "克",
+      "remake": "温水"
+    },
+    {
+      "name": "干酵母粉",
+      "amount": 1,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 0.6,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "橄榄油",
+      "amount": 7,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白砂糖",
+      "amount": 0.6,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "用温水把酵母粉化开，稍微搅拌",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取面粉，依次添加盐、橄榄油、白砂糖",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "边加水边搅拌直至水全部加完",
+      "time_unit": "秒",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "搅拌至看不到干米粉为止",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "面团密封后冰箱冷藏等待8~12小时",
+      "time_unit": "小时",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "观察面团醒发情况",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将醒发好的面团均匀分成四份，用保鲜膜盖好",
+      "time_unit": "秒",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "案板撒干面粉，开始揉面",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "揉至面团表面稍微光滑",
+      "time_unit": "秒",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用手拉扯或擀面杖擀平至厚度均匀",
+      "time_unit": "秒",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "铺油纸，放饼皮，摆放食材，撒芝士碎",
+      "time_unit": "秒",
+      "time": [
+        120,
+        180
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "水果披萨烘烤：上180度下220度16分钟",
+      "time_unit": "分钟",
+      "time": [
+        16,
+        16
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "肉蔬菜披萨烘烤：上200度下230度18分钟",
+      "time_unit": "分钟",
+      "time": [
+        18,
+        18
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "挤上沙拉酱或其他酱料",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    7,
+    14
+  ],
+  "wait_time": [
+    514,
+    754
+  ],
+  "total_time": [
+    521,
+    768
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "一定要注意水的比例"
+    },
+    {
+      "type": "list_item",
+      "content": "烤箱品质层次不齐，第一次做注意观察火候对披萨的影响"
+    },
+    {
+      "type": "list_item",
+      "content": "一般不特别标注是低筋或高筋面粉，基本都是中筋面粉"
+    },
+    {
+      "type": "list_item",
+      "content": "容易出水的水果不能作为食材，比如西瓜、橘子等"
+    }
+  ]
+}

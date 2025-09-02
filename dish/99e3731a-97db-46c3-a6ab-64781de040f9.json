@@ -1,0 +1,106 @@
+{
+  "id": "99e3731a-97db-46c3-a6ab-64781de040f9",
+  "category": "饮品",
+  "name": "砂糖椰子冰沙",
+  "description": "",
+  "source_path": "dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md",
+  "image_id": "9d0e55ef-9260-495f-9f67-4241f13eba33",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/9d0e55ef-9260-495f-9f67-4241f13eba33.webp",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "瓶装椰汁容器",
+    "冰沙制作工具"
+  ],
+  "ingredients": [
+    {
+      "name": "瓶装椰子汁",
+      "amount": 500,
+      "unit": "毫升",
+      "remake": "瓶口较大为佳"
+    },
+    {
+      "name": "咖啡调糖",
+      "amount": 10,
+      "unit": "克",
+      "remake": "黄色粗粒"
+    },
+    {
+      "name": "坚果碎",
+      "amount": 1,
+      "unit": "份",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "瓶装椰汁倒掉200ml，立刻拧紧瓶盖",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将椰汁放入冰箱冷冻区冷冻10小时以上",
+      "time_unit": "小时",
+      "time": [
+        10,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "取出椰汁瓶，确认冻结后在坚硬表面用力抽打",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "打开瓶盖倒出冰沙",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "在冰沙表面均匀撒上咖啡调糖或坚果碎",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    0,
+    1
+  ],
+  "wait_time": [
+    600,
+    720
+  ],
+  "total_time": [
+    600,
+    721
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "在以上步骤中，瓶装椰汁可以提前冰冻，但是不宜超过 7 天，否则有变质风险。"
+    }
+  ]
+}

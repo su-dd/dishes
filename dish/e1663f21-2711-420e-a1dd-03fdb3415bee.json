@@ -1,0 +1,381 @@
+{
+  "id": "e1663f21-2711-420e-a1dd-03fdb3415bee",
+  "category": "肉食",
+  "name": "老式锅包肉",
+  "description": "",
+  "source_path": "dishes/meat_dish/老式锅包肉/老式锅包肉.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [
+    "https://www.bilibili.com/video/BV19F411b7ME",
+    "https://www.bilibili.com/video/BV1wa4y1C7Cd"
+  ],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "锅",
+    "炸锅",
+    "砧板",
+    "刀",
+    "碗",
+    "盘子"
+  ],
+  "ingredients": [
+    {
+      "name": "猪通脊肉",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "大葱",
+      "amount": 50,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 3.5,
+      "unit": "瓣",
+      "remake": "3-4瓣"
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 10,
+      "unit": "克",
+      "remake": "可无"
+    },
+    {
+      "name": "香菜",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白熟芝麻",
+      "amount": 5,
+      "unit": "克",
+      "remake": "可无"
+    },
+    {
+      "name": "白醋",
+      "amount": 40,
+      "unit": "克",
+      "remake": "建议使用9度的醋"
+    },
+    {
+      "name": "白糖",
+      "amount": 40,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "料酒",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 8,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "味精",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "米醋",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": "可无"
+    },
+    {
+      "name": "土豆淀粉",
+      "amount": 210,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "中筋面粉",
+      "amount": 70,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "小苏打",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 1000,
+      "unit": "毫升",
+      "remake": "用于炸制"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将猪通脊肉切成厚度8mm的均匀肉片，去除白色筋膜",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用清水冲洗肉片，去除血水",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入小苏打5g，抓匀，静置5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "用清水冲洗1-2次，去除多余小苏打",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "在肉片中加入盐4g、料酒5ml，拌匀，腌制15分钟",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将土豆淀粉100g加入200ml清水，搅匀，静置20分钟",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "倒出上层2/3的清水，保留底部淀粉浆，搅匀至酸奶状",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将土豆淀粉210g和中筋面粉70g混合",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "少量多次加入清水，搅拌至酸奶状，提起可拉丝，浆糊能在盆中堆积",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入食用油10ml，小苏打1g，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将腌制好的肉片放入浆糊中，拌匀，使每片肉均匀裹上浆",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "混合白糖40g、白醋40g、盐4g、味精5g、米醋5ml，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "大葱、姜、胡萝卜切丝，香菜切段，蒜切片",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加入食用油，加热至150℃（五成热）",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将肉片逐片放入油中，炸至表面定型，颜色浅黄，约30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "油温升至170℃（六成热）",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将所有肉片放入油中，炸至外壳金黄酥脆，约1分钟",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "油温升至200℃（七成热）",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将肉片快速复炸10-20秒，增强酥脆度",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅中留20ml底油，加热后放入姜丝、蒜片，煸香10秒",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入调好的糖醋汁，大火加热至沸腾，熬至汤汁粘稠，约30-60秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入炸好的肉片、葱丝、胡萝卜丝、香菜段，快速翻炒3次，使汤汁均匀裹在肉片上",
+      "time_unit": "秒",
+      "time": [
+        15,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将锅包肉盛入盘中，撒上白熟芝麻",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    30,
+    49
+  ],
+  "wait_time": [
+    40,
+    40
+  ],
+  "total_time": [
+    70,
+    89
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "注意事项：肉片厚度应为 8mm，过厚过薄都会影响口感。炸制时控制油温，避免外壳过深或不酥脆。熬糖醋汁时，注意熬至粘稠但不结块，避免变成糖浆。"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：老饭骨版本老东北美食版本"
+    }
+  ]
+}

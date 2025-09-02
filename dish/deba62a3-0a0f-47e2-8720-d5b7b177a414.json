@@ -1,0 +1,409 @@
+{
+  "id": "deba62a3-0a0f-47e2-8720-d5b7b177a414",
+  "category": "肉食",
+  "name": "柱候牛腩",
+  "description": "",
+  "source_path": "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
+  "image_id": "32dfaf7c-393b-427e-9b56-f037d501b111",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/32dfaf7c-393b-427e-9b56-f037d501b111.webp",
+  "video_link": [
+    "https://www.bilibili.com/video/BV12C4y1W7ox"
+  ],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "炖煮锅",
+    "高压锅"
+  ],
+  "ingredients": [
+    {
+      "name": "牛腩",
+      "amount": 550,
+      "unit": "克",
+      "remake": "首选坑腩，带筋的部位"
+    },
+    {
+      "name": "姜",
+      "amount": 30,
+      "unit": "克"
+    },
+    {
+      "name": "蒜",
+      "amount": 0.5,
+      "unit": "头"
+    },
+    {
+      "name": "小米辣",
+      "amount": 1,
+      "unit": "条",
+      "remake": "可根据口味调整用量"
+    },
+    {
+      "name": "香叶",
+      "amount": 2,
+      "unit": "片"
+    },
+    {
+      "name": "花椒",
+      "amount": 0.5,
+      "unit": "克"
+    },
+    {
+      "name": "八角",
+      "amount": 2,
+      "unit": "个"
+    },
+    {
+      "name": "干辣椒",
+      "amount": 3,
+      "unit": "个",
+      "remake": "可根据口味调整用量"
+    },
+    {
+      "name": "丁香",
+      "amount": 3,
+      "unit": "个"
+    },
+    {
+      "name": "甘草",
+      "amount": 2,
+      "unit": "片"
+    },
+    {
+      "name": "南腐乳",
+      "amount": 2,
+      "unit": "块"
+    },
+    {
+      "name": "郫县豆瓣酱",
+      "amount": 15,
+      "unit": "克"
+    },
+    {
+      "name": "冰糖",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "花雕酒",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "白酒",
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "柱候酱",
+      "amount": 50,
+      "unit": "克",
+      "remake": "核心酱"
+    },
+    {
+      "name": "蚝油",
+      "amount": 20,
+      "unit": "克"
+    },
+    {
+      "name": "老抽",
+      "amount": 5,
+      "unit": "克"
+    },
+    {
+      "name": "生抽",
+      "amount": 60,
+      "unit": "克"
+    },
+    {
+      "name": "叉烧酱",
+      "amount": 20,
+      "unit": "克",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "准备辅料：姜切小块，蒜剥皮，小米辣切段",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "准备香料：香叶、花椒、八角、干辣椒、丁香、甘草",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "准备南乳",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "准备豆瓣酱",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "准备冰糖",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "准备花雕酒和白酒",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "准备柱候酱、蚝油、叉烧酱、老抽、生抽混合酱料",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "牛腩冷水下锅大火焯水至沸腾",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "冲洗牛肉表面杂质后切块控水",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "大火热锅下油，炒香姜蒜小米辣",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中小火倒入香料翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中小火放入南乳并压碎",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中小火放入豆瓣酱翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中小火放入冰糖炒至融化",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中小火下入牛腩炒至上色",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火淋酒快速翻炒至表面焦褐",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入酱料快速翻炒至汤汁浓稠冒泡",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转移食材至炖锅加水淹没",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "普通锅小火炖煮3小时",
+      "time_unit": "小时",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "高压锅压40分钟",
+      "time_unit": "分钟",
+      "time": [
+        40,
+        40
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开盖调味，尝味调整咸甜度",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出牛腩",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "萝卜土豆削皮切厚片煮10-15分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "高压锅加压煮5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出萝卜土豆和牛腩放一起",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "过滤汤汁淋入碗中",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    34,
+    52
+  ],
+  "wait_time": [
+    243,
+    252
+  ],
+  "total_time": [
+    277,
+    304
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "参考: 柱候牛腩+茅根马蹄竹蔗水教程"
+    },
+    {
+      "type": "list_item",
+      "content": "操作高压锅要注意安全哦！"
+    }
+  ]
+}

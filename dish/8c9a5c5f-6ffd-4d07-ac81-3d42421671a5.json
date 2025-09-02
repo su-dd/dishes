@@ -1,0 +1,274 @@
+{
+  "id": "8c9a5c5f-6ffd-4d07-ac81-3d42421671a5",
+  "category": "肉食",
+  "name": "牛排",
+  "description": "",
+  "source_path": "dishes/meat_dish/牛排/牛排.md",
+  "image_id": "f94d8379-e750-46de-8cbc-f7c29ab8e20a",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/f94d8379-e750-46de-8cbc-f7c29ab8e20a.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 2,
+  "kitchen_ware": [
+    "平底锅",
+    "锡箔纸",
+    "厨房纸",
+    "汤匙"
+  ],
+  "ingredients": [
+    {
+      "name": "牛排",
+      "amount": 2,
+      "unit": "片",
+      "remake": "450-500g"
+    },
+    {
+      "name": "黑胡椒粉",
+      "amount": 2,
+      "unit": "克",
+      "remake": "粗颗粒现磨黑胡椒"
+    },
+    {
+      "name": "盐",
+      "amount": 5,
+      "unit": "克",
+      "remake": "大颗粒海盐"
+    },
+    {
+      "name": "大蒜",
+      "amount": 1,
+      "unit": "个",
+      "remake": "约25-30g，实际用量约为5-10g"
+    },
+    {
+      "name": "橄榄油",
+      "amount": 12.5,
+      "unit": "毫升",
+      "remake": "特级初榨橄榄油，取10-15ml中间值"
+    },
+    {
+      "name": "黄油",
+      "amount": 22.5,
+      "unit": "克",
+      "remake": "取20-25g中间值"
+    },
+    {
+      "name": "口蘑",
+      "amount": 7.5,
+      "unit": "个",
+      "remake": "取5-10个中间值"
+    },
+    {
+      "name": "小土豆",
+      "amount": 7.5,
+      "unit": "个",
+      "remake": "每个约20g，取5-10个中间值"
+    },
+    {
+      "name": "小番茄",
+      "amount": 7.5,
+      "unit": "个",
+      "remake": "每个约15g，取5-10个中间值"
+    },
+    {
+      "name": "百里香",
+      "amount": 4.5,
+      "unit": "根",
+      "remake": "新鲜百里香枝条，每根约10cm长，取3-6根中间值"
+    }
+  ],
+  "steps": [
+    {
+      "description": "从冰箱中取出牛排解冻",
+      "time_unit": "小时",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将小番茄、小土豆和口蘑洗净，对半切开备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将大蒜剥皮，留5-8个较大的蒜瓣，用刀背压扁备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "使用厨房剪刀处理肉眼牛排中心的结缔组织",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "使用厨房纸吸干牛排表面的水分",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中加入橄榄油，热锅15-30秒",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将海盐和黑胡椒均匀洒在牛排表面并揉搓",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将牛排放入热锅中煎制",
+      "time_unit": "分钟",
+      "time": [
+        1.5,
+        1.5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻面继续煎制",
+      "time_unit": "分钟",
+      "time": [
+        1.5,
+        1.5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煎制牛排侧面约30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入黄油、大蒜、百里香，推动黄油融化",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用汤匙舀起锅中的油，不断地淋在牛排上",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "翻面重复淋油过程",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将牛排盛出放在案板上，用锡箔纸包裹醒肉",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将配菜倒入锅中，开中火煎5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将牛排切成宽度1.5cm的肉条",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "取出配菜装盘，淋上锅中剩余的油或酱汁",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    18,
+    24
+  ],
+  "wait_time": [
+    65,
+    130
+  ],
+  "total_time": [
+    83,
+    154
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "对于电磁炉：高火：功率 1.8Kw - 2.2kw。中火：功率 800w - 1.4kw。小火：功率 200w - 600w。"
+    },
+    {
+      "type": "list_item",
+      "content": "对于燃气灶：高火：旋转气阀至最大出气速度的 70%-90%。中火：旋转气阀至最大出气速度的 40%-60%。小火：旋转气阀至最大出气速度的 10%-30%。"
+    }
+  ]
+}

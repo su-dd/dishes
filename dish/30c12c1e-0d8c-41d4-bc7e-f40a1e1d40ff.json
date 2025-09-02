@@ -1,0 +1,81 @@
+{
+  "id": "30c12c1e-0d8c-41d4-bc7e-f40a1e1d40ff",
+  "category": "蔬菜",
+  "name": "话梅煮毛豆",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md",
+  "image_id": "c094299b-0147-49b3-a52b-fc8a277cda87",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/c094299b-0147-49b3-a52b-fc8a277cda87.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "煮具"
+  ],
+  "ingredients": [
+    {
+      "name": "毛豆",
+      "amount": 300,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "话梅",
+      "amount": 6,
+      "unit": "颗",
+      "remake": ""
+    },
+    {
+      "name": "食用盐",
+      "amount": 2,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "清水加入食用盐，毛豆浸泡",
+      "time_unit": "分钟",
+      "time": [
+        15,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入开水，倒入毛豆、话梅，水煮",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "起锅开吃",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    20,
+    30
+  ],
+  "wait_time": [
+    15,
+    15
+  ],
+  "total_time": [
+    35,
+    45
+  ],
+  "additional_notes": []
+}

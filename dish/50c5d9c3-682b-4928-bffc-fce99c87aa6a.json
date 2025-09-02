@@ -1,0 +1,175 @@
+{
+  "id": "50c5d9c3-682b-4928-bffc-fce99c87aa6a",
+  "category": "甜品",
+  "name": "雪花酥",
+  "description": "",
+  "source_path": "dishes/dessert/雪花酥/雪花酥.md",
+  "image_id": "1a9d837f-fb8e-4a8a-9ea9-0e2e67894167",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/1a9d837f-fb8e-4a8a-9ea9-0e2e67894167.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "不粘平底锅",
+    "烘焙刮刀",
+    "一次性塑料手套",
+    "雪花酥/牛轧糖模具",
+    "擀面杖"
+  ],
+  "ingredients": [
+    {
+      "name": "无盐黄油",
+      "amount": 20,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "棉花糖",
+      "amount": 75,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "全脂奶粉",
+      "amount": 40,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "混合坚果",
+      "amount": 60,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "饼干",
+      "amount": 75,
+      "unit": "克",
+      "remake": "非夹心型饼干，推荐小奇福或购买使用雪花酥烘焙专用小饼干"
+    }
+  ],
+  "steps": [
+    {
+      "description": "饼干超过一元硬币大小先切成小块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "无盐黄油加入锅中，小火加热至无盐黄油完全融化",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "棉花糖加入锅中，使用刮刀搅拌，直至棉花糖融化并与无盐黄油均匀融合",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "20g奶粉加入锅中，使用刮刀搅拌，奶粉与黄油棉花糖混合物搅拌均匀后立即关火",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "准备好的所有混合坚果与饼干趁热加入锅中，使用刮刀搅拌",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "搅拌到温度下降到手可以接触的温度后，戴上一次塑料手套，在锅中搓揉或者双手拿起拉扯，让饼干混合坚果与棉花糖黄油奶粉混合物分散均匀",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将上述步骤混合物压入模具中，边角压实，擀面杖擀平，未满的一边用手尽量压成直边",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "室温放凉，完全冷却后脱模",
+      "time_unit": "小时",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "按照模具纹路切块，或切成自己喜欢的大小",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "撒上剩余奶粉，尽量使雪花酥每面都沾上奶粉",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    14,
+    29
+  ],
+  "wait_time": [
+    60,
+    120
+  ],
+  "total_time": [
+    74,
+    149
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "棉花糖加热时间越长，最后成品越硬"
+    },
+    {
+      "type": "list_item",
+      "content": "参考资料：【一口小锅 十分钟搞定的网红草莓“雪花酥”-哔哩哔哩】"
+    }
+  ]
+}

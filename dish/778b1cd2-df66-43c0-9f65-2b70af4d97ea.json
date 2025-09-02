@@ -1,0 +1,250 @@
+{
+  "id": "778b1cd2-df66-43c0-9f65-2b70af4d97ea",
+  "category": "汤类",
+  "name": "罗宋汤",
+  "description": "",
+  "source_path": "dishes/soup/罗宋汤.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "牛肉高汤",
+      "amount": 500,
+      "unit": "毫升",
+      "remake": "可用汤宝代替"
+    },
+    {
+      "name": "牛肉",
+      "amount": 250,
+      "unit": "克",
+      "remake": "可选用牛腩肉或牛尾肉"
+    },
+    {
+      "name": "番茄罐头",
+      "amount": 2,
+      "unit": "罐",
+      "remake": "可用番茄替代、但风味欠佳"
+    },
+    {
+      "name": "番茄膏",
+      "amount": 5,
+      "unit": "克",
+      "remake": "增加番茄风味"
+    },
+    {
+      "name": "马铃薯",
+      "amount": 400,
+      "unit": "克"
+    },
+    {
+      "name": "洋葱",
+      "amount": 100,
+      "unit": "克"
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 100,
+      "unit": "克"
+    },
+    {
+      "name": "欧芹",
+      "amount": 100,
+      "unit": "克"
+    },
+    {
+      "name": "包菜",
+      "amount": 200,
+      "unit": "克"
+    },
+    {
+      "name": "红肠",
+      "amount": 150,
+      "unit": "克",
+      "remake": "100-200g范围"
+    },
+    {
+      "name": "橄榄油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": "用于蔬菜的烹制，可以用植物油代替"
+    },
+    {
+      "name": "植物油",
+      "amount": 5,
+      "unit": "毫升",
+      "remake": "用于牛肉的烹制，不能用橄榄油代替"
+    },
+    {
+      "name": "盐",
+      "amount": 18,
+      "unit": "克"
+    },
+    {
+      "name": "黑胡椒",
+      "amount": 3,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "洋葱、胡萝卜、欧芹切1cm见方小丁",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "红肠、马铃薯切2cm块",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "包菜去梗后，手撕至2cm片",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "牛肉撒盐3g、黑胡椒3g腌制5分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "deal"
+    },
+    {
+      "description": "平底锅烧热，加入植物油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煎制牛肉，直至表面焦黄色",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "汤锅烧热，加入橄榄油、洋葱丁、胡萝卜丁、欧芹丁",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "炒至洋葱透明，加入番茄膏、番茄罐头",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入牛肉、马铃薯丁，翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加水没过食材，中火烹制1小时",
+      "time_unit": "小时",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开锅加入包菜丁、红肠丁，搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "中火烹制半小时",
+      "time_unit": "分钟",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "开盖加入剩余15g盐，混合均匀后盛盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    17,
+    30
+  ],
+  "wait_time": [
+    95,
+    95
+  ],
+  "total_time": [
+    112,
+    125
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "番茄尽量不用新鲜番茄代替，番茄罐头+番茄膏的组合风味更足"
+    },
+    {
+      "type": "list_item",
+      "content": "除了胡萝卜、洋葱、欧芹、牛肉是必备食材外，其余可自由搭配"
+    }
+  ]
+}

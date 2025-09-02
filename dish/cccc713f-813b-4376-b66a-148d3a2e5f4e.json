@@ -1,0 +1,222 @@
+{
+  "id": "cccc713f-813b-4376-b66a-148d3a2e5f4e",
+  "category": "主食",
+  "name": "蛋包饭",
+  "description": "",
+  "source_path": "dishes/staple/蛋包饭.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅",
+    "碗",
+    "搅拌工具",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 2,
+      "unit": "个",
+      "remake": "建议使用土鸡蛋，口感更香"
+    },
+    {
+      "name": "洋葱",
+      "amount": 30,
+      "unit": "克"
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 30,
+      "unit": "克"
+    },
+    {
+      "name": "火腿肠或鸡胸肉",
+      "amount": 50,
+      "unit": "克"
+    },
+    {
+      "name": "玉米粒和青豆",
+      "amount": 30,
+      "unit": "克",
+      "remake": "总共30g，青豆可选"
+    },
+    {
+      "name": "米饭",
+      "amount": 200,
+      "unit": "克"
+    },
+    {
+      "name": "番茄酱",
+      "amount": 20,
+      "unit": "毫升"
+    },
+    {
+      "name": "食用油",
+      "amount": 15,
+      "unit": "毫升",
+      "remake": "建议使用植物油"
+    },
+    {
+      "name": "牛奶",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": "可选，与鸡蛋混合让蛋皮更嫩"
+    }
+  ],
+  "steps": [
+    {
+      "description": "洋葱、胡萝卜、火腿肠或鸡胸肉切成小丁",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "热锅，锅中倒入食用油",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待油加热",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "先放入洋葱丁翻炒出香味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1.5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入胡萝卜、玉米粒、青豆继续翻炒",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        2.5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入火腿肠或鸡胸肉丁，炒至变色",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入米饭炒散后加入番茄酱翻炒均匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "鸡蛋打散，加入牛奶搅匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中放入食用油，倒入蛋液轻晃锅底让蛋液均匀铺满锅面",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用小火加热，待蛋液表面半熟状态",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将炒饭放入蛋液中央，用铲子将蛋皮折叠包住米饭",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "用锅铲轻轻推至盘中，整理外形",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    11,
+    18
+  ],
+  "wait_time": [
+    2,
+    3
+  ],
+  "total_time": [
+    14,
+    21
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "炒饭用隔夜饭不易粘锅，口感更好。"
+    },
+    {
+      "type": "list_item",
+      "content": "打蛋时加入牛奶可以让蛋皮更加嫩滑。"
+    },
+    {
+      "type": "list_item",
+      "content": "操作蛋皮时火力需小，避免底部焦糊。"
+    },
+    {
+      "type": "list_item",
+      "content": "如果不擅长包裹造型，也可以直接将炒饭铺盘后盖上蛋皮。"
+    }
+  ]
+}

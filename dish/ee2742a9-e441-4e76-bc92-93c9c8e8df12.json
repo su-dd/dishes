@@ -1,0 +1,206 @@
+{
+  "id": "ee2742a9-e441-4e76-bc92-93c9c8e8df12",
+  "category": "主食",
+  "name": "韩式拌饭",
+  "description": "",
+  "source_path": "dishes/staple/韩式拌饭/韩式拌饭.md",
+  "image_id": "8e03b44a-e258-47d7-b62f-efa1f10280c1",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/8e03b44a-e258-47d7-b62f-efa1f10280c1.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 1,
+  "kitchen_ware": [
+    "碗",
+    "锅"
+  ],
+  "ingredients": [
+    {
+      "name": "米饭",
+      "amount": 1,
+      "unit": "碗",
+      "remake": "400g"
+    },
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "颗"
+    },
+    {
+      "name": "火锅牛肉卷",
+      "amount": 6,
+      "unit": "卷",
+      "remake": "60g"
+    },
+    {
+      "name": "豆芽",
+      "amount": 1,
+      "unit": "把",
+      "remake": "80g"
+    },
+    {
+      "name": "蘑菇",
+      "amount": 50,
+      "unit": "克"
+    },
+    {
+      "name": "胡萝卜",
+      "amount": 0.25,
+      "unit": "根"
+    },
+    {
+      "name": "西葫芦",
+      "amount": 50,
+      "unit": "克"
+    },
+    {
+      "name": "韩式辣酱",
+      "amount": 25,
+      "unit": "毫升"
+    },
+    {
+      "name": "雪碧",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": "2瓶盖"
+    },
+    {
+      "name": "芝麻",
+      "amount": 10,
+      "unit": "克"
+    },
+    {
+      "name": "芝麻油",
+      "amount": 20,
+      "unit": "毫升"
+    },
+    {
+      "name": "生抽",
+      "amount": 15,
+      "unit": "毫升"
+    }
+  ],
+  "steps": [
+    {
+      "description": "蔬菜清洗切丝",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "锅中翻炒蔬菜至变软",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        4
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煮水等待沸腾",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "焯煮牛肉卷至熟透",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "煎溏心蛋",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "米饭装碗并倒扣在大碗中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "摆放蔬菜和肉卷在米饭上",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    },
+    {
+      "description": "调制酱汁：混合辣酱、生抽、雪碧、芝麻和芝麻油",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "搅拌酱汁并调味",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将酱汁倒在摆好盘的碗中",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    13,
+    20
+  ],
+  "wait_time": [
+    3,
+    5
+  ],
+  "total_time": [
+    16,
+    25
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "这是道非常简单的菜 过程会比较繁琐 但当将菜肉米饭酱汁搅拌起来吃会很满足"
+    },
+    {
+      "type": "list_item",
+      "content": "如果对外观有一定要求 可以用砂锅代替普通碗"
+    }
+  ]
+}

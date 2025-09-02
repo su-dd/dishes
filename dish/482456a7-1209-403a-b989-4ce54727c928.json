@@ -1,0 +1,143 @@
+{
+  "id": "482456a7-1209-403a-b989-4ce54727c928",
+  "category": "早餐",
+  "name": "煎饺",
+  "description": "",
+  "source_path": "dishes/breakfast/煎饺.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [
+    "锅"
+  ],
+  "ingredients": [
+    {
+      "name": "饺子",
+      "amount": 1,
+      "unit": "包",
+      "remake": "速冻水饺，根据个人食量选择，约10-15个"
+    }
+  ],
+  "steps": [
+    {
+      "description": "取出平底锅",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "加入食用油",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "开火放入饺子并平均铺开",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入清水没过饺子一半高度",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖上锅盖大火加热",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待水分蒸发",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "转中火开始煎制",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "摇晃平底锅使受热均匀",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "放入黑芝麻和葱花焖制",
+      "time_unit": "秒",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "观察饺子底部金黄程度",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    1,
+    3
+  ],
+  "wait_time": [
+    8,
+    10
+  ],
+  "total_time": [
+    10,
+    14
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，需时刻观察锅内情况，切记不可分神玩手机。"
+    }
+  ]
+}

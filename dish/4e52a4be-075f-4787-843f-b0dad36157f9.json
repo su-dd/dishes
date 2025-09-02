@@ -1,0 +1,193 @@
+{
+  "id": "4e52a4be-075f-4787-843f-b0dad36157f9",
+  "category": "蔬菜",
+  "name": "油醋爆蛋",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/油醋爆蛋.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "小米辣",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "小葱",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "蒜",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "盐",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "油",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "香醋",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "蚝油",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 1,
+      "unit": "份",
+      "remake": ""
+    },
+    {
+      "name": "咖喱块",
+      "amount": 115,
+      "unit": "克",
+      "remake": "每份"
+    },
+    {
+      "name": "土豆",
+      "amount": 2,
+      "unit": "个",
+      "remake": "每个土豆大约重120g，共约240g"
+    },
+    {
+      "name": "食用油",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": "每份10-15ml"
+    }
+  ],
+  "steps": [
+    {
+      "description": "鸡蛋不需打散，直接打入碗中备用",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "香葱切3cm长小段即可",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "蒜瓣和小米辣放入打蒜器，打成沫",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将香醋、生抽、蚝油、白糖、水加入小碗，搅拌均匀作为糖醋料汁",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "油热倒入鸡蛋，等鸡蛋凝固之后铲成大块",
+      "time_unit": "分",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "倒入蒜沫、小米辣沫、倒入糖醋料汁",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火收汁",
+      "time_unit": "分",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "快出锅时加入葱段即可",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    4,
+    8
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    4,
+    8
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "亲测老恒和酿造香醋零添加口味最好，醋香是本菜灵魂所在。"
+    }
+  ]
+}

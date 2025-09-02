@@ -1,0 +1,247 @@
+{
+  "id": "69d3fb90-df57-485d-a951-42a7495b9990",
+  "category": "肉食",
+  "name": "贵州辣子鸡",
+  "description": "",
+  "source_path": "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
+  "image_id": "2980ed1b-e9f3-4ad1-acc2-1c4b53a90dbb",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/2980ed1b-e9f3-4ad1-acc2-1c4b53a90dbb.webp",
+  "video_link": [],
+  "difficulty": 4,
+  "servings": 4,
+  "kitchen_ware": [
+    "锅",
+    "刀具",
+    "砧板"
+  ],
+  "ingredients": [
+    {
+      "name": "农村玉米鸡",
+      "amount": 4,
+      "unit": "斤",
+      "remake": ""
+    },
+    {
+      "name": "土豆",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "大蒜",
+      "amount": 2,
+      "unit": "个",
+      "remake": ""
+    },
+    {
+      "name": "香叶",
+      "amount": 2,
+      "unit": "片",
+      "remake": ""
+    },
+    {
+      "name": "姜",
+      "amount": 2,
+      "unit": "个",
+      "remake": "手指头大小"
+    },
+    {
+      "name": "老抽",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "花椒或麻椒",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "糍粑辣椒",
+      "amount": 500,
+      "unit": "克",
+      "remake": "花溪党武的辣椒，遵义的子弹头，条子椒，大方的皱椒混合之后打碎的辣椒，拳头大小两坨"
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "啤酒",
+      "amount": 0.5,
+      "unit": "瓶",
+      "remake": ""
+    },
+    {
+      "name": "蒜苗",
+      "amount": 3,
+      "unit": "根",
+      "remake": ""
+    },
+    {
+      "name": "酒糟",
+      "amount": 1,
+      "unit": "适量",
+      "remake": ""
+    },
+    {
+      "name": "菜籽油",
+      "amount": 2,
+      "unit": "斤",
+      "remake": "开始炸鸡会用很多"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将土豆切成长条，锅中加入一半高度的油，炸至表面金黄后捞出备用",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "等待油温升至烫手状态",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将鸡块、生姜片和花椒放入锅中油炸",
+      "time_unit": "分钟",
+      "time": [
+        8,
+        12
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "炸至油变清澈，鸡块炸好后捞出备用",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "捞出锅中三分之一的油",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加热剩余油，加入糍粑辣椒、豆瓣酱、生姜片炒出红油",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "将炸好的鸡块翻炒均匀上色",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入老抽，倒入啤酒没过鸡块，加香叶盖上盖焖煮",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "期间间隔翻炒鸡块",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入土豆条和大蒜，继续焖煮",
+      "time_unit": "分钟",
+      "time": [
+        20,
+        20
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入酒糟翻炒均匀",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入切好的蒜苗翻炒",
+      "time_unit": "秒",
+      "time": [
+        20,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "秒",
+      "time": [
+        30,
+        45
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    17,
+    27
+  ],
+  "wait_time": [
+    32,
+    33
+  ],
+  "total_time": [
+    49,
+    60
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "操作时，需要注意翻炒，因为糍粑辣椒会糊掉"
+    }
+  ]
+}

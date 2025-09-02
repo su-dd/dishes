@@ -1,0 +1,202 @@
+{
+  "id": "5fb4b14c-3693-46f8-afcf-1c773cb12cb6",
+  "category": "主食",
+  "name": "芝麻烧饼",
+  "description": "",
+  "source_path": "dishes/staple/烧饼/芝麻烧饼.md",
+  "image_id": "b7fb21be-6515-4ffb-9bd0-fbf5889e691d",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/b7fb21be-6515-4ffb-9bd0-fbf5889e691d.webp",
+  "video_link": [],
+  "difficulty": 3,
+  "servings": 7,
+  "kitchen_ware": [
+    "烤箱",
+    "烤盘",
+    "擀面杖",
+    "刷子",
+    "碗",
+    "厨房秤"
+  ],
+  "ingredients": [
+    {
+      "name": "面粉",
+      "amount": 500,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "酵母粉",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 10,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "十三香",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "食用油",
+      "amount": 30,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "温水",
+      "amount": 250,
+      "unit": "毫升",
+      "remake": "40℃"
+    }
+  ],
+  "steps": [
+    {
+      "description": "将面粉、酵母粉、白糖混合，加入温水和食用油揉成面团",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "面团醒发",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "制作油酥：将面粉、盐、十三香混合，加入食用油拌匀",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "油酥静置",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将面团擀成长方形，抹上油酥，卷起后切成7个面剂子",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将面剂子对折，用虎口收拢成型",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "饼胚先沾水再沾白芝麻",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将饼胚擀成小圆饼",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "电饼铛预热",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "锅中倒入凉油，放入饼胚，表面刷油",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "盖上盖子用大饼档烙制",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "出锅装盘",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        1
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    13,
+    22
+  ],
+  "wait_time": [
+    19,
+    24
+  ],
+  "total_time": [
+    32,
+    46
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "如果没有电饼铛，也可以用平底锅"
+    },
+    {
+      "type": "list_item",
+      "content": "芝麻如果没有也可不用，一样好吃"
+    }
+  ]
+}

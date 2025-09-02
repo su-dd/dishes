@@ -1,0 +1,100 @@
+{
+  "id": "c56a1bfd-303a-47d0-9bb8-e26eab8c5db7",
+  "category": "佐料",
+  "name": "糖醋汁",
+  "description": "",
+  "source_path": "dishes/condiment/糖醋汁.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "清水",
+      "amount": 50,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "生抽",
+      "amount": 40,
+      "unit": "毫升",
+      "remake": ""
+    },
+    {
+      "name": "白糖",
+      "amount": 30,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "白醋",
+      "amount": 20,
+      "unit": "毫升",
+      "remake": "或米醋"
+    },
+    {
+      "name": "料酒",
+      "amount": 10,
+      "unit": "毫升",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "按照比例将各调料在小碗中搅拌均匀",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "将配制好的糖醋汁倒入锅中",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "烹制5-10分钟",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "大火收汁，增加菜的浓度、香味和光泽",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        5
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    }
+  ],
+  "take_time": [
+    8,
+    18
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    8,
+    18
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,121 @@
+{
+  "id": "436cedd4-8dc9-436c-aae1-155610c4f1bf",
+  "category": "饮品",
+  "name": "柠檬水",
+  "description": "",
+  "source_path": "dishes/drink/柠檬水/柠檬水.md",
+  "image_id": "8fe5f481-88b5-46d3-93c8-1efe2679d7fd",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/8fe5f481-88b5-46d3-93c8-1efe2679d7fd.webp",
+  "video_link": [],
+  "difficulty": 1,
+  "servings": 1,
+  "kitchen_ware": [
+    "雪克杯"
+  ],
+  "ingredients": [
+    {
+      "name": "柠檬",
+      "amount": 42.5,
+      "unit": "克",
+      "remake": "40~45克"
+    },
+    {
+      "name": "果蜜",
+      "amount": 42.5,
+      "unit": "克",
+      "remake": "40~45克"
+    },
+    {
+      "name": "冰",
+      "amount": 5,
+      "unit": "块",
+      "remake": "几块（可选）"
+    },
+    {
+      "name": "柠檬果蜜冰",
+      "amount": 1,
+      "unit": "份",
+      "remake": "可选"
+    }
+  ],
+  "steps": [
+    {
+      "description": "称40~45克柠檬，放入雪克杯中",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "prepare"
+    },
+    {
+      "description": "雪克杯盖盖子锤大约10次",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "加入果蜜40~45克",
+      "time_unit": "秒",
+      "time": [
+        10,
+        15
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "补水",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "摇晃均匀",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "最后根据喜好加冰",
+      "time_unit": "秒",
+      "time": [
+        5,
+        10
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    0,
+    1
+  ],
+  "wait_time": [
+    0,
+    0
+  ],
+  "total_time": [
+    0,
+    1
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "参考资料：柠檬水教程"
+    }
+  ]
+}

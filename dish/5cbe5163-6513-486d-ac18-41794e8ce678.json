@@ -1,0 +1,113 @@
+{
+  "id": "5cbe5163-6513-486d-ac18-41794e8ce678",
+  "category": "蔬菜",
+  "name": "糖拌西红柿",
+  "description": "",
+  "source_path": "dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
+  "image_id": "b906044d-3a7c-4bb6-abca-da3b6dd798c7",
+  "image": "https://cdn.jsdmirror.com/gh/su-dd/dishes@master/image/b906044d-3a7c-4bb6-abca-da3b6dd798c7.webp",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 2,
+  "kitchen_ware": [
+    "冰箱"
+  ],
+  "ingredients": [
+    {
+      "name": "西红柿",
+      "amount": 2,
+      "unit": "个",
+      "remake": "每个西红柿约100g，共200g"
+    },
+    {
+      "name": "白砂糖",
+      "amount": 20,
+      "unit": "克"
+    }
+  ],
+  "steps": [
+    {
+      "description": "用刀将西红柿皮米字型划开",
+      "time_unit": "秒",
+      "time": [
+        15,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "用筷子插入西红柿，在火上转动烤10秒或用开水冲30秒，直到西红柿皮卷边",
+      "time_unit": "秒",
+      "time": [
+        10,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "把西红柿皮剥掉",
+      "time_unit": "秒",
+      "time": [
+        20,
+        40
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "沿纹路将西红柿切成块，去掉头部根蒂部",
+      "time_unit": "秒",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将切好的西红柿在盘子中均匀码一层",
+      "time_unit": "秒",
+      "time": [
+        30,
+        60
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "撒上白糖，重复码放西红柿和撒糖的步骤直到全部完成",
+      "time_unit": "秒",
+      "time": [
+        60,
+        120
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "放入冰箱冷藏10分钟",
+      "time_unit": "分钟",
+      "time": [
+        10,
+        10
+      ],
+      "time_type": "wait",
+      "work_stage": "prepare"
+    }
+  ],
+  "take_time": [
+    3,
+    6
+  ],
+  "wait_time": [
+    10,
+    10
+  ],
+  "total_time": [
+    13,
+    16
+  ],
+  "additional_notes": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "6c19d93b-507d-4d41-b5e0-47c442934dc1",
+  "category": "汤类",
+  "name": "金针菇汤",
+  "description": "",
+  "source_path": "dishes/soup/金针菇汤.md",
+  "image_id": null,
+  "image": "",
+  "video_link": [],
+  "difficulty": 2,
+  "servings": 1,
+  "kitchen_ware": [],
+  "ingredients": [
+    {
+      "name": "金针菇",
+      "amount": 450,
+      "unit": "克",
+      "remake": "市场里面售卖的一袋即可"
+    },
+    {
+      "name": "食盐",
+      "amount": 15,
+      "unit": "克",
+      "remake": ""
+    },
+    {
+      "name": "味精",
+      "amount": 5,
+      "unit": "克",
+      "remake": ""
+    }
+  ],
+  "steps": [
+    {
+      "description": "金针菇徒手掰散，洗净备用",
+      "time_unit": "分钟",
+      "time": [
+        1,
+        2
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将金针菇切段，长度不超过5cm",
+      "time_unit": "分钟",
+      "time": [
+        2,
+        3
+      ],
+      "time_type": "take",
+      "work_stage": "deal"
+    },
+    {
+      "description": "将金针菇放入锅中，加水没过食材1.1倍，煮沸",
+      "time_unit": "分钟",
+      "time": [
+        5,
+        8
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "沸腾后等待3分钟",
+      "time_unit": "分钟",
+      "time": [
+        3,
+        3
+      ],
+      "time_type": "wait",
+      "work_stage": "cook"
+    },
+    {
+      "description": "加入味精和食盐并搅拌",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "继续加热约30秒",
+      "time_unit": "秒",
+      "time": [
+        30,
+        30
+      ],
+      "time_type": "take",
+      "work_stage": "cook"
+    },
+    {
+      "description": "关火装盘",
+      "time_unit": "秒",
+      "time": [
+        10,
+        20
+      ],
+      "time_type": "take",
+      "work_stage": "other"
+    }
+  ],
+  "take_time": [
+    8,
+    13
+  ],
+  "wait_time": [
+    3,
+    3
+  ],
+  "total_time": [
+    11,
+    16
+  ],
+  "additional_notes": [
+    {
+      "type": "list_item",
+      "content": "如果喜欢在汤里加入鸡蛋，可在步骤 3 中水沸腾之后将打散的鸡蛋液倒入锅中。"
+    },
+    {
+      "type": "list_item",
+      "content": "出锅后可加入 3-4 滴香油（或者麻油）增香。"
+    }
+  ]
+}
